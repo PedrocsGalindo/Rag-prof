@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2026-05-13 - Encoder local
+
+### Alterado
+- src/encoder.py: implementa `LocalEncoder` com sentence-transformers e `get_encoder("local")`.
+- requirements.txt: adiciona numpy e sentence-transformers.
+
 ## 2026-05-13 - Builder de perfis
 
 ### Criado
