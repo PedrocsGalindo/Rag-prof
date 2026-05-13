@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-05-13 - Extrator Lattes inicial
+
+### Alterado
+- src/lattes_extractor.py: implementa cache HTML, download simples e extracao basica de secoes do Lattes.
+- scripts/enrich_with_lattes.py: le professores brutos, enriquece com Lattes e salva JSON processado.
+- src/models.py: adiciona campos `lattes_raw_text` e `lattes_clean_text`.
+- README.md: atualiza o estado atual do extrator Lattes.
+
 ## 2026-05-13 - Enriquecimento por perfil SIGAA
 
 ### Alterado

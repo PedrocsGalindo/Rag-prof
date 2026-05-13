@@ -16,6 +16,8 @@ class Professor:
     research_areas: list[str] = field(default_factory=list)
     current_projects: list[str] = field(default_factory=list)
     publications: list[str] = field(default_factory=list)
+    lattes_raw_text: str = ""
+    lattes_clean_text: str = ""
     profile_text_for_ranking: str = ""
     sources: list[dict[str, str]] = field(default_factory=list)
 
