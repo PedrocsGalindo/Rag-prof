@@ -16,6 +16,7 @@ academic-professor-ranker/
 │   ├── ingest_department.py
 │   ├── enrich_with_lattes.py
 │   ├── build_profiles.py
+│   ├── generate_embeddings.py
 │   └── rank_professors.py
 ├── src/
 │   ├── models.py
@@ -39,6 +40,7 @@ Execute os comandos a partir da pasta `academic-professor-ranker`.
 python scripts/ingest_department.py --url "https://sigs.ufrpe.br/sigaa/public/departamento/professores.jsf?id=530"
 python scripts/enrich_with_lattes.py
 python scripts/build_profiles.py
+python scripts/generate_embeddings.py
 python scripts/rank_professors.py "aprendizado de maquina"
 ```
 
@@ -46,7 +48,7 @@ python scripts/rank_professors.py "aprendizado de maquina"
 
 - `department_extractor.py` extrai docentes da pagina publica de Corpo Docente do SIGAA e tenta complementar dados nos perfis individuais.
 - `lattes_extractor.py` usa cache local e tenta extrair texto e secoes basicas do Lattes quando o acesso publico permite.
-- `LocalEncoder` ainda retorna embeddings simples de placeholder.
+- `LocalEncoder` gera embeddings locais com sentence-transformers.
 - `rank_professors` ainda retorna score `0.0`.
 
 ## Principios

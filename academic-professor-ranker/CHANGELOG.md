@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-05-13 - Geração de embeddings
+
+### Criado
+- scripts/generate_embeddings.py: gera embeddings dos perfis e salva matriz `.npy` com indice JSON.
+
+### Alterado
+- README.md: adiciona o script e o comando de geracao de embeddings e atualiza o estado do `LocalEncoder`.
+
 ## 2026-05-13 - Encoder local
 
 ### Alterado
