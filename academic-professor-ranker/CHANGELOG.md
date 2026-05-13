@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-05-13 - Revisão de simplificação
+
+### Alterado
+- src/department_extractor.py: remove download duplicado e simplifica leitura de texto e links do SIGAA.
+- src/lattes_extractor.py: remove filtro redundante na extração de seções.
+- src/ranker.py: simplifica o uso do índice de embeddings no ranking.
+
 ## 2026-05-13 - README inicial open source
 
 ### Alterado

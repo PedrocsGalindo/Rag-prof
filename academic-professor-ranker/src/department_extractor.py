@@ -18,20 +18,13 @@ def extract_professors_from_department(
     department_name: str = "",
     institution_name: str = "",
 ) -> list[Professor]:
-    html = fetch_department_html(department_url)
+    html = fetch_html(department_url)
     return parse_sigaa_department_page(
         html=html,
         department_url=department_url,
         department_name=department_name,
         institution_name=institution_name,
     )
-
-
-def fetch_department_html(department_url: str) -> str:
-    response = requests.get(department_url, headers=DEFAULT_HEADERS, timeout=30)
-    response.raise_for_status()
-    response.encoding = response.apparent_encoding
-    return response.text
 
 
 def fetch_html(url: str, session: requests.Session | None = None) -> str:
@@ -101,16 +94,9 @@ def parse_professor_table(
     if not full_name:
         return None
 
-    department_text_tag = table.select_one("span.departamento")
-    department_text = ""
-    if department_text_tag:
-        department_text = clean_text(department_text_tag.get_text(" ", strip=True))
-
-    page_link = find_link(table, "Ver página", css_selector="span.pagina a")
-    lattes_link = find_link(table, "Lattes", css_selector="span.enderecoLattes a")
-
-    department_profile_url = absolute_url(page_link, source_url)
-    lattes_url = absolute_url(lattes_link, source_url)
+    department_text = get_text(table, "span.departamento")
+    department_profile_url = absolute_url(get_href(table, "span.pagina a"), source_url)
+    lattes_url = absolute_url(get_href(table, "span.enderecoLattes a"), source_url)
     email = find_email(table.get_text(" ", strip=True))
 
     return create_professor(
@@ -200,11 +186,7 @@ def update_professor_from_profile(
             changed = True
 
     if profile_data["source_url"]:
-        changed = add_source(
-            professor,
-            source_type="department_profile",
-            url=profile_data["source_url"],
-        ) or changed
+        changed = add_source(professor, "department_profile", profile_data["source_url"]) or changed
 
     return changed
 
@@ -271,18 +253,14 @@ def add_source(professor: Professor, source_type: str, url: str) -> bool:
     return True
 
 
-def find_link(table, label: str, css_selector: str = "") -> str:
-    if css_selector:
-        selected_link = table.select_one(css_selector)
-        if selected_link and selected_link.get("href"):
-            return selected_link["href"]
+def get_text(element, selector: str) -> str:
+    selected = element.select_one(selector)
+    return clean_text(selected.get_text(" ", strip=True)) if selected else ""
 
-    for link in table.select("a"):
-        text = clean_text(link.get_text(" ", strip=True))
-        if label.lower() in text.lower() and link.get("href"):
-            return link["href"]
 
-    return ""
+def get_href(element, selector: str) -> str:
+    selected = element.select_one(selector)
+    return selected.get("href", "") if selected else ""
 
 
 def absolute_url(url: str, base_url: str) -> str:

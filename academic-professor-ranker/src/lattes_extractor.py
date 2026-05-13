@@ -164,9 +164,7 @@ def extract_section_lines(lines: list[str], keywords: list[str]) -> list[str]:
         return []
 
     end_index = find_next_section_start(lines, start_index + 1)
-    section_lines = lines[start_index + 1 : end_index]
-
-    return [line for line in section_lines if not is_section_heading(line)]
+    return lines[start_index + 1 : end_index]
 
 
 def find_section_start(lines: list[str], keywords: list[str]) -> int | None:
@@ -189,11 +187,6 @@ def find_next_section_start(lines: list[str], start_index: int) -> int:
             return index
 
     return len(lines)
-
-
-def is_section_heading(line: str) -> bool:
-    normalized_line = normalize_text(line)
-    return any(normalize_text(keyword) in normalized_line for keyword in SECTION_KEYWORDS)
 
 
 def clean_lines(text: str) -> list[str]:

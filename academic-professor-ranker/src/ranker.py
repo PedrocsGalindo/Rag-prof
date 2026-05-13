@@ -43,17 +43,15 @@ def rank_professors(
     query_embedding = encoder.encode([query])
     scores = cosine_similarity(query_embedding, embeddings)
 
-    professor_by_id = {professor.id: professor for professor in professors}
-    index_by_position = {item["index"]: item for item in embedding_index}
     best_positions = np.argsort(scores)[::-1][:top_k]
 
     ranking = []
     for position in best_positions:
-        index_item = index_by_position.get(int(position))
-        if not index_item:
+        position = int(position)
+        if position >= len(embedding_index):
             continue
 
-        professor = professor_by_id.get(index_item["professor_id"])
+        professor = find_professor(professors, embedding_index[position]["professor_id"])
         if not professor:
             continue
 
@@ -71,3 +69,11 @@ def rank_professors(
 def load_professors(profiles_path: str | Path) -> list[Professor]:
     data = load_json(profiles_path, default=[])
     return [Professor(**item) for item in data]
+
+
+def find_professor(professors: list[Professor], professor_id: str) -> Professor | None:
+    for professor in professors:
+        if professor.id == professor_id:
+            return professor
+
+    return None
