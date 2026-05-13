@@ -35,7 +35,7 @@ academic-professor-ranker/
 Execute os comandos a partir da pasta `academic-professor-ranker`.
 
 ```bash
-python scripts/ingest_department.py "https://exemplo.edu/departamento" --department-name "Departamento" --institution-name "Universidade"
+python scripts/ingest_department.py --url "https://sigs.ufrpe.br/sigaa/public/departamento/professores.jsf?id=530"
 python scripts/enrich_with_lattes.py
 python scripts/build_profiles.py
 python scripts/rank_professors.py "aprendizado de maquina"
@@ -43,7 +43,7 @@ python scripts/rank_professors.py "aprendizado de maquina"
 
 ## Estado atual
 
-- `department_extractor.py` ainda retorna uma lista vazia.
+- `department_extractor.py` extrai docentes da pagina publica de Corpo Docente do SIGAA.
 - `lattes_extractor.py` ainda nao consulta o Lattes.
 - `LocalEncoder` ainda retorna embeddings simples de placeholder.
 - `rank_professors` ainda retorna score `0.0`.

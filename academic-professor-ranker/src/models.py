@@ -17,7 +17,7 @@ class Professor:
     current_projects: list[str] = field(default_factory=list)
     publications: list[str] = field(default_factory=list)
     profile_text_for_ranking: str = ""
-    sources: list[str] = field(default_factory=list)
+    sources: list[dict[str, str]] = field(default_factory=list)
 
 
 @dataclass

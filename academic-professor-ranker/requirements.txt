@@ -1,1 +1,2 @@
-# No external dependencies in this initial skeleton.
+beautifulsoup4
+requests

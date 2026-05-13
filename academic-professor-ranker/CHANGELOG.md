@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-05-13 - Extrator SIGAA do departamento
+
+### Alterado
+- scripts/ingest_department.py: recebe `--url`, executa a ingestao SIGAA e imprime resumo simples.
+- src/department_extractor.py: baixa HTML com requests e extrai docentes, links e metadados da pagina SIGAA.
+- src/models.py: ajusta o tipo de `sources` para lista de objetos.
+- requirements.txt: adiciona requests e beautifulsoup4.
+- README.md: atualiza o exemplo de uso do script de ingestao.
+
 ## 2026-05-12 - Estrutura inicial
 
 ### Criado
