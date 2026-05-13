@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-05-13 - Lattes manual por txt
+
+### Alterado
+- src/lattes_extractor.py: troca download online por leitura de arquivos `.txt` manuais em `data/raw/lattes-professors/`.
+- scripts/enrich_with_lattes.py: cria arquivos manuais vazios quando faltam e salva status de preenchimento.
+- src/models.py: adiciona status e caminho do arquivo manual do Lattes.
+- README.md: documenta o fluxo manual de textos do Lattes.
+
 ## 2026-05-13 - Revisão de simplificação
 
 ### Alterado

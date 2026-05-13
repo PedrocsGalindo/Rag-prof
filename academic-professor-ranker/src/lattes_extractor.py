@@ -2,15 +2,10 @@ import re
 import unicodedata
 from pathlib import Path
 
-import requests
-from bs4 import BeautifulSoup
-
 from .models import Professor
 
 
-DEFAULT_HEADERS = {
-    "User-Agent": "academic-professor-ranker/0.1",
-}
+DEFAULT_MANUAL_DIR = Path("data/raw/lattes-professors")
 
 SECTION_KEYWORDS = [
     "Resumo",
@@ -26,101 +21,103 @@ SECTION_KEYWORDS = [
 
 def enrich_professor_with_lattes(
     professor: Professor,
-    cache_dir: str | Path = "data/raw/lattes_cache",
+    manual_dir: str | Path = DEFAULT_MANUAL_DIR,
     verbose: bool = False,
 ) -> Professor:
-    if not professor.lattes_url:
+    manual_file = get_manual_lattes_path(professor, manual_dir)
+    professor.lattes_manual_file = manual_file.as_posix()
+
+    if not manual_file.exists():
+        manual_file.parent.mkdir(parents=True, exist_ok=True)
+        manual_file.write_text("", encoding="utf-8")
+        mark_manual_needed(professor, "manual_file_created_empty")
+        print_manual_needed_message(professor, manual_file)
         return professor
 
-    try:
-        html = get_lattes_html(professor, cache_dir=cache_dir, verbose=verbose)
-    except requests.RequestException as error:
-        if verbose:
-            print(f"  Falha ao acessar Lattes: {error}")
+    raw_text = manual_file.read_text(encoding="utf-8", errors="ignore")
+    if not raw_text.strip():
+        mark_manual_needed(professor, "manual_file_empty")
+        print_manual_needed_message(professor, manual_file)
         return professor
 
-    extracted = extract_lattes_data(html)
-
+    extracted = extract_lattes_data(raw_text)
+    professor.lattes_raw_text = raw_text
+    professor.lattes_clean_text = extracted["lattes_clean_text"]
     professor.lattes_summary = extracted["lattes_summary"] or professor.lattes_summary
     professor.academic_background = extracted["academic_background"] or professor.academic_background
     professor.research_areas = extracted["research_areas"] or professor.research_areas
     professor.current_projects = extracted["current_projects"] or professor.current_projects
     professor.publications = extracted["publications"] or professor.publications
-    professor.lattes_raw_text = extracted["lattes_raw_text"]
-    professor.lattes_clean_text = extracted["lattes_clean_text"]
-    add_source(professor, source_type="lattes", url=professor.lattes_url)
+    professor.lattes_status = "manual_text"
+    professor.lattes_manual_needed = False
+    add_source(professor, "lattes_manual_file", manual_file.as_posix())
+
+    if verbose:
+        print(f"Texto manual do Lattes encontrado: {professor.full_name}")
 
     return professor
 
 
 def enrich_professors_with_lattes(
     professors: list[Professor],
-    cache_dir: str | Path = "data/raw/lattes_cache",
+    manual_dir: str | Path = DEFAULT_MANUAL_DIR,
     verbose: bool = False,
 ) -> list[Professor]:
+    Path(manual_dir).mkdir(parents=True, exist_ok=True)
+
     for index, professor in enumerate(professors, start=1):
         if verbose:
-            print(f"Processando Lattes {index}/{len(professors)}: {professor.full_name}")
-
-        if not professor.lattes_url:
-            if verbose:
-                print("  Sem lattes_url, pulando.")
-            continue
+            print(f"Processando Lattes manual {index}/{len(professors)}: {professor.full_name}")
 
         try:
-            enrich_professor_with_lattes(
-                professor=professor,
-                cache_dir=cache_dir,
-                verbose=verbose,
-            )
+            enrich_professor_with_lattes(professor, manual_dir=manual_dir, verbose=verbose)
         except Exception as error:
+            professor.lattes_status = "manual_error"
+            professor.lattes_manual_needed = True
             if verbose:
-                print(f"  Falha ao processar Lattes: {error}")
-            continue
-
-        if verbose:
-            print(f"  Resumo encontrado: {'sim' if professor.lattes_summary else 'nao'}")
-            print(f"  Formação encontrada: {len(professor.academic_background)} item(ns)")
-            print(f"  Áreas encontradas: {len(professor.research_areas)} item(ns)")
-            print(f"  Projetos encontrados: {len(professor.current_projects)} item(ns)")
-            print(f"  Publicações encontradas: {len(professor.publications)} item(ns)")
+                print(f"  Falha ao processar arquivo manual: {error}")
 
     return professors
 
 
-def get_lattes_html(
-    professor: Professor,
-    cache_dir: str | Path,
-    verbose: bool = False,
-) -> str:
-    cache_path = get_cache_path(professor, cache_dir)
-
-    if cache_path.exists():
-        if verbose:
-            print(f"  Usando cache: {cache_path}")
-        return cache_path.read_text(encoding="utf-8", errors="ignore")
-
-    if verbose:
-        print(f"  Baixando: {professor.lattes_url}")
-
-    response = requests.get(professor.lattes_url, headers=DEFAULT_HEADERS, timeout=30)
-    response.raise_for_status()
-    response.encoding = response.apparent_encoding
-    html = response.text
-
-    cache_path.parent.mkdir(parents=True, exist_ok=True)
-    cache_path.write_text(html, encoding="utf-8")
-
-    return html
+def get_manual_lattes_path(professor: Professor, manual_dir: str | Path) -> Path:
+    return Path(manual_dir) / f"{slugify(professor.full_name)}.txt"
 
 
-def get_cache_path(professor: Professor, cache_dir: str | Path) -> Path:
-    safe_id = re.sub(r"[^a-zA-Z0-9_-]+", "_", professor.id)
-    return Path(cache_dir) / f"{safe_id}.html"
+def slugify(text: str) -> str:
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(char for char in text if not unicodedata.combining(char))
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9]+", "-", text)
+    return text.strip("-")
 
 
-def extract_lattes_data(html: str) -> dict[str, str | list[str]]:
-    raw_text = html_to_text(html)
+def mark_manual_needed(professor: Professor, status: str) -> None:
+    professor.lattes_status = status
+    professor.lattes_manual_needed = True
+    professor.lattes_raw_text = ""
+    professor.lattes_clean_text = ""
+
+
+def print_manual_needed_message(professor: Professor, manual_file: Path) -> None:
+    print()
+    print("Professor sem texto manual do Lattes:")
+    print(f"Nome: {professor.full_name}")
+    print("Arquivo para preencher:")
+    print(manual_file.as_posix())
+    print()
+    print("Como preencher:")
+    print("1. Abra o currículo Lattes do professor no navegador.")
+    print("2. Use Ctrl + A para selecionar o conteúdo da página.")
+    print("3. Use Ctrl + C para copiar.")
+    print("4. Abra o arquivo .txt indicado acima.")
+    print("5. Cole o conteúdo com Ctrl + V.")
+    print("6. Salve o arquivo.")
+    print("7. Rode este script novamente.")
+    print()
+
+
+def extract_lattes_data(raw_text: str) -> dict[str, str | list[str]]:
     clean_text_value = clean_text(raw_text)
     lines = clean_lines(raw_text)
 
@@ -139,23 +136,12 @@ def extract_lattes_data(html: str) -> dict[str, str | list[str]]:
                 "Artigos completos publicados em periódicos",
             ],
         ),
-        "lattes_raw_text": raw_text,
         "lattes_clean_text": clean_text_value,
     }
 
 
-def html_to_text(html: str) -> str:
-    soup = BeautifulSoup(html, "html.parser")
-
-    for tag in soup.select("script, style"):
-        tag.decompose()
-
-    return soup.get_text("\n")
-
-
 def extract_section_text(lines: list[str], keywords: list[str]) -> str:
-    section_lines = extract_section_lines(lines, keywords)
-    return clean_text(" ".join(section_lines))
+    return clean_text(" ".join(extract_section_lines(lines, keywords)))
 
 
 def extract_section_lines(lines: list[str], keywords: list[str]) -> list[str]:
@@ -172,7 +158,7 @@ def find_section_start(lines: list[str], keywords: list[str]) -> int | None:
 
     for index, line in enumerate(lines):
         normalized_line = normalize_text(line)
-        if any(keyword in normalized_line for keyword in normalized_keywords):
+        if any(is_section_title(normalized_line, keyword) for keyword in normalized_keywords):
             return index
 
     return None
@@ -183,10 +169,18 @@ def find_next_section_start(lines: list[str], start_index: int) -> int:
 
     for index in range(start_index, len(lines)):
         normalized_line = normalize_text(lines[index])
-        if any(keyword in normalized_line for keyword in normalized_keywords):
+        if any(is_section_title(normalized_line, keyword) for keyword in normalized_keywords):
             return index
 
     return len(lines)
+
+
+def is_section_title(normalized_line: str, normalized_keyword: str) -> bool:
+    return (
+        normalized_line == normalized_keyword
+        or normalized_line.startswith(f"{normalized_keyword}:")
+        or normalized_line.startswith(f"{normalized_keyword} ")
+    )
 
 
 def clean_lines(text: str) -> list[str]:

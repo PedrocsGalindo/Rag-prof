@@ -18,6 +18,9 @@ class Professor:
     publications: list[str] = field(default_factory=list)
     lattes_raw_text: str = ""
     lattes_clean_text: str = ""
+    lattes_status: str = ""
+    lattes_manual_needed: bool = False
+    lattes_manual_file: str = ""
     profile_text_for_ranking: str = ""
     sources: list[dict[str, str]] = field(default_factory=list)
 

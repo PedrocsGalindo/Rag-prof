@@ -1,0 +1,543 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+Endereço
+Dados gerais Formação Atuação Projetos Produções Eventos Orientações Bancas +
+
+Abner Corrêa Barros
+Endereço para acessar este CV: http://lattes.cnpq.br/3825998752196688
+ID Lattes: 3825998752196688
+Última atualização do currículo em 18/10/2024
+
+Doutor em Engenharia da Computação pelo Centro de Informática da UFPE (2014). Possui Mestrado em Ciência da Computação (2008) e graduação em Bacharelado em Ciência da Computação(2005) pela Universidade Federal de Pernambuco. Professor Associado do Departamento de Computação da Universidade Federal Rural de Pernambuco - UFRPE, ministrando disciplinas das áreas de Hardware e Robótica Educacional para os cursos de Ciência da Computação e Licenciatura da Computação. Fundador e atual coordenador do laboratório de Sistemas Embarcados e Robótica Educacional - LASER, do Departamento de Computação da UFRPE. Desenvolve trabalhos de pesquisa no desenvolvimento de dispositivos eletrônicos inteligentes, microcontrolados, para aplicação em saúde humana e para a área de robótica educacional. Pesquisador do Instituto Keizo Asami - UFPE, atuando em projetos de pesquisa voltados ao desenvolvimento de sistemas embarcados para aplicação em saúde. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Abner Corrêa BarrosDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+BARROS, Abner Corrêa;Abner Barros;Barros, Abner;BARROS, ABNER C.;BARROS, ABNER CORREA
+Lattes iD
+http://lattes.cnpq.br/3825998752196688
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco, SEDE-Dois Irmãos.
+Av. Prof. Moraes Rego, 1235
+Cidade Universitária
+50670901 - Recife, PE - Brasil
+Telefone: (81) 21268000
+Fax: (81) 21268029
+URL da Homepage: http://www.dc.ufpe.br
+Outras Formas de Contato
+Skype: abnerbarros
+
+
+Formação acadêmica/titulação
+2009 - 2014
+Doutorado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Uma metodologia para a predição da precisão numérica necessária à implementação do algoritmo RTM, Ano de obtenção: 2014.
+Orientador: Dr. Manoel Eusebio de Lima, PhD.
+Coorientador: Dr. Renato Cintra.
+Palavras-chave: Computação de alto desempenho. Field Programmable.
+2006 - 2008
+Mestrado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Implementação em FPGA de um módulo multiplicador e acumulador aritmético de alto desempenho para números de ponto flutuante de dupla precisão, padrão IEEE 754 , Ano de Obtenção: 2008.
+Orientador: Manoel Eusebio de Lima.
+Palavras-chave: Ponto Flutuante; FPGA; IEEE 754; Aritmetica; Multiplicador e Acumulador.
+Grande área: Ciências Exatas e da Terra
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Engenharia da Compuatção.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Sistemas Embarcados.
+Setores de atividade: Educação; Fabricação de Material Eletrônico e de Aparelhos e Equipamentos de Comunicações.
+2001 - 2005
+Graduação em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Desenvolvimento de uma interface para um biosensensor eletrônico de glicose.
+Orientador: Manoel Eusébio de Lima.
+1989 - 1993
+Curso técnico/profissionalizante.
+Instituto Federal de Pernambuco, IFPE, Brasil.
+
+
+Pós-doutorado
+2022
+Pós-Doutorado.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Grande área: Ciências Biológicas
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Hardware.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Arquitetura de Sistemas de Computação.
+
+
+Formação Complementar
+2010 - 2012
+UFRPE-Gestão Acadêmica e Administrativa. (Carga horária: 12h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2011 - 2011
+Curso de Atualização Didatico Pedagógica. (Carga horária: 75h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2007 - 2007
+ORCAD PCB. (Carga horária: 21h).
+Anacom Eletrônica, ANACOM, Brasil.
+2006 - 2006
+Inglês Intermediário 2. (Carga horária: 120h).
+Núcleo de Línguas e Culturas - UFPE, UFPE, Brasil.
+2004 - 2004
+Course 2540: Developing Embedded Solutions for Win. (Carga horária: 30h).
+Microsoft Corporation, MC*, Estados Unidos.
+2004 - 2004
+Course 2535: Developing Board Support Packages for. (Carga horária: 30h).
+Microsoft Corporation, MC*, Estados Unidos.
+2004 - 2004
+Course 2530: Introduction to Window CE.NET. (Carga horária: 30h).
+Microsoft Corporation, MC*, Estados Unidos.
+
+
+Atuação Profissional
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2010 - Atual
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Assistente, Carga horária: 40, Regime: Dedicação exclusiva.
+
+
+Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco, FADE/UFPE, Brasil.
+Vínculo institucional
+
+2008 - 2009
+Vínculo: Celetista, Enquadramento Funcional: Engenheiro de Hardware, Carga horária: 40
+Outras informações
+Atuando no desenvolvimento de um sistema de processamento de alto desempenho baseado em FPGA
+
+Vínculo institucional
+
+2005 - 2008
+Vínculo: Celetista, Enquadramento Funcional: Engenheiro de Hardware, Carga horária: 40
+Outras informações
+Atuando nas seguintes áreas: Especificação, análise e implementação de sistemas embarcados microprocessados destinados a leitura, decodificação e impressão de documentos; Implementação de sistemas de encriptação e decriptação de dados; Especificação, análise e implementação de um sistema operacional de tempo real, baseado no microcontrolador ARM7
+
+Vínculo institucional
+
+2003 - 2005
+Vínculo: Celetista, Enquadramento Funcional: Técnico em Hardware, Carga horária: 40
+Outras informações
+Atuando no desenvolvimento de hardware e firmware de sistemas embarcados microprocessados destinados a leitura, decodificação e impressão de documentos.
+
+Atividades
+
+08/2008 - Atual
+Pesquisa e desenvolvimento, Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco.
+
+Linhas de pesquisa
+Desenvolvimento co-processadores aritméticos de aplicação específica
+Processamento de alto desempenho baseado em hardware reconfigurável - FPGA
+11/2005 - 08/2008
+Serviços técnicos especializados , Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco.
+
+Serviço realizado
+Desenvolvimento de sistemas de leitura, decodificação e impressão de documentos.
+01/2003 - 11/2005
+Serviços técnicos especializados , Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco.
+
+Serviço realizado
+Desenvolvimento de um co-processador aritmético de aplicação específica para processamento de sísmica.
+
+Centro universitário Maurício de Nassau - Recife, UNINASSAU, Brasil.
+Vínculo institucional
+
+2009 - 2009
+Vínculo: Celetista formal, Enquadramento Funcional: Professor, Carga horária: 12
+Outras informações
+Ministrando as cadeiras de INTRODUÇÃO À ORG. DE COMPUTADORES E S.O. e ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES
+
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2008 - 2008
+Vínculo: Bolsista, Enquadramento Funcional: Consultor em desenvolvimento de Hw e Fw, Carga horária: 20
+
+Vínculo institucional
+
+2007 - 2008
+Vínculo: Colaborador, Enquadramento Funcional: Iniciação à docência, Carga horária: 4
+
+Vínculo institucional
+
+2004 - 2005
+Vínculo: Colaborador, Enquadramento Funcional: Monitor Voluntário da Disciplina de Circuitos, Carga horária: 4
+
+Vínculo institucional
+
+2003 - 2005
+Vínculo: Aluno de Iniciação Científica, Enquadramento Funcional: Iniciação Científica, Carga horária: 20
+
+
+Tron, TRON, Brasil.
+Vínculo institucional
+
+2002 - 2002
+Vínculo: Consultor, Enquadramento Funcional: Consultoria em Projetos de Firmware e Hardwar, Carga horária: 20
+
+Vínculo institucional
+
+2002 - 2002
+Vínculo: Consultor, Enquadramento Funcional: Consultoria em projeto de Harware e Firmware, Carga horária: 20
+
+Atividades
+
+3/2003 - 7/2003
+Serviços técnicos especializados , Tron.
+
+Serviço realizado
+Desenvolvimento do projeto de Firmware da linha completa de relês de tempo microcontrolados da marca TRON.
+5/2002 - 10/2002
+Serviços técnicos especializados , Tron.
+
+Serviço realizado
+Desenvolvimento do projeto de Harware e Firmware do dispositivo Dosimax Laundry, Controlador Automático de processo de lavagem para Lavanderia Industrial.
+2/2002 - 4/2002
+Serviços técnicos especializados , Tron.
+
+Serviço realizado
+Desenvolvimento do projeto de Firmware do Dispositivo BlockLigth, que trata-se que um controlador microcontrolado de fornecimento de energia elétrica. Projeto premiado na categoria inovação tecnologica pela FINEP em 2003.
+
+Industrias Reunidas Raymundo da Fonte S A, RAYMUNDO DA FONT, Brasil.
+Vínculo institucional
+
+1996 - 1997
+Vínculo: Celetista, Enquadramento Funcional: Engenheiro Eletrônico, Carga horária: 40
+
+Atividades
+
+10/1996 - 10/1997
+Serviços técnicos especializados , Industrias Reunidas Raymundo da Fonte S A.
+
+Serviço realizado
+Implantação do Sistema de Supervisão de Produção (Hardware e Software).
+
+Philips, PHILIPS, Brasil.
+Vínculo institucional
+
+1990 - 1996
+Vínculo: Celetista, Enquadramento Funcional: Analista de Projetos e Sistemas, Carga horária: 40
+Outras informações
+Atividades desempenhadas: Propor, Especificar e Implementar Projetos de Harware Analógco e Digital para Centrais Telefônicas Digitais e Analógicas (CPCT); Propor, Especificar e Implementar Alterações em Projetos de Harware Analógco e Digital para Centrais Telefônicas Digitais e Analógicas (CPCT); Testes de Homologação e Aceitação em Centrais Telefônicas Digitais e Analógicas; Suporte Técnico a Técnicos de campo e representantes; Atividades desempenhadas no Departamento de Desenvolvimento
+
+Vínculo institucional
+
+1987 - 1990
+Vínculo: Celetista, Enquadramento Funcional: Técnico Eeltrônico Sênior, Carga horária: 40
+Outras informações
+Atividades desempenhadas: Manutenção em Micro-computadores e equipamentos de produção Atividades desempenhadas no Departamento de Engenharia Elétrica e de Produção
+
+Atividades
+
+3/1990 - 8/1996
+Serviços técnicos especializados , Philips.
+
+Serviço realizado
+Propor, Expecificar e Implementar projetos de Harware Análogico e Digital para Centrais Telefônicas.
+12/1987 - 3/1990
+Serviços técnicos especializados , Philips.
+
+Serviço realizado
+Manutenção em equipamentos eletrônicos e de informática.
+
+
+Linhas de pesquisa
+1.
+Desenvolvimento co-processadores aritméticos de aplicação específica
+
+Objetivo: Implementação de um co-processador aritmético de aplicação específica dedicado ao processamento de sinais provenientes de ondas sísmicas para aplicação em prospecção de petróleo e gás.
+Grande área: Ciências Exatas e da Terra
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Arquitetura de Sistemas de Computação.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Hardware.
+Palavras-chave: Aritmetica; FPGA; Ponto Flutuante.
+2.
+Processamento de alto desempenho baseado em hardware reconfigurável - FPGA
+
+Objetivo: Desenvolvimento de uma platarforma de processamento de alto desempenho baseado em hardware reconfigurável.
+Grande área: Ciências Exatas e da Terra
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Hardware.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Arquitetura de Sistemas de Computação.
+Palavras-chave: HPRC- Computação Reconfigurável de Alto Desempenho; FPGA; FPGA, Aritmética de ponto flutuante, IEEE 754; Ponto Flutuante.
+
+
+Projetos de pesquisa
+2019 - 2020
+PneumoVid: Microcontrolled Pulmonary Ventilator for COVID-19
+Descrição: Desenvolvimento de um ventilador pulmonar experimental, microcontrolado.
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Abner Corrêa Barros - Coordenador / Manoel E. de Lima - Integrante.
+2007 - 2009
+Projéto Sísmica (Solução de Alto Desempenho para Modelagem e Migração Sísmica baseado em Dispositivos FPGA's)
+Descrição: Projeto de pesquisa visando o desenvolvimento de sistemas computacionais de alto desempenho baseado em FPGA. Projeto ligado ao convenio de opesquisa firmado entre o Centro de Informática da UFPE e a Petrobrás, sob coordenação do Prof. Manoel Eusébio de Lima.
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Abner Corrêa Barros - Integrante / Victor Medeiros - Integrante / Souza, Viviane L. S. - Integrante / Manoel Eusebio de Lima - Coordenador / João Paulo - Integrante.
+2003 - 2005
+Projeto Biosensor de Malária
+Descrição: Projeto de pesquisa multidisciplinar envolvendo o Centro de Informática da UFPE e o Laboratório Ageu Magalhaes com o objetivo de desenvolver um biosensor eletroquímco para a detecção da malária.
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Abner Corrêa Barros - Coordenador / Manoel Eusebio de Lima - Integrante / Péricles de Lima Sobreira - Integrante / Victor Wanderley - Integrante / José Luis de Lima Filho - Integrante.
+
+
+Projetos de desenvolvimento
+2022 - 2022
+Desenvolvimento de um protótipo funcional de um biossensor eletroquímico genômico multicanal para diagnóstico de arboviroses
+Descrição: Desenvolvimento de um protótipo funcional de um biossensor eletroquímicogenômico multicanal para diagnóstico de arboviroses, com alta precisão, baixo custo e baixo consumo de energia. O biossensor é integrado a interfaces de comunicação sem fio, com aplicativos web e para smartphones, permitindo seu uso em ambientes remotos, próximos ao cliente final Point-of-Care (PoC).
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Abner Corrêa Barros - Coordenador / Manoel E. de Lima - Integrante / José Luiz de Lima Filho - Integrante.
+2022 - 2022
+Desenvolvimento de um protótipo funcional de um biossensor eletroquímico genômico multicanal para diagnóstico de arboviroses
+Descrição: Desenvolvimento de um protótipo funcional de um biossensor eletroquímicogenômico multicanal para diagnóstico de arboviroses, com alta precisão, baixo custo e baixo consumo de energia. O biossensor é integrado a interfaces de comunicação sem fio, com aplicativos web e para smartphones, permitindo seu uso em ambientes remotos, próximos ao cliente final Point-of-Care (PoC).
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Abner Corrêa Barros - Integrante / José Luis de Lima Filho - Coordenador / Manoel E. de Lima - Integrante.
+2021 - 2022
+Modelo de Previsibilidade da Saúde dos Profssionais do Se#57371;or Elé#57371;rico A#57371;ravés de Sinais Vi#57371;ais, Tes#57371;es Moleculares, e Imagens Térmicas
+Descrição: Construção de um modelo de previsibilidade da saúde dos profissionais do setor elétrico, utilizando monitoramento de sinais vitais (oximetria, batimentos cardíacos e temperatura), testes moleculares e sorológicos, imagens térmicas e integração de dados em uma plataforma de vigilância bioepidemiológica.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Abner Corrêa Barros - Integrante / Victor Medeiros - Integrante / José Luis de Lima Filho - Coordenador / Manoel E. de Lima - Integrante.
+2020 - 2021
+Desenvolvimento de um sistema de diagnóstico baseado em biossensor eletroquímico genômico (genossensor) para arboviroses
+Descrição: Desenvolvimento de um dispositivo eletrônico, microprocessado, portátil, de baixo custo e baixo consumo de energia, adequado ao uso na modalidade Ponit-of-Care (POC) para a detecção de arboviros por meio de genossensores.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Abner Corrêa Barros - Coordenador / Manoel Eusebio de Lima - Integrante.
+2020 - 2021
+Desenvolvimento de um sistema de diagnóstico baseado em biossensor eletroquímico genômico (genossensor) para arboviroses
+Descrição: Desenvolvimento de um dispositivo eletrônico, microcontrolado, portátil, para uso na modalidade POC, adequado a detecção de arbovirus por meio de genossensor.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Abner Corrêa Barros - Coordenador.
+2018 - 2019
+Desenvolvimento de um sistema embarcado para implementação em biossensores moleculares
+Descrição: Desenvolvimento de um dispositivo portátil, microprocessador, para detecção de arboviroses por meio de genossensor.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Abner Corrêa Barros - Coordenador.
+2008 - 2009
+Projeto MEC - Lampejo
+Descrição: Projeto de pesquisa e desenvolvimento de um sistema multimidia integrado para aplicação na rede pública de ensino.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Abner Corrêa Barros - Integrante / Victor Medeiros - Integrante / Manoel Eusebio de Lima - Coordenador.
+
+
+Outros Projetos
+2007 - 2008
+Iniciação à docencia - Aluno voluntário
+Descrição: Iniciação à docência no ensino superior ministrando a disciplina de Eletrônica Básica aos alunos do curso de Engenharia da Computação do Centro de Informática da UFPE, sob supervisão do Prof. Manoel Eusebio de Lima.
+Situação: Concluído; Natureza: Outra.
+
+Integrantes: Abner Corrêa Barros - Integrante / Manoel Eusebio de Lima - Coordenador.
+2004 - 2005
+Monitora voluntária em Sistemas Digitais
+Descrição: Acompanhamento e orirntação a alunos de graduação na disciplina de Sistemas Digitais dos cursos de Ciência da Computação e Engenharia da Computação do Centro de Informática Da UFPE.
+Situação: Concluído; Natureza: Outra.
+
+Integrantes: Abner Corrêa Barros - Integrante / Manoel Eusebio de Lima - Coordenador.
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Hardware.
+2.
+Grande área: Outros / Área: Robótica, Mecatrônica e Automação / Subárea: Robótica Educacional.
+3.
+Grande área: Outros / Área: Robótica, Mecatrônica e Automação / Subárea: Sistemas Embarcados.
+4.
+Grande área: Outros / Área: Robótica, Mecatrônica e Automação / Subárea: Engenharia da Compuatção.
+5.
+Grande área: Outros / Área: Robótica, Mecatrônica e Automação / Subárea: Arquitetura de Sistemas de Computação.
+6.
+Grande área: Outros / Área: Robótica, Mecatrônica e Automação / Subárea: Computação Reconfigurável de Alto Desempenho.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Espanhol
+Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente.
+
+
+Prêmios e títulos
+2012
+Professor Homenageado - Alunos concluintes do curso de Licenciatura Plena em Computação, Universidade Federal Rural de Pernambuco.
+2011
+Professor Homenageado - Alunos concluintes do curso de Licenciatura Plena em Computação, Universidade Federal Rural de Pernambuco.
+2005
+2a Oilimpíada Universitária Altera - Segundo Lugar, Altera - Pi Componentes.
+
+
+Produções
+
+Produção bibliográfica
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+BARROS, Abner Corrêa; LIMA, M. E. . Using Field Programmable Gate Array (FPGA) to implement Hardware Accelerator for Scientific Computing Applications. Interval Mathematics and Connections in Teaching and Scientific Development, v. 1, p. 51-57, 2010.
+
+Capítulos de livros publicados
+
+1.
+Medeiros, Victor ; Barros, Abner ; Silva-Filho, Abel ; Lima, Manoel E. . High Performance Implementation of RTM Seismic Modeling on FPGAs: Architecture, Arithmetic and Power Issues. High-Performance Computing Using FPGAs. 1ed.: Springer New York, 2013, v. , p. 305-334.
+
+Textos em jornais de notícias/revistas
+
+1.
+NASCIMENTO, Paulo S. B. ; SEIXAS, J. ; BARBOSA, E. ; SILVA, S. ; BARROS, Abner Corrêa ; SANTOS, Viviane L. S. ; MEDEIROS, Victor W. C. ; ROLIM, A. ; LIMA, D. ; LIMA,Manoel Eusebio de . Reconfigurable Platforms For High Performance Processing. International Journal of Modeling and Simulation for the Petroleum Industry (Online), Brazil, p. 63 - 75, 22 ago. 2007.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+BARROS, ABNER C.; DUTRA, BRUNO H.T. ; BRITO, VINICIUS V. ; Lima, Manoel E. ; Silva-Filho, Abel ; GANDRA, RODRIGO ; BRAGANCA, RICARDO . Performance Evaluation Model based on Precision Reduction and FPGAs Applied to Seismic Modeling. In: 2011 Simpasio em Sistemas Computacionais (WSCADSSC), 2011, Vitoria. 2011 Simpasio em Sistemas Computacionais, 2011. p. 2.
+
+2.
+MEDEIROS, VICTOR WANDERLEY COSTA DE ; SILVA-FILHO, ABEL GUILHERMINO ; LIMA, MANOEL EUSEBIO DE ; ROCHA, RODRIGO CAMAROTTI FERREIRA DA ; FERREIRA, ANTONYUS PYETRO DO AMARAL ; DUTRA, BRUNO HOLANDA TAVARES CHARAMBA ; BARROS, Abner Corrêa ; CORREIA, JOÃO CLEBER BEZERRA LIBORIO ; BARBOSA, JOÃO PAULO FERNANDES ; DE BARROS-JUNIOR, SEVERINO JOSÉ ; MENEZES, GILLIANO GINNO SILVA DE . Poster. In: the 2011 companion, 2011, Seattle. Proceedings of the 2011 companion on High Performance Computing Networking, Storage and Analysis Companion - SC '11 Companion. New York: ACM Press, 2011. p. 41.
+
+3.
+MEDEIROS, V. W. C. ; ROCHA, R. C. F. ; LIBORIO, J. K. ; BARBOSA, J. P. F. ; NEVES, B. P. ; B. JUNIOR, S. J. ; BARROS, ABNER C. ; PYETRO, A. ; GUILHERMINO FILHO, A. ; DE LIMA, MANOEL EUSEBIO . Poster. In: ISC'10 International Supercomputing Conference, 2010, Hamburg. Proceedings ISC'10 International Supercomputing Conference, 2010.
+
+4.
+SOUZA, V. L. S. ; MEDEIROS, V. W. C. ; LIMA, M. E. ; LIMA, D. O. ; BARROS, ABNER C. ; NASCIMENTO, P. S. B. ; SANTOS, I. H. . Architecture for Dense Matrix Multiplication on a High-Performance Reconfigrable System. In: 22nd Symposium on Integrated Circuits and Systems Design, 2009, Natal-RN. Proceedings SBCCI2009-22nd Symposium on Integrated Circuits and Systems Design, 2009. p. 265-270.
+
+5.
+ BARROS, ABNER CORREA; MEDEIROS, VICTOR WANDERLEY COSTA ; SOUZA, VIVIANE LUCY SANTOS ; NASCIMENTO, PAULO SÉRGIO BRANDÃO ; MAZER, ÂNGELO ; BARBOSA, JOÃO PAULO ; NEVES, Bruno P. ; SANTOS, ISMAEL ; DE LIMA, MANOEL EUSEBIO . Implementation of a double-precision multiplier accumulator with exception treatment to a dense matrix multiplier module in FPGA. In: the twentyfirst annual symposium, 2008, Gramado. Proceedings of the twenty-first annual symposium on Integrated circuits and system design - SBCCI '08. New York: ACM Press. p. 40-45.
+
+6.
+NASCIMENTO, PAULO S. BRANDAO DO ; DE MEDEIROS, VICTOR W.C. ; SOUZA, VIVIANE L.S. ; BARROS, ABNER C. ; LIMA, MANOEL EUSEBIO DE . A Temporal Partitioning Methodology for Reconfigurable High Performance Computers. In: 2008 International Conference on Reconfigurable Computing and FPGAs (ReConFig), 2008, Cancun. 2008 International Conference on Reconfigurable Computing and FPGAs. p. 307-312.
+
+7.
+SOBREIRA, Péricles de Lima ; WANDERLEY, Victor C. ; BARROS, Abner Corrêa ; MEDEIROS, Victor W. C. ; LIMA,Manoel Eusebio de ; LIMA FILHO, J. L. . Mathematics Algorithms to Calculate Glycemic Concentrations for Amperometric Biosensor. In: International Conference on Engineering and Computer Education, 2008, Buenos Aires. ICECE'209, 2008. p. 205-209.
+
+8.
+SOBREIRA, Péricles de Lima ; WANDERLEY, Victor C. ; DOREA, A. M. ; SENA, A. C. ; MOTTA, T. O. ; BARROS, Abner Corrêa ; LIMA,Manoel Eusebio de ; LIMA FILHO, J. L. . Choice of a low-power processor in a graduate discipline of computer science and engineering courses. In: International Conference on Engineering and Computer Education, 2008, Buenos Aires. ICECE'2009 - International Conference on Engineering and Computer Education, 2008. p. 242-246.
+
+9.
+ SOBREIRA, Péricles de Lima ; WANDERLEY, Victor C. ; BARROS, Abner Corrêa ; MEDEIROS, Victor W. C. ; LIMA,Manoel Eusebio de ; LIMA FILHO, J. L. . CONSTRUCTION OF AN ELECTROCHEMICAL ANALYSIS DEVICE AS A MULTIDISCIPLINARY EXPERIENCE BETWEEN COURSES OF ENGINEERING AND COMPUTER SCIENCE. In: International Conference on Engineering and Computer Education, 2007, Santos. Proceedings of International Conference on Engineering and Computer Education. p. 248-250.
+
+10.
+ SOBREIRA, Péricles de Lima ; WANDERLEY, Victor C. ; BARROS, Abner Corrêa ; LIMA,Manoel Eusebio de . TEAMS CREATION FOR NATIONAL COMPETITIONS ON EMBEDDED SYSTEMS WITH EMPHASIS IN PROGRAMMABLE LOGIC TECHNOLOGIES. In: International Conference on Engineering and Computer Education, 2007, Santos. Proceedings of International Conference on Engineering and Computer Education, 2007. p. 245-247.
+
+11.
+ SOBREIRA, Péricles de Lima ; BARROS, Abner Corrêa ; WANDERLEY, Victor C. ; LIMA,Manoel Eusebio de ; LIMA FILHO, J. L. . Modeling electrochemical signals for calculation of glucose concentration in a glucose biosensor. In: IMCS 2006 - 11th International Meeting on Chemcial Sensors, 2006, Brescia. 11th International Meeting on Chemcial Sensors, 2006.
+
+12.
+BARROS, Abner Corrêa; SOBREIRA, Péricles de Lima ; XAVIER, J. ; LIMA,Manoel Eusebio de . Teaching SoC design in a project-oriented course based on robotics. In: Microelectronic Systems Education, 2005. Proceedings. 2005 IEEE International Conference on Microelectronic Systems Education, 2005. (MSE '05), 2005. p. 25-26.
+
+13.
+LIMA,Manoel Eusebio de ; SANT?ANNA, R. E. ; GUILHERMINO FILHO, A. ; BARROS, Abner Corrêa ; GUEDES, P. ; ALEXANDRINO FILHO, J. ; BARRETO, R. ; RABELO, C. . A Reconfigurable Architecture for Multi-Context Application. In: 3rd International Conference on Engineering and Computer Education, 2003, São Paulo. ICECE'2003, 2003.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+de Bragança ; Silva, R.W.G. ; LIMA, M. E. ; Medeiros, Victor ; BARROS, ABNER C. ; PYETRO, A. ; MARINHO, M. ; DUTRA, B. ; GUILHERMINO FILHO, A. . Seismic Modeling and RTM Migration on unconventional Hardware. In: 13th International Congress of the Brazilian Geophysical Society and EXPOGEF, 2013, Rio de Janeiro. 13th International Congress of the Brazilian Geophysical Society and EXPOGEF, 2013.
+
+Apresentações de Trabalho
+
+1.
+BARROS, Abner Corrêa. Using Field Programmable Gate Array (FPGA) to implement Hardware Accelerator for Scientific Computing Applications. 2010. (Apresentação de Trabalho/Congresso).
+
+Demais tipos de produção técnica
+
+1.
+BARROS, Abner Corrêa. Eletrônica Básica I. 2011. (Curso de curta duração ministrado/Extensão).
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+LIMA, M. E.; BARROS, E. N. da S; Barros, Abner. Participação em banca de João Erik de Andrade Melo. Um Sistema Embarcado para Captura e Análise de Sinais Fotopletismográficos de Duplo Canal Simultâneo para Detecção de CoA. 2017. Dissertação (Mestrado em Engenharia da Computação) - Universidade Federal de Pernambuco.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+Marilú Gomes Netto monte da Silva; Barros, Abner. Participação em banca de GIULLIA BRAGA DE ALBUQUERQUE MARANHÃO.Design e desenvolvimento de um protótipo de dispositivo vestível para monitoramento de sinais vitais. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Biomédica) - Universidade Federal de Pernambuco.
+
+2.
+Barros, Abner; aciana Pontual da Rocha Falcão. Participação em banca de Gabriela Barbosa Cupertino.O USO DE METODOLOGIAS ATIVAS DE ENSINO ASSOCIADA A ROBÓTICA EDUCACIONAL, COM ALUNOS DO ENSINO FUNDAMENTAL: UM RELATO DE UMA EXPERIÊNCIA/ESTUDO DE CASO. 2020. Trabalho de Conclusão de Curso (Graduação em Licenciatura em Computação) - Universidade Federal Rural de Pernambuco.
+
+3.
+Barros, Abner. Participação em banca de Jéssyca Karolinny da Silva Amorim.Desenvolvimento de um sistema com dispositivo portátil para auxílio no diagnóstico de Coarctação da Artéria Aorta em Neonatos. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+BARROS, Abner Corrêa; SAMPAIO, P. A.; CYSNEIROS FILHO, G. A. A.. Seleção Pública Simplificada de Provas de Títulos e Didática para Professor Temporário. 2011. Universidade Federal Rural de Pernambuco.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+II International Conference on Computational Modeling and Simulation for Petroleum Industry. 2010. (Congresso).
+
+2.
+Internationa Conference for High Performance Computing. 2010. (Congresso).
+
+3.
+XXXIII Congresso Nacional de Matemática Aplicada e Computacional.Using Field Programmable Gate Array (FPGA) to implement Hardware Accelerator for Scientific Computing Applications. 2010. (Simpósio).
+
+4.
+International Conference for High Performance Computing. 2009. (Congresso).
+
+5.
+SBCCI2009 - 22 Symposium on Integrated Circuits and System Design. 2009. (Congresso).
+
+
+
+Orientações
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+João Erik de Andrade Melo. Um Sistema Embarcado para Captura e Análise de Sinais Fotopletismográficos de Duplo Canal Simultâneo para Detecção de CoA. 2017. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: Abner Corrêa Barros.
+
+Monografia de conclusão de curso de aperfeiçoamento/especialização
+
+1.
+Gabriela Barbosa Cupertino. Uso de Metodologias Ativas de Ensino Associadas à Robótica Educacional com Alunos do Ensino Fundamental: Relato de uma Experiência. 2020. Monografia. (Aperfeiçoamento/Especialização em Licenciatura em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Abner Corrêa Barros.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Jéssyca Karolinny da Silva Amorim. Desenvolvimento de um sistema com dispositivo portátil para auxílio no diagnóstico de Coarctação da Artéria Aorta em Neonatos. 2018. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Abner Corrêa Barros.
+
+
+
+Outras informações relevantes
+Coordenador do Laboratório de Pesquisa em Robótica Educacional e Sistemas Embarcados do Departamento de Computação da UFRPE; Pesquisador do Instituto Keizo Asami - UFPE, atuando em projetos de pesquisa na área de Sistemas Embarcados aplicados à saúde; Membro do CCD DE ESPEC. EM ROBÓTICA EDUCACIONAL - UAEADTEC;
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 13/05/2026 às 12:02:35
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo
+
+CNPq | Uma agência do Ministério da Ciência, Tecnologia e Inovação

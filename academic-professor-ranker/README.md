@@ -9,7 +9,7 @@ O projeto é simples por intenção: sem banco de dados, sem frontend, sem Docke
 ## Pipeline
 
 1. Extrair professores da página do departamento.
-2. Enriquecer os professores com dados do Lattes.
+2. Enriquecer os professores com textos manuais do Lattes.
 3. Construir um perfil textual para ranking.
 4. Gerar embeddings dos perfis.
 5. Ranquear professores por similaridade com a query do aluno.
@@ -45,6 +45,9 @@ python scripts/ingest_department.py --url "URL_DO_DEPARTAMENTO"
 python scripts/enrich_with_lattes.py
 ```
 
+Esse script usa arquivos `.txt` em `data/raw/lattes-professors/`.
+Se o arquivo de um professor ainda não existir, ele será criado vazio com instruções no terminal.
+
 ### 3. Construir Perfis Textuais
 
 ```bash
@@ -72,7 +75,7 @@ python scripts/rank_professors.py --query "Tenho interesse em inteligência arti
 ## Arquivos Gerados
 
 - `data/raw/professors_from_department.json`: professores extraídos do departamento.
-- `data/raw/lattes_cache/`: páginas HTML do Lattes baixadas em cache.
+- `data/raw/lattes-professors/`: textos manuais copiados do Lattes, um arquivo por professor.
 - `data/processed/professors_enriched.json`: professores com dados complementares do Lattes.
 - `data/processed/professor_profiles.json`: professores com `profile_text_for_ranking`.
 - `data/embeddings/professor_embeddings.npy`: matriz NumPy com embeddings dos perfis.
@@ -81,7 +84,7 @@ python scripts/rank_professors.py --query "Tenho interesse em inteligência arti
 ## Limitações
 
 - A extração depende da estrutura HTML do site do departamento.
-- O Lattes pode mudar o HTML, exigir captcha ou bloquear acesso automatizado.
+- O enriquecimento do Lattes depende do texto manual copiado pelo usuário.
 - O ranking usa similaridade textual, não uma avaliação real da qualidade ou adequação do professor.
 - Os resultados devem ser revisados pelo usuário antes de qualquer decisão.
 
