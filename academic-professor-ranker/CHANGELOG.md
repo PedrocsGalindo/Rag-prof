@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 2026-05-13 - README inicial open source
+
+### Alterado
+- README.md: reescreve documentacao com objetivo, pipeline, instalacao, comandos, arquivos gerados e limitacoes.
+
 ## 2026-05-13 - Ranking por similaridade
 
 ### Alterado
