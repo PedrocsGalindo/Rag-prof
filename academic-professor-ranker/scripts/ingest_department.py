@@ -5,7 +5,10 @@ from pathlib import Path
 ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT_DIR))
 
-from src.department_extractor import extract_professors_from_department
+from src.department_extractor import (
+    enrich_professors_with_department_profiles,
+    extract_professors_from_department,
+)
 from src.storage import save_json
 
 
@@ -27,6 +30,7 @@ def main() -> None:
 
     department_name = professors[0].department_name if professors else args.department_name
     institution_name = professors[0].institution_name if professors else args.institution_name
+    updated_count = enrich_professors_with_department_profiles(professors, verbose=True)
     lattes_count = sum(1 for professor in professors if professor.lattes_url)
 
     save_json(args.output, professors)
@@ -35,6 +39,7 @@ def main() -> None:
     print(f"Nome da instituicao encontrada: {institution_name}")
     print(f"Quantidade de professores encontrados: {len(professors)}")
     print(f"Quantidade de links Lattes encontrados: {lattes_count}")
+    print(f"Total de professores atualizados: {updated_count}")
     print(f"Caminho do JSON salvo: {args.output}")
 
 

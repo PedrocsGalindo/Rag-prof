@@ -34,6 +34,14 @@ def fetch_department_html(department_url: str) -> str:
     return response.text
 
 
+def fetch_html(url: str, session: requests.Session | None = None) -> str:
+    client = session or requests
+    response = client.get(url, headers=DEFAULT_HEADERS, timeout=30)
+    response.raise_for_status()
+    response.encoding = response.apparent_encoding
+    return response.text
+
+
 def parse_sigaa_department_page(
     html: str,
     department_url: str,
@@ -115,6 +123,152 @@ def parse_professor_table(
         department_text=department_text,
         sources=[{"type": "department", "url": source_url}],
     )
+
+
+def enrich_professors_with_department_profiles(
+    professors: list[Professor],
+    verbose: bool = False,
+) -> int:
+    updated_count = 0
+
+    with requests.Session() as session:
+        for professor in professors:
+            if not professor.department_profile_url:
+                continue
+
+            if verbose:
+                print(f"Processando professor: {professor.full_name}")
+
+            try:
+                html = fetch_html(professor.department_profile_url, session=session)
+            except requests.RequestException as error:
+                if verbose:
+                    print(f"  Falha ao acessar perfil: {error}")
+                continue
+
+            profile_data = parse_department_profile_page(html, professor.department_profile_url)
+            changed = update_professor_from_profile(professor, profile_data)
+
+            if verbose:
+                print(f"  Email encontrado: {profile_data['email'] or 'nao'}")
+                print(f"  Lattes encontrado: {profile_data['lattes_url'] or 'nao'}")
+
+            if changed:
+                updated_count += 1
+
+    return updated_count
+
+
+def parse_department_profile_page(html: str, profile_url: str) -> dict[str, str]:
+    soup = BeautifulSoup(html, "html.parser")
+    page_text = extract_profile_text(soup)
+    email = find_email(soup.get_text(" ", strip=True))
+    lattes_url = find_lattes_url(soup, profile_url)
+
+    return {
+        "email": email,
+        "lattes_url": lattes_url,
+        "department_text": page_text,
+        "source_url": profile_url,
+    }
+
+
+def update_professor_from_profile(
+    professor: Professor,
+    profile_data: dict[str, str],
+) -> bool:
+    changed = False
+
+    if profile_data["email"] and not professor.email:
+        professor.email = profile_data["email"]
+        changed = True
+
+    if profile_data["lattes_url"] and not professor.lattes_url:
+        professor.lattes_url = profile_data["lattes_url"]
+        professor.id = generate_professor_id(
+            full_name=professor.full_name,
+            institution_name=professor.institution_name,
+            department_name=professor.department_name,
+            lattes_url=professor.lattes_url,
+        )
+        changed = True
+
+    if profile_data["department_text"]:
+        combined_text = append_text(professor.department_text, profile_data["department_text"])
+        if combined_text != professor.department_text:
+            professor.department_text = combined_text
+            changed = True
+
+    if profile_data["source_url"]:
+        changed = add_source(
+            professor,
+            source_type="department_profile",
+            url=profile_data["source_url"],
+        ) or changed
+
+    return changed
+
+
+def extract_profile_text(soup: BeautifulSoup) -> str:
+    parts = []
+
+    for selector in ["#perfil-docente", "#formacao-academica"]:
+        section = soup.select_one(selector)
+        if section:
+            remove_noise(section)
+            parts.append(clean_text(section.get_text(" ", strip=True)))
+
+    if not parts:
+        center = soup.select_one("#center")
+        if center:
+            remove_noise(center)
+            parts.append(clean_text(center.get_text(" ", strip=True)))
+
+    return clean_text(" ".join(part for part in parts if part))
+
+
+def remove_noise(element) -> None:
+    for tag in element.select("script, style"):
+        tag.decompose()
+
+
+def find_lattes_url(soup: BeautifulSoup, base_url: str) -> str:
+    for link in soup.select("a"):
+        href = link.get("href") or ""
+        text = link.get_text(" ", strip=True)
+        combined = f"{href} {text}".lower()
+
+        if "lattes.cnpq.br" in combined:
+            return absolute_url(href or text, base_url)
+
+    match = re.search(r"https?://lattes\.cnpq\.br/\d+", soup.get_text(" ", strip=True))
+    return match.group(0) if match else ""
+
+
+def append_text(current_text: str, extra_text: str) -> str:
+    current_text = clean_text(current_text)
+    extra_text = clean_text(extra_text)
+
+    if not extra_text:
+        return current_text
+
+    if not current_text:
+        return extra_text
+
+    if extra_text in current_text:
+        return current_text
+
+    return f"{current_text}\n\n{extra_text}"
+
+
+def add_source(professor: Professor, source_type: str, url: str) -> bool:
+    source = {"type": source_type, "url": url}
+
+    if source in professor.sources:
+        return False
+
+    professor.sources.append(source)
+    return True
 
 
 def find_link(table, label: str, css_selector: str = "") -> str:

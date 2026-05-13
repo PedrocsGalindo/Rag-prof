@@ -43,7 +43,7 @@ python scripts/rank_professors.py "aprendizado de maquina"
 
 ## Estado atual
 
-- `department_extractor.py` extrai docentes da pagina publica de Corpo Docente do SIGAA.
+- `department_extractor.py` extrai docentes da pagina publica de Corpo Docente do SIGAA e tenta complementar dados nos perfis individuais.
 - `lattes_extractor.py` ainda nao consulta o Lattes.
 - `LocalEncoder` ainda retorna embeddings simples de placeholder.
 - `rank_professors` ainda retorna score `0.0`.

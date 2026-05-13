@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-05-13 - Enriquecimento por perfil SIGAA
+
+### Alterado
+- src/department_extractor.py: acessa perfis individuais dos docentes e complementa e-mail, Lattes e texto do perfil.
+- scripts/ingest_department.py: processa perfis individuais e imprime progresso por professor.
+- README.md: atualiza o estado atual do extrator SIGAA.
+
 ## 2026-05-13 - Extrator SIGAA do departamento
 
 ### Alterado
