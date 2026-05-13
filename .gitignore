@@ -1,1 +1,3 @@
 venv/
+lattes_cache/
+__pycache__/
