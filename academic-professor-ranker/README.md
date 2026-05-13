@@ -39,12 +39,6 @@ Execute os comandos a partir da pasta `academic-professor-ranker`.
 python scripts/ingest_department.py --url "URL_DO_DEPARTAMENTO"
 ```
 
-Exemplo:
-
-```bash
-python scripts/ingest_department.py --url "https://sigs.ufrpe.br/sigaa/public/departamento/professores.jsf?id=530"
-```
-
 ### 2. Enriquecer Com Lattes
 
 ```bash

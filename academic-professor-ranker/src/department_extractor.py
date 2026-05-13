@@ -12,7 +12,7 @@ DEFAULT_HEADERS = {
     "User-Agent": "academic-professor-ranker/0.1",
 }
 
-
+# (Main) Extrai os professores a partir da URL do departamento.
 def extract_professors_from_department(
     department_url: str,
     department_name: str = "",
@@ -26,7 +26,7 @@ def extract_professors_from_department(
         institution_name=institution_name,
     )
 
-
+# Faz a requisição HTTP e retorna o HTML da página.
 def fetch_html(url: str, session: requests.Session | None = None) -> str:
     client = session or requests
     response = client.get(url, headers=DEFAULT_HEADERS, timeout=30)
@@ -34,7 +34,7 @@ def fetch_html(url: str, session: requests.Session | None = None) -> str:
     response.encoding = response.apparent_encoding
     return response.text
 
-
+# Lê o HTML da página do SIGAA e transforma os dados em objetos Professor.
 def parse_sigaa_department_page(
     html: str,
     department_url: str,
@@ -61,12 +61,12 @@ def parse_sigaa_department_page(
 
     return professors
 
-
+# Extrai o nome do departamento a partir do HTML da página.
 def extract_department_name(soup: BeautifulSoup) -> str:
     department_title = soup.select_one("#colDirTop h2")
     return clean_text(department_title.get_text(" ", strip=True)) if department_title else ""
 
-
+# Extrai o nome da instituição a partir do HTML da página.
 def extract_institution_name(soup: BeautifulSoup) -> str:
     top_area = soup.select_one("#colDirTop")
     if not top_area:
@@ -79,7 +79,7 @@ def extract_institution_name(soup: BeautifulSoup) -> str:
 
     return ""
 
-
+# Extrai os dados de um professor a partir da tabela do SIGAA.
 def parse_professor_table(
     table,
     source_url: str,
@@ -110,7 +110,7 @@ def parse_professor_table(
         sources=[{"type": "department", "url": source_url}],
     )
 
-
+# Acessa os perfis individuais dos professores para complementar os dados.
 def enrich_professors_with_department_profiles(
     professors: list[Professor],
     verbose: bool = False,
@@ -144,7 +144,7 @@ def enrich_professors_with_department_profiles(
 
     return updated_count
 
-
+# Extrai e-mail, Lattes e texto da página individual do professor.
 def parse_department_profile_page(html: str, profile_url: str) -> dict[str, str]:
     soup = BeautifulSoup(html, "html.parser")
     page_text = extract_profile_text(soup)
@@ -158,7 +158,7 @@ def parse_department_profile_page(html: str, profile_url: str) -> dict[str, str]
         "source_url": profile_url,
     }
 
-
+# Atualiza um professor com os dados encontrados no perfil individual.
 def update_professor_from_profile(
     professor: Professor,
     profile_data: dict[str, str],
@@ -208,7 +208,7 @@ def extract_profile_text(soup: BeautifulSoup) -> str:
 
     return clean_text(" ".join(part for part in parts if part))
 
-
+# Remove elementos desnecessários do HTML, como scripts e estilos.
 def remove_noise(element) -> None:
     for tag in element.select("script, style"):
         tag.decompose()
