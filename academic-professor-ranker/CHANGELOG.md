@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-05-13 - Builder de perfis
+
+### Criado
+- src/profile_builder.py: monta `profile_text_for_ranking` a partir dos campos existentes do professor.
+
+### Alterado
+- scripts/build_profiles.py: le `professors_enriched.json`, gera perfis e salva `professor_profiles.json`.
+- README.md: adiciona `src/profile_builder.py` na estrutura documentada.
+
 ## 2026-05-13 - Extrator Lattes inicial
 
 ### Alterado

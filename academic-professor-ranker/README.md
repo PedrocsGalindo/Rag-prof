@@ -21,6 +21,7 @@ academic-professor-ranker/
 │   ├── models.py
 │   ├── department_extractor.py
 │   ├── lattes_extractor.py
+│   ├── profile_builder.py
 │   ├── encoder.py
 │   ├── ranker.py
 │   ├── storage.py
