@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-05-13 - Ranking por similaridade
+
+### Alterado
+- src/ranker.py: carrega perfis, embeddings e indice para ranquear professores por similaridade cosseno.
+- scripts/rank_professors.py: recebe `--query` e imprime os top professores com score e dados principais.
+- README.md: atualiza o comando de ranking e o estado atual do ranker.
+
 ## 2026-05-13 - Geração de embeddings
 
 ### Criado
