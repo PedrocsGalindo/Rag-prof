@@ -22,6 +22,10 @@ Crie e ative um ambiente virtual, se quiser:
 python -m venv .venv
 .venv\Scripts\activate
 ```
+Entre no diretorio
+```bash
+cd academic-professor-ranker
+```
 
 Instale as dependências:
 
@@ -37,6 +41,8 @@ Execute os comandos a partir da pasta `academic-professor-ranker`.
 
 ```bash
 python scripts/ingest_department.py --url "URL_DO_DEPARTAMENTO"
+python scripts/ingest_department.py --url "https://sigs.ufrpe.br/sigaa/public/departamento/professores.jsf?id=530"
+
 ```
 
 ### 2. Enriquecer Com Lattes

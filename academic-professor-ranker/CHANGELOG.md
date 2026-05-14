@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## 2026-05-13 - Logs resumidos dos scripts
+
+### Alterado
+- scripts/ingest_department.py: remove logs por professor e adiciona resumo com listas de Lattes encontrados e pendentes.
+- scripts/enrich_with_lattes.py: remove instruções repetidas por professor e adiciona resumo final com listas de arquivos manuais.
+- src/lattes_extractor.py: deixa de imprimir instruções longas durante o processamento individual.
+
 ## 2026-05-13 - Lattes manual por txt
 
 ### Alterado

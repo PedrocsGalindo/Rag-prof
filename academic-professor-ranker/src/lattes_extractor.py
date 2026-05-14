@@ -31,13 +31,11 @@ def enrich_professor_with_lattes(
         manual_file.parent.mkdir(parents=True, exist_ok=True)
         manual_file.write_text("", encoding="utf-8")
         mark_manual_needed(professor, "manual_file_created_empty")
-        print_manual_needed_message(professor, manual_file)
         return professor
 
     raw_text = manual_file.read_text(encoding="utf-8", errors="ignore")
     if not raw_text.strip():
         mark_manual_needed(professor, "manual_file_empty")
-        print_manual_needed_message(professor, manual_file)
         return professor
 
     extracted = extract_lattes_data(raw_text)
@@ -97,24 +95,6 @@ def mark_manual_needed(professor: Professor, status: str) -> None:
     professor.lattes_manual_needed = True
     professor.lattes_raw_text = ""
     professor.lattes_clean_text = ""
-
-
-def print_manual_needed_message(professor: Professor, manual_file: Path) -> None:
-    print()
-    print("Professor sem texto manual do Lattes:")
-    print(f"Nome: {professor.full_name}")
-    print("Arquivo para preencher:")
-    print(manual_file.as_posix())
-    print()
-    print("Como preencher:")
-    print("1. Abra o currículo Lattes do professor no navegador.")
-    print("2. Use Ctrl + A para selecionar o conteúdo da página.")
-    print("3. Use Ctrl + C para copiar.")
-    print("4. Abra o arquivo .txt indicado acima.")
-    print("5. Cole o conteúdo com Ctrl + V.")
-    print("6. Salve o arquivo.")
-    print("7. Rode este script novamente.")
-    print()
 
 
 def extract_lattes_data(raw_text: str) -> dict[str, str | list[str]]:

@@ -28,19 +28,47 @@ def main() -> None:
         institution_name=args.institution_name,
     )
 
-    department_name = professors[0].department_name if professors else args.department_name
-    institution_name = professors[0].institution_name if professors else args.institution_name
-    updated_count = enrich_professors_with_department_profiles(professors, verbose=True)
-    lattes_count = sum(1 for professor in professors if professor.lattes_url)
+    enrich_professors_with_department_profiles(professors, verbose=False)
+
+    with_email = [professor for professor in professors if professor.email]
+    without_email = [professor for professor in professors if not professor.email]
+    with_lattes = [professor for professor in professors if professor.lattes_url]
+    without_lattes = [professor for professor in professors if not professor.lattes_url]
 
     save_json(args.output, professors)
 
-    print(f"Nome do departamento encontrado: {department_name}")
-    print(f"Nome da instituicao encontrada: {institution_name}")
-    print(f"Quantidade de professores encontrados: {len(professors)}")
-    print(f"Quantidade de links Lattes encontrados: {lattes_count}")
-    print(f"Total de professores atualizados: {updated_count}")
+    print(f"Total de professores encontrados: {len(professors)}")
+    print(f"Total com e-mail: {len(with_email)}")
+    print(f"Total sem e-mail: {len(without_email)}")
+    print(f"Total com link Lattes: {len(with_lattes)}")
+    print(f"Total sem link Lattes: {len(without_lattes)}")
     print(f"Caminho do JSON salvo: {args.output}")
+
+    print()
+    print("Professores com link Lattes encontrado:")
+    print_professors_with_lattes(with_lattes)
+
+    print()
+    print("Professores sem link Lattes:")
+    print_professors_without_lattes(without_lattes)
+
+
+def print_professors_with_lattes(professors) -> None:
+    if not professors:
+        print("- Nenhum")
+        return
+
+    for professor in professors:
+        print(f"- {professor.full_name} | {professor.lattes_url}")
+
+
+def print_professors_without_lattes(professors) -> None:
+    if not professors:
+        print("- Nenhum")
+        return
+
+    for professor in professors:
+        print(f"- {professor.full_name}")
 
 
 if __name__ == "__main__":
