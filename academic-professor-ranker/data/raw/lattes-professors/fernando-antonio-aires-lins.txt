@@ -1,0 +1,1744 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+Dados gerais Formação Atuação Projetos Produções Patentes e Registros Inovação Eventos Orientações Bancas +
+
+Fernando Antonio Aires Lins
+Bolsista de Produtividade Desen. Tec. e Extensão Inovadora do CNPq - Nível 2
+Endereço para acessar este CV: http://lattes.cnpq.br/2475965771605110
+ID Lattes: 2475965771605110
+Última atualização do currículo em 25/03/2026
+
+Possui graduação em Engenharia da Computação pela Universidade de Pernambuco (POLI/UPE 2004), mestrado em Ciências da Computação pela Universidade Federal de Pernambuco (CIn/UFPE 2007) e doutorado em Ciência da Computação na Universidade Federal de Pernambuco (CIn/UFPE 2012), onde parte do doutoramento foi realizado no laboratório HP Labs Palo Alto (Estados Unidos). Possui também pós-doutorado na Universidade de Coimbra, Portugal. Atualmente, é professor associado da Universidade Federal Rural de Pernambuco e bolsista de produtividade em desenvolvimento tecnológico e extensão inovadora (DT) do CNPq. Tem experiência na área de Ciência da Computação, com ênfase na parte de Sistemas Distribuídos, Segurança da Informação, Segurança Cibernética, Computação Orientada a Serviço, Internet das Coisas, Computação em Nuvem e Avaliação de Desempenho. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Fernando Antonio Aires LinsDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+LINS, F. A. A.;LINS, FERNANDO;LINS, FERNANDO A.A.;LINS, FERNANDO A. AIRES;LINS, FERNANDO ANTÔNIO AIRES;LINS, FERNANDO ANTONIO AIRES;LLins, Fernando Antonio Aires;Antonio Aires Lins, Fernando;Aires, Fernando;Fernando Aires
+Lattes iD
+http://lattes.cnpq.br/2475965771605110
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco, Departamento de Estatística e Informática.
+Av. Dom Manuel de Medeiros
+Dois Irmãos
+52171900 - Recife, PE - Brasil
+Telefone: (81) 33206039
+URL da Homepage: http://www.nti.ufrpe.br/fernandoaires
+
+
+Formação acadêmica/titulação
+2008 - 2012
+Doutorado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Automation of security-aware SOA-based business processes, Ano de obtenção: 2012.
+Orientador: Nelson Souto Rosa.
+Palavras-chave: Web Services; Business Processes; Security; Automation.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+2005 - 2007
+Mestrado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Composição Adaptativa de Web Services , Ano de Obtenção: 2007.
+Orientador: Nelson Souto Rosa.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+2000 - 2004
+Graduação em Engenharia da Computação.
+Universidade de Pernambuco, UPE, Brasil.
+Título: Análise do Custo de Comunicação de Programas Paralelos sobre Redes de Computadores.
+Orientador: Francisco Heron de Carvalho Junior.
+
+
+Pós-doutorado
+2019 - 2019
+Pós-Doutorado.
+Universidade de Coimbra, UC, Portugal.
+Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Sistemas Distribuídos.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Segurança da Informação.
+
+
+
+
+Atuação Profissional
+
+Centro de Estudos e Sistemas Avançados do Recife, CESAR, Brasil.
+Vínculo institucional
+
+2025 - Atual
+Vínculo: , Enquadramento Funcional:
+
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2008 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor Adjunto, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2008 - 2015
+Vínculo: Bolsista, Enquadramento Funcional: Professor Pesquisador, Carga horária: 20
+Outras informações
+Professor pesquisador na área de EAD. Suas atividades incluem execução de disciplinas e produção de material didático.
+
+Vínculo institucional
+
+2005 - 2008
+Vínculo: , Enquadramento Funcional: Analista em Tecnologia da Informação, Carga horária: 40
+
+Atividades
+
+04/2023 - Atual
+Direção e administração, Departamento de Computação.
+
+Cargo ou função
+Supervisor da Área de Arquitetura e Redes de Computadores.
+08/2015 - Atual
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+Segurança da Informação
+Projeto e Implementação de Sistemas Distribuídos
+07/2020 - 07/2022
+Direção e administração, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+
+Cargo ou função
+Coordenador(a) da Coordenadoria de Gestão de Programas de Pesquisa e da Produção Cientí#64257;ca e Tecnológica.
+06/2020 - 07/2020
+Direção e administração, Pró-Reitoria de Pesquisa e Pós-Graduação - PRPPG.
+
+Cargo ou função
+Coordenador de Programas Especiais.
+12/2019 - 07/2020
+Direção e administração, Pró-Reitoria de Pesquisa e Pós-Graduação - PRPPG.
+
+Cargo ou função
+Substituto eventual da Coordenação do Programa de Pós-Graduação em Informática Aplicada (PPGIA;UFRPE).
+08/2015 - 04/2019
+Ensino, Licenciatura em Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Ensino de Redes e Sistemas Internet
+02/2015 - 07/2015
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Tópicos em TICS - Sistemas Distribuídos
+02/2015 - 06/2015
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+08/2014 - 12/2014
+Ensino, Licenciatura em Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Ensino de Redes e Sistemas Internet
+08/2014 - 12/2014
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Tópicos em TICS - Engenharia de Software Distribuído
+08/2014 - 12/2014
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+02/2014 - 06/2014
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+Tópicos Avançados em Sistemas Distribuídos I
+02/2014 - 06/2014
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Tópicos em TICS - Sistemas Distribuídos
+08/2013 - 12/2013
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+Tópicos Avançados em Sistemas Distribuídos I
+08/2013 - 12/2013
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Tópicos em TICS - Sistemas Distribuídos
+02/2013 - 06/2013
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+Tópicos Avançados em Sistemas Distribuídos
+01/2010 - 04/2013
+Direção e administração, Departamento de Estatística e Informática.
+
+Cargo ou função
+Coordenador de Curso - Bacharelado em Ciência da Computação.
+08/2012 - 12/2012
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Sistemas Distribuídos
+Web Services
+02/2012 - 06/2012
+Ensino, Licenciatura em Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Ensino de Redes e Sistemas Internet
+08/2011 - 12/2011
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução a Ciência da Computação
+02/2011 - 06/2011
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução a Ciência da Computação
+08/2010 - 12/2010
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução a Ciência da Computação
+08/2010 - 12/2010
+Ensino, Licenciatura em Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Ensino de Redes e Sistemas Internet
+02/2010 - 06/2010
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução a Ciência da Computação
+08/2009 - 12/2009
+Ensino, Licenciatura em Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Ensino de Computabilidade
+Tópicos Avançados em Redes de Computadores
+02/2009 - 06/2009
+Ensino, Licenciatura em Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Ensino de Computabilidade
+Tópicos Avançados em Redes de Computadores I
+01/2009 - 06/2009
+Direção e administração, Unidade Acadêmica de Ensino a Distância e Tecnologia.
+
+Cargo ou função
+Vice-Coordenador do Bacharelado em Sistemas de Informação (UAB/UFRPE).
+08/2008 - 12/2008
+Ensino, Licenciatura em Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Ensino de Computabilidade
+Prática de Ensino de Redes e Sistemas Internet
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2007 - 2008
+Vínculo: Professor Substituto, Enquadramento Funcional: Professor Assistente 1, Carga horária: 20
+
+
+
+Projetos de pesquisa
+2025 - Atual
+Templário - Um Modelo Nacional de Interoperabilidade de Ameaças Cibernéticas na Rede Federal de Gestão de Incidentes Cibernéticos (REGIC)
+Descrição: A proposta consiste na criação de uma estrutura federativa de inteligência cibernética, com base no ecossistema da REGIC. Atualmente, a rede conta com mais de 160 órgãos aderidos formalmente, incluindo entidades como ABIN, Banco Central, Anatel e CGU, além de órgãos estratégicos de setores críticos como energia, comunicações e defesa.Também participam órgãos voluntários, como a Casa da Moeda e a Eletronuclear, e convidados do Judiciário, Ministério Público, STF, TCU e empresas de processamento de dados estaduais. Essa diversidade de atores exige uma atuação robusta e coordenada para assegurar prevenção, detecção e resposta integradas, promovendo troca de informações, padronização de ações e evolução da maturidade em defesa cibernética na administração pública federal..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) .
+
+Integrantes: Fernando Antonio Aires Lins - Integrante / Milton V. M. Lima - Coordenador / Carlos Roberto Gonçalves Viana - Integrante / Thays Maria da Conceição Silva Carvalho - Integrante / Bruno Lutiano Azevedo da Silva - Integrante / Byron Loureiro Lanverly de Melo Junior - Integrante.
+2025 - Atual
+Identificação e interpretação de desvios de comportamentos de usuários mal intencionados ou ligados ao cibercrime
+Descrição: Este projeto de pesquisa examina dois desafios significativos que analistas de negócios e de risco enfrentam ao analisar a conformidade em processos empresariais: a detecção de desvios de comportamento complexos e ocultos e a identificação das causas de comportamentos anômalos entre colaboradores cooptados por franquias de malware e ransomware. Os métodos atualmente disponíveis muitas vezes têm dificuldades em identificar anomalias complexas que envolvem diversas dimensões de um processo empresarial..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: / Mestrado profissional: (1) / Doutorado: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Integrante / Milton V. M. Lima - Coordenador / Anderson Melo de Morais - Integrante / Wellison Raul Mariz Santos - Integrante / Matheus Vilarim Pereira dos Santos - Integrante - Integrante / Geilson Nascimento Silva - Integrante.
+2024 - Atual
+Avaliação e Melhoria da Segurança Cibernética e da Informação em Sistemas Computacionais e Organizações
+Descrição: No mundo digital atual, organizações de todos os portes enfrentam um ambiente de ameaças cibernéticas cada vez mais complexo e desafiador. Ataques cibernéticos podem causar danos financeiros significativos, perda de reputação, interrupção de operações e até mesmo colocar em risco a segurança e a privacidade dos dados dos clientes. A Segurança da Informação e a Segurança Cibernética se tornaram áreas críticas para as organizações que desejam se manter protegidas e competitivas. Implementar medidas de segurança eficazes é essencial para proteger ativos de informação confidenciais, garantir a continuidade dos negóciose cumprir regulamentações. Contudo, a tarefa da defesa é extremamente complexa. Para um atacante mal intencionado, basta a existência de uma vulnerabilidade como porta de entrada para que o ataque seja bem sucedido. Para o analista de cibersegurança, é necessário que todas as portas/vulnerabilidades estejam fechadas/eliminadas. Ainda assim, outros fatores recentes tornaram a tarefa de defesa ainda mais fundamental, como a necessidade de defesa de dados pessoais (regulamentado em leis como a LGPD e a GDPR) e melhoria de segurança de sistemas mais robustos e distribuídos, como por exemplo sistemas baseados na Internet das Coisas. Considerando o exposto, o presente projeto objetiva a proposição de abordagens, técnicas, tecnologias e políticas que visem a melhoria da Segurança da Informação e daSegurança Cibernética em sistemas e organizações..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Doutorado: (2) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Robson Wagner Albuquerque de Medeiros - Integrante / Obionor de Oliveira Nóbrega - Integrante / Anderson Melo de Morais - Integrante / George Valença - Integrante / Eduardo Ferreira Felix - Integrante / Diego Ribeiro Gomes - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Outra.
+2023 - Atual
+Processo Para Avaliação e Melhoria da Segurança Cibernética e da Informação em Organizações
+Descrição: O presente projeto objetiva a proposição de um processo estruturado para o diagnóstico e melhoria da Segurança Cibernética e da Informação em organizações. Este processo será composto de vários subprocessos, os quais irão detalhar como a realização deste diagnóstico nas diversas áreas/interessas da segurança computacional podem ocorrer..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Especialização: (0) / Mestrado acadêmico: (2) / Doutorado: (2) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Nelson Souto Rosa - Integrante / Robson Wagner Albuquerque de Medeiros - Integrante / Obionor de Oliveira Nóbrega - Integrante / Marco Vieira - Integrante / George Valença - Integrante.
+Financiador(es): CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ - Bolsa.
+2021 - 2024
+Projeto, Implementação e Avaliação de Segurança em Sistemas Computacionais
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (6) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Robson Wagner Albuquerque de Medeiros - Integrante / Erica Teixeira Gomes de Sousa - Integrante / Obionor de Oliveira Nóbrega - Integrante / Anderson Melo de Morais - Integrante / George Valença - Integrante / Edgar Natanael de Vasconcelos Gregório - Integrante / Maria Eduarda Rebelo Di Carlli - Integrante / Eduardo Ferreira Felix - Integrante / Diego Ribeiro Gomes - Integrante / Caio Endson de Souza Lima - Integrante / Vanessa Bandeira Lins Teixeira - Integrante.
+2019 - 2019
+Uma Abordagem Para Detecção de Vulnerabilidades de Gateways em Ambientes Baseados na Internet das Coisas
+Descrição: Projeto de pesquisa relacionado a missão de professor visitante na Universidade de Coimbra - Portugal..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Marco Vieira - Integrante.
+Financiador(es): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Bolsa.
+2017 - 2019
+Uma Metodologia para o Projeto e Implantação de Nuvens Computacionais Educacionais
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Vladimir Gualberto da Silva - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2017 - 2019
+Automação de Processos de Negócio Baseados em BPM Utilizando Tecnologias Distribuídas
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Robson Wagner Albuquerque de Medeiros - Integrante / Caio Medeiros Caldas Vale - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2016 - 2020
+Projeto e Implementação de Sistemas Distribuídos Considerando Aspectos Não-Funcionais
+Descrição: O objetivo central deste projeto é avaliar e propor soluções para o projeto e implementação de sistemas distribuídos considerando requisitos não-funcionais. O foco será nas três principais áreas de sistemas distribuídos (Computação Móvel, Computação em Nuvem e Computação Orientada a Serviço), e os requisitos não-funcionais focados neste projeto são segurança e avaliação de desempenho..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Robson Wagner Albuquerque de Medeiros - Integrante / Erica Teixeira Gomes de Sousa - Integrante / Marcelo Luiz Monteiro Marinho - Integrante.
+2016 - 2019
+Avaliação de Desempenho de Aplicações Móveis em Ambientes de Computação em Nuvem Móvel
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Henning Barly Summer de Melo - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2014 - 2019
+Avaliação de Desempenho de Aplicações Móveis em Ambientes de Computação em Nuvem Móvel
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Nelson Souto Rosa - Integrante / Júlio Cesar Damasceno - Integrante / Robson Wagner Albuquerque de Medeiros - Integrante / Erica Teixeira Gomes de Sousa - Integrante / Gilberto Amado de Azevedo Cysneiros Filho - Integrante / Nielson Avelino de Santana - Integrante / Inês Alves de Lima Oliveira - Integrante / Henning Barly Summer de Melo - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2014 - 2016
+Avaliação de Desempenho de Serviços Web em Dispositivos Móveis
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Erica Teixeira Gomes de Sousa - Integrante / Nielson Avelino de Santana - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2013 - 2015
+Automação de Requisitos de Segurança em Processos de Negócio Baseados em Serviços
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Júlio Cesar Damasceno - Integrante / Robson Wagner Albuquerque de Medeiros - Integrante / Erica Teixeira Gomes de Sousa - Integrante / Dayanne Cristina de Araújo Barbosa - Integrante / Marco Antonio de Souza Segundo - Integrante.
+
+Número de produções C, T & A: 2
+2013 - 2014
+Estratégia para Avaliação de Desempenho e Dependabilidade da Infraestrutura de Computação em Nuvem Baseada na Geração Automática de Modelos Estocásticos
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Erica Teixeira Gomes de Sousa - Integrante / Ítalo Egypto Nascimento Pinto - Integrante.
+
+Número de produções C, T & A: 1
+2010 - 2010
+Secure Service Composition for Cloud (SSC4Cloud)
+Descrição: Desenvolvimento de composições de web services na Cloud..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Fernando Antonio Aires Lins - Integrante / Nelson Souto Rosa - Coordenador / Paulo Romero Moura Maciel - Integrante / Júlio Cesar Damasceno - Integrante / André Ricardo da Silva Souza - Integrante / Bruno Leonardo Barros Silva - Integrante / Robson Wagner Albuquerque de Medeiros - Integrante / Bryan Stephenson - Integrante / Jun Li - Integrante / David Aragão - Integrante.
+2009 - 2009
+Sec-Mosc: Modelos de Segurança para Composição de Serviços
+Descrição: Investigação sobre os modelos de segurança para composição de serviços..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Fernando Antonio Aires Lins - Integrante / Nelson Souto Rosa - Coordenador / Paulo Romero Moura Maciel - Integrante / Júlio Cesar Damasceno - Integrante / André Ricardo da Silva Souza - Integrante / Bruno Leonardo Barros Silva - Integrante / Robson Wagner Albuquerque de Medeiros - Integrante.
+2008 - 2008
+Model Oriented Service Composition
+Descrição: Projeto que propõe o estudo e implementação de ferramentas para composição de serviços..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Fernando Antonio Aires Lins - Integrante / Nelson Souto Rosa - Coordenador / Júlio Cesar Damasceno - Integrante / André Ricardo da Silva Souza - Integrante.
+
+
+Projetos de extensão
+2013 - 2014
+Desenvolvimento de Políticas de Segurança para Uso de Dispositivos Móveis
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Thaís Antunes Bione - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+Número de produções C, T & A: 1
+
+
+Projetos de desenvolvimento
+2023 - Atual
+Processo Para Avaliação e Melhoria da Segurança Cibernética e da Informação em Organizações
+Descrição: Projeto aprovado no âmbito do Edital de Bolsa de Produtividade em Desenvolvimento Tecnológico e Extensão Inovadora DT).
+Situação: Em andamento; Natureza: Desenvolvimento.
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Nelson Souto Rosa - Integrante / Obionor de Oliveira Nóbrega - Integrante / George Augusto Valença Santos - Integrante.
+2014 - 2015
+Desenvolvimento de Ambiente Computacional para Escrita e Leitura de Livros-Jogos em Dispositivos Móveis
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Thiago Vinícius Machado de Souza - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+Número de produções C, T & A: 1
+
+
+Membro de corpo editorial
+2018 - Atual
+Periódico: INTERNATIONAL JOURNAL OF WEB ENGINEERING AND TECHNOLOGY
+
+
+Revisor de periódico
+2025 - Atual
+Periódico: IEEE Transactions on Dependable and Secure Computing
+2022 - 2023
+Periódico: Service Oriented Computing And Applications
+2020 - Atual
+Periódico: IEEE TRANSACTIONS ON SYSTEMS, MAN AND CYBERNETICS. PART A. SYSTEMS AND HUMA
+2018 - 2018
+Periódico: HEALTHCARE TECHNOLOGY LETTERS
+2018 - 2018
+Periódico: IET Communications
+2018 - 2018
+Periódico: IET Software (Online)
+2018 - 2018
+Periódico: ELECTRONICS LETTERS (ONLINE)
+2017 - Atual
+Periódico: INTERNATIONAL JOURNAL OF WEB ENGINEERING AND TECHNOLOGY
+2012 - 2012
+Periódico: International Journal of Computer Science, Engineering and Applications
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Sistemas Distribuídos.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Arquitetura de Sistemas de Computação.
+4.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação/Especialidade: Teleinformática.
+
+
+Idiomas
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+
+
+Prêmios e títulos
+2025
+Professor Homenageado, Comissão de formatura: Bacharelado em Ciência da Computação 2024.1.
+2025
+Professor Homenageado, Turma do Bacharelado em Ciência da Computação da UFRPE - 2024.2.
+2025
+Professor Homenageado, Comissão de formatura: Bacharelado em Ciência da Computação 2025.1.
+2022
+Patrono de Turma, Turma de Bacharelado em Ciência da Computação da UFRPE - 2021.1.
+2017
+Professor Homenageado, Comissão de formatura: Bacharelado em Ciência da Computação 2016.2.
+2017
+Patrono de turma, Comissão de formatura: Licenciatura em Computação 2017.1 da UFRPE.
+2016
+Professor Homenageado, Comissão de Formatura: Licenciatura em Computação 2015.2.
+2016
+Professor Homenageado, Comissão de formatura: Ciência da Computação 2015.2.
+2016
+Paraninfo de Turma, Comissão de Formatura: Licenciatura em Computação UFRPE 2016.1.
+2016
+Professor Homenageado, Comissão de formatura: Bacharelado em Ciência da Computação UFRPE 2016.1.
+2015
+Professor Homenageado, Comissão de Formatura: Bacharelado em Ciência da Computação BCC/UFRPE 2014.2.
+2015
+Professor Homenageado, Comissão de Formatura: Licenciatura em Computação LC/UFRPE 2014.2.
+2015
+Paraninfo de Turma, Turma de Bacharelado em Ciência da Computação (BCC/UFRPE) 2015.1.
+2011
+Paraninfo de turma, Turma de Licenciatura em Computação 2010.2 (UFRPE).
+2011
+1st Place on the IEEE 2011 International Services Cup, IEEE & IEEE Computer Society.
+2011
+Professor Homenageado, Comissão de formatura: Licenciatura em Computação 2011.1.
+2010
+Professor Homenageado, Comissão de Formatura: Licenciatura em Computação 2009.2 (UFRPE).
+2010
+Professor Homenageado, Comissão de Formatura: Secretariado 2009.2 (UFPE).
+2010
+Professor Homenageado, Comissão de Formatura: Licenciatura em Computação 2010.1.
+2009
+Paraninfo de turma, Comissão de Formatura: Licenciatura em Computação 2008.2.
+2009
+Professor Homenageado, Comissão de Formatura: Licenciatura em Computação 2009.1.
+2008
+Professor Homenageado, Comissão de formatura: Secretariado UFPE 2007.2.
+2008
+Professor Homenageado, Comissão de Formatura: Secretariado 2008.1.
+2008
+Professor Homenageado, Comissão de Formatura: Secretariado 2008.2.
+
+
+Produções
+
+Produção bibliográfica
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+DE MORAIS, ANDERSON MELO ; LINS, FERNANDO ANTONIO AIRES ; ROSA, NELSON SOUTO . Selecting Consensus Algorithm Integrations in a DAG-based Blockchain for IoT Using Genetic Algorithms. JOURNAL OF INTERNET SERVICES AND APPLICATIONS, v. 17, p. 55-71, 2026.
+
+2.
+JESUS, B. A. ; LARANJEIRO, C. N. ; LINS, F. A. A. . An approach to assess robustness of MQTT-based IoT systems. Internet Of Things, v. 31, p. 1-14, 2025.
+
+3.
+ GOMES, DIEGO ; FELIX, EDUARDO ; Aires, Fernando ; VIEIRA, MARCO . Static Code Analysis for IoT Security: A Systematic Literature Review. ACM COMPUTING SURVEYS, v. 58, p. 1-47, 2025. Citações:1
+
+4.
+LIMA, MILTON ; VIANA, CARLOS ; SANTOS, WELLISON R. M. ; NEVES, FLÁVIO ; CAMPOS, JOÃO R. ; Aires, Fernando . Toward using cyber threat intelligence with machine and deep learning for IoT security: a comprehensive study. THE JOURNAL OF SUPERCOMPUTING (DORDRECHT. ONLINE), v. 81, p. 1-39, 2025. Citações:2
+
+5.
+DA SILVA, VLADIMIR G. ; ROSA, NELSON S. ; Aires, Fernando ; SANTOS, WELLISON R.M. . Improving Power Consumption in IoT Devices Through Neural Network-Based Decision Making. Internet Of Things, v. 35, p. 101827, 2025.
+
+6.
+OLIVEIRA, R. F. F. ; CORREIA NETO, J. S. ; LINS, F. A. A. . Avaliação de Usabilidade de Jogos Educacionais para pessoas com a Síndrome de Williams-Beuren. Revista Brasileira de Informática na Educação (RBIE), v. 32, p. 181-212, 2024.
+
+7.
+ALMEIDA, E. F. L. L. ; NOBREGA, O. O. ; FREITAS, F. A. ; GALVEZ, A. O. ; LINS, F. A. A. . Investigation and implementation of IoT architecture to measure real-time water turbidity for Smart Shrimp Farming Environments using alternative calibration approach. GESTÃO.ORG, v. 21, p. 1-22, 2024.
+
+8.
+SILVA, JOSIVAL ; ROSA, NELSON ; Aires, Fernando . UP-Home: A Self-Adaptive Solution for Smart Home Security. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, v. 30, p. 502-530, 2024. Citações:1|1
+
+9.
+GOMES, DIEGO R. ; LINS, FERNANDO A. AIRES ; NÓBREGA, OBIONOR O. ; FELIX, EDUARDO F. ; JESUS, BRUNO A. ; VIEIRA, MARCO . Security Evaluation of Authentication Requirements in IoT Gateways. Journal of Network and Systems Management, v. 31, p. 67, 2023. Citações:9|7
+
+10.
+MELO DE MORAIS, ANDERSON ; Antonio Aires Lins, Fernando ; SOUTO ROSA, NELSON . Survey on Integration of Consensus Mechanisms in IoT-based Blockchains. JOURNAL OF UNIVERSAL COMPUTER SCIENCE, v. 29, p. 1139-1160, 2023. Citações:7|6
+
+11.
+LIMA, M. V. M. ; LIMA, R. M. F. ; LINS, FERNANDO A.A. ; BONFIM, M. . Beholder - A CEP-based Intrusion Detection and Prevention Systems for IoT Environments. COMPUTERS & SECURITY, v. 120, p. 102824, 2022. Citações:7|10
+
+12.
+LINS, FERNANDO A. AIRES; VIEIRA, MARCO . Security Requirements and Solutions for IoT Gateways: A Comprehensive Study. IEEE Internet of Things Journal, v. 8, p. 8667-8679, 2021. Citações:26|29
+
+13.
+MORAIS, A. M. ; CORREIA NETO, J. S. ; MEDEIROS, R. W. A. ; NOBREGA, O. O. ; LINS, F. A. A. . A Solution for Integrating Virtual Learning Environments with Blockchain. RESEARCH, SOCIETY AND DEVELOPMENT, v. 10, p. 1-11, 2021.
+
+14.
+GREGORIO, E. N. V. ; NOBREGA, O. O. ; LINS, F. A. A. . Connectivity Transparency of Blockchain Services in IoT Systems: a proposed architecture. RESEARCH, SOCIETY AND DEVELOPMENT, v. 10, p. 1, 2021.
+
+15.
+SOUZA-JÚNIOR, MILTON SECUNDINO DE ; ROSA, NELSON SOUTO ; LINS, FERNANDO ANTÔNIO AIRES . An execution environment as a service for adaptive long-running workflows. INTERNATIONAL JOURNAL OF WEB INFORMATION SYSTEMS (PRINT), v. 17, p. 117-139, 2021.
+
+16.
+MORAIS, A. M. ; CALLOU, G. R. A. ; LINS, F. A. A. . Simulação e Avaliação de Desempenho de uma Rede Blockchain Utilizando Containers Docker. CADERNOS DO IME. SÉRIE INFORMÁTICA, v. 44, p. 73, 2020.
+
+17.
+MORAIS, A. M. ; LINS, F. A. A. . Uso de Blockchain na Educação: Estado da arte e desafios em aberto.. Revista Científica Multidisciplinar Núcleo do Conhecimento, v. 22, p. 78-100, 2020.
+
+18.
+MORAIS, A. M. ; PAIVA, S. S. L. ; LINS, F. A. A. . Emissão segura de diplomas digitais através do registro em Blockchain. RMP - REVISTA DOS MESTRADOS PROFISSIONAIS, v. 09, p. 118, 2020.
+
+19.
+YADAV, R. R. ; CAMPOS, G. A. S. ; Sousa, E.T.G. ; LINS, F. A. A. . A Strategy for Performance Evaluation and Modeling of Cloud Computing Services. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA, v. 26, p. 78-90, 2019.
+
+20.
+SOUZA JUNIOR, M. S. ; ROSA, N. S. ; LINS, F. A. A. . Adaptive Support for Execution of Long Running Workflows. International Journal of Business Process Integration and Management (Online), v. 9, p. 231-243, 2019. Citações:1
+
+21.
+LINS, FERNANDO A.A.; SOUSA, ERICA T.G. ; ROSA, NELSON S. . A survey on automation of security requirements in service-based business processes. INTERNATIONAL JOURNAL OF WEB ENGINEERING AND TECHNOLOGY, v. 13, p. 3, 2018. Citações:5
+
+22.
+SOUSA, ERICA ; LINS, FERNANDO ; TAVARES, EDUARDO ; MACIEL, PAULO . Cloud infrastructure planning considering different redundancy mechanisms. Computing (Wien. Print), v. 1, p. 1-24, 2017. Citações:11|11
+
+23.
+CAVALCANTI, K. R. P. ; VIANA, E. ; LINS, F. A. A. . An Integrated Solution for the Improvement of the Mobile Devices Security based on the Android Platform. IEEE Latin America Transactions, v. 15, p. 2172-2177, 2017.
+
+24.
+ LINS, FERNANDO; DAMASCENO, JULIO ; MEDEIROS, ROBSON ; SOUSA, ERICA ; ROSA, NELSON . Automation of service-based security-aware business processes in the Cloud. Computing (Wien. Internet), v. 98, p. 847-870, 2016. Citações:5|8
+
+25.
+SILVA, V. G. ; LINS, F. A. A. . A Survey on Current Initiatives on Education Cloud Computing. International Journal of Scientific and Engineering Research, v. 7, p. 869-873, 2016.
+
+26.
+SOUSA, E. T. G. ; LINS, F. A. A. ; TAVARES, Eduardo Antonio Guimaraes ; MACIEL, P. R. M. . A Modeling Strategy for Cloud Infrastructure Planning Considering Performance and Cost Requirements. Services Transactions on Cloud Computing, v. 4, p. 32-45, 2016.
+
+27.
+SANTANA, N. A. ; SOUSA, E. T. G. ; LINS, F. A. A. . Performance Evaluation of Mobile Applications in Mobile Cloud Environments. Revista IEEE América Latina, v. 14, p. 4597-4602, 2016. Citações:4|5
+
+28.
+SILVA, M. J. S. ; SOUSA, E. T. G. ; LINS, F. A. A. . Towards a Methodology for Performance Measurement of Service-Based Systems. International Journal of Scientific and Engineering Research, v. 6, p. 131-137, 2015.
+
+29.
+CAVALCANTI, K. R. P. ; VIANA, E. ; LINS, F. A. A. . Security Issues and Solutions for Android-based Mobile Devices. International Journal of Computer Science and Information Security, v. 13, p. 22-27, 2015.
+
+30.
+TELES, F. ; LINS, F. A. A. ; ROSA, N. S. . Towards a Model-Driven Approach for Treating Quality Attributes of Service-based Business Processes. International Journal of Web Engineering and Technology, v. 9, p. 300-364, 2014. Citações:2
+
+31.
+ Sousa, E.T.G. ; TAVARES, E. A. G. ; LINS, F. A. A. ; MACIEL, P. R. M. ; Cunha, P.R.F. . A Modeling Approach for Cloud Infrastructure Planning Considering Dependability and Cost Requirements. IEEE T SYST MAN CY-S, v. PP, p. 1-10, 2014. Citações:30|31
+
+32.
+LINS, F. A. A.; ROSA, N. S. . A Survey on QoS-Aware Evolutionary Web Service Composition. International Journal of Scientific and Engineering Research, v. 05, p. 172-180, 2014.
+
+33.
+LINS, F. A. A.; DAMASCENO, J. C. ; SOUZA, A. R. S. ; SILVA, B. L. B. ; Aragao, D. ; MEDEIROS, R. W. A. ; Sousa, E.T.G. ; ROSA, N. S. . Towards Automation of SOA-based Business Processes. International Journal of Computer Science, Engineering and Applications, v. 2, p. 01-17, 2012.
+
+34.
+Sousa, E.T.G. ; MACIEL, P. R. M. ; LINS, F. A. A. ; Marinho, M. . Maintenance Policy and its Impact on the Performability Evaluation Of EFT Systems. International Journal of Computer Science, Engineering, v. 2, p. 95-114, 2012.
+
+35.
+LINS, F. A. A.; DAMASCENO, J. C. ; SILVA, BRUNO ; MEDEIROS, ROBSON ; SOUZA, ANDRE ; TELES, FABRICIO ; ARAGAO, DAVID ; SOUSA, ERICA ; ROSA, NELSON ; Stephenson, Bryan ; NEZHAD, HAMID MOTAHARI ; LI, JUN . Towards an approach to design and enforce security in web service composition. International Journal of Web Engineering and Technology, v. 7, p. 323-357, 2012. Citações:5
+
+36.
+SILVA, B. L. B. ; SOUZA, A. R. S. ; MEDEIROS, R. W. A. ; DAMASCENO, J. C. ; LINS, F. A. A. ; ROSA, N. S. ; MACIEL, P. R. M. ; STEPHENSON, B. ; LI, J. ; Motahari-Nezhar, H. R. ; NORTHFLEET, C. . An Approach for Reducing the Gap between BPMN Models and Implementation Artifacts. Revista de Informática Teórica e Aplicada (Impresso), v. 16, p. 83-86, 2009.
+
+37.
+DAMASCENO, J. C. ; SOUZA, A. R. S. ; SILVA, B. L. B. ; MEDEIROS, R. W. A. ; LINS, F. A. A. ; ROSA, N. S. ; MACIEL, P. R. M. ; STEPHENSON, B. ; Motahari-Nezhar, H. R. ; LI, J. ; NORTHFLEET, C. . Towards Generating Richer Code by Binding Security Abstractions to BPMN Task Types. Revista de Informática Teórica e Aplicada (Impresso), v. 16, p. 97-98, 2009.
+
+38.
+LINS, F. A. A.; SANTOS JUNIOR, J. C. ; ROSA, N. S. . Adaptive Web Service Composition. Software Engineering Notes, v. 32, p. 1-8, 2007. Citações:1
+
+Livros publicados/organizados ou edições
+
+1.
+LIMA, M. V. M. ; LIMA, R. M. F. ; LINS, F. A. A. . Melhoria da Segurança de Servidores em Ambientes de Data Center. 1. ed. Novas Edições Acadêmicas, 2018. v. 1. 172p .
+
+2.
+SILVA, J. S. ; Sousa, E.T.G. ; LINS, F. A. A. . Metodologia para Avaliação do Consumo de Energia de Aplicações Móveis. 1. ed. Novas Edições Acadêmicas, 2018. v. 1. 96p .
+
+3.
+Sousa, E.T.G. ; MACIEL, P. R. M. ; LINS, F. A. A. . Avaliação de Desempenho, Dependabilidade e Custo de Nuvens Privadas. 1. ed. Novas Edições Acadêmicas, 2018. v. 1. 181p .
+
+4.
+CAVALCANTI, K. R. P. ; LINS, F. A. A. . Melhorando a Segurança de Dispositivos Móveis Android. 1. ed. Novas Edições Acadêmicas, 2017. 73p .
+
+5.
+DINIZ, J. R. B. ; LINS, F. A. A. ; NOBREGA, O. O. . Redes de Computadores - Volume 1. , 2009.
+
+Capítulos de livros publicados
+
+1.
+Sousa, E.T.G. ; LINS, F. A. A. . Modeling Strategies to Improve the Dependability of Cloud Infrastructures. In: IntechOpen. (Org.). Modeling Strategies to Improve the Dependability of Cloud Infrastructures. 1ed.London: INTECHOPEN LIMITED, 2018, v. 1, p. 7-22.
+
+2.
+LINS, F. A. A.; SILVA, V. G. ; SOUZA, A. R. L. ; SANTOS, R. B. ; FRAGOSO, S. R. S. ; FALCAO, T. P. R. . Uso de simulação para o suporte ao ensino da área de redes de computadores. In: Adão Caron Cambraia; Marcia Adriana Rosmann; Renira Carla Soares. (Org.). Prática profissional na educação tecnológica: concepções, experiências e dinâmicas investigativas. 1ed.: Méritos editora., 2015, v. , p. 149-163.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+SILVA, J. S. ; LINS, F. A. A. ; ROSA, N. S. . A Human-In-the-Loop Approach for Self-protecting Smart Homes. In: Advanced Information Networking and Applications (AINA 2025), 2025, Barcelona. Proceedings of the Advanced Information Networking and Applications (AINA 2025), 2025. p. 405-412.
+
+2.
+SILVA, V. G. ; LINS, F. A. A. ; ROSA, N. S. . RAS-IoT: A Container-Based Solution for IoT Application Replacement. In: Advanced Information Networking and Applications (AINA 2025), 2025, Barcelona. Proceedings of the Advanced Information Networking and Applications (AINA 2025), 2025. p. 430-441.
+
+3.
+VASCONCELOS, V. N. ; LINS, F. A. A. ; VALENCA, G. ; LOSSE, M. A. P. F. ; MORAIS, A. C. C. M. ; SOUSA, E. T. . Instanciação do Processo de Gestão de Riscos de Segurança da Informação da ISO 27005 em Organizações Públicas. In: Latin American Symposium on Digital Government - LASDiGov - LASDiGov, 2025, Maceió. Proceedings of the Latin American Symposium on Digital Government - LASDiGov. Porto Alegre: SBC, 2025.
+
+4.
+FIALHO, F. L. ; DOMINGUES, J. P. O. ; LINS, F. A. A. . Ferramenta Educacional para Avaliação e Melhoria do Nível de Conscientização em Segurança da Informação. In: VI Workshop sobre as Implicações da Computação na Sociedade (WICS 2025), 2025, Maceió. Anais do VI Workshop sobre as Implicações da Computação na Sociedade (WICS / CSBC 2025). Porto Alegre: Sociedade Brasileira de Computação, 2025.
+
+5.
+LIMA, G. S. ; LINS, F. A. A. ; DOMINGUES, J. P. O. . Privacidade na Era do 5G: Problemas, Princípios da LGPD e Impactos Sociais. In: VI Workshop sobre as Implicações da Computação na Sociedade (WICS 2025), 2025, Maceió. Anais do VI Workshop sobre as Implicações da Computação na Sociedade (WICS / CSBC 2025). Porto Alegre: Sociedade Brasileira de Computação, 2025.
+
+6.
+SILVA, J. ; CORDEIRO, A. ; SANTOS, W. R. M. ; LINS, F. A. A. ; LIMA, M. V. M. ; LIMA, R. M. F. . Modelling Advanced Persistent Threats to Support Cyber Incident Response. In: IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2025, Viena. Proceedings of the 2025 IEEE International Conference on Systems, Man, and Cybernetics, 2025.
+
+7.
+LOSSE, M. A. P. F. ; MORAIS, A. C. C. M. ; SOUSA, E. T. ; CABRAL, R. L. B. ; SANTOS, G. A. V. ; LINS, F. A. A. . Cultura de Segurança da Informação - Um Relato de Oficinas para Conscientização de Servidores em Organizações Públicas. In: Simpósio Brasileiro de Sistemas de Informação, 2024, Juiz de Fora. Anais do Simpósio Brasileiro de Sistemas de Informação, 2024.
+
+8.
+LINS, F. A. A.; NOBREGA, O. O. ; FREITAS, F. A. ; VALENCA, G. . Security Requirements Engineering Approaches for IoT-Based Systems: A Comprehensive Review and Open Research Challenges. In: IEEE World Forum on the Internet of Things (WF-IoT), 2024, Montreal. 10th IEEE World Forum on the Internet of Things (WF-IoT), 2024.
+
+9.
+FREITAS, F. A. ; NOBREGA, O. O. ; LINS, F. A. A. ; SANTOS, J. F. ; GALVEZ, A. O. ; SANTOS, E. P. . A Low-Cost IoT-Based Solution for Water Quality Monitoring in Aquaculture 4.0. In: IEEE World Forum on Internet of Things, 2024, Montreal. 10th IEEE World Forum on Internet of Things, 2024.
+
+10.
+MORAIS, A. M. ; LINS, F. A. A. ; ROSA, N. S. . Selecting Blockchain Consensus Algorithms Integrations for IoT-based Enviroments. In: Latin-American Symposium on Dependable and Secure Computing, 2024, Recife. 13th Latin-American Symposium on Dependable and Secure Computing, 2024.
+
+11.
+MORAIS, A. M. ; LINS, F. A. A. ; ROSA, N. S. . Integration and Evaluation of Blockchain Consensus Algorithms for IoT Environments. In: International Conference on Advanced Information Networking and Applications, 2023, Juiz de Fora. Advanced Information Networking and Applications - Proceedings of the 37th International Conference on Advanced Information Networking and Applications (AINA-2023), Volume 2, 2023. v. 2. p. 1-14.
+
+12.
+DE MIRANDA, AMELIARA FREIRE SANTOS ; DA SILVA, MARCELO LEONARDO LEÔNCIO ; DA SILVA, JOSÉ RIVALDO ANDRADE ; CORREIA, ALAN ALEXANDRE ; DE OLIVEIRA RODRIGUES, CLEYTON MÁRIO ; LINS, FERNANDO ANTONIO AIRES ; DE OLIVEIRA NÓBREGA, OBIONOR ; FALCÃO, TACIANA PONTUAL . E-Down: A Methodology to Support the Choice and Configuration of VLEs in the Training of Students with Down Syndrome. In: 2023 18th Iberian Conference on Information Systems and Technologies (CISTI), 2023, Aveiro. 2023 18th Iberian Conference on Information Systems and Technologies (CISTI), 2023. p. 1.
+
+13.
+CABRAL, R. L. B. ; VASCONCELOS, V. N. ; LINS, F. A. A. ; SANTOS, G. A. V. ; LOSSE, M. A. P. F. ; MEDEIROS, A. G. M. ; SOUSA, E. T. ; FELIX, M. S. . Transparência e Livre Acesso: Uma Avaliação da Disponibilidade de Informações sobre a LGPD em Sites de Tribunais de Contas no Brasil. In: Workshop de Computação Aplicada em Governo Eletrônico, 2023, Brasil. Anais do XI Workshop de Computação Aplicada em Governo Eletrônico (WCGE 2023), 2023. p. 240.
+
+14.
+FELIX, E. F. ; GOMES, D. R. ; JESUS, B. A. ; VIEIRA, M. ; LINS, FERNANDO A.A. . Evaluating Cryptographic Security Requirements in IoT Gateways?. In: IEEE World Forum on Internet of Things, 2023, Aveiro. IEEE 9th World Forum on Internet of Things, 2023.
+
+15.
+LOPES, V. B. P. ; SARINHO, M. W. ; SANTOS, G. A. V. ; LINS, FERNANDO A.A. . Do Platforms Care About Your Child?s Data? A Proposal of Legal Requirements for Children?s Privacy and Protection. In: Workshop de Engenharia de Requisitos (WER 2022), 2022. Workshop de Engenharia de Requisitos (WER 2022), 2022.
+
+16.
+FELIX, E. F. ; GOMES, D. R. ; JESUS, B. A. ; NOBREGA, O. O. ; LINS, F. A. A. ; VIEIRA, MARCO . Compliance Evaluation of Cryptographic Security Requirements on IoT Gateways. In: Latin-American Symposium on Dependable Computing, 2022, Fortaleza. 11Th Latin-American Symposium on Dependable Computing - LADC 2022, 2022.
+
+17.
+REBELO, M. E. ; VALENCA, G. ; LINS, F. A. A. . Power and Privacy in Software Ecosystems: A Study on Data Breach Impact on Tech Giants. In: International Working Conference on Requirement Engineering: Foundation for Software Quality, 2021, Essen. 27th International Working Conference on Requirement Engineering: Foundation for Software Quality, 2021. p. 149-164.
+
+18.
+MELO, H. B. S. ; LINS, F. A. A. ; MEDEIROS, R. W. A. . A Methodology for Intelligent Offloading Decision in Mobile Cloud Computing Environments. In: IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021, Melbourne. Proceedings of the IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021.
+
+19.
+MIRANDA, A. F. S. ; LINS, F. A. A. ; NOBREGA, O. O. ; FALCAO, T. P. R. . Evaluation of Virtual Learning Environments for the Teaching of Students With Down Syndrome. In: IEEE International Conference on Systems, Man, and Cybernetics, 2017, Banff. 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2017. p. 1179-1184.
+
+20.
+LIMA, M. V. M. ; LIMA, R. M. F. ; LINS, F. A. A. . A Multi-Perspective Methodology for Evaluating the Security Maturity of Data Centers. In: IEEE International Conference on Systems, Man, and Cybernetics, 2017, Banff. 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2017. p. 1196-1201.
+
+21.
+PINTO NETO, E. C. ; CALLOU, G. R. A. ; LINS, F. A. A. . An Algorithm to Optimise the Load Distribution of Fog Environments. In: IEEE International Conference on Systems, Man, and Cybernetics, 2017, Banff. 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2017. p. 1292-1297.
+
+22.
+SILVA, J. S. ; LINS, F. A. A. ; SOUSA, E. T. G. ; MELO, H. B. S. ; FERNANDES, C. M. . Invasive Technique for Measuring the Energy Consumption of Mobile Devices Applications in Mobile Cloud Environments. In: IEEE International Conference on Systems, Man, and Cybernetics, 2017, Banff. 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2017. p. 2724-2729.
+
+23.
+CABRAL, J. C. ; NOBREGA, O. O. ; LINS, F. A. A. . Uma Proposta de Classificação para Internet das Coisas na Educação. In: II Workshop Brasileiro sobre Internet das Coisas na Educação (WICE), 2017, Recife. Anais do II Workshop Brasileiro sobre Internet das Coisas na Educação (WICE), 2017.
+
+24.
+GONCALVES, R. S. ; TAVARES, E. A. G. ; NASCIMENTO, A. ; SOUSA, E. T. G. ; LINS, F. A. A. ; ALBUQUERQUE JUNIOR, G. A. . Performability Assessment of a Government Process in the Cloud. In: IEEE International Conference on Systems, Man and Cybernetics, 2015, Hong Kong. IEEE International Conference on Systems, Man and Cybernetics, 2015. p. 87-92.
+
+25.
+SOUZA JUNIOR, M. S. ; ROSA, N. S. ; LINS, F. A. A. . xLONGWisE: An Environment to Support the Execution of Long Running Workflows. In: 12th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA), 2015, Marrakech. 12th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA), 2015. p. 1-8.
+
+26.
+Sousa, E.T.G. ; LINS, F. A. A. ; TAVARES, E. A. G. ; MACIEL, P. R. M. . Performance and Cost Modeling Strategy for Cloud Infrastructure Planning. In: IEEE Cloud, 2014, Anchorage. Proceedings of the IEEE Cloud 2014, 2014. p. 546-553.
+
+27.
+TELES, F. ; ROSA, N. S. ; LINS, F. A. A. . Realizing Quality Attributes of Service-based Business Processes: A Model-driven Approach. In: IEEE International Conference on Computer and Information Technology, 2014, Xi'an. Proceedings of the 14th IEEE International Conference on Computer and Information Technology, 2014. p. 450-457.
+
+28.
+SOUZA JUNIOR, M. S. ; ROSA, N. S. ; LINS, F. A. A. . Execution Support to Long Running Workflows. In: IEEE International Conference on Computer and Information Technology, 2014, Xi'an. Proceedings of the 14th IEEE International Conference on Computer and Information Technology, 2014. p. 496-503.
+
+29.
+Sousa, E.T.G. ; MACIEL, P. R. M. ; MEDEIROS, L. M. ; LINS, F. A. A. ; TAVARES, E. A. G. ; MEDEIROS, E. . Stochastic Model Generation for Cloud Infrastructure Planning. In: IEEE International Conference on Systems, Man and Cybernetics, 2013, Manchester. Proceedings of the IEEE International Conference on Systems, Man and Cybernetics, 2013. p. 4098-4103.
+
+30.
+LINS, F. A. A.; DAMASCENO, J. C. ; MEDEIROS, R. W. A. ; Sousa, E.T.G. ; ROSA, N. S. . Comparative Study of Service-based Security-aware Business Processes Automation Tools. In: IEEE International Conference on Systems, Man and Cybernetics, 2013, Manchester. Proceedings of the IEEE International Conference on Systems, Man and Cybernetics, 2013. p. 1413-1418.
+
+31.
+SOUZA, C. F. M. ; LINS, F. A. A. ; ROSA, N. S. . Quality Monitoring of Service Composition. In: International Conference on Semantic Web and Web Services, 2013, Las Vegas, USA. Proceedings of the 12th International Conference on Semantic Web and Web Services, 2013.
+
+32.
+Sousa, E.T.G. ; MACIEL, P. R. M. ; MEDEIROS, E. ; SOUZA, D. ; LINS, F. A. A. ; TAVARES, E. A. G. . Evaluating Eucalyptus Virtual Machine Instance Types: a Study Considering Distinct Workload Demand. In: International Conference on Cloud Computing, GRIDs, and Virtualization, 2012, Nice, França. Third International Conference on Cloud Computing, GRIDs, and Virtualization, 2012. v. 1. p. 130-135.
+
+33.
+Sousa, E.T.G. ; MACIEL, P. R. M. ; SOUZA, D. ; MEDEIROS, E. ; LINS, F. A. A. ; TAVARES, E. A. G. . Capacity Planning of EFT Service Hosted on Elastic IaaS. In: IEEE International Conference on Systems, Man, and Cybernetics, 2012, Seoul, Coréia do Sul. IEEE International Conference on Systems, Man, and Cybernetics, 2012. p. 1749-1754.
+
+34.
+ DAMASCENO, J. C. ; LINS, F. A. A. ; SOUZA, A. R. S. ; SILVA, B. L. B. ; Aragao, D. ; ROSA, N. S. ; MACIEL, P. R. M. ; LI, J. ; STEPHENSON, B. ; MEDEIROS, R. W. A. . Modeling and Executing Business Processes with Annotated Security Requirements in the Cloud. In: International Conference on Web Services, 2011, Washington DC. ICWS 2011, 2011. p. 137-144.
+
+35.
+LINS, F. A. A.; DAMASCENO, J. C. ; SOUZA, A. R. S. ; SILVA, B. L. B. ; Aragao, D. ; MEDEIROS, R. W. A. ; ROSA, N. S. ; MACIEL, P. R. M. ; LI, J. ; STEPHENSON, B. . SSC4Cloud Tooling: An Integrated Environment for the Development of Business Processes with Security Requirements in the Cloud. In: 7th IEEE 2011 World Congress on Services, 2011, Washington DC. Services 2011 Proceedings, 2011. p. 53-60.
+
+36.
+STEPHENSON, B. ; LI, J. ; DAMASCENO, J. C. ; LINS, F. A. A. ; MEDEIROS, R. W. A. ; SILVA, B. L. B. ; SOUZA, A. R. S. ; Aragao, D. ; ROSA, N. S. ; MACIEL, P. R. M. ; Wu, E. . Experience Using Open Cirrus for a Security-Aware Cloud-Based Business Process Modeling and Execution Environment. In: The 5th Internation Open Cirrus Summit, 2011, Moscow. OpenCirrus Summit 2011 Proceedings, 2011.
+
+37.
+ SOUZA, A. R. S. ; SILVA, B. L. B. ; LINS, F. A. A. ; DAMASCENO, J. C. ; MEDEIROS, R. W. A. ; ROSA, N. S. ; MACIEL, P. R. M. ; STEPHENSON, B. ; LI, J. ; Motahari-Nezhar, H. R. . Incorporating Security Requirements into Service Composition. In: 7th International Joint Conference on Service Oriented Computing (ICSOC 2009), 2009, Stocholm. Proceedings of the 7th International Joint Conference on Service Oriented Computing. Heidelberg: Springer, 2009. v. 5900. p. 373-388.
+
+38.
+SOUZA, A. R. S. ; SILVA, B. L. B. ; LINS, F. A. A. ; DAMASCENO, J. C. ; MEDEIROS, R. W. A. ; ROSA, N. S. ; MACIEL, P. R. M. ; LI, J. ; STEPHENSON, B. ; Motahari-Nezhar, H. R. ; NORTHFLEET, C. . Sec-MoSC Tooling - Incorporating Security Requirements into Service Composition. In: 7th International Joint Conference on Service Oriented Computing, 2009, Stockolmo. Proceeding of ICSOC 2009. Heidelberg: Springer, 2009. v. 5900. p. 650-651.
+
+39.
+CRUZ, R. W. R. ; LINS, F. A. A. . Comunicação Eficaz nas Universidades: Contribuição Para um Ensino de Qualidade. In: V Seminário Regional de Política e Administração da Educação do Nordeste, 2008, Natal. Seminário Regional de Política e Administração da Educação do Nordeste, 2008.
+
+40.
+Lunguinho, L.B. ; LINS, F. A. A. . Impacto do Uso de Redes Sem Fio para Fins Comerciais. In: Simpósio Nacional de Secretariado (I ECEPS), 2008, Recife. Encontro Científico dos Estudantes e Profissionais de Secretariado, 2008.
+
+41.
+LINS, F. A. A.; SANTOS JUNIOR, J. C. ; ROSA, N. S. . Improving Transparent Adaptability in Web Service Composition. In: IEEE International Conference on Service-Oriented Computing and Applications (SOCA'07), 2007, Newport Beach. IEEE International Conference on Service-Oriented Computing and Applications (SOCA'07), 2007. p. 80-87.
+
+42.
+LINS, F. A. A.; SILVA, A. N. ; ROSA, N. S. ; QUENTAL, N. C. ; SANTOS JUNIOR, J. C. ; MACIEL, P. R. M. . Avaliação de Desempenho da Composição de Web Services usando Redes de Petri. In: Simpósio Brasileiro de Redes de Computadores, 2006, Curitiba. Simpósio Brasileiro de Redes de Computadores, 2006.
+
+43.
+LINS, F. A. A.; SANTOS JUNIOR, J. C. ; ROSA, N. S. . Policy-driven Adaptive Web Service Composition. In: Fourth International Workshop on SOA and Web Services (in OOPSLA 2006), 2006, Portland. Fourth International Workshop on SOA and Web Services, 2006. p. 40-51.
+
+44.
+LINS, F. A. A.; CARVALHO JUNIOR, F. H. ; QUENTAL, N. C. ; NUNES, M. ; LINS, R. D. . The # Model: A High Level and Efficient Alternative for Parallel Programming. In: XXV Iberian Latin American Congress in Computational Methods in Engineering, 2004, Recife. XXV Iberian Latin American Congress in Computational Methods in Engineering, 2004.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+PINTO, I. E. N. ; Sousa, E.T.G. ; LINS, F. A. A. . Análise de Desempenho do Ambiente Moodle Utilizando a Plataforma de Nuvem Eucalyptus. In: XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013, Recife. XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013.
+
+2.
+SEGUNDO, M. A. S. ; MEDEIROS, R. W. A. ; LINS, F. A. A. . Mecanismos de Segurança em Web Services: Uma Visão Comparativa. In: XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013, Recife. XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013.
+
+3.
+BARBOSA, D. C. A. ; BIONE, T. A. ; LINS, F. A. A. . Modelagem de Requisitos de Segurança em Processos de Negócio Baseados em Serviços. In: XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013, Recife. XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013.
+
+4.
+BIONE, T. A. ; BARBOSA, D. C. A. ; LINS, F. A. A. . Riscos de Segurança na Computação Móvel. In: XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013, Recife. XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013.
+
+5.
+Arcoverde, R.S. ; MELO, J. C. B. ; LINS, F. A. A. . O Uso da Tecnologia como Ferramenta de Apoio ao Ensino. In: Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2011, Recife. Anais da Jornada de Ensino, Pesquisa e Extensão da UFRPE (JEPEX) 2011, 2011.
+
+6.
+Trajano, F.H. ; MELO, J. C. B. ; LINS, F. A. A. . A Criação de Gibis Animados Incentivando à Escrita e os Conhecimentos Computacionais dos Alunos. In: Jornada de Ensino, Pesquisa e Extensão da UFRPE (JEPEX), 2011, Recife. Anais da Jornada de Ensino, Pesquisa e Extensão da UFRPE (JEPEX) 2011, 2011.
+
+7.
+Trajano, F.H. ; LINS, F. A. A. ; MELO, J. C. B. . Informática a Serviço da Educação. In: Jornada de Ensino, Pesquisa e Extensão (UFRPE), 2010, Recife. X Jornada de Ensino, Pesquisa e Extensão da UFRPE - JEPEX 2010, 2010.
+
+8.
+Silva, L.A. ; LINS, F. A. A. . Informática Educacional: Interdisciplinaridade. In: Jornada de Ensino, Pesquisa e Extensão (UFRPE), 2010, Recife. X Jornada de Ensino, Pesquisa e Extensão da UFRPE - JEPEX 2010, 2010.
+
+9.
+Arcoverde, R.S. ; MELO, J. C. B. ; LINS, F. A. A. . O Auxílio da Tecnologia no Aprendizado de Disciplinas Pedagógicas. In: Jornada de Ensino, Pesquisa e Extensão (UFRPE), 2010, Recife. X Jornada de Ensino, Pesquisa e Extensão da UFRPE - JEPEX 2010, 2010.
+
+10.
+Cordeiro, G.C.B. ; Lira Júnior, L.O. ; Silva Junior, Z.E. ; LINS, F. A. A. . Uso de Simulação para o Ensino de Computabilidade. In: Jornada de Ensino, Pesquisa e Extensão (UFRPE_, 2009, Recife. IX Jornada de Ensino, Pesquisa e Extensão - JEPEX 2009, 2009.
+
+11.
+Pinheiro, R.P. ; LINS, F. A. A. ; MELO, J. C. B. . A Utilização de Simulação no Ensino de Redes de Computadores. In: Jornada de Ensino, Pesquisa e Extensão, 2009, Recife. IX Jornada de Ensino, Pesquisa e Extensão - JEPEX 2009, 2009.
+
+Resumos publicados em anais de congressos
+
+1.
+DINIZ, E. G. ; LINS, F. A. A. ; SANTOS, G. A. V. ; LOSSE, M. A. P. F. . Modelo para Avaliação do Nível de Maturidade de Segurança da informação em Organizações Públicas - O Estudo de Caso TCE-PE. In: Congresso de Iniciação Científica (CIC) da XXII Jornada de Ensino, Pesquisa, Extensão (JEPEX) da UFRPE, 2023, Recife. Anais do Congresso de Iniciação Científica (CIC) da XXII Jornada de Ensino, Pesquisa, Extensão (JEPEX) da UFRPE, 2023.
+
+2.
+LOPES, V. B. P. ; SARINHO, M. W. ; SANTOS, G. A. V. ; LINS, F. A. A. . Metodologia para Avaliação de Conformidade das Plataformas com a Segurança de Crianças e Adolescentes. In: Congresso de Iniciação Científica (CIC) da XXII Jornada de Ensino, Pesquisa, Extensão (JEPEX) da UFRPE, 2023, Recife. Anais do Congresso de Iniciação Científica (CIC) da XXII Jornada de Ensino, Pesquisa, Extensão (JEPEX) da UFRPE, 2023.
+
+3.
+FEITOSA FILHO, R. T. A. ; LOSSE, M. A. P. F. ; SANTOS, G. A. V. ; LINS, F. A. A. . Proposta de Processo de Gestão de Riscos de Segurança da Informação para Organizações Públicas ? O Estudo de Caso TCE-PE. In: Congresso de Iniciação Científica (CIC) da XXII Jornada de Ensino, Pesquisa, Extensão (JEPEX) da UFRPE, 2023, Recife. Anais do Congresso de Iniciação Científica (CIC) da XXII Jornada de Ensino, Pesquisa, Extensão (JEPEX) da UFRPE, 2023.
+
+4.
+MIRANDA, A. F. S. ; NOBREGA, O. O. ; LINS, F. A. A. . Análise de Soluções Tecnológicas Atuais para Suporte ao Ensino de Discentes com Síndrome de Down. In: XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015, Recife. XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015.
+
+5.
+FERNANDES, C. M. ; LINS, F. A. A. . Proposta de Metodologia para Planejamento e Implantação de Ambientes Virtuais de Aprendizagem em Nuvens Computacionais. In: XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015, Recife. XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015.
+
+6.
+CAVALCANTI, K. R. P. ; LINS, F. A. A. . Uma Solução Integrada para a Melhoria da Segurança de Dispositivos Móveis Baseados na Plataforma Android. In: XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015, Recife. XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015.
+
+7.
+BIONE, T. A. ; LINS, F. A. A. . Proposta de Cartilha Pedagógica para Melhoria de Decisões de Segurança do Usuário de Dispositivos Móveis. In: XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015, Recife. XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015.
+
+8.
+SEGUNDO, M. A. S. ; LINS, F. A. A. . Automação de Requisitos de Segurança de Serviços Web Baseados no Protocolo REST. In: XIV Jornada de Ensino, Pesquisa e Extensão, 2014, Recife. Anais da XIV Jornada de Ensino, Pesquisa e Extensão, 2014.
+
+9.
+LINS, F. A. A.; OLIVEIRA, I. A. L. . Computação em Nuvem Móvel: Conceitos e Tendências. In: XIV Jornada de Ensino, Pesquisa e Extensão, 2014, Recife. XIV Jornada de Ensino, Pesquisa e Extensão, 2014.
+
+10.
+SOUZA, T. V. M. ; LINS, F. A. A. . Desenvolvimento de uma Solução Computacional para Escrita e Leitura de Livros Jogos em Dispositivos Móveis. In: XIV Jornada de Ensino, Pesquisa e Extensão, 2014, Recife. XIV Jornada de Ensino, Pesquisa e Extensão, 2014.
+
+11.
+BIONE, T. A. ; LINS, F. A. A. . Mitigação de Riscos de Segurança em Ambientes Android Baseada na Melhoria das Decisões de Configuração. In: XIV Jornada de Ensino, Pesquisa e Extensão, 2014, Recife. XIV Jornada de Ensino, Pesquisa e Extensão, 2014.
+
+12.
+BARBOSA, D. L. S. ; SANTOS, F. S. ; SILVA, M. A. C. M. ; SILVA, R. R. ; SILVA, S. V. ; GONDIM, T. H. G. ; LINS, F. A. A. . Uma Proposta de Desenvolvimento de um Simulador de Redes para o Ensino Introdutório de Endereçamento IP. In: XII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2012, Recife. Anais da XII Jornada de Ensino, Pesquisa e Extensão da UFRPE (JEPEX 2012), 2012.
+
+Apresentações de Trabalho
+
+1.
+LINS, F. A. A.; FIALHO, F. L. . Ferramenta Educacional para Avaliação e Melhoria do Nível de Conscientização em Segurança da Informação. 2025. (Apresentação de Trabalho/Congresso).
+
+2.
+LINS, F. A. A.. Você é +Seguro?. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+3.
+LINS, FERNANDO A.A.; FELIX, E. F. ; GOMES, D. R. ; NOBREGA, O. O. ; VIEIRA, M. . Compliance Evaluation of Cryptographic Security Requirements on IoT Gateways. 2022. (Apresentação de Trabalho/Conferência ou palestra).
+
+4.
+LINS, F. A. A.. Requisitos de Segurança para IoT: Por Onde Começar?. 2022. (Apresentação de Trabalho/Conferência ou palestra).
+
+5.
+MELO, H. B. S. ; MEDEIROS, R. W. A. ; LINS, F. A. A. . A Methodology for Intelligent Offloading Decision in Mobile Cloud Computing Environments. 2021. (Apresentação de Trabalho/Conferência ou palestra).
+
+6.
+LINS, F. A. A.; VIEIRA, MARCO . Security Requirements for IoT Gateways: A Comprehensive Study. 2021. (Apresentação de Trabalho/Conferência ou palestra).
+
+7.
+Sousa, E.T.G. ; MACIEL, P. R. M. ; TAVARES, E. A. G. ; LINS, F. A. A. . Performance and Cost Modeling Strategy for Cloud Infrastructure Planning. 2014. (Apresentação de Trabalho/Conferência ou palestra).
+
+8.
+Sousa, E.T.G. ; MACIEL, P. R. M. ; LINS, F. A. A. ; TAVARES, E. A. G. ; MEDEIROS, E. . Stochastic Model Generation for Cloud Infrastructure Planning. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+9.
+LINS, F. A. A.; DAMASCENO, J. C. ; MEDEIROS, R. W. A. ; Sousa, E.T.G. ; ROSA, N. S. . Comparative Study of Service-based Security-aware Business Processes Automation Tools. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+10.
+DAMASCENO, J. C. ; LINS, F. A. A. ; SOUZA, A. R. S. ; SILVA, B. L. B. ; Aragao, D. ; MEDEIROS, R. W. A. D. ; MACIEL, P. R. M. ; ROSA, N. S. ; STEPHENSON, B. ; LI, J. . Modeling and Executing Business Process with Security Requirements in the Cloud. 2011. (Apresentação de Trabalho/Conferência ou palestra).
+
+11.
+LINS, F. A. A.; DAMASCENO, J. C. ; SOUZA, A. R. S. ; SILVA, B. L. B. ; MEDEIROS, R. W. A. ; Aragao, D. ; ROSA, N. S. ; MACIEL, P. R. M. ; STEPHENSON, B. ; LI, J. . SSC4Cloud Tooling: An Integrated Environment for the Development of Business Process with Security Requirements in the Cloud. 2011. (Apresentação de Trabalho/Conferência ou palestra).
+
+12.
+SOUZA, A. R. S. ; LINS, F. A. A. ; SILVA, B. L. B. ; DAMASCENO, J. C. ; MEDEIROS, R. W. A. ; ROSA, N. S. ; MACIEL, P. R. M. ; STEPHENSON, B. ; LI, J. ; Motahari-Nezhar, H. R. ; NORTHFLEET, C. . Towards Generating Richer Code by Binding Security Abstractions to BPMN Task Types. 2009. (Apresentação de Trabalho/Conferência ou palestra).
+
+13.
+LINS, F. A. A.; SOUZA, A. R. S. ; SILVA, B. L. B. ; MEDEIROS, R. W. A. ; DAMASCENO, J. C. ; STEPHENSON, B. ; LI, J. ; Motahari-Nezhar, H. R. ; ROSA, N. S. ; MACIEL, P. R. M. ; NORTHFLEET, C. . An Approach for Reducing the Gap between BPMN Models and Implementation Artifacts. 2009. (Apresentação de Trabalho/Conferência ou palestra).
+
+14.
+ LINS, F. A. A.; SANTOS JUNIOR, J. C. ; ROSA, N. S. . Improving Transparent Adaptability in Web Service Composition. 2007. (Apresentação de Trabalho/Conferência ou palestra).
+
+15.
+LINS, F. A. A.; CARVALHO JUNIOR, F. H. . Análise do Custo de Comunicação de Programas # Usando o Network Simulator. 2004. (Apresentação de Trabalho/Seminário).
+
+16.
+LINS, F. A. A.; CARVALHO JUNIOR, F. H. . Análise do Custo de Comunicação de Programas Paralelos Usando Simulação de Redes. 2003. (Apresentação de Trabalho/Seminário).
+
+
+Produção técnica
+Assessoria e consultoria
+
+1.
+LINS, F. A. A.; VALLE, E. ; SIEBRA, S. A. ; LEMOS, J. R. ; TENORIO JUNIOR, L. A. . Reestruturação dos Laboratórios de Informática do DEINFO. 2008.
+
+Demais tipos de produção técnica
+
+1.
+Aires, Fernando. The 36rd IEEE International Symposium on Software Reliability Engineering. 2025. (Membro do Comitê de Programa (Revisão de Artigos)).
+
+2.
+LINS, F. A. A.. IEEE SMC 2018 Program Committee. 2018. (Membro do Comitê de Programa (Revisão de Artigos)).
+
+3.
+LINS, F. A. A.. Parecerista do Guia do Estudante. 2018. (Parecerista do Guia do Estudante).
+
+4.
+LINS, FERNANDO A.A.. Revisor de artigos. VII Simpósio Brasileiro de Tecnologia da Informação (SBTI 2018). 2018. (Membro do Comitê de Programa (Revisão de Artigos)).
+
+
+
+Patentes e registros
+
+Patente
+
+A Confirmação do status de um pedido de patentes poderá ser solicitada à Diretoria de Patentes (DIRPA) por meio de uma Certidão de atos relativos aos processos
+1.
+ROSA, N. S. ; SOUZA, A. R. S. ; SILVA, B. L. B. ; MEDEIROS, R. W. A. D. ; STEPHENSON, B. ; MACIEL, P. R. M. ; DAMASCENO, J. C. ; LINS, F. A. A. ; Motahari-Nezhar, H. R. ; SOUZA, A. R. D. S. ; MOTAHARI-NEZHAD, H. H. ; LI, J. ; MACIEL, P. R. M. ; NORTHFLEET, C. ; et.al . Enforcement of Security Requirements for a Business Model. 2010, Estados Unidos.
+Patente: Privilégio de Inovação. Número do registro: US 2012/0030120, título: "Enforcement of Security Requirements for a Business Model" , Instituição de registro: United States Patent and Trademark Office. Depósito: 30/07/2010; Concessão: 20/05/2014.
+
+2.
+FREITAS, F. A. ; NOBREGA, O. O. ; LINS, FERNANDO . Dispositivo de internet das coisas para o monitoramento remoto de parâmetros da água e processo para a estimação dos níveis de oxigênio dissolvido. 2022, Brasil.
+Patente: Privilégio de Inovação. Número do registro: BR1020220076421, título: "Dispositivo de internet das coisas para o monitoramento remoto de parâmetros da água e processo para a estimação dos níveis de oxigênio dissolvido" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 20/04/2022
+
+
+Programa de computador
+1.
+LINS, F. A. A. . MSC - Mobile Security Check. 2016.
+Patente: Programa de Computador. Número do registro: BR512016001044-4, data de registro: 09/09/2016, título: "MSC - Mobile Security Check" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+2.
+MORAIS, A. M. ; LINS, F. A. A. . BlockMoodle. 2020.
+Patente: Programa de Computador. Número do registro: BR512020002480-7, data de registro: 30/09/2020, título: "BlockMoodle" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+3.
+OLIVEIRA, R. F. F. ; MENEZES, W. M. E. ; LINS, F. A. A. ; RAMOS, F. M. B. ; CORREIA NETO, J. S. . SoundMath. 2020.
+Patente: Programa de Computador. Número do registro: BR512020002158-1, data de registro: 29/07/2020, título: "SoundMath" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+4.
+VALE, C. M. C. ; LINS, F. A. A. . MSCHORE - Microservices Choreography. 2020.
+Patente: Programa de Computador. Número do registro: BR512020002826-8, data de registro: 22/12/2020, título: "MSCHORE - Microservices Choreography" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+5.
+MELO, H. B. S. ; MEDEIROS, R. W. A. D. ; LINS, F. A. A. . MOCAAI - Mobile Offloading Cloud Application Artificial Intelligence. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001359-0, data de registro: 29/06/2021, título: "MOCAAI - Mobile Offloading Cloud Application Artificial Intelligence" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+6.
+FREITAS, F. A. ; LINS, F. A. A. . Modelo estimador de oxigênio dissolvido baseado em regressão de redes neurais. 2022.
+Patente: Programa de Computador. Número do registro: BR512022000809-2, data de registro: 19/04/2022, título: "Modelo estimador de oxigênio dissolvido baseado em regressão de redes neurais" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+7.
+SOUZA, V. F. ; LINS, F. A. A. . AvaliaSec. 2025.
+Patente: Programa de Computador. Número do registro: BR512025005994-9, data de registro: 25/11/2025, título: "AvaliaSec" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+ROSA, N. S.; LINS, F. A. A.; CAVALCANTI, D. J. M.. Participação em banca de Daniel da Cruz Brandão. Adaptação Dinâmica de Protocolos de Transporte em Sistemas de Middleware Baseados em RPC. 2025. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+2.
+NOBREGA, O. O.; CAMBOIM, K. M. A.; LINS, F. A. A.. Participação em banca de Valdir José da Silva. Avaliação da Segurança de Brokers MQTT Considerando Ataques de Negação de Serviço. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+3.
+SOUZA, R. N. P. M.; SANTOS, G. A. V.; LINS, F. A. A.. Participação em banca de Saulo Marques de Morais Silva. Uma Metodologia Para Avaliação de Custos Financeiros na Implementação de Controles de Segurança Cibernética Para Pequenas e Médias Empresas. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+4.
+DOMINGUES, M. A. O.; SILVA, H. P.; SILVA, R. F.; LINS, FERNANDO A.A.. Participação em banca de Ozandir Frazão da Silva Júnior. Desenvolvimento de uma Solução Computacional Para Otimização dos Sistemas de Resíduos em Comunidades: Protótipo Desenvolvido no Bairro dos Coelhos, Recife-PE. 2023. Dissertação (Mestrado em Gestão Ambiental) - Instituto Federal de Pernambuco.
+
+5.
+SOUSA, E. T. G.; GUIMARAES, A. P.; LINS, F. A. A.. Participação em banca de Alex Cordeiro Cunha. Avaliação de Dependabilidade de Ambientes de Nuvem Baseado em Injeção de Falhas. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+6.
+CALLOU, G. R. A.; LINS, FERNANDO A.A.; DANTAS, J. R.. Participação em banca de Alison Vinicius Gomes da Silva. Modelos Para Avaliação de Desempenho e Disponibilidade de Servidores de Arquivos em Nuvem Privada. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+7.
+LINS, F. A. A.; ARAUJO, D. R. B.; DOMINGUES, M. A. O.; NOBREGA, O. O.; SANTOS, J. F.. Participação em banca de Fábio Alves de Freitas. Uma Solução IoT de Baixo Custo Para Monitoramento da Qualidade de Água na Aquicultura 4.0. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+8.
+LINS, F. A. A.; FURTADO, A. P. C. C.; SANTOS, G. A. V.; NOBREGA, O. O.. Participação em banca de Maria Eduarda Rebelo Di Carlli. Uma Proposta de Processo de Auditoria de Qualidade Para Políticas de Privacidade Para Crianças. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+9.
+BARBOSA, D. L. S.; LINS, F. A. A.; NOBREGA, O. O.; DOMINGUES, M. A. O.; SILVA, L. O. B.. Participação em banca de Victor Matheus Falcão Fonseca. Sistema para Aeração na Aquicultura 4.0 Baseado em IoT com Ênfase em Eficiência Energética. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+10.
+SOUZA, R. N. P. M.; LINS, F. A. A.; DINIZ, J. R. B.. Participação em banca de Manoel Pereira de Lima Filho. Proposição de Artefatos e Atividades para o Ensino e Aprendizagem do Pensamento Computacional junto aos Licenciandos em Computação. 2022. Dissertação (Mestrado em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+11.
+MEDEIROS, R. W. A.; LINS, F. A. A.; SOUSA, E. T. G.. Participação em banca de Tarcísio José Rolim Filho. Avaliação de desempenho, disponibilidade e performabilidade de ambientes big data na nuvem privada. 2022. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+12.
+CORREIA NETO, J. S.; NOBREGA, O. O.; DOMINGUES, M. A. O.; LINS, F. A. A.. Participação em banca de Edgar Natanael de Vasconcelos Gregório. Transparência de Conectividade de Serviços Blockchain: Uma Proposta de Arquitetura. 2021. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+13.
+NOBREGA, O. O.; MEDEIROS, R. W. A.; CORREIA NETO, J. S.; LINS, F. A. A.. Participação em banca de Anderson Melo de Morais. BlockMoodle: Uma Solução Para Integração de Ambientes Virtuais de Aprendizagem a Blockchain. 2021. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+14.
+LINS, F. A. A.; NOBREGA, O. O.; SOUSA, E. T. G.; FERNANDES, S. M. M.. Participação em banca de Henning Barly Summer de Melo. Uma Metodologia para Tomada de Decisão Inteligente de Offloading em Ambientes de Computação Móvel em Nuvem. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+15.
+LINS, F. A. A.; CALLOU, G. R. A.; MARINHO, M. L. M.; ROSA, N. S.. Participação em banca de Caio Medeiros Caldas Vale. MSCHORE - Uma Solução para Execução de Processos de Negócios Através da Composição Coreografada de Microsserviços. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+16.
+GARCIA, V. C.; LINS, F. A. A.; ROSA, N. S.. Participação em banca de Wellison Raul Mariz Santos. Adaptação de Aplicações Baseadas em Microsserviços Usando Aprendizagem de Máquina. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+17.
+CAVALCANTI, A. P. C.; FERRAZ, F. S.; LINS, F. A. A.. Participação em banca de Claudia Rejane Oliveira Gomes. SmaCoViL: Uma Linguagem de Modelagem Específica de Domínio para Geração de Contratos Inteligentes em Blockchain. 2020. Dissertação (Mestrado em Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+18.
+CYSNEIROS FILHO, G. A. A.; CORREIA NETO, J. S.; LINS, F. A. A.. Participação em banca de Herton Freire Vilarim. Abordagem VPRD: Uma Proposta de Visualização. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+19.
+FALCAO, T. P. R.; DINIZ, J. R. B.; CORREIA NETO, J. S.; LINS, F. A. A.. Participação em banca de Raphael Franklin Fontes de Oliveira. Uma proposta para avaliação de usabilidade de jogos educacionais destinados a pessoas com a Síndrome de Williams-Beuren. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+20.
+ROSA, N. S.; GARCIA, V. C.; LINS, FERNANDO A.A.. Participação em banca de Edmundo Matheus Barbosa Santana. Rbinder: Uma Solução para Monitoramento Transparente de Aplicações Baseadas em Microsserviços. 2019. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+21.
+LINS, F. A. A.; MEDEIROS, R. W. A.; CALLOU, G. R. A.; ROSA, N. S.. Participação em banca de Vladimir Gualberto da Silva. Planejamento de Capacidade em Nuvens Educacionais Privadas Considerando Aspectos de Desempenho e Custo. 2019. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+22.
+Sousa, E.T.G.; TAVARES, Eduardo Antonio Guimaraes; MACIEL, P. R. M.; LINS, F. A. A.. Participação em banca de Rajeev Ranjan Yadav. Uma Estratégia Para Avaliação de Desempenho e Custo de Ambientes Big Data em Infraestruturas de Nuvens Privadas. 2019. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+23.
+CORREIA NETO, J. S.; VILAR, G.; LINS, F. A. A.. Participação em banca de Gersica Agripino Alencar. Mapeamento de Requisitos em Sistemas de Saúde: o caso do CER-IV IMIP. 2019. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+24.
+VILAR, G.; LINS, F. A. A.; CORREIA NETO, J. S.; MACHADO, A. S.; LUCENA, E. H. G.. Participação em banca de Augusto César Ferreira de Miranda Oliveira. Sistema Computacional como Apoio na Coleta e Análise dos Dados de Vigilância Ambiental em Saúde: Uma Aplicação no Município de Jaboatão dos Guararapes - PE. 2018. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+25.
+ROSA, N. S.; MACIEL, P. R. M.; LINS, F. A. A.. Participação em banca de Winder Faik de Sousa. xPresumo - Um Middleware Orientado a Mensagens para Internet das Coisas. 2017. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+26.
+FERREIRA, T. A. E.; GUIMARAES, K. S.; ALBUQUERQUE, J. O.; LINS, F. A. A.. Participação em banca de Edgard Niceas Arcoverde Gusmão Lima. Distributed vam Emde Boas tree. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+27.
+CYSNEIROS FILHO, G. A. A.; SCHUENEMANN, C. T. L. L. S.; TEIXEIRA, M. M.; LINS, F. A. A.. Participação em banca de Micaías Paiva de Oliveira. EDURETAIL: Um catálogo de requisitos para auxiliar o desenvolvimento de softwares educacionais voltados para a área do varejo. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+28.
+CALLOU, G. R. A.; DINIZ, J. R. B.; SOUZA, R. N. P. M.; LINS, F. A. A.. Participação em banca de Carlos Marques Fernandes. Uma Metodologia para Avaliação de Desempenho de Ambientes Virtuais de Aprendizagem em Nuvens Computacionais Privadas. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+29.
+CYSNEIROS FILHO, G. A. A.; MEDEIROS, R. W. A. D.; ROSA, N. S.; LINS, F. A. A.. Participação em banca de Josival dos Santos Silva. Uma Metodologia para Avaliação do Consumo de Energia de Aplicações Baseadas em Ambientes de Computação Móvel em Nuvem. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+30.
+MELO, J. C. B.; SOUZA, R. N. P. M.; CORREIA NETO, J. S.; LINS, F. A. A.. Participação em banca de Ameliara Freire Santos de Miranda. E-Down: Uma Metodologia de Apoio ao Ensino de Alunos com Síndrome de Down em Ambientes Virtuais de Aprendizagem. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+31.
+LINS, F. A. A.; SOUZA, R. A. C.; SOUSA, E. T. G.; ROSA, N. S.. Participação em banca de Klever Regis Pires Cavalcanti. Uma Solução Integrada Para a Melhoria da Segurança de Dispositivos Móveis Baseada na Plataforma Android. 2016. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+32.
+LINS, F. A. A.; CALLOU, G. R. A.; CYSNEIROS FILHO, G. A. A.; DINIZ, J. R. B.. Participação em banca de Nielson Avelino de Santana. Uma Metodologia para a Avaliação de Desempenho de Aplicações em Ambiente de Computação Móvel em Nuvem. 2016. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+33.
+SALAZAR, D. S. P.; LIMA, J. B.; LINS, F. A. A.; FRANCA, S. V. A.. Participação em banca de Gildon César de Oliveira. Ensino da Matemática Financeira: Desenvolvimento de um Aplicativo Móvel. 2016. Dissertação (Mestrado em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+34.
+DINIZ, J. R. B.; SALAZAR, D. S. P.; FALCAO, T. P. R.; LINS, F. A. A.. Participação em banca de Sebastião Assunção Araújo do Nascimento Filho. Atividades Online na Educação a Distância: da análise dos principais softwares existentes ao desenvolvimento da Ferramenta Macaxeiras. 2016. Dissertação (Mestrado em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+35.
+SOUZA, R. N. P. M.; DINIZ, J. R. B.; FRANCA, S. V. A.; LINS, F. A. A.. Participação em banca de Athos Denis Eulálio. Modelo de integração entre ambientes virtuais de aprendizagem e sistemas de gestão acadêmica baseado em arquitetura orientada a serviços e computação em nuvem. 2016. Dissertação (Mestrado em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+36.
+SOUZA, R. A. C.; VASCONCELOS, A. M. L.; SCHUENEMANN, C. T. L. L. S.; LINS, F. A. A.. Participação em banca de Lamartine da Silva Barboza. Uma abordagem para garantia da conformidade legal no planejamento de contratações de TI na Administração Pública Federal. 2015. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+37.
+LINS, F. A. A.; CYSNEIROS FILHO, G. A. A.; DINIZ, J. R. B.; FERNANDES, S. M. M.. Participação em banca de Marcelo José Santos da Silva. Uma Abordagem para Avaliação de Desempenho de Serviços Web. 2015. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+38.
+SOUZA, R. A. C.; LINS, F. A. A.; CYSNEIROS FILHO, G. A. A.; SCHUENEMANN, C. T. L. L. S.. Participação em banca de Breno Leonardo Gomes de Menezes Araújo. Innotrace: Rastreamento de Requisitos de Inovação na Concepção de Produtos de Software. 2015. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+39.
+BATISTA, M. C. M.; CRUZ, M. L. P. M.; SCHUENEMANN, C. T. L. L. S.; LINS, F. A. A.; CYSNEIROS FILHO, G. A. A.. Participação em banca de Jefferson Penna de Oliveira. Uma abordagem para captura automática de links de rastreamento entre especificação de casos de uso de modelos UML. 2015. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+40.
+ROSA, N. S.; MACIEL, P. R. M.; LINS, F. A. A.. Participação em banca de Luiz Artur Botelho da Silva. FliMSy: Um Middleware Funcional em Scala. 2015. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+41.
+MACIEL, P. R. M.; LIMA, R. M. F.; LINS, F. A. A.. Participação em banca de Jesse James Matos Soares. Uma abordagem para a transformação da notação BPMN para a notação de Redes de Petri. 2014. Dissertação (Mestrado em Mestrado Profissional em Computação) - Universidade Federal de Pernambuco.
+
+42.
+LIMA, R. M. F.; TAVARES, E. A. G.; LINS, F. A. A.. Participação em banca de Rosiberto dos Santos Gonçalves. Modelagem e Avaliação de Performabilidade de Processo Governamental de um Centro de Atendimento ao Contribuinte (CAC). 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+43.
+LIMA, R. M. F.; ROSA, N. S.; LINS, F. A. A.. Participação em banca de Natália Cabral Silva. REFlex - Rule Engine for Flexible Processes. 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+44.
+ROSA, N. S.; LIMA, R. M. F.; LINS, F. A. A.. Participação em banca de David Júnio Mota Cavalcanti. Estratégias de Ranqueamento para Seleção Dinâmica de Serviços Baseadas em Atributos de Qualidade. 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+45.
+GAMA, K. S.; GARCIA, V. C.; LINS, F. A. A.. Participação em banca de Jean Louis Brasil Fernandes Costa. Uma Proposta de Solução para Distribuição de Conteúdos Educacionais. 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+46.
+SOUZA, R. N. P. M.; DINIZ, J. R. B.; FRANCA, S. V. A.; LINS, F. A. A.. Participação em banca de Afonso Augusto Guimarães Bione. Desenvolvendo um Ambiente Virtual de Aprendizagem de Baixo Custo e de Alta Performance. 2013. Dissertação (Mestrado em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+47.
+LIMA, R. M. F.; LINS, F. A. A.; MEIRA, S. R. L.. Participação em banca de Lenin Ernesto Abadié Otero. Uma Arquitetura para a Implantação Automática de Serviços em Infraestruturas de Nuvem. 2013. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Teses de doutorado
+
+1.
+TEIXEIRA, E. S.; BARROS, T. G. F.; GARCIA, V. C.; SIMPLICIO JUNIOR, M. A.; LINS, F. A. A.. Participação em banca de Fábio Wladimir Monteiro Maia. Partial Decentralization of Real Time Multiplayer Online Games Using an Anonymous Permissionless Ledger. 2024. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+2.
+DE OLIVEIRA RODRIGUES, CLEYTON MÁRIO; LINS, F. A. A.; BALIEIRO, A. M.; SILVA, C. M. R.. Participação em banca de Ricardo Paranhos Pinheiro. Técnica Para Detecção de Cyber-Ataques Zero Day Utilizando Morphological Extreme Learning Machines (mELM). 2024. Tese (Doutorado em Programa de Pós-Graduação em Engenharia de Computação) - Universidade de Pernambuco.
+
+3.
+DORNELAS, J. S.; CABRAL, R. M.; CUNHA, M. X.; LINS, FERNANDO A.A.; BELLINI, C. G. P.. Participação em banca de Henrique Santos Ferreira. Um Framework para a Configuração Organizacional de Empresas de Tecnologia da Informação em Arranjos Microestruturados Baseados em Projetos: Rumo às Organizações Projetizadas. 2023. Tese (Doutorado em Administração) - Universidade Federal de Pernambuco.
+
+4.
+MATTOS NETO, P. S. G.; VILELA, J. F. F.; FEITOSA, E. L.; LINS, F. A. A.; REGO, P. A. L.. Participação em banca de Flávio da Silva Neves. Smart Anonymity: Um Mecanismo para Recomendação de Algoritmos de Anonimização de Dados Baseado no Perfil dos Dados para Ambientes IoT. 2023. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+5.
+SOARES, S. C. B.; CORNELIO, M. L.; BATISTA, T. V.; CABRINI, F. H.; LINS, F. A. A.. Participação em banca de Rosiberto dos Santos Gonçalves. Reflex Water - Um Framework de IoT para Gerenciamento Inteligente de Sistemas de Abastecimento de Água. 2022. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+6.
+MACIEL, P. R. M.; GAMA, K. S.; GARCIA, V. C.; MENDONCA, N. C.; LINS, FERNANDO A.A.. Participação em banca de Tércio de Morais Sampaio Silva. Multi-Cloud Aware Middleware. 2021. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Qualificações de Doutorado
+
+1.
+FERRAZ, C. A. G.; GARCIA, V. C.; SETTE, I. S.; LINS, F. A. A.. Participação em banca de Fábio Wladimir Monteiro Maia. On Decentralization of Shared Virtual World Systems. 2022. Exame de qualificação (Doutorando em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+2.
+MATTOS NETO, P. S. G.; FEITOSA, E. L.; LINS, F. A. A.. Participação em banca de Flavio da Silva Neves. Um Mecanismo Para Recomendação de Algoritmos de Anonimização de Dados Baseado no Perfil dos Dados para Ambientes IoT. 2020. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+3.
+DORNELAS, J. S.; SILVEIRA, D. S.; LINS, F. A. A.; CABRAL, R. M.; BELLINI, C. G. P.; CUNHA, M. X.. Participação em banca de Henrique Santos Ferreira. Um modelo microestrutural e intercambiável baseado em tecnologia da informação para a gestão dinâmica de pequenas organizações de base tecnológica baseadas em projetos: a emergência da ciborganização. 2019. Exame de qualificação (Doutorando em Administração) - Universidade Federal de Pernambuco.
+
+4.
+MACIEL, P. R. M.; GAMA, K. S.; LINS, FERNANDO A.A.. Participação em banca de Tércio de Morais Sampaio Silva. Multi-Cloud-Aware Middleware. 2018. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+5.
+Cunha, P. R. F.; MUSICANTE, M. A.; LINS, F. A. A.. Participação em banca de Glaucia Melissa Medeiros Campos. Adaptive Service Composition based on Behavioural Properties. 2016. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Qualificações de Mestrado
+
+1.
+LOPES JUNIOR, P. G.; Fernando Aires; LIMA, M. V. M.. Participação em banca de Geilson Nascimento Silva. DT-LEAK: Uma Solução Baseada em Algoritmos de Mineração de Processos Para Detectar Comportamentos de Exfiltração de Dados. 2026. Exame de qualificação (Mestrando em Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+2.
+SALAZAR, D. S. P.; LIMA, J. B.; LINS, F. A. A.. Participação em banca de Gildon Cesar de Oliveira. Aplicativo Móvel para o Aprendizado de Matemática Financeira. 2016. Exame de qualificação (Mestrando em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+3.
+SOUZA, R. N. P. M.; FRANCA, S. V. A.; LINS, F. A. A.. Participação em banca de Athos Denis Eulálio. Modelo de Integração entre Ambientes Virtuais de Aprendizagem e Sistemas de Gestão Acadêmica baseado em Arquitetura Orientada a Serviços e Cloud Computing. 2016. Exame de qualificação (Mestrando em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+4.
+FALCAO, T. P. R.; DINIZ, J. R. B.; LINS, F. A. A.. Participação em banca de Sebastião Assunção Araújo do Nascimento Filho. Atividades Online na Educação a Distância: da análise de softwares existentes ao desenvolvimento da ferramenta Macaxeiras. 2016. Exame de qualificação (Mestrando em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+Monografias de cursos de aperfeiçoamento/especialização
+
+1.
+Melo, G.R.; Cunha Filho, M.; LINS, F. A. A.. Participação em banca de Daniel Leite Viana e Irene Cabral do Nascimento. Um Estudo Sobre as Práticas de Tecnologia da Informação Verde da Universidade Federal Rural de Pernambuco no Campus Dois Irmãos. 2014. Monografia (Aperfeiçoamento/Especialização em Gestão de Políticas Públicas) - Universidade Federal Rural de Pernambuco.
+
+2.
+LINS, F. A. A.; Sousa, E.T.G.; Santos, F.S.. Participação em banca de Leni de Souza Pessoa. Ambientes Virtuais de Aprendizagem: Conceitos e Tendências. 2012. Monografia (Aperfeiçoamento/Especialização em Mídias na Educação) - Universidade Federal Rural de Pernambuco.
+
+3.
+Santos, F.S.; Araujo, A.A.C.; LINS, F. A. A.. Participação em banca de Iris Maria Barbosa de Lira. Terceira Idade da Zona Rural: Novas Possibilidades Através do Computador e da Internet. 2012. Monografia (Aperfeiçoamento/Especialização em Mídias na Educação) - Universidade Federal Rural de Pernambuco.
+
+4.
+LINS, F. A. A.; Bezerra, J.C.; Sousa, E.T.G.. Participação em banca de Rosemary Arcanjo de Queiroz. Blog: um caminho pedagógico para o desenvolvimento de habilidades na produção escrita. 2011. Monografia (Aperfeiçoamento/Especialização em Mídias na Educação) - Universidade Federal Rural de Pernambuco.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+LINS, F. A. A.; MOTA, R. P. B.. Participação em banca de Mario Silva.Análise de Segurança em Aplicações Next.js: Um Estudo de Caso Baseado nas Diretrizes da OWASP Top 10. 2026. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+2.
+VALENCA, G.; LINS, F. A. A.. Participação em banca de Vinícius Nário Vasconcelos.Instanciação do Processo de Gestão de Riscos de Segurança da Informação da ISO 27005 em Organizações Públicas. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+3.
+MEDEIROS, R. W. A.; LINS, F. A. A.. Participação em banca de Michelle Lícia Souza da Silva Cavalcante.Controle de Acesso de Terceiros no Gerenciamento de Identidade e Acesso:Uma Revisão da Literatura. 2025. Trabalho de Conclusão de Curso (Graduação em Licenciatura em Computação) - Universidade Federal Rural de Pernambuco.
+
+4.
+DOMINGUES, J. P. O.; LINS, F. A. A.. Participação em banca de Fernanda Lemos Fialho.Ferramenta Educacional para Avaliação e Melhoria do Nível de Conscientização em Segurança da Informação. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+5.
+NOBREGA, O. O.; LINS, F. A. A.. Participação em banca de Rennan Luis de Barros Cabral.Utilização de Inteligência de Ameaças Cibernéticas Para Prevenção e Mitigação de Ataques Ransomware: Uma Revisão Sistemática da Literatura. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+6.
+ALBUQUERQUE JUNIOR, G. A.; LINS, F. A. A.. Participação em banca de Jonathas Felipe da Silva.Detecção e Modelagem de Ameaças Persistentes Avançadas (APTs) na Fase de Movimentação Lateral: Uma Abordagem com Process Mining. 2025. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco.
+
+7.
+DOMINGUES, J. P. O.; LINS, F. A. A.. Participação em banca de Christian Lira.Avaliação de Desempenho de Brokers MQTT v5 na Nuvem Sob Diferentes Tipos de Conexão ̃a Internet. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+8.
+MEDEIROS, R. W. A.; LINS, F. A. A.. Participação em banca de Marcelino Chagas.Comparação de VPN e ZTNA: Uma Análise de Segurança e Desempenho em Ambientes Corporativo. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+9.
+MEDEIROS, R. W. A.; LINS, F. A. A.. Participação em banca de Mateus Cunha Lima de Moraes Guerra.Abordagem para Melhoria de Segurança Cibernética em Organizações Considerando Severas Restrições de Custo. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+10.
+NOBREGA, O. O.; LINS, F. A. A.. Participação em banca de Edvaldo Ribeiro Alves.Uso de Blockchain na Rastreabilidade de Produtos: Uma Revisão Sistemática da Literatura. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+11.
+MEDEIROS, R. W. A.; LINS, F. A. A.. Participação em banca de Mateus Cunha Lima de Moraes Guerra.Mateus Cunha Lima de Moraes Guerra. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+12.
+MEDEIROS, R. W. A.; LINS, F. A. A.. Participação em banca de Henrique Nunes Mendes.Uma Ferramenta de Detecção de Ameaças à Privacidade Semi-Automatizada com LINDDUN PRO. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+13.
+NOBREGA, O. O.; LINS, F. A. A.. Participação em banca de Vinícius Rodrigues de Souza.Sistema Computacional para Avaliação e Prognóstico de Crescimento de Organismos Aquáticos para Aquicultura 4.0. 2022. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+14.
+MEDEIROS, R. W. A.; NOBREGA, O. O.; LINS, F. A. A.. Participação em banca de Saulo Gomes da Silva.Uma metodologia para suporte à tomada de decisão quanto ao uso de blockchain na área de registros públicos. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+15.
+DOMINGUES, J. P. O.; LINS, F. A. A.. Participação em banca de Vanessa Bandeira Lins Teixeira.Security Evaluation of Operating Systems Considering Compliance Policies. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+16.
+Sousa, E.T.G.; NOBREGA, O. O.; LINS, F. A. A.. Participação em banca de Victor Alexandre de Oliveira Silva.Uma Metodologia para Modelagem de Ameaças em Ambientes Baseados na Internet das Coisas. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+17.
+ARAUJO, D. R. B.; LINS, F. A. A.; SILVA, M. G.. Participação em banca de Waleska Dias de Souza.Segurança para redes de transporte ópticas considerando criptografia na camada física e requisitos de latência. 2017. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco.
+
+18.
+NOBREGA, O. O.; LINS, F. A. A.; ARAUJO, D. R. B.. Participação em banca de Laura Alice de Lima Fidelis Nunes.Proposta de Diretrizes para a Seleção de Planos de Internet Móvel por Usuários Domésticos: Estudo de Caso na Região Metropolitana do Recife. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+19.
+MEDEIROS, R. W. A.; ARAUJO, D. R. B.; LINS, F. A. A.. Participação em banca de Diógenes José Carvalho da Silva.Detecção de Malwares em Aplicativos Android Através de Análise Estática Automatizada. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+20.
+FALCAO, T. P. R.; MELO, J. C. B.; LINS, F. A. A.. Participação em banca de Igor Victor Lucena do Nascimento.Um jogo para dispositivos móveis com o objetivo de auxiliar o ensino de Libras, SignWriting e Português. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+21.
+ARAUJO, D. R. B.; DOMINGUES, J. P. O.; LINS, F. A. A.. Participação em banca de Gleidson Araújo de Souza Campos.Avaliação de Agregação de Enlaces em Redes Móveis: Um Estudo de Caso com Operadoras que Atuam na Região Metropolitana do Recife. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+22.
+CALLOU, G. R. A.; NOGUEIRA, B. C. E. S.; LINS, F. A. A.. Participação em banca de Euclides Carlos Pinto Neto.A State-Aware Metric-Based vSDN Allocation Method in Multi-Tenant SDN Scenarios to Optimise Power Consumption. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+23.
+Santos, F.S.; DOMINGUES, J. P. O.; LINS, F. A. A.. Participação em banca de Thaís Antunes Bione.Mitigação de Riscos de Segurança de Dispositivos Android Baseada na Melhoria das Decisões de Configuração do Usuário. 2015. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+24.
+MARINHO, M. L. M.; LINS, F. A. A.; SAMPAIO, S. C. B.. Participação em banca de Dayanne Cristina De Araujo Barbosa.Guia Para Syporte a Inserção de Requsitos de Ssegurança em Projetos Ágeis. 2015. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+CYSNEIROS FILHO, G. A. A.; LINS, F. A. A.; ALENCAR, F. M. R.. Concurso Público de Provas e Títulos em Desenvolvimento de Software Web e áreas afins. 2015. Universidade Federal Rural de Pernambuco.
+
+2.
+LINS, F. A. A.; Carvalho, M.A.A.S.; Siebra, C.A.. Concurso Público de Provas e Títulos para Docente do Magistério Superior na Matéria: Compiladores; Teoria da Computação e Disciplinas afins. 2014. Universidade Federal Rural de Pernambuco.
+
+3.
+LINS, F. A. A.; DOMINGUES, J. P. O.; GOMES, R. C. M.. Concurso público de provas e títulos para Professor Assistente I do DEINFO, Área de Informática (matéria: Análise de Desempenho / Tópicos Avançados em Análise de Desempenho) da Universidade Federal Rural de Pernambuco.. 2013. Universidade Federal Rural de Pernambuco.
+
+4.
+Albuquerque, J. O.; Bocanegra, S.; LINS, F. A. A.. Seleção Simplificada de Provas e Títulos para Professor Temporário. 2011. Universidade Federal Rural de Pernambuco.
+
+5.
+LINS, F. A. A.; MELO, J. C. B.; Moreira, A. L. S.. Concurso público de provas e títulos para Professor Assistente I do DEINFO, Área de Informática (matéria: Arquitetura e Organização de Computadores / Arquiteturas Avançadas de Computadores) da Universidade Federal Rural de Pernambuco.. 2010. Universidade Federal Rural de Pernambuco.
+
+6.
+LINS, F. A. A.; Miranda, A. C. S.; Pereira, F. M.. Concurso público de provas e títulos para Professor Assistente I do DEINFO, Área de Informática (matéria: Jogos Diigitais / Introdução a Informática / Introdução a MicroInformática), UFRPE. 2010. Universidade Federal Rural de Pernambuco.
+
+7.
+MELO, J. C. B.; LINS, F. A. A.; FERNANDES, S. M. M.. Melo, Jeane Cecília Bezerra; Lins, Fernando Antonio Aires; Fernandes, Sérgio Murilo Maciel. Concurso Público para Professor Assistente (Área de Informática com Publicação e Tese em Sistemas Distribuídos). 2009. Universidade Federal Rural de Pernambuco.
+
+8.
+LINS, F. A. A.; ROSA, N. S.; PAIVA, S. S. L.. LINS, Fernando Antônio Aires; Paiva, Sérgio S L; ROSA, N. S.. Concurso Público para Professor Assistente (PROJETO DE SISTEMAS DISTRIBUÍDOS/ PROGRAMAÇÃO PARALELA E DISTRIBUÍDA/ DESENVOLVIMENTO DISTRIBUÍDO DE SOFTWARE/ PROGRAMAÇÃO DE SISTEMAS INTERATIVOS/ DESENVOLVIMENTO DE SISTEMAS WEB/ INFORMÁTICA/ CIÊNCIA DA COMPUTAÇÃO). 2008. Universidade Federal Rural de Pernambuco.
+
+9.
+MELO, J. C. B.; LINS, F. A. A.; SALGADO, L. R. B.. Melo, Jeane Cecília Bezerra; Lins, Fernando Antonio Aires; Salgado, Liliane Rose Benning. Concurso Público para Professor Assistente (Área de Informática com Publicação e Tese em Teoria da Computação).. 2008. Universidade Federal Rural de Pernambuco.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+Congresso da Sociedade Brasileira de Computação. Ferramenta Educacional para Avaliação e Melhoria do Nível de Conscientização em Segurança da Informação. 2025. (Congresso).
+
+2.
+II Encontro TCE +Seguro. 2024. (Encontro).
+
+3.
+Security Leaders Recife 2024. 2024. (Congresso).
+
+4.
+I Encontro TCE +Seguro.Você é +Seguro?. 2023. (Encontro).
+
+5.
+IEEE International Conference on Systems, Man, and Cybernetics. Evaluation of Virtual Learning Environments for the Teaching of Students with down Syndrome. 2017. (Congresso).
+
+6.
+IEEE International Conference on Systems, Man, and Cybernetics. An Algorithm to Optimise the Load Distribution of Fog Environments. 2017. (Congresso).
+
+7.
+IEEE International Conference on Systems, Man, and Cybernetics. A Multi-Perspective Methodology for Evaluating the Security Maturity of Data Centers. 2017. (Congresso).
+
+8.
+IEEE International Conference on Systems, Man, and Cybernetics. Invasive Technique for Measuring the Energy Consumption of Mobile Devices Applications in Mobile Cloud Environments. 2017. (Congresso).
+
+9.
+International Conference on Cloud Computing (IEEE Cloud). Performance and Cost Modeling Strategy for Cloud Infrastructure Planning. 2014. (Congresso).
+
+10.
+IEEE International Conference on Systems, Man and Cybernetics. Stochastic Model Generation for Cloud Infrastructure Planning. 2013. (Congresso).
+
+11.
+IEEE International Conference on Systems, Man and Cybernetics. Comparative Study of Service-based Security-aware Business Processes Automation Tools. 2013. (Congresso).
+
+12.
+IEEE International Conference on Systems, Man, and Cybernetics. Capacity Planning of EFT Service Hosted on Elastic IaaS. 2012. (Congresso).
+
+13.
+IEEE International Services Cup.SSC4CLoud Toooling: An Integrated Environment for the Development of Business Processes with Security Requirements in the Cloud. 2011. (Outra).
+
+14.
+International Conference on Web Services (ICWS). Modeling and Executing Business Process with Security Requirements in the Cloud. 2011. (Congresso).
+
+15.
+CONSEGI 2010 - Congresso Internacional de Software Livre e Governo Eletrônico. 2010. (Congresso).
+
+16.
+Encontro dos Coordadores de Cursos de Graduação da UFRPE. 2010. (Encontro).
+
+17.
+I Encontro de Orientações para Construção de Materiais Didáticos para Educação a Distância. 2009. (Encontro).
+
+18.
+IEEE International Conference on Service-Oriented Computing. Improving Transparent Adaptability in Web Service Composition. 2007. (Congresso).
+
+19.
+X Seminário de Iniciação Científica FDPE/PIBIC/UPE/CNPq.Análise do Custo de Comunicação de Programas # Usando o Network Simulator. 2004. (Seminário).
+
+20.
+IX Seminário de Iniciação Científica.Análise do Custo de Comunicação de Programas Paralelos Usando Simulação de Redes. 2003. (Seminário).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+Aires, Fernando. Publication Co-chair do The 36th IEEE International Symposium on Software Reliability Engineering. 2025. (Congresso).
+
+2.
+LINS, F. A. A.; COSTA, S. H. . Coordenação Geral do XXX Congresso de Iniciação Científica da UFRPE. 2021. (Congresso).
+
+3.
+LINS, F. A. A.; COSTA, S. H. . Coordenação Geral do XXXI Congresso de Iniciação Científica da UFRPE.. 2021. (Congresso).
+
+4.
+LINS, F. A. A.. Comitê de Programa do IEEE SMC 2018. 2018. (Congresso).
+
+5.
+MELO, J. C. B. ; Albuquerque, J. O. ; Bocanegra, S. ; LINS, F. A. A. . Semana de Computação da UFRPE (I SECOMP). 2010. (Congresso).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+
+1.
+Byron Loureiro Lanverly de Melo Junior. Processamento inteligente de feeds em plataformas de CTI. Início: 2025. Dissertação (Mestrado em Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Coorientador).
+
+2.
+Filipe Valentim Bezerra. Diagnóstico de Segurança da Informação de Organizações Apoiado por Inteligência Artificial. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+Thays Maria da Conceição Silva Carvalho. Uma Plataforma Interoperável para Apoio a Times de Resposta a Incidentes Cibernéticos. Início: 2025. Dissertação (Mestrado em Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Coorientador).
+
+4.
+Rennan Luis de Barros Cabral. Proposta para Resposta a Incidentes CIbernéticos causados por Ransonware. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+5.
+Bruno Lutiano Azevedo da Silva. Uma Taxonomia para Compartilhamento de CTI na rede federativa da REGIC. Início: 2025. Dissertação (Mestrado em Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Coorientador).
+
+6.
+João Gabriel Gouveia de Souza Brito. Proposta de sistema IoT para Arraçoamento Inteligente na Aquicultura 4.0. Início: 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+7.
+Michel Ferreira da Silva Melo. Uma Abordagem para Utilização de Blockchain para Rastreabilidade de Produtos. Início: 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+8.
+Victor Alexandre de Oliveira Silva. Engenharia de Requisitos de Inteligência de Ameaças para Sistemas IoT. Início: 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Tese de doutorado
+
+1.
+Matheus Vilarim Pereira dos Santos. Detecção de usuários maliciosos em organizações através de análise de comportamento anômalo. Início: 2025. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+2.
+Carlos Roberto Gonçalves Viana Filho. Proposta para Compartilhamento de Informações de Inteligência de Ameaças (CTI) Considerando Requisitos de Privacidade. Início: 2025. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Coorientador).
+
+3.
+Jorge Soares de Farias Júnior. Proposta de Solução Adaptativa para a Gestão de Incidentes Cibernéticos de Segurança. Início: 2025. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco. (Coorientador).
+
+4.
+Diego Ribeiro Gomes. Abordagem para Análise Estática de Segurança em Sistemas Baseados na Internet das Coisas. Início: 2023. Tese (Doutorado em Doutorado em Engenharia Informática) - Universidade de Coimbra. (Coorientador).
+
+5.
+Eduardo Ferreira Félix. Uma Estratégia Para Análise Dinâmica de Segurança de Sistemas IoT. Início: 2023. Tese (Doutorado em Doutorado em Engenharia Informática) - Universidade de Coimbra. (Coorientador).
+
+6.
+Vladimir Gualberto da Silva. Melhoria da Qualidade de Sistemas IoT Usando Aprendizagem de Maquina. Início: 2020. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. (Coorientador).
+
+7.
+Bruno Almeida de Jesus. Avaliação da Robustez de Sistemas Baseados na Internet das Coisas. Início: 2019. Tese (Doutorado em Doutorado em Engenharia Informática) - Universidade de Coimbra. (Coorientador).
+
+Iniciação científica
+
+1.
+Vinícius Fernandes de Souza. Avaliação e Melhoria da Segurança Cibernética e da Informação em Sistemas Computacionais e Organizações. Início: 2025. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+Valdir Jose da Silva. Avaliação da Segurança de Brokers MQTT Considerando Ataques de Negação de Serviço. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+2.
+Saulo Marques de Morais Silva. Uma Metodologia Para Avaliação de Custos Financeiros na Implementação de Controles de Segurança Cibernética Para Pequenas e Médias Empresas. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+3.
+Maria Eduarda Rebelo Di Carlli. Towards a Quality Audit Process for Chindren's Privacy Policies. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+4.
+Fábio Alves de Freitas. Uma Solução IoT de Baixo Custo Para Monitoramento da Qualidade da Água na Aquicultura 4.0. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+5.
+Eduardo Ferreira Felix. Avaliação de Conformidade de Requisitos de Segurança Criptográfica em Gateways IoT. 2022. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+6.
+Diego Ribeiro Gomes. Avaliação de Conformidade de Requisitos de Autenticação em Gateways IoT. 2022. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+7.
+Edgar Natanael de Vasconcelos Gregorio. Transparência de Conectividade de Serviços Blockchain: Uma Proposta de Arquitetura. 2021. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+8.
+Anderson Melo de Morais. BlockMoodle: Uma Solução Para Integração de Ambientes Virtuais de Aprendizagem a Blockchain. 2021. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+9.
+Caio Medeiros Caldas Vale. MSCHORE - Uma Solução para Execução de Processos de Negócios Através da Composição Coreografada de Microsserviços. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+10.
+Henning Barly Summer de Melo. Uma Metodologia para Tomada de Decisão Inteligente de Offloading em Ambientes de Computação Móvel em Nuvem. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+11.
+Raphael Franklin Fontes de Oliveira. Uma proposta para avaliação de usabilidade de jogos educacionais destinados a pessoas com a Síndrome de Williams-Beuren. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+12.
+Vladimir Gualberto da Silva. Planejamento de Capacidade em Nuvens Educacionais Privadas Considerando Aspectos de Desempenho e Custo. 2019. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+13.
+Carlos Marques Fernandes. Uma Metodologia para Avaliação de Desempenho de Ambientes Virtuais de Aprendizagem em Nuvens Computacionais privadas. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+14.
+Ameliara Freire Santos de Miranda. E-Down: Uma Metodologia de Apoio ao Ensino de Alunos com Síndrome de Down em Ambientes Virtuais de Aprendizagem. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+15.
+Milton Vinicius Morais de Lima. Uma Metodologia para Apoiar Políticas de Segurança em Ambientes de Data Center: Uma Estrutura Sistemática com Multiperspectiva. 2017. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: Fernando Antonio Aires Lins.
+
+16.
+Josival dos Santos Silva. Uma Metodologia para Avaliação do Consumo de Energia de Aplicações Baseadas em Ambientes de Computação Móvel em Nuvem. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+17.
+Klever Régis Pires Cavalcanti. Uma Solução Integrada Para a Melhoria da Segurança de Dispositivos Móveis Baseada na Plataforma Android. 2016. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+18.
+Nielson Avelino de Santana. Uma metodologia para avaliação de desempenho de aplicações em ambientes de computação móvel em nuvem. 2016. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+19.
+Marcelo José Santos da Silva. Uma Abordagem para Avaliação de Desempenho de Serviços Web. 2014. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Fernando Antonio Aires Lins.
+
+Tese de doutorado
+
+1.
+Josival dos Santos Silva. UP-Home: Uma Solução Adaptativa para Segurança de Casas Inteligentes com Suporte ao Human-In-the-Loop. 2025. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Fernando Antonio Aires Lins.
+
+2.
+Anderson Melo de Morais. OMNIBLOCK: Uma Blockchain para IoT com Integração de Múltiplos Algoritmos de Consenso. 2025. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: Fernando Antonio Aires Lins.
+
+3.
+Milton Vinicius Morais de Lima. Beholder: Um Sistema de Detecção e Prevenção Contra Intrusão em Ambientes da Internet das Coisas Baseado em Processamento de Eventos Complexos. 2023. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: Fernando Antonio Aires Lins.
+
+4.
+Milton Secundino de Souza Júnior. LongWise4Cloud: Um Ambiente Adaptativo para Execução de Workflows de Longa Duração como Serviço. 2018. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: Fernando Antonio Aires Lins.
+
+Supervisão de pós-doutorado
+
+1.
+Milton Vinicius Morais de Lima. 2024. Universidade Federal Rural de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Fernando Antonio Aires Lins.
+
+Monografia de conclusão de curso de aperfeiçoamento/especialização
+
+1.
+Leni de Souza Pessoa. Ambientes Virtuais de Aprendizagem: Conceitos e Tendências. 2012. Monografia. (Aperfeiçoamento/Especialização em Mídias na Educação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+2.
+Rosemary Arcanjo de Queiroz. Blog: um caminho pedagógico para o desenvolvimento de habilidades na produção escrita. 2011. Monografia. (Aperfeiçoamento/Especialização em Mídias na Educação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Vinícius Nário Vasconcelos. Instanciação do Processo de Gestão de Riscos de Segurança da Informação da ISO 27005 em Organizações Públicas. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+2.
+Michelle Lícia Souza da Silva Cavalcante. Controle de Acesso de Terceiros no Gerenciamento de Identidade e Acesso:Uma Revisão da Literatura. 2025. Trabalho de Conclusão de Curso. (Graduação em Licenciatura em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+3.
+Fernanda Lemos Fialho. Ferramenta Educacional para Avaliação e Melhoria do Nível de Conscientização em Segurança da Informação. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+4.
+Jonathas Felipe da Silva. Detecção e Modelagem de Ameaças Persistentes Avançadas (APTs) na Fase de Movimentação Lateral: Uma Abordagem com Process Mining. 2025. Trabalho de Conclusão de Curso. (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+5.
+Rennan Luis de Barros Cabral. Utilização de Inteligência de Ameaças Cibernéticas Para Prevenção e Mitigação de Ataques Ransomware: Uma Revisão Sistemática da Literatura. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+6.
+Mateus Cunha Lima de Moraes Guerra. Abordagem para Melhoria de Segurança Cibernética em Organizações Considerando Severas Restrições de Custo. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+7.
+Edvaldo Ribeiro Alves. Uso de Blockchain na Rastreabilidade de Produtos: Uma Revisão Sistemática da Literatura. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+8.
+Raylison Nunes dos Santos. Uma Solução para Verificação do Uso de Dados Pessoais em Formulários Web. 2022. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+9.
+Saulo Gomes da Silva. Uma metodologia para suporte à tomada de decisão quanto ao uso de blockchain na área de registros públicos. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+10.
+Vanessa Bandeira Lins Teixeira. Security Evaluation of Operating Systems Considering Compliance Policies. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+11.
+Victor Alexandre de Oliveira Silva. Uma Metodologia para Modelagem de Ameaças em Ambientes Baseados na Internet das Coisas. 2018. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+12.
+Diógenes José Carvalho Da Silva. Detecção de Malwares em Aplicativos Android Através de Análise Estática Automatizada. 2017. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+13.
+Thiago Vinicius Machado de Souza. Desenvolvimento de Ambiente Computacional para Escrita e Leitura de Livros-Jogos em Dispositivos Móveis. 2015. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+14.
+Thaís Antunes Bione. Mitigação de Riscos de Segurança de Dispositivos Android Baseada na Melhoria das Decisões de Configuração do Usuário. 2015. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+15.
+Liélia Barbosa Lunguinho. O Impacto do Uso de Redes Sem Fio para Fins Comerciais. 2008. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+16.
+Janaína Lourenço dos Santos. Os Benefícios do Comérios Eletrônico para Seus Consumidores. 2008. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+17.
+Ilda Regina da Silva. Segurança da Informação no Ambiente Empresarial. 2008. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+18.
+Sidnei José Aires da Silva Junior. Gestão de Custos: Investigando os Impactos em Projetos de Obra Civil. 2008. Trabalho de Conclusão de Curso. (Graduação em Administração) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+19.
+Nestor de Azevedo Holanda Cavalcanti Neto. Educação à Distância: a Influência do E-learning na Educação Corporativa. 2008. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+20.
+Amanda Conceição Bezerra Monteiro. A Implantação e o Impacto do Padrão TISS nas Operadores de Plano de Saúde. 2007. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+21.
+Katiana Cabral de Souza. Motivação de Funcionários em Programas de Qualidade. 2007. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+22.
+Elisângela Correia de Carvalho Ferreira. A Influência do Líder Sobre a Motivação das Pessoas. 2007. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+23.
+Danielly Santos Cordeiro. Automatizando o Secretariado: Como um Software Pode Tornar as Ações Mais Rápidas e Eficientes Dentro das Organizações. 2007. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+24.
+Jennifer Guedes de Lira. A Importância da Comunicação no Atendimento aos Clientes da FADE-UFPE. 2007. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+25.
+Rúbia Wanessa dos Reis Cruz. Melhoria na Veiculação de Informações Sobre o ESO para os Alunos de Agronomia da UFRPE. 2007. Trabalho de Conclusão de Curso. (Graduação em Secretariado) - Universidade Federal de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+Iniciação científica
+
+1.
+Mateus Cunha Lima de Moraes Guerra. Projeto e Implementação de Ferramenta Para Recomendação de Ações de Cibersegurança Considerando Cenários de Baixo Custo. 2024. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+2.
+Dayanne Carolina e Silva Portela. Avaliação da Segurança de Sistemas IoT Utilizados na Aquicultura 4.0 Usando Testes de Penetração. 2024. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+3.
+Mateus Cunha Lima de Moraes Guerra. Estratégia para Melhoria de Segurança Cibernética em Organizações Considerando Requisitos de Custo. 2023. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+4.
+Rennan Luis de Barros Cabral. Avaliação do Estado da Arte de Ferramentas e Abordagens para a Implantação da LGPD em Organizações Públicas. 2023. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+5.
+Vinícius Nário Vasconcelos. Implantação de Processo de Gestão de Riscos de Segurança da Informação: o Estudo de Caso TCE-PE. 2023. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+6.
+Vinicius Barbosa Polito Lopes. Metodologia para Avaliação de Conformidade das Plataformas com a Segurança das Crianças. 2022. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+7.
+Eduardo Gomes Diniz. Modelo Para Avaliação de Maturidade de Segurança em Organizações Públicas - O Estudo de Caso TCE-PE. 2022. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+8.
+Rodrigo Tibiriçá Azevedo Feitosa Filho. Proposta de Processo de Gestão de Riscos de Segurança da Informação para Organizações Públicas - O Estudo de Caso TCE-PE. 2022. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+9.
+Edejair de Souza Viana Júnior. Avaliação de Desempenho de Aplicativos Desenvolvidos para a Plataforma Android. 2016. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+10.
+Inês Alves Lima de Oliveira. Estratégia Integrada para Avaliação de Desempenho de Ambientes de Suporte para Computação em Nuvem Móvel. 2014. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+11.
+Marco Antonio de Souza Segundo. Marco Antonio de Souza Segundo. 2013. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+12.
+Carlos Marques Fernandes. Execução de Processos de Negócios em BPMN usando Web Services. 2011. Iniciação Científica. (Graduando em Licenciatura em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+Orientações de outra natureza
+
+1.
+Dayanne Carolina e Silva Portela. Processo para Avaliação do Nível de Segurança de Sistemas IoT Através de Testes de Penetração. 2024. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+2.
+Vinicius Fernandes de Souza. Desenvolvimento de Solução Para Avaliação de Segurança Computacional de Organizações. 2024. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+3.
+Mateus Cunha Lima de Moraes Guerra. Técnica Para Avaliação de Segurança Cibernética e da Informação de Softwares: o Estudo de Caso Zé Porteiro (PIBITI). 2021. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+4.
+Thaís Antunes Bione. Desenvolvimento de Políticas de Segurança para Uso de Dispositivos Móveis. 2014. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Fernando Antonio Aires Lins.
+
+5.
+Thiago Vinícius Machado de Souza. Implantação de Ambiente Computacional para Escrita e Leitura de Livros-Jogos em Dispositivos Móveis. 2014. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+6.
+Dayanne Cristina de Araújo Barbosa. Modelagem de Requisitos de Segurança em Processos de Negócio Baseados em Serviços. 2013. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+7.
+Ítalo Egypto Nascimento Pinto. Solução Computacional para Avaliação de Desempenho e Dependabilidade de Infraestrutura de Nuvens Privadas Baseada em Modelos Estocásticos. 2013. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Fernando Antonio Aires Lins.
+
+8.
+Flávio Henrique Dias Trajano. A Criação de Gibis Animados Incentivando à Escrita e os Conhecimentos Computacionais dos Alunos. 2011. Orientação de outra natureza. (Licenciatura em Computação) - Universidade Federal Rural de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Fernando Antonio Aires Lins.
+
+9.
+Rafaella Silva Arcoverde. O Uso da Tecnologia como Ferramenta de Apoio ao Ensino. 2011. Orientação de outra natureza. (Licenciatura em Computação) - Universidade Federal Rural de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Fernando Antonio Aires Lins.
+
+10.
+Leandro Alves da Silva. Informática Educacional: Interdisciplinaridade. 2010. Orientação de outra natureza. (Licenciatura em Computação) - Universidade Federal Rural de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Fernando Antonio Aires Lins.
+
+11.
+Carlos Marques Fernandes. Uso da Virtualização para o Ensino da Computação. 2009. Orientação de outra natureza. (Licenciatura em Computação) - Universidade Federal Rural de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Fernando Antonio Aires Lins.
+
+12.
+Elaine Cristina Dias Calaça. Programa Institucional de Bolsa de Iniciação à Docência. 2009. Orientação de outra natureza. (Licenciatura em Computação) - Universidade Federal Rural de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Fernando Antonio Aires Lins.
+
+
+
+Inovação
+
+Patente
+1.
+FREITAS, F. A. ; NOBREGA, O. O. ; LINS, FERNANDO . Dispositivo de internet das coisas para o monitoramento remoto de parâmetros da água e processo para a estimação dos níveis de oxigênio dissolvido. 2022, Brasil.
+Patente: Privilégio de Inovação. Número do registro: BR1020220076421, título: "Dispositivo de internet das coisas para o monitoramento remoto de parâmetros da água e processo para a estimação dos níveis de oxigênio dissolvido" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 20/04/2022
+
+2.
+ROSA, N. S. ; SOUZA, A. R. S. ; SILVA, B. L. B. ; MEDEIROS, R. W. A. D. ; STEPHENSON, B. ; MACIEL, P. R. M. ; DAMASCENO, J. C. ; LINS, F. A. A. ; Motahari-Nezhar, H. R. ; SOUZA, A. R. D. S. ; MOTAHARI-NEZHAD, H. H. ; LI, J. ; MACIEL, P. R. M. ; NORTHFLEET, C. ; et.al . Enforcement of Security Requirements for a Business Model. 2010, Estados Unidos.
+Patente: Privilégio de Inovação. Número do registro: US 2012/0030120, título: "Enforcement of Security Requirements for a Business Model" , Instituição de registro: United States Patent and Trademark Office. Depósito: 30/07/2010; Concessão: 20/05/2014.
+
+
+Programa de computador registrado
+1.
+LINS, F. A. A. . MSC - Mobile Security Check. 2016.
+Patente: Programa de Computador. Número do registro: BR512016001044-4, data de registro: 09/09/2016, título: "MSC - Mobile Security Check" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+2.
+MORAIS, A. M. ; LINS, F. A. A. . BlockMoodle. 2020.
+Patente: Programa de Computador. Número do registro: BR512020002480-7, data de registro: 30/09/2020, título: "BlockMoodle" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+3.
+OLIVEIRA, R. F. F. ; MENEZES, W. M. E. ; LINS, F. A. A. ; RAMOS, F. M. B. ; CORREIA NETO, J. S. . SoundMath. 2020.
+Patente: Programa de Computador. Número do registro: BR512020002158-1, data de registro: 29/07/2020, título: "SoundMath" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+4.
+VALE, C. M. C. ; LINS, F. A. A. . MSCHORE - Microservices Choreography. 2020.
+Patente: Programa de Computador. Número do registro: BR512020002826-8, data de registro: 22/12/2020, título: "MSCHORE - Microservices Choreography" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+5.
+MELO, H. B. S. ; MEDEIROS, R. W. A. D. ; LINS, F. A. A. . MOCAAI - Mobile Offloading Cloud Application Artificial Intelligence. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001359-0, data de registro: 29/06/2021, título: "MOCAAI - Mobile Offloading Cloud Application Artificial Intelligence" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+6.
+FREITAS, F. A. ; LINS, F. A. A. . Modelo estimador de oxigênio dissolvido baseado em regressão de redes neurais. 2022.
+Patente: Programa de Computador. Número do registro: BR512022000809-2, data de registro: 19/04/2022, título: "Modelo estimador de oxigênio dissolvido baseado em regressão de redes neurais" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+7.
+SOUZA, V. F. ; LINS, F. A. A. . AvaliaSec. 2025.
+Patente: Programa de Computador. Número do registro: BR512025005994-9, data de registro: 25/11/2025, título: "AvaliaSec" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+Projetos de pesquisa
+2025 - Atual
+Templário - Um Modelo Nacional de Interoperabilidade de Ameaças Cibernéticas na Rede Federal de Gestão de Incidentes Cibernéticos (REGIC)
+Descrição: A proposta consiste na criação de uma estrutura federativa de inteligência cibernética, com base no ecossistema da REGIC. Atualmente, a rede conta com mais de 160 órgãos aderidos formalmente, incluindo entidades como ABIN, Banco Central, Anatel e CGU, além de órgãos estratégicos de setores críticos como energia, comunicações e defesa.Também participam órgãos voluntários, como a Casa da Moeda e a Eletronuclear, e convidados do Judiciário, Ministério Público, STF, TCU e empresas de processamento de dados estaduais. Essa diversidade de atores exige uma atuação robusta e coordenada para assegurar prevenção, detecção e resposta integradas, promovendo troca de informações, padronização de ações e evolução da maturidade em defesa cibernética na administração pública federal..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) .
+
+Integrantes: Fernando Antonio Aires Lins - Integrante / Milton V. M. Lima - Coordenador / Carlos Roberto Gonçalves Viana - Integrante / Thays Maria da Conceição Silva Carvalho - Integrante / Bruno Lutiano Azevedo da Silva - Integrante / Byron Loureiro Lanverly de Melo Junior - Integrante.
+2023 - Atual
+Processo Para Avaliação e Melhoria da Segurança Cibernética e da Informação em Organizações
+Descrição: O presente projeto objetiva a proposição de um processo estruturado para o diagnóstico e melhoria da Segurança Cibernética e da Informação em organizações. Este processo será composto de vários subprocessos, os quais irão detalhar como a realização deste diagnóstico nas diversas áreas/interessas da segurança computacional podem ocorrer..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Especialização: (0) / Mestrado acadêmico: (2) / Doutorado: (2) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Nelson Souto Rosa - Integrante / Robson Wagner Albuquerque de Medeiros - Integrante / Obionor de Oliveira Nóbrega - Integrante / Marco Vieira - Integrante / George Valença - Integrante.
+Financiador(es): CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTIFICO E TECNOLOGICO-CNPQ - Bolsa.
+2021 - 2024
+Projeto, Implementação e Avaliação de Segurança em Sistemas Computacionais
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (6) .
+
+Integrantes: Fernando Antonio Aires Lins - Coordenador / Robson Wagner Albuquerque de Medeiros - Integrante / Erica Teixeira Gomes de Sousa - Integrante / Obionor de Oliveira Nóbrega - Integrante / Anderson Melo de Morais - Integrante / George Valença - Integrante / Edgar Natanael de Vasconcelos Gregório - Integrante / Maria Eduarda Rebelo Di Carlli - Integrante / Eduardo Ferreira Felix - Integrante / Diego Ribeiro Gomes - Integrante / Caio Endson de Souza Lima - Integrante / Vanessa Bandeira Lins Teixeira - Integrante.
+
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 17:33:42
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo

@@ -1,0 +1,1004 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+Dados gerais Formação Atuação Projetos Produções Inovação Educação e Popularização de C & T Eventos Orientações Bancas +
+
+Ana Paula Carvalho Cavalcanti Furtado
+Endereço para acessar este CV: http://lattes.cnpq.br/5862330768739698
+ID Lattes: 5862330768739698
+Última atualização do currículo em 24/01/2026
+
+Ana Paula Cavalcanti, com duas décadas de experiência em pesquisa e desenvolvimento de software, destaca-se por sólida formação acadêmica e vasta experiência no mercado. Graduada em Ciência da Computação em 2005, concluiu mestrado na UFPE em 2008 e doutorado em 2018. Atualmente, cursa pós-graduação em Liderança Pública na Harvard Kennedy School, com previsão de conclusão em julho de 2024. Com ampla experiência internacional, desde intercâmbio no ensino fundamental até doutorado sanduíche na Inglaterra, Ana Paula é reconhecida por suas contribuições em engenharia e qualidade de software, reuso sistemático, inteligência artificial aplicada à educação e comunicação assistiva.Além de sua trajetória acadêmica, Ana Paula é professora adjunta na UFRPE desde 2013 e leciona na CESAR School. Coordena o projeto SARA desde 2019, envolvendo-se também em iniciativas relevantes, como melhoria de processos no CDS do Exército (2021-2023) e o projeto LIVOX para a Lego Foundation (2019). Sua dedicação à pesquisa e seu papel ativo na promoção de projetos inovadores são evidenciados em palestras, apresentações e participação em eventos de destaque, como a exposição do projeto SARA a convite da ministra do MCTI, Luciana Santos. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Ana Paula Carvalho Cavalcanti FurtadoDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+CAVALCANTI, A. P. C.;FURTADO, ANA PAULA CAVALCANTI;FURTADO, ANA;CARVALHO CAVALCANTI, ANA PAULA;FURTADO, ANA PAULA;FURTADO, ANA PAULA C. CAVALCANTI;PAULA FURTADO, ANA;FURTADO, ANA PAULA C.;CAVALCANTI, ANA PAULA
+Lattes iD
+http://lattes.cnpq.br/5862330768739698
+Orcid iD
+? https://orcid.org/0000-0002-5439-5314
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Centro de Tecnologia de Software para Exportação do Recife.
+Rua Madre de Deus, 27
+Bairro do Recife
+50030906 - Recife, PE - Brasil
+Telefone: (81) 32244251
+URL da Homepage: http://www.recife.softex.br/
+
+
+Formação acadêmica/titulação
+2015 - 2017
+Doutorado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+com período sanduíche em The Open University (Orientador: Andrea Zisman).
+Título: FAST: um Framework para Automação de Teste , Ano de obtenção: 2017.
+Orientador: Silvio Romero de Lemos Meira.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+2013 - 2017
+Doutorado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: FAST: A Framework for Automating Software Testing, Ano de obtenção: 2018.
+Orientador: Silvio Romero de Lemos Meira.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+2005 - 2007
+Mestrado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Software Reuse Process Adaptation , Ano de Obtenção: 2008.
+Orientador: Silvio Romero Lemos Meira.
+Palavras-chave: Adaptação de Processo de Reuso; Reutilização; Processo de Reuso.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Engenharia de Software.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Melhoria de Processos.
+2023 - 2024
+Especialização em Public Leadership Credentials. (Carga Horária: 600h).
+Harvard Kennedy School, HKS, Estados Unidos.
+2000 - 2004
+Graduação em Ciências da Computação.
+Universidade Estadual do Ceará, UECE, Brasil.
+Título: Gerência de Projetos com RUP e CMMI.
+Orientador: Maria Elizabeth Sucupira Furtado.
+
+
+
+
+Formação Complementar
+2023 - 2023
+ISO 31000 Capacitação em Gestão de Riscos. (Carga horária: 18h).
+QSP - Centro da Qualidade, Segurança e Produtividade para o Brasil e AL, QSP, Brasil.
+2022 - 2022
+Fast Motion.
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas, SEBRAE, Brasil.
+2010 - 2010
+Preparatório para Certificação Teste de SW - CBTS. (Carga horária: 32h).
+Associação Latino Americana de Teste de Software, ALATS, Brasil.
+2009 - 2009
+FDD - Feature Driven Development. (Carga horária: 16h).
+Centro de Estudos e Sistemas Avançados do Recife, CESAR, Brasil.
+2009 - 2009
+Zen of Agile Management. (Carga horária: 16h).
+Centro de Estudos e Sistemas Avançados do Recife, CESAR, Brasil.
+2007 - 2007
+SCRUM Master Certification class. (Carga horária: 16h).
+SPRiNT iT, SPRINT IT, Alemanha.
+2006 - 2006
+Curso de Multiplicador do Conhecimento. (Carga horária: 8h).
+G.Muiños Consultoria de RH Ltda., GMUIÑOS, Brasil.
+2005 - 2005
+Curso Técnico de Análise de Pontos de Função. (Carga horária: 15h).
+ti MÉTRICAS Serviços Ltda., TI MÉTRICAS, Brasil.
+2004 - 2004
+Introdução à Metodologia PMBOK de Gerencia Projeto. (Carga horária: 23h).
+Instituto de Tecnologia da Informação e Comunicação, ITIC, Brasil.
+2004 - 2004
+Área Chave de Processo de Gerência de Requisitos. (Carga horária: 8h).
+Instituto de Tecnologia da Informação e Comunicação, ITIC, Brasil.
+2003 - 2004
+Curso de Francês.
+Douce France, DC, Brasil.
+2003 - 2003
+Definição e Melhoria de Processo de Software. (Carga horária: 4h).
+Sociedade Brasileira de Computação, SBC, Brasil.
+2000 - 2002
+Curso de Espanhol. (Carga horária: 240h).
+Cursos de Liguas FISK, FISK, Brasil.
+2001 - 2001
+ASP. (Carga horária: 50h).
+Instituto de Tecnologia da Informação e Comunicação, ITIC, Brasil.
+1997 - 1998
+Curso de Proficiência em Língua Inglesa.
+Cursos de Liguas FISK, FISK, Brasil.
+1991 - 1997
+Curso de Inglês.
+Cursos de Liguas FISK, FISK, Brasil.
+
+
+Atuação Profissional
+
+ARIS, ARIS, Brasil.
+Vínculo institucional
+
+2022 - 2023
+Vínculo: , Enquadramento Funcional:
+
+
+Universidade Federal de Alagoas, UFAL, Brasil.
+Vínculo institucional
+
+2021 - 2025
+Vínculo: Bolsista, Enquadramento Funcional: Outro
+Outras informações
+https://www.nees.ufal.br/
+
+
+Faculdade do Vale do Ipojuca, FAVIP, Brasil.
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Professor Visitante, Enquadramento Funcional: Professor
+Outras informações
+Professor convidado para ministrar a disciplina "Gestão da Qualidade", com carga-horária de 24h, no curso de Especialização MBA em Governaça de TI.
+
+
+Centro de Tecnologia de Software para Exportação do Recife, SOFTEX/RECIFE, Brasil.
+Vínculo institucional
+
+2010 - Atual
+Vínculo: Bolsista, Enquadramento Funcional: Consultora, Carga horária: 20
+Outras informações
+Atividades exercidas: - Consultoria em melhoria de processos - Avaliação de níveis de maturidade conforme MPS.Br - Montagem e execução de treinamentos nas seguintes áres: 1. Testes de Software 2. Engenharia de Software 3. Qualidade de Software
+
+
+UNIMIX Tecnologia, UNIMIX, Brasil.
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Cooperada, Enquadramento Funcional: Analista de Sistemas, Carga horária: 40
+Outras informações
+Atividades exercidas no cargo: - Elicitação de requisitos - Modelagem de negócios - Documentação de requisitos - Planejamento e estimativa de projeto - Implantação de Projeto - Planejamento de Testes - Projeto de Testes - Execução de Teste
+
+
+Centro Universitário CESMAC, FEJAL, Brasil.
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Professor Visitante, Enquadramento Funcional: Professor
+Outras informações
+Professora convidada para a disciplina "Sistemas Open Source", com carga horária de 30h/aula, no curso de Especialização em Desenvolvimento de Aplicações para Web 2.0.
+
+
+Centro de Estudos e Sistemas Avançados do Recife, CESAR, Brasil.
+Vínculo institucional
+
+2010 - Atual
+Vínculo: Professor Visitante, Enquadramento Funcional: Professor
+Outras informações
+Professor do programa de Pós-graduação em Engenharia de Software - mestrado e doutorado profissional
+
+Vínculo institucional
+
+2008 - 2009
+Vínculo: Celetista formal, Enquadramento Funcional: Coordenadora de Projetos, Carga horária: 40
+Outras informações
+- Disciplinas Ministradas no Mestrado Profissional em Engenharia de Software:: Reuso de Software Básico (2007.2) Fábricas de Software Intermediário (2008.1) Fábricas de Software Intermediário (2008.2) Fábricas de Software Intermediário (2009.1) - Montagem de Curso: Especialização em Gestão Ágil de Projetos - Cursos de Extensão - Acompanhamento de Fábricas de Software do Mestrado Profissional em Engenharia de Software - Coordenação administrativa, pedagógica e financeira da RSS - Recife Summer School
+
+Vínculo institucional
+
+2006 - 2008
+Vínculo: Celetista, Enquadramento Funcional: Engenheira de Qualidade, Carga horária: 40
+
+Vínculo institucional
+
+2005 - 2006
+Vínculo: Outro (especifique) - Bolsista, Enquadramento Funcional: Engenheira de Qualidade, Carga horária: 30
+Outras informações
+Engenheira de qualidade
+
+Atividades
+
+07/2009 - Atual
+Pesquisa e desenvolvimento, CESAR.EDU.
+
+Linhas de pesquisa
+Educação em Engenharia de Software
+Fábricas de Software
+
+SoftExport, SE, Brasil.
+Vínculo institucional
+
+2004 - 2004
+Vínculo: Colaborador, Enquadramento Funcional: Estagiária, Carga horária: 20
+Outras informações
+Atividades realizadas: 1. Análise de sistemas de uma ferramenta de controle de tempo da equipe de desenvolvimento - TimePicker e de uma ferramenta de gerência de projetos - Project Center. 2. Gerência de Projetos de desenvolvimento 3. Analista de qualidade, onde atuou na definição do processo de desenvolvimento, com base no CMM e PMBOK, através de consultorias apoio de SOFTEX - CE
+
+
+XSeed Software, XS, Brasil.
+Vínculo institucional
+
+2004 - 2004
+Vínculo: Colaborador, Enquadramento Funcional: Colaborador, Carga horária: 30
+Outras informações
+Participação do treinamento de JAVA e XSEED. Realização da avaliação do estágio de maturidade da empresa de acordo com o CMMI.
+
+
+Núcleo de Projetos em Tecnologia da Informação, NPTEC, Brasil.
+Vínculo institucional
+
+2003 - 2004
+Vínculo: Colaborador, Enquadramento Funcional: Estagiária, Carga horária: 20
+Outras informações
+O NPTEC é um Núcleo de Projetos, Desenvolvimento e Negócios voltado para área de tecnologia da informação, dentro da estrutura da Universidade Estadual do Ceará (UECE). Mais informações no site: http://www.nptec.uece.br/ Atou como analista de sistemas e gerencia de projetos.
+
+Atividades
+
+10/2003 - 12/2004
+Pesquisa e desenvolvimento, Laboratório de Padrões e Qualidade em Engenharia de Software.
+
+Linhas de pesquisa
+Capability Maturity Model Integration - CMMI
+Rational Unified Process - RUP
+Project Management Body of Knowledge - PMBOK
+Gestão da Qualidade
+Gerência de Projetos
+Processos de Desenvolvimento de Software
+06/2003 - 10/2004
+Pesquisa e desenvolvimento, Laboratório de Tecnologia Educacional - LTE.
+
+Linhas de pesquisa
+Desenvolvimento de uma abiente de educação corporativa - Casulo
+
+D'ARTE Sistemas, DS, Brasil.
+Vínculo institucional
+
+2001 - 2003
+Vínculo: Colaborador, Enquadramento Funcional: Estagiária, Carga horária: 20
+Outras informações
+A DARTE é uma empresa de desenvolvimento de software que atualmente se juntou com a TENER. Vide site www.darte.com.br/ Na DARTE, atuei na coordenação de atividades de desenvolvimento, apoiando a gerência da empresa.
+
+
+Cursos de Liguas FISK, FISK, Brasil.
+Vínculo institucional
+
+2000 - 2002
+Vínculo: Celetista formal, Enquadramento Funcional: Professora de Inglês, Carga horária: 15
+Outras informações
+No FISK ministrei aulas tanto para níveis inicias como níveis avançados.
+
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professora Adjunta, Regime: Dedicação exclusiva.
+
+
+City St George's University of London, CITY, Grã-Bretanha.
+Vínculo institucional
+
+2025 - Atual
+Vínculo: Honorary Research Fellow, Enquadramento Funcional: Pesquisador
+Outras informações
+Violence and Society Centrehttps://www.citystgeorges.ac.uk/research/centres/violence-and-society
+
+
+
+Linhas de pesquisa
+1.
+Desenvolvimento de uma abiente de educação corporativa - Casulo
+2.
+Capability Maturity Model Integration - CMMI
+3.
+Rational Unified Process - RUP
+4.
+Project Management Body of Knowledge - PMBOK
+5.
+Gestão da Qualidade
+6.
+Gerência de Projetos
+7.
+Processos de Desenvolvimento de Software
+8.
+Educação em Engenharia de Software
+9.
+Fábricas de Software
+
+
+Projetos de pesquisa
+2022 - 2023
+HEAR - Helping Everyone to Actively React
+Descrição: Projeto aprovado no Edital CATALISA ICT de Planos de Inovação..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado profissional: (3) / Doutorado: (1) .
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Rafael Ferreira de Mello - Integrante / Péricles Barbosa Cunha de Miranda - Integrante / LACERDA, TIAGO B. - Integrante / André Câmara Alves do Nascimento - Integrante.
+Financiador(es): Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - Auxílio financeiro.
+2021 - 2023
+HEAR: Helping Everyone to Actively React - Aplicação de Inteligência Artificial para Identificação de Atos de Violência Contra Mulher por Meio de Dispositivos Móveis (APQ-1242-1.03/21)
+Descrição: CONTEXTO: O projeto de pesquisa HEAR - Helping Everyone to Actively React teve seuinício a partir de 2019, quando a demanda por uma solução que pudesse tratar doproblema social de violência contra mulher e o crime do feminicídio surgiu como temade pesquisa no programa de pós-graduação do mestrado profissional da CESAR School.OBJETIVO: Foi a partir desse contexto que as primeiras pesquisas do grupo seiniciaram com o intuito de investigar as melhores práticas para capturar os sons decenas acústicas para análise e identificação de indícios de agressão contra mulheres.MÉTODOS: Desde então, a pesquisa contou com importantes marcos nessa trajetória,dentre eles podemos destacar: (1) Condução de uma pesquisa qualitativa, a partir deentrevistas com as delegacias de amparo à mulher do Nordeste, para compreender ocontexto da violência nessa região; (2) Análise de termos de declaração das vítimaspara classificação de tipos de violência doméstica por meio de aprendizado demáquina; (3) Pesquisa experimental sobre a testes de software para sistemasinteligentes aplicados no contexto de classificação de cenas acústicas utilizandorelações metamórficas; (4) Pesquisa experimental sobre o uso de aprendizado demáquina para classificação de cenas acústicas envolvendo violência doméstica; (5)Avaliação de reincidência criminal no âmbito de crimes de violência doméstica, pormeio de inquéritos policiais e criação de um modelo de classificação de risco dereincidência criminal; e (6) Aplicação de deep learning na identificação de violênciacontra a mulher em vídeos. RESULTADOS: Como resultados obtidos até o momento,pode-se destacar: (1) 6 pesquisas de mestrado concluídas e mais 9 em andamento;(2) 2 pesquisas de doutorado em estágio inicial; (3) 2 artigos publicados em anais decongresso na área de inteligência artificial; (4) validação do projeto por meio de umprotótipo funcional com os resultados dos experimentos de identificação de violência;(5) registro de 2 softwares com soluções iniciais associadas ao HEAR no INPI (processoainda não foi concluído); (6) finalista do EU-Brazil Innovation Pitch Competitionpromovido pela Euraxess e ampla divulgação do projeto em mídia nacional; e (7)consolidação de parceria com o AIBoxLab para apoiar o desenvolvimento da pesquisa..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado profissional: (8) / Doutorado: (3) .
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Péricles Barbosa Cunha de Miranda - Integrante / Rafael Ferreira - Integrante / Andreza Leite de Alencar - Integrante / André Câmara Alves do Nascimento - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2019 - Atual
+HEAR - Helping Everyone to Actively React
+Descrição: O projeto de pesquisa HEAR ? Helping Everyone to Actively React contempla a pesquisa e desenvolvimento de uma solução para identificação, de forma ativa, de atos de agressão contra a mulher através de um aplicativo no celular. A solução estudada irá captar o áudio ambiente, analisar sentimento na voz e as palavras utilizadas na conversa, sem a necessidade de ação da vítima, tratar as informações para identificação da ocorrência da violência. O projeto contempla pesquisa com uso de inteligência artificial, aprendizagem de máquina, análise de padrões acústicos, a ser desenvolvida com suporte dos princípios do Design Science Research. Os resultados esperados para o projeto contemplam o desenvolvimento do aplicativo para captura das informações e de uma plataforma web para identificação e acompanhamento das agressões em tempo real..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (5) / Mestrado profissional: (5) .
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / George Augusto Valença dos Santos - Integrante / Rafael Ferreira de Mello - Integrante.
+
+Número de produções C, T & A: 3
+
+
+Projetos de ensino
+2021 - 2021
+Curso de Especialização em Inteligência Computacional Aplicada
+Descrição: O Curso de Especialização em Inteligência Computacional Aplicada é um projeto de formação aprovado no Edital PITEC 13/2019 da FACEPE que tem o objetivo de formar profissionais na área de Inteligência Computacional. Através de uma metodologia de ensino baseada em problemas (PBL), os alunos interagem com a teoria e aplicam o conhecimento em projetos práticos do mundo real.
+Situação: Concluído; Natureza: Ensino.
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Péricles Barbosa Cunha de Miranda - Integrante / MELLO, RAFAEL - Integrante / Taciana P.da RochaFalcão - Integrante / André Câmara Alves do Nascimento - Integrante.
+2020 - Atual
+InternAbroad: University of South-Eastern Norway
+Descrição: Projeto de intercâmbio entre a Universidade Federal Rural de Pernambuco e a University of South-Eastern Norway...
+Situação: Em andamento; Natureza: Ensino.
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Péricles Barbosa Cunha de Miranda - Integrante / Rafael Ferreira Leite de Mello - Integrante / André Câmara Alves do Nascimento - Integrante / George Gomes Cabral - Integrante.
+
+
+Projetos de desenvolvimento
+2023 - 2023
+Aprender Brincando: inclusão de pessoas neurodivergentes em atividades lúdicas
+Descrição: A comunicação alternativa e aumentada (CAA) é uma forma de viabilizar a comunicação de pessoas que, por diversos motivos, têm dificuldades de comunicação oral (devido a paralisia cerebral, esclerose lateral amiotrófica, síndrome de Down ou autismo, entre diversas outras possibilidades). Um método muito popular da CAA é o Picture Exchange Communication System (PECS), que consiste de pranchas de cartões físicos com representações pictóricas de ideias a serem comunicadas (por exemplo, verbos para indicar ações como comer ou brincar; lugares; comidas; etc.). Tecnologias de CAA em geral baseiam-se no método PECS, com pranchas de comunicação disponibilizadas em dispositivos móveis (Tablets), provendo personalização e reduzindo o atraso de comunicação quando uma das pessoas usa a CAA. Comumente, usuários vão além da comunicação, desenvolvendo novas funcionalidades que ampliam as possibilidades criativas das pessoas com dificuldade de comunicação oral. Daí nasceu o presente projeto, com a seguinte questão de pesquisa: como possibilitar a criação de jogos casuais por usuários finais, de maneira integrada à uma plataforma de CAA, no contexto da comunicação alternativa e aumentada?..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (1) Graduação: (18) / Mestrado acadêmico: (1) / Mestrado profissional: (1) / Doutorado: (4) .
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Taciana P.da RochaFalcão - Integrante / André Câmara Alves do Nascimento - Integrante.
+2023 - 2023
+Aprender Brincando: inclusão de pessoas neurodivergentes em atividades lúdicas
+Descrição: A comunicação alternativa e aumentada (CAA) é uma forma de viabilizar a comunicação de pessoas que, por diversos motivos, têm dificuldades de comunicação oral (devido a paralisia cerebral, esclerose lateral amiotrófica, síndrome de Down ou autismo, entre diversas outras possibilidades). Um método muito popular da CAA é o Picture Exchange Communication System (PECS), que consiste em pranchas de cartões físicos com representações pictóricas de ideias a serem comunicadas (por exemplo, verbos para indicar ações como comer ou brincar; lugares; comidas; etc.). Tecnologias de CAA em geral baseiam-se no método PECS, com pranchas de comunicação disponibilizadas em dispositivos móveis (Tablets), provendo personalização e reduzindo o atraso de comunicação quando uma das pessoas usa a CAA. Comumente, usuários vão além da comunicação, desenvolvendo novas funcionalidades que ampliam as possibilidades criativas das pessoas com dificuldade de comunicação oral. Daí nasceu o presente projeto, com a seguinte questão de pesquisa: como possibilitar a criação de jogos casuais por usuários finais, de maneira integrada a uma plataforma de CAA, no contexto da comunicação alternativa e aumentada..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (18) / Mestrado acadêmico: (1) / Mestrado profissional: (1) / Doutorado: (4) .
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Integrante / André Câmara Alves do Nascimento - Coordenador / Taciana Pontual da Rocha Falcão - Integrante.
+2023 - Atual
+SARA - Socorro Automático e Rede de Apoio: Identificação de Violência por Meio de Imagens de Vídeo
+Descrição: Projeto aprovado no edital Ideathon Mulheridades: https://armazemdacriatividade.org/inscricao-para-o-ideathon-mulheridades/.
+Situação: Em andamento; Natureza: Desenvolvimento.
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / CÂMARA, ANDRÉ - Integrante.
+2022 - 2023
+SARA - Socorro Automático e Rede de Apoio
+Descrição: Projeto aprovado no programa Centelha PE/2https://www.programacentelha.com.br/wp-content/uploads/2022/01/PE-Edital-Centelha-2.pdf.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / CÂMARA, ANDRÉ - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2021 - Atual
+Plataforma +PNE e TC Educa: Integrando Dados Conectados, Inteligência Artificial e Análise de Dados
+Descrição: Planejamento, concepção, implementac#807;a#771;o e avaliac#807;a#771;o dos processos que subsidiam a manutenc#807;a#771;o, atualizac#807;a#771;o e integrac#807;a#771;o dos processos e sistemas necessa#769;rios para o ecossistema computacional dos escopos vinculados à Plataforma Nacional de Planos de Educação +PNE e TC Educa: (1) apoiar o processo de elaboração e adequação dos Planos Subnacionais de Educação, em nível municipal, estadual e federal.; (2) apoiar a avaliac#807;a#771;o contínua, por meio de utilização de dados, a fim de assegurar o suporte ao processo de tomada de decisão baseada em evidência dos stakeholders envolvidos no processo. Ale#769;m destes objetivos, tambe#769;m havera#769; capacitac#807;a#771;o dos usua#769;rios, capacitac#807;a#771;o da equipe te#769;cnica para implantac#807;a#771;o dos sistemas desenvolvidos e disponibilizac#807;a#771;o do co#769;digo fonte e documentac#807;a#771;o dos sistemas desenvolvidos ao MEC..
+Situação: Em andamento; Natureza: Desenvolvimento.
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Rafael Ferreira Leite de Mello - Integrante / Taciana P.da RochaFalcão - Integrante / Andreza Leite de Alencar - Integrante.
+Financiador(es): Ministério da Educação - Outra.
+2020 - 2021
+Extração de informação e classificação em textos jurídicos
+Descrição: A demanda por softwares capazes de aumentar a eficiência de operadores do direito, tais como escritórios de advocacia, tribunais, órgãos legislativos e administrativos, tem crescido vertiginosamente. O objetivo neste projeto consiste no desenvolvimento de uma plataforma online para processamento automático de textos de natureza jurídica, utilizando técnicas de processamento de textos e aprendizagem de máquina..
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Rafael Ferreira Leite de Mello - Integrante / André Câmara Alves do Nascimento - Integrante.
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Engenharia de Software.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Qualidade de Software.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Melhoria de Processos.
+4.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Componentização de Software.
+5.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Fábricas de Software.
+6.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teste de software.
+
+
+Idiomas
+Espanhol
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Francês
+Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco.
+
+
+Prêmios e títulos
+2020
+Finalista no EU-Brazil Innovation Pitch Competition 2020, EURAXESS Brazil, CONFAP and ENRICH Brazil.
+2019
+Professora homenageada do curso de Bacharelado em Ciência da Computação turma 2018.2, Universidade Federal Rural de Pernambuco - UFRPE.
+2013
+1° Lugar no Concurso para Professor Assistente, Universidade Federal Rural de Pernambuco - UFRPE.
+2010
+Analista de Teste - CBTS, ALATS - Associação Latino Americana de Teste de Software.
+2010
+ISTQB - ISEB Certified Tester Foundation Level (CTFL), ISTQB - International Software Testing Qualification Board.
+2001
+Accredited Systems Engineer, COMPAQ.
+
+
+Produções
+
+Produção bibliográfica
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+ANDRADE, JOÃO PEDRO F. ; SI, TAPAS ; CAVALCANTI, ANA PAULA ; NASCIMENTO, ANDRÉ C.A. ; MIRANDA, PÉRICLES B.C. . SUSAN: A deep learning-based architecture for violence detection against women in surveillance videos. EXPERT SYSTEMS WITH APPLICATIONS, v. 280, p. 127337, 2025.
+
+2.
+PALOMINO, PAULA TOLEDO ; FALCÃO, TACIANA PONTUAL ; ALVES, GABRIEL ; RODRIGUES, EBONY MARQUES ; MEDEIROS, RODRIGO PESSOA ; ALENCAR, ANDRÊZA LEITE DE ; ALBUQUERQUE, ALDERYCK ; BARROS, ABÍLIO NOGUEIRA ; UEHARA, MISA ; BURÉGIO, VANILSON ; CAVALCANTI, ANA PAULA ; MELLO, RAFAEL FERREIRA . Apoio ao Monitoramento das Metas do Plano Nacional de Educação: uma Abordagem Tecnológica para Gestão Educacional Baseada em Dados. Revista Brasileira de Informática na Educação (RBIE), v. 33, p. 1199-1225, 2025.
+
+Textos em jornais de notícias/revistas
+
+1.
+ CAVALCANTI, A. P. C.; SANTOS, S. C. ; BATISTA, M. C. M. ; ALBUQUERQUE, J. O. ; MEIRA, S. R. L. . An Evaluation Approach Based on the Problem-Based Learning in a Software Engineering Master Course. Journal of Technology Management and Innovation, p. 18 - 28, 01 ago. 2008.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+PONTUAL FALCÃO, TACIANA ; MACHADO, KARINA ; PINTO NETO, ZÓZIMO ; MIRANDA, ALINNY ; CAVALCANTI, ANA PAULA ; RODRIGUES, PAULO ; PEREIRA, CARLOS ; NASCIMENTO, ANDRÉ . Should I use my imagination?' An attempt at co-designing a game editor within an app for alternative communication with children with autism. In: IHC 2024: XXIII Brazilian Symposium on Human Factors in Computing Systems, 2024, Brasília - DF RJ Brazil. Proceedings of the XXIII Brazilian Symposium on Human Factors in Computing Systems. p. 1.
+
+2.
+FURTADO, ANA; MIRANDA, P. B. C. ; NASCIMENTO, A. C. A. ; MELLO, R. F. L. . Federated Learning and Mel-Spectrograms for Physical Violence Detection in Audio. In: Brazilian Conference on Intelligent Systems, 2023, Belo Horizonte. Lecture Notes in Computer Science, 2023. v. 14197. p. 379-393.
+
+3.
+FALCÃO, TACIANA PONTUAL ; MACHADO, KARINA ; PEREIRA, CARLOS ; RODRIGUES, PAULO ; FURTADO, ANA PAULA ; NASCIMENTO, ANDRÉ . Eu também quero brincar! IA gerativa integrada à comunicação alternativa para inclusão de crianças neurodivergentes em contextos lúdicos. In: Workshop em Culturas, Alteridades e Participações em IHC, 2023, Brasil. Anais do II Workshop em Culturas, Alteridades e Participações em IHC (CAPAIHC 2023). p. 32.
+
+4.
+LIMA, A. ; MONTEIRO, L. ; FURTADO, ANA PAULA C. . MLOps: Practices, Maturity Models, Roles, Tools, and Challenges ? A Systematic Literature Review. In: ICEIS 2022 : 24th International Conference on Enterprise Information Systems, 2022, Evento Online. ICEIS 2022 : 24th International Conference on Enterprise Information Systems, 2022. v. 1. p. 308-320.
+
+5.
+SILVA, VICTOR E. DE S. ; LACERDA, TIAGO B. ; MIRANDA, PERICLES B.C. ; NASCIMENTO, ANDRE C.A. ; FURTADO, ANA PAULA C. . Federated Learning for Physical Violence Detection in Videos. In: 2022 International Joint Conference on Neural Networks (IJCNN), 2022, Padua. 2022 International Joint Conference on Neural Networks (IJCNN), 2022. p. 1.
+
+6.
+ABRANTES, PAULO CESAR ; PAULA FURTADO, ANA . Agile Development Practices Applied to Software Startups : A Systematic Mapping Review. In: 2021 16th Iberian Conference on Information Systems and Technologies (CISTI), 2021, Chaves. 2021 16th Iberian Conference on Information Systems and Technologies (CISTI), 2021. p. 1.
+
+7.
+FIORENTINO, G. ; MIRANDA, P. ; NASCIMENTO, A. ; FURTADO, ANA ; BELLHAUSER, H. ; GASEVIC, D. ; FERREIRA, R. . Contrasting Automatic and Manual Group Formation: A Case Study in a Software Engineering Postgraduate Course. In: AIED - Intternational Conference on Artificial Intelligence in Education, 2021, Utretch. AIED - International Conference on Artificial Intelligence in Education, 2021.
+
+8.
+LACERDA, TIAGO B. ; MIRANDA, PÉRICLES ; CÂMARA, ANDRÉ ; FURTADO, ANA PAULA C. . Deep Learning and Mel-spectrograms for Physica Violence Detection in Audio. In: Encontro Nacional de Inteligência Artificial e Computacional, 2021, Brasil. Anais do XVIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2021). p. 268.
+
+9.
+FURTADO, ANA; MELLO, R. F. L. ; NASCIMENTO, A. C. A. ; MIRANDA, P. B. C. . Learning Analytics e Problem-Based Learning: Mapeamento Sistemático da Literatura. In: Ctrl+E, 2021, Online. ANAIS DO CONGRESSO SOBRE TECNOLOGIAS NA EDUCAÇÃO (CTRL+E), 2021. v. 6. p. 110-119.
+
+10.
+PINCOVSKY, MARIANA ; FALCAO, ADRIANA ; NUNES, WAELSON N. ; PAULA FURTADO, ANA ; CUNHA, RODRIGO C.L.V. . "Machine Learning applied to credit analysis: a Systematic Literature Review". In: 2021 16th Iberian Conference on Information Systems and Technologies (CISTI), 2021, Chaves. 2021 16th Iberian Conference on Information Systems and Technologies (CISTI), 2021. p. 1.
+
+11.
+OLIVEIRA, JANINE ; BOGO, JAIR ; LIMA, ELIVELTON ; FURTADO, ANA ; MELLO, RAFAEL . Sport Analytics A Systematic Review. In: XVI Encontro Nacional de Inteligência Artificial e Computacional, 2020, Salvador. Anais do Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2019. p. 670.
+
+12.
+SOUTO, HELTON ; MELLO, RAFAEL ; FURTADO, ANA . An acoustic scene classification approach involving domestic violence using machine learning. In: XVI Encontro Nacional de Inteligência Artificial e Computacional, 2020, Salvador. Anais do Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2019. p. 705.
+
+13.
+LACERDA, TIAGO BELTRAO ; MEDEIROS, ALBERTO ; PEREZ, REGIS BATISTA ; FURTADO, ANA PAULA CAVALCANTI . Machine Learning Applied to survival prediction of elderly cancer patients: Systematic Review. In: 2020 15th Iberian Conference on Information Systems and Technologies (CISTI), 2020, Sevilla. 2020 15th Iberian Conference on Information Systems and Technologies (CISTI), 2020. p. 1.
+
+14.
+SANTOS, MÁRCIO BRAGA DOS ; FURTADO, ANA PAULA C. CAVALCANTI ; NOGUEIRA, SIDNEY C. ; MOREIRA, DIOGO DANTAS . OggyBug. In: SAST 20: 5th Brazilian Symposium on Systematic and Automated Software Testing, 2020, Natal Brazil. Proceedings of the 5th Brazilian Symposium on Systematic and Automated Software Testing. p. 79.
+
+15.
+MOREIRA, DIOGO ; FURTADO, ANA PAULA ; NOGUEIRA, SIDNEY . Testing acoustic scene classifiers using Metamorphic Relations. In: 2020 IEEE International Conference On Artificial Intelligence Testing (AITest), 2020, Oxford. 2020 IEEE International Conference On Artificial Intelligence Testing (AITest), 2020. p. 47.
+
+16.
+BARRETO, PEDRO PIRES ; CARVALHO CAVALCANTI, ANA PAULA . A Proposed Metrics to Evaluate the Effectiveness of Software Testing. In: 2019 14th Iberian Conference on Information Systems and Technologies (CISTI), 2019, Coimbra. 2019 14th Iberian Conference on Information Systems and Technologies (CISTI), 2019. p. 1.
+
+17.
+FURTADO, ANA PAULA CAVALCANTI; FARIAS JUNIOR, I. H. ; GOMES, M. A. W. ; SAMPAIO, S. C. ; ANDRADE, E. C. . Adopting Agile Practices in Maturity Model for Testing. In: 14th International Conference on Software Engineering Research and Practice, 2016, Las Vegas. 14th International Conference on Software Engineering Research and Practice, 2016.
+
+18.
+FURTADO, ANA PAULA CAVALCANTI; MEIRA, S. R. L. ; SANTOS, C. ; NOVAIS, T. ; FERREIRA, M. . FAST: Framework for Automating Software Testing. In: he Eleventh International Conference on Software Engineering Advances, 2016, Roma. The Eleventh International Conference on Software Engineering Advances, 2016.
+
+19.
+CAVALCANTI, A. P. C.; MEIRA, S. R. L. ; GOMES, M. A. W. . Towards a Maturity Model in Software Testing Automation. In: The Ninth International Conference on Software Engineering Advances, 2014, Nice. The Ninth International Conference on Software Engineering Advances, 2014.
+
+20.
+CAVALCANTI, A. P. C.; GOMES, M. A. W. ; ANDRADE, E. C. ; FARIAS JUNIOR, I. H. . MPT.BR: A Brazilian Maturity Model for Testing. In: 12th Quality Software International Conference, 2012, X'ian. 2012 12th International Conference on Quality Software, 2012. p. 220-229.
+
+21.
+ SANTOS, S. C. ; BATISTA, M. C. M. ; CAVALCANTI, A. P. C. ; ALBUQUERQUE, J. O. ; MEIRA, S. R. L. . Applying PBL in Software Engineering Education. In: 22nd Conference on Software Engineering Education and Training, 2009, Hyderabad. 2009 22nd Conference on Software Engineering Education and Training. Los Alamitos, CA, USA: IEEE Computer Society, 2009. p. 182-189.
+
+22.
+ CAVALCANTI, A. P. C.; Furtado, F. ; Moura, V. ; COSTA, R. A. ; MEIRA, S. R. L. . Knowledge Management to Support the Deployment of a CMMI Level 3 Process. In: SEKE 2008 - The 20th International Conference on Software Engineering and Knowledge Engineering, 2008, Redwood City, San Francisco. SEKE 2008 - The 20th International Conference on Software Engineering and Knowledge Engineering, 2008. p. 309-314.
+
+23.
+ SANTOS, S. C. ; BATISTA, M. C. M. ; CAVALCANTI, A. P. C. ; ALBUQUERQUE, J. O. ; MEIRA, S. R. L. . Usando PBL na Qualificação de Profissionais em Engenharia de Software. In: Fórum de Educação em Engenharia de Software no Simpósio Brasileiro de Engenharia de Software, 2008, Campinas. Anais do Forum de Educação em Engenharia de Software, 2008.
+
+24.
+CAVALCANTI, A. P. C.; ALVARO, A. ; ALMEIDA, E. S. ; MEIRA, S. R. L. . Reuse Process Adaptation Strategies. In: 32st IEEE EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA), 2006, Cavtat/Dubrovnik. 32st IEEE EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA), 2006.
+
+25.
+ALMEIDA, E. S. ; MASCENA, j. C. C. P. ; CAVALCANTI, A. P. C. ; ALVARO, A. ; GARCIA, V. C. ; MEIRA, S. R. L. . The Domain Analysis Concept Revisited: A Practical Approach. In: 9th International Conference on Software Reuse (ICSR), 2006, Torino. 9th International Conference on Software Reuse (ICSR), 2006. v. 4039. p. 43-57.
+
+26.
+BESSA, A. C. G. ; CAVALCANTI, A. P. C. . Casulo - Um ambiente de aprendizagem à distância - Tecnologia da Informação aplicada na Educação Corporativa. In: Congresso Nacional de Tecnologia da Informação e Comunicação - SUCESU 2004, 2004, Florianópolis. Anais do Congresso Nacional de Tecnologia da Informação e Comunicação, 2004.
+
+27.
+ CAVALCANTI, A. P. C.; BANDEIRA, L. R. P. . Modelo Estrutural de Gerência de Projetos baseado no RUP. In: Congresso Nacional de Tecnologia da Informação e Comunicação - SUCESU 2004, 2004, Florianópolis. Anais do Congresso Nacional de Tecnologia da Informação e Comunicação, 2004.
+
+28.
+CAVALCANTI, A. P. C.; BANDEIRA, L. R. P. ; DONEGAN, P. M. . Um Modelo de Gerência de Projetos baseado no RUP com Aplicações do PMBOK. In: VI Simpósio Internacional de Melhoria de Processo de Software, 2004, São Paula. Anais do SIMPROS, 2004.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+PALOMINO, PAULA T. ; FALCÃO, TACIANA P. ; ALVES, GABRIEL ; RODRIGUES, EBONY M. ; MEDEIROS, RODRIGO P. ; ALENCAR, ANDRÊZA L. DE ; ALBUQUERQUE, ALDERYCK ; BARROS, ABÍLIO N. ; UEHARA, MISA ; BURÉGIO, VANILSON ; CAVALCANTI, ANA PAULA ; MELLO, RAFAEL F. . Apoio ao Monitoramento das Metas do Plano Nacional de Educação: uma Abordagem Tecnológica para Gestão Educacional Baseada em Dados - Resumo Estendido. In: Simpósio Brasileiro de Informática na Educação, 2025, Brasil. Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025). p. 1840.
+
+2.
+SANTOS, CARLOS ; NOVAIS, TEREZA ; FERREIRA, MARCELO ; ALBUQUERQUE, CARLOS ; DE FARIAS, IVALDIR HONORIO ; FURTADO, ANA PAULA CAVALCANTI . Metrics focused on usability ISO 9126 based. In: 2016 11th Iberian Conference on Information Systems and Technologies (CISTI), 2016, Gran Canaria. 2016 11th Iberian Conference on Information Systems and Technologies (CISTI). p. 1.
+
+Resumos publicados em anais de congressos
+
+1.
+FERREIRA, M. ; SANTOS, C. ; NOVAIS, T. ; ALBUQUERQUE, C. ; FARIAS JUNIOR, I. H. ; CAVALCANTI, A. P. C. . Gerência de Configuração para Testes Automatizados em uma Fábrica de Software: Um estudo de caso. In: 11ª Conferencia Ibérica de Sistemas y Tecnologías de Información, 2016, Islas Canarias. 11ª Conferencia Ibérica de Sistemas y Tecnologías de Información, 2016.
+
+2.
+FERREIRA, M. S. ; FURTADO, ANA PAULA CAVALCANTI . Configuration Management to Tests Automatics in a Software Factory. In: The Eleventh International Conference on Software Engineering Advances, 2016, Roma. The Eleventh International Conference on Software Engineering Advances, 2016.
+
+3.
+SILVA, D. S. ; CAVALCANTI, A. P. C. . Software Test Process Adherent to Lean Concepts. In: Euromicro Conference series on Software Engineering and Advanced Applications (SEAA), 2015, Funchal. uromicro Conference series on Software Engineering and Advanced Applications (SEAA), 2015.
+
+4.
+CAVALCANTI, A. P. C.; SAMPAIO, S. C. ; ANDRADE, E. C. ; FARIAS JUNIOR, I. H. ; WANDERLEY, M. . Agile Practices in Maturity Model for Testing: an Experience Report. In: The 27th International Conference on Software Engineering and Knowledge Engineering, 2015, Pittsburgh. The 27th International Conference on Software Engineering and Knowledge Engineering, 2015.
+
+5.
+CAVALCANTI, A. P. C.; FURTADO, E. S. ; CARNEIRO, D. S. S. ; MAIA, A. M. . Modelo de Avaliação da Qualidade do Processo e Produto Baseado no CMMI. In: IX Semana Universitária da Universidade Estadual do Ceará, 2004, Fortaleza. Anais da IX Semana Universitária da Universidade Estadual do Ceará, 2004.
+
+6.
+CAVALCANTI, A. P. C.; BANDEIRA, L. R. P. ; DONEGAN, P. M. . Um Modelo de Gerência de Projetos Baseado no RUP com Aplicações de PMBOK. In: IX Semana Universitária da Universidade Estadual do Ceará, 2004, Fortaleza. Anais da IX Semana Universitária da Universidade Estadual do Ceará, 2004.
+
+7.
+CAVALCANTI, A. P. C.. Organização de um Modelo Estrutural de Desenvolvimento de Software Baseado no RUP. In: VIII Semana Universitária da Universidade Estadual do Ceará, 2003, Fortaleza. http://www.propgpq.uece.br/apache2-default/htm/anais_semana_universitaria/anais2003/index_conteudo.htm, 2003.
+
+Apresentações de Trabalho
+
+1.
+FURTADO, ANA PAULA CAVALCANTI. Automação de Teste de Software. 2018. (Apresentação de Trabalho/Congresso).
+
+2.
+CAVALCANTI, A. P. C.; LUCENA, L. R. ; LUCENA, M. J. N. R. ; MORAES, A. K. O. ; FERNANDES, D. ; PEREIRA, S. C. ; ALBUQUERQUE, J. O. ; MEIRA, S. R. L. . Towards an Open Source Software Factory. 2005. (Apresentação de Trabalho/Outra).
+
+3.
+CAVALCANTI, A. P. C.. Organização Estrutural de um Modelo de Desenvolvimento de Software Baseado no RUP. 2003. (Apresentação de Trabalho/Outra).
+
+4.
+BESSA, A. C. G. ; CAVALCANTI, A. P. C. . CASULO - Um Ambiente de Aprendizagem à Distância. 2003. (Apresentação de Trabalho/Outra).
+
+
+Produção técnica
+Assessoria e consultoria
+
+1.
+FURTADO, ANA PAULA CAVALCANTI. FAST - Framework para Automação de Teste. 2016.
+
+2.
+FURTADO, ANA PAULA CAVALCANTI. MPS.BR - Melhoria de Processo de Software. 2009.
+
+Entrevistas, mesas redondas, programas e comentários na mídia
+
+1.
+FURTADO, ANA PAULA CAVALCANTI. GeekNight - IoT: Desafios e Oportunidades em Testes. 2018. (Programa de rádio ou TV/Mesa redonda). 
+
+Demais tipos de produção técnica
+
+1.
+CAVALCANTI, A. P. C.. Desenvolvimento de Software com Metodologias Ágeis. 2010. (Curso de curta duração ministrado/Extensão).
+
+2.
+CAVALCANTI, A. P. C.. Gerência do Projeto de Testes com base no MPT.BR. 2010. (Curso de curta duração ministrado/Extensão).
+
+3.
+CAVALCANTI, A. P. C.. Fundamentos de Requisitos de Software. 2010. (Curso de curta duração ministrado/Extensão).
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+MELLO, R. F. L.; FRANCA, A. C. C.; CAVALCANTI, A. P. C.. Participação em banca de Alexsandro Martins de Queiroz. Mudança Organizacional e seus Impactos: Um Estudo de Caso em Uma Equipe de Desenvolvimento e Manutenção de Software. 2024. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+2.
+CAVALCANTI, A. P. C.; NASCIMENTO, A. C. A.; MIRANDA, P. B. C.. Participação em banca de Victor Eduardo de Sousa Silva. Aplicação de Aprendizagem Federada na Detecção de Violência Física em Imagens Extraídas de Áudio e Vídeo Por Meio de Arquiteturas CNNS. 2022. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+3.
+PAULA FURTADO, ANA; NASCIMENTO, A. C. A.. Participação em banca de Antonio Moreira da Silva Filho. Utilização de Aprendizagem Profunda para Classificação de Acórdãos no Âmbito do Controle Externo. 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+4.
+FURTADO, ANA; NASCIMENTO, A. C. A.; MELLO, R. F. L.. Participação em banca de Silvandro Pereira Pedrozo. Identificação e Mitigação de Viés de Justiça para Sistemas que Utilizam Aprendizagem de Máquina Supervisionada para Tomada de Decisão. 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+5.
+FARIAS JUNIOR, I. H.; PONTES, M. B.; FURTADO, ANA PAULA CAVALCANTI. Participação em banca de Eduardo Tavares de Farias. Aplicação de Priorização de Casos de Teste Manuais Baseado em Requisitos. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+6.
+FERRAZ, F. S.; FURTADO, ANA; LINS, F. A. A.. Participação em banca de Claudia Rejane Oliveira Gomes. SmaCoViL: Uma Linguagem de Modelagem Específica de Domínio para Geração de Contratos Inteligentes em Blockchain. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+7.
+LINS, W. C. B.; FURTADO, ANA PAULA CAVALCANTI; PADILHA, M. A. S.. Participação em banca de João Paulo Marques Silva. Aprendizagem Baseada em Projetos no Ensino de Fundamentos de Programação: Uma Abordagem Gameficada. 2019. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+8.
+FURTADO, ANA PAULA CAVALCANTI; TEIXEIRA, E. S.; MIRANDA, P. B. C.. Participação em banca de Helton Santa Cruz Souto. Uso de Aprendizado de Máquina para Classificação de Cenas Acústicas Envolvendo Violência Doméstica. 2019. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+9.
+FURTADO, ANA PAULA CAVALCANTI; LIMA, L. A.; CURSINO, R. B.. Participação em banca de Diogo Dantas Moreira. Testes de Sistemas de Classificação de Cenas Acústicas Utilizando Relações Metamórficas. 2019. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+10.
+FURTADO, ANA PAULA CAVALCANTI; FARIAS JUNIOR, I. H.; ALVES, G.. Participação em banca de Thalita Maria Firmino de Moura. Uma Abordagem para a Escrita e Execução de Testes de Aceitação Automatizados Utilizando a Técnica de Desenvolvimento Ágil BDD. 2018. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+11.
+FURTADO, ANA PAULA CAVALCANTI; LIMA, L. A.; PONTES, M. B.. Participação em banca de Antonio Severino da Silva Júnior. OCTA: Uma Ferramenta para Apoiar a Escrita de Testes de Software no Contexto de Oracles. 2018. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+12.
+FURTADO, ANA PAULA CAVALCANTI; FRANCA, A. C. C.; MARINHO, M. L. M.. Participação em banca de Tereza Novais Silva Soares. Uma Abordagem para Estimativa de Custo em Teste Automático. 2017. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+13.
+FURTADO, ANA PAULA CAVALCANTI; FRANCA, A. C. C.; AGUIAR, Y. P. C.. Participação em banca de Márcia Valéria Rocha da Souza. Uma Ferramenta Visual para Concepção de Jogos Educacionais de Engenharia de Software Sob a Ótica Motivacional. 2017. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+14.
+FURTADO, ANA PAULA CAVALCANTI; FRANCA, A. C. C.; MONTEIRO, C. V. F.. Participação em banca de Roberto Alves dos Santos. Estudo Diário sobre Padrões de Estresse em Desenvolvedores de Software. 2017. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+15.
+FURTADO, ANA PAULA CAVALCANTI; SILVA, F. S.; ARAUJO, A. R. S.. Participação em banca de Dalvanira Santos Silva. Processo de Teste de Software Aderente aos Conceitos Lean - Estudo de Caso e Grupo Focal. 2016. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+16.
+CAVALCANTI, A. P. C.; FARIAS JUNIOR, I. H.; ARAUJO, A. R. S.. Participação em banca de VICTOR CÉSAR DANTAS GOUVEIA. Proposta de um Conjunto de Métricas Ágeis Aderentes ao Processo de Medição Nível F do MPS.BR, de Acordo com Empresas Certificadas, Avaliadores e Implementadores. 2015. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+17.
+CAVALCANTI, A. P. C.; FARIAS JUNIOR, I. H.; LINS, W. C. B.. Participação em banca de MAXWELL ANDERSON IELPO DO AMARAL. PIMP: Um Processo para Implantação de Melhoria de Processos de Software. 2015. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+18.
+SOARES, F. S. F.; BATISTA, M. C. M.; CAVALCANTI, A. P. C.. Participação em banca de ÂNGELA MARIA DE SOUZA. Um Processo para Gestão de Requisitos em Desenvolvimento Distribuído de Software Baseado no CMMI. 2013. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+19.
+CAVALCANTI, A. P. C.. Participação em banca de Rodrigo Martins Ferreira. Fábrica de Software com Instrumento de Geração de Capital Humano, Empreendedorismo e Inovação em Unidades Academicas. 2010. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+Teses de doutorado
+
+1.
+FURTADO, ANA; NASCIMENTO, A. C. A.. Participação em banca de Gabriel Furtado. Evitando viés em dados jurídicos. 2022. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+FURTADO, ANA PAULA CAVALCANTI; NOGUEIRA, S. C.. Participação em banca de Rodrigo Cunha Alves Moreira.Uma Proposta de Taxonomia de Casos de Teste de Software de Caixa Preta. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+2.
+FURTADO, ANA PAULA CAVALCANTI; NOGUEIRA, S. C.. Participação em banca de Tamires Pereira da Silva.Guidelines Análise de Viabilidade da Automação de Teste. 2019 - Universidade Federal Rural de Pernambuco.
+
+3.
+FURTADO, ANA PAULA CAVALCANTI; LIMA, L. A.. Participação em banca de Pedro Pires Barreto.Avaliação de efetividade da execução de casos de testes. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+4.
+FURTADO, ANA PAULA CAVALCANTI; SAMPAIO, S. C.. Participação em banca de Thomás André da Silva Leal.Retrospectiva: apoiando o aprendizado em times ágeis. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+5.
+FURTADO, ANA PAULA CAVALCANTI; SANTOS, G. A. V.. Participação em banca de Daniel Lima Nogueira.Um método para estruturação e gestão de portifólios de processos de negócios. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+CAVALCANTI, A. P. C.; ANDRADE, E. C.; ARAUJO, C. J. M.. Banca Examinadora da Seleção Simplificada para Professor Substituto da UFRPE. 2018. Universidade Federal Rural de Pernambuco.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+VISION Annual Conference 2025. 2025. (Congresso).
+
+2.
+Mulheres em Evidência: Ciência em Foco.Mulheres em Evidência: Ciência em Foco. 2024. (Encontro).
+
+3.
+Conferência Anual da Defensoria Pública do Estado do Maranhão. Discriminação Algorítmica. 2023. (Congresso).
+
+4.
+Evento de Integração de Inovação (EII).Evento de Integração de Inovação (EII). 2023. (Encontro).
+
+5.
+The 13th International Learning Analytics & Knowledge Conference (LAK23). 2023. (Congresso).
+
+6.
+A 20ª edição da Conferência da Associação Nacional de Pesquisa e Desenvolvimento das Empresas Inovadoras. 2022. (Congresso).
+
+7.
+Encontro MPS Região Nordeste.MPS.Br -. 2022. (Encontro).
+
+8.
+SVWC Festival 2022. 2022. (Seminário).
+
+9.
+35th International Conference on Software Engineering. 2013. (Congresso).
+
+10.
+Seminário AGP de Gerenciamento de Projetos. 2009. (Seminário).
+
+11.
+Falando em Ágil. 2008. (Seminário).
+
+12.
+Uso do SCRUM em ambientes CMMI. 2008. (Oficina).
+
+13.
+XI Iberoamerican Workshop of Requirements Engineering and Software Environments. 2008. (Simpósio).
+
+14.
+RiSE Summer School on Software Reuse. 2007. (Oficina).
+
+15.
+Workshop para Introdução de Reuso em Empresas de Desenvolvimento de Software. 2006. (Oficina).
+
+16.
+2o Workshop Brasileiro de Software Orientado a Aspectos. 2005. (Oficina).
+
+17.
+II Workshp Latino Americano de Engenharia de Software Experimental.Workshp Latino Americano de Engenharia de Software Experimental. 2005. (Simpósio).
+
+18.
+III Simpósio Brasileiro de Qualidade de Software. 2004. (Simpósio).
+
+19.
+SUCESU 2004 - Congresso Nacional de Tecnologia da Informação e Comunicação. Congresso Nacional de Tecnologia da Informação e Comunicação. 2004. (Congresso).
+
+20.
+VI Simpósio Internacional de Melhoria de Processo de Software.Um Modelo de Gerência de Projetos baseado no RUP com Aplicações do PMBOK. 2004. (Simpósio).
+
+21.
+Congresso Regional de Gestão do Conhecimento. 2003. (Congresso).
+
+22.
+II Simpósio Brasileiro de Qualidade de Software. 2003. (Simpósio).
+
+23.
+I Workshop de Teses e Dissertações de Qualidade de Software. 2003. (Oficina).
+
+24.
+Workshop: Padrões de Software.Padrões de Software. 2003. (Oficina).
+
+25.
+Workshop de TI e Gerência do Conhecimento. 2003. (Oficina).
+
+26.
+XII Encontro de Iniciação Científica.Organização Estrutural de um Modelo de Desenvolvimento de Software Baseado no RUP. 2003. (Encontro).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+CAVALCANTI, A. P. C.. Recife Summer School. 2009. (Congresso).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+
+1.
+William Rosendo Soares. Métricas de Justiça para avaliação de sistemas inteligentes. Início: 2022. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+2.
+Virgnía Kelly de Moura Carvalho Mesquita. Uma abordagem de engenharia de requisitos para sistemas baseados em IA. Início: 2022. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+3.
+Gileade de Jesus do Espírito Santo. Uma abordagem para definição de requisitos para manter a qualidade dos dados. Início: 2022. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+4.
+Edluce Leitão Veras. Análise de requisitos de software para ambientes de linhas de produto. Início: 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+5.
+Rhuan Felipe Cunha de Queiroz. Testes Automáticos para Garantir a Qualidade de DataSets. Início: 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+6.
+Victor Eduardo de Souza Silva. Aplicação da LGPD e Federated Learning no Contexto de Violência Doméstica. Início: 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+7.
+Paulo Henrique de Souza. Identificação de Atores em Cenas Acústicas de Violência contra Mulher. Início: 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+8.
+Gilmário Pereira dos Santos. Análise de Cenas Acústicas com uso de Melespectograma. Início: 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+Tese de doutorado
+
+1.
+Adriana Falcão. Análise de Comportamento de Consumo no Contexto da Pandemia. Início: 2021. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+2.
+Anderson Lima. MLOps. Início: 2021. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+3.
+Paulo Abrantes. Desenvolvimento Ágil Aplicado a Statups de Software. Início: 2021. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+4.
+Marcos Vinicius Pinto de Andrade. Computer Vision and Artificial Intelligence Applied to Public Surveillance Cameras. Início: 2021. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+5.
+Tiago Beltrão Lacerda. Federated Learning Aplicado ao Contexto de Violência contra Mulher. Início: 2021. Tese (Doutorado em Doutorado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Marco Segundo. Práticas de Validação de Protótipos no Contexto do Design Thinking. Início: 2021. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+Antonio Moreira da Silva Filho. Utilização de Aprendizagem Profunda para Classificação de Acórdãos no Âmbito do Controle Externo. 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+2.
+Silvandro Pereira Pedrozo. Identificação e Mitigação de Viés de Justiça para Sistemas que Utilizam Aprendizagem de Máquina Supervisionada para Tomada de Decisão. 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+3.
+Afonso Henrique Anastácio Calábria. Uma Proposta Automatizada para Aplicações de Comunicação Aumentativa e Alternativa. 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+4.
+Antônio José Machado Vianna. A.I.A: Uma abordagem full-mobile para criação e execução de testes instrumentais para dispositivos android. 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+5.
+Leandro Augusto Barbosa de Araújo. Estratégia de Escolha de Codecs em Aplicativos Móveis com Captura e Pós-Processamento de Áudio: Uma Proposta para o HEAR. 2021. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+6.
+Mauricio Wanderley Martins. Predição do Perfil de Atletas para Marketing Digital: Utilizando Design Science Research para Aplicar Conceitos de ROI Não-Monetário no Instagram. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+7.
+Lincon Ademir Pereira da Silva. Classificação de Tipos de Violência Doméstica a partir de Machine Learning. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+8.
+Márcio Braga dos Santos. Automação de Testes em Chatbots. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+9.
+Eduardo Tavares de Farias. Aplicação de Priorização de Casos de Teste Manuais Baseado em Requisitos. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+10.
+Renan Marques Gomes de Oliveira. IoT TESTBOX: Um Framework de Automação de Testes de Integração para Soluções em IoT. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+11.
+Jair Bogo. Sport Analytics Aplicado à Corredores Amadores. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+12.
+Thiago Beltrão Lacerda. Utilização de Aprendizagem de Máquina na Classificação de Risco de Pacientes Oncológicos. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+13.
+Alfeu Buriti Pereira Junior. Análise Preditiva de Violência Doméstica Utilizando Aprendizagem de Máquina. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Coorientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+14.
+Alberto de Lima Medeiros. Conexão Vida: uma Proposta para Auxiliar no Tratamento e na Comunicação entre Pacientes e Equipe Médica do IMIP. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+15.
+Petrônio de Barros Mesquista. Aplicação de Deep Learning na identicação de violência contra a mulher em vídeos. 2020. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+16.
+Diogo Dantas Moreira. Testes de Sistemas de Classificação de Cenas Acústicas Utilizando Relações Metamórficas. 2019. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+17.
+Helton Santa Cruz Souto. Uso de Aprendizado de Máquina para Classificação de Cenas Acústicas Envolvendo Violência Doméstica. 2019. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+18.
+Thalita Maria Firmino de Moura. Uma Abordagem para Escrita e Execução de Testes de Aceitação Automatizados Utilizando a Técnica de Desenvolvimento Ágil BDD. 2018. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+19.
+Antonio Severino da Silva Júnior. OCTA: Uma Ferramenta para Apoiar a Escrita de Testes de Software no Contexto de Oracles. 2018. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+20.
+Tereza Novais Silva Soares. Uma Abordagem para Estimativa de Custo em Teste Automático. 2017. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+21.
+Dalvanira Santos Silva. Processo de Teste de Software Aderente aos Conceitos Lean ? Estudo de Caso e Grupo Focal. 2016. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+22.
+Maxwell Anderson Ielpo do Amaral. PIMP: Um Processo para Implantação de Melhoria de Processos de Software. 2015. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+23.
+Victor César Gouveia Dantas. Proposta de um Conjunto de Métricas Ágeis Aderentes ao Processo de Medição Nível F do MPS.BR de Acordo com Empresas Certificadas, Avaliadores e Implementadores. 2015. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+24.
+Álvaro Farias Pinheiro. Uma Proposta de Avaliação para Fábricas de Software Usadas com Instrumento de Ensino em Engenharia de Software. 2009. Dissertação (Mestrado em Metrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Coorientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+Monografia de conclusão de curso de aperfeiçoamento/especialização
+
+1.
+Renata de Andrade Bezerra Neiva. IMPLANTAÇÃO DO MODELO MPS.BR, NÍVEL F EM CONJUNTO COM A METODOLOGIA ÁGIL SCRUM. 2013. Monografia. (Aperfeiçoamento/Especialização em Especialização em Gestão Àgil de Projetos) - Centro de Estudos e Sistemas Avançados do Recife. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+2.
+Rebeka Rodrigues Lobo. ANÁLISE COMPARATIVA ENTRE SCRUM E KANBAN. 2013. Monografia. (Aperfeiçoamento/Especialização em Especialização em Gestão Àgil de Projetos) - Centro de Estudos e Sistemas Avançados do Recife. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+3.
+Elizabeth Refina Rodrigues Lins Azevedo. MODELOS DE MATURIDADE NO PROCESSO DE SOFTWARE: UMA ANÁLISE COMPARATIVA. 2013. Monografia. (Aperfeiçoamento/Especialização em Especialização em Gestão Àgil de Projetos) - Centro de Estudos e Sistemas Avançados do Recife. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+4.
+Camila Tigre Nascimento. MOTIVAÇÃO DA EQUIPE E INSERÇÃO DE METODOLOGIA ÁGIL. 2013. Monografia. (Aperfeiçoamento/Especialização em Especialização em Gestão Àgil de Projetos) - Centro de Estudos e Sistemas Avançados do Recife. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+5.
+Jairo Almeida de Miranda Filho. UMA ANÁLISE DE ADERÊNCIA DO SCRUM AO MODELO MPS.BR, NÍVEL G. 2013. Monografia. (Aperfeiçoamento/Especialização em Especialização em Gestão Àgil de Projetos) - Centro de Estudos e Sistemas Avançados do Recife. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+6.
+Carlos Augusto Costa de Abreu. Estudo comparatório do CMMI, MPS.BR, MPT.BR e Certics. 2013. Monografia. (Aperfeiçoamento/Especialização em Especialização em Gestão Àgil de Projetos) - Centro de Estudos e Sistemas Avançados do Recife. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+7.
+Fabienne Gomes Guedes Silva. ABORDAGEM DE PRÁTICAS ÁGEIS NO PROCESSO DE TESTE DE SOFTWARE ? RELATO DE EXPERIÊNCIA. 2013. Monografia. (Aperfeiçoamento/Especialização em Especialização em Gestão Àgil de Projetos) - Centro de Estudos e Sistemas Avançados do Recife. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+8.
+Marcos Aurélio da Fonseca. Qualidade e Gestão de Processo de Negocio no Desenvolvimento de Software. 2011. Monografia. (Aperfeiçoamento/Especialização em CURSO DE ESPECIALIZAÇÃO EM ENGENHARIA DE SOFTWARE) - Centro de Ensino Unificado de Teresina. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Tamires Pereira da Silva. Guidelines para Análise de Viabilidade da Automação de Teste. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+2.
+Rodrigo Cunha Alves Moreira. Uma Proposta de Taxonomia de Teste de Software de Caixa Preta. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+3.
+Pedro Pires Barreto. Avaliação de Efetividade da execução de casos de teste. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ana Paula Carvalho Cavalcanti Furtado.
+
+
+
+Inovação
+
+Projetos de pesquisa
+2022 - 2023
+HEAR - Helping Everyone to Actively React
+Descrição: Projeto aprovado no Edital CATALISA ICT de Planos de Inovação..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado profissional: (3) / Doutorado: (1) .
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Rafael Ferreira de Mello - Integrante / Péricles Barbosa Cunha de Miranda - Integrante / LACERDA, TIAGO B. - Integrante / André Câmara Alves do Nascimento - Integrante.
+Financiador(es): Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - Auxílio financeiro.
+
+
+Projeto de desenvolvimento tecnológico
+2022 - 2023
+SARA - Socorro Automático e Rede de Apoio
+Descrição: Projeto aprovado no programa Centelha PE/2https://www.programacentelha.com.br/wp-content/uploads/2022/01/PE-Edital-Centelha-2.pdf.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Ana Paula Carvalho Cavalcanti Furtado - Coordenador / CÂMARA, ANDRÉ - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+
+
+
+Educação e Popularização de C & T
+
+Entrevistas, mesas redondas, programas e comentários na mídia
+1.
+FURTADO, ANA PAULA CAVALCANTI. GeekNight - IoT: Desafios e Oportunidades em Testes. 2018. (Programa de rádio ou TV/Mesa redonda). 
+
+
+
+Outras informações relevantes
+(1) Estudante de Intercâmbio nos Estados Unidos, período: Julho/1996 - Janeiro/1997, escola: Arsenal Technical High School, Indianápolis - Indiana - EUA. (2) Estudante de Intercâmbio de Graduação na Espanha, Período: Agosto/2002 - Janeiro/2003, Universidade de Salamanca, Salamanca - Espanha.
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 13:42:51
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo

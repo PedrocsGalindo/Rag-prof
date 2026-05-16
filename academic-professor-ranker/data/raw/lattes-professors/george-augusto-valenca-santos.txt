@@ -1,0 +1,2286 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+Dados gerais Formação Atuação Projetos Produções Inovação Educação e Popularização de C & T Eventos Orientações Bancas Citações +
+
+George Augusto Valença Santos
+Endereço para acessar este CV: http://lattes.cnpq.br/8525564952779211
+ID Lattes: 8525564952779211
+Última atualização do currículo em 08/05/2026
+
+George Valença é professor associado II do Departamento de Computação da Universidade Federal Rural de Pernambuco (UFRPE). Obteve bacharelado, mestrado e doutorado pelo Centro de Informática da UFPE - com parte da graduação realizada na Université de Technologie de Compiègne (França) - pesquisando variabilidade de processos (mestrado) e, no contexto de inovação aberta, relações de poder e dependência em ecossistemas de software (doutorado). Desde 2020, atua como cientista-chefe em convênios de PD, com parcerias com o Instituto Alana, na área de design ético na educação, e Tribunal de Contas de Pernambuco, na área de inteligência artificial. É consultor da UNESCO na área de design ético e infância. Na UFRPE, lidera o laboratório ASPAS, que investiga desafios sociotécnicos de plataformas digitais, com atenção especial à relação de crianças e pessoas trans com tecnologias. Leciona disciplinas de negócios, futurismo e aspectos sociotécnicos em TI. Realizou pós-doutorado na PUC-SP, investigando padrões de design manipulativo e garantias dos direitos da criança por design. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+George Augusto Valença SantosDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+SANTOS, G. A. V.;Valença, George;VALENCA, GEORGE
+Lattes iD
+http://lattes.cnpq.br/8525564952779211
+Orcid iD
+? https://orcid.org/0000-0001-9375-5354
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco.
+Rua Dom Manoel de Medeiros, s/n. Campus Universidade Federal Rural de Pernambuco, Departamento de Computação (DC)
+Dois Irmãos
+52171900 - Recife, PE - Brasil
+Telefone: (81) 33206491
+URL da Homepage: http://www.dc.ufrpe.br/
+
+
+Formação acadêmica/titulação
+2012 - 2016
+Doutorado em Ciência da Computação (conceito CAPES 6).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: A Theory of Power in Software Ecosystems Formed by Small-to-Medium Enterprises , Ano de obtenção: 2016.
+Orientador: Carina Frota Alves.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+Palavras-chave: Software Ecosystems; Partnerships; SME; Power; Multiple Case Study; Cross-case analysis.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Software Ecosystems.
+2010 - 2012
+Mestrado em Ciência da Computação (conceito CAPES 6).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Business Process Variability: A Systematic Literature Review , Ano de Obtenção: 2012.
+Orientador: Carina Frota Alves.
+Coorientador: Vander Ramos Alves.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+Palavras-chave: Business Process Variability; Systematic Literature Review.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Business Process Management.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Empirical Software Engineering.
+2008 - 2009
+Graduação em Génie Informatique.
+Université de Technologie de Compiègne, UTC, França.
+2005 - 2009
+Graduação em Ciência da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Engenharia de Requisitos para Linha de Produtos de Software: Uma Revisão Sistemática da Literatura.
+Orientador: Carina Frota Alves.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+
+
+Pós-doutorado
+2023 - 2025
+Pós-Doutorado.
+Pontifícia Universidade Católica de São Paulo, PUC/SP, Brasil.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+
+
+Formação Complementar
+2022 - 2022
+Encontros com a Web. (Carga horária: 10h).
+Núcleo de Informação e Coordenação do Ponto BR, NIC.BR, Brasil.
+2021 - 2021
+Proteção de dados pessoais aplicada. (Carga horária: 50h).
+Instituto de Tecnologia e Sociedade, ITS Rio, Brasil.
+2021 - 2021
+Reconhecimento facial: perspectivas e controvérsias. (Carga horária: 12h).
+Instituto de Tecnologia e Sociedade, ITS Rio, Brasil.
+2021 - 2021
+O Futuro e o Perigo da era digital: armas e ferramentas. (Carga horária: 13h).
+Instituto de Tecnologia e Sociedade, ITS Rio, Brasil.
+2021 - 2021
+Regulação de Plataformas Digitais: debates e perspectivas. (Carga horária: 18h).
+Instituto de Tecnologia e Sociedade, ITS Rio, Brasil.
+2020 - 2020
+Oficina para Mentores. (Carga horária: 3h).
+ESCOLA SUPERIOR DE EMPREENDEDORISMO SEBRAE-SP, ESE SEBRAE-SP, Brasil.
+2020 - 2020
+Design Thinking. (Carga horária: 21h).
+Fundação Joaquim Nabuco, FUNDAJ, Brasil.
+2020 - 2020
+Gestão e Difusão da Inovação no Setor Público. (Carga horária: 15h).
+Fundação Joaquim Nabuco, FUNDAJ, Brasil.
+2020 - 2020
+Metodologias Ativas. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2019 - 2019
+Workshop de Design Thinking em Platform Design. (Carga horária: 16h).
+Porto Digital, PORTO DIGITAL, Brasil.
+2019 - 2019
+Planejamento de Aulas Usando Abordagens Ativas de Aprendizagem. (Carga horária: 16h).
+Tribunal de Contas do Estado de Pernambuco, TCE PE, Brasil.
+2015 - 2015
+Oratória Executiva de Alta Performance. (Carga horária: 20h).
+Tribunal de Contas do Estado de Pernambuco, TCE-PE, Brasil.
+2014 - 2014
+Indicadores na Gestão de Processos de Negócio. (Carga horária: 4h).
+Tribunal de Contas do Estado de Pernambuco, TCE PE, Brasil.
+2013 - 2013
+Analista de Processos. (Carga horária: 8h).
+Tribunal de Contas do Estado de Pernambuco, TCE-PE, Brasil.
+2013 - 2013
+Redes Sociais em Ecossistemas de Software. (Carga horária: 4h).
+Simpósio Brasileiro de Sistemas de Informação, SBSI, Brasil.
+2011 - 2011
+Administração de Tempo. (Carga horária: 10h).
+Serviço Federal de Processamento de Dados, SERPRO, Brasil.
+2011 - 2011
+Modelagem de Processos. (Carga horária: 12h).
+Serviço Federal de Processamento de Dados, SERPRO, Brasil.
+2011 - 2011
+Execução de Projetos de Melhoria e Inovação. (Carga horária: 16h).
+ELO Group, ELO GROUP, Brasil.
+2011 - 2011
+Capacitação de Tutores. (Carga horária: 20h).
+Serviço Federal de Processamento de Dados, SERPRO, Brasil.
+2011 - 2011
+Gerência de Projetos. (Carga horária: 32h).
+Serviço Federal de Processamento de Dados, SERPRO, Brasil.
+2010 - 2010
+Ciclo BPM - da Estratégia à Execução. (Carga horária: 40h).
+ELO Group, ELO GROUP, Brasil.
+2007 - 2007
+Minicurso de Engenharia de Requisitos. (Carga horária: 4h).
+Simpósio Brasileiro de Engenharia de Software, SBES, Brasil.
+2006 - 2006
+C/C++. (Carga horária: 30h).
+Centro Integrado de Tecnologia da Informação, CITi, Brasil.
+2005 - 2005
+Campanha Java Certified Programmer. (Carga horária: 85h).
+Iteci Instituto de Tecnologia e Ciencia da Informacão, ITECI, Brasil.
+2005 - 2005
+Lógica. (Carga horária: 40h).
+Leiaut Informática, LEIAUT, Brasil.
+
+
+Atuação Profissional
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor associado II, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Atividades
+
+03/2026 - Atual
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Design Especulativo
+03/2026 - Atual
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Computadores e Sociedade
+09/2024 - Atual
+Direção e administração, Departamento de Computação - DC.
+
+Cargo ou função
+Supervisor de Comunicação.
+10/2018 - Atual
+Direção e administração, Departamento de Computação - DC.
+
+Cargo ou função
+Membro da Comissão de Infraestrutura.
+08/2018 - Atual
+Direção e administração, Departamento de Computação - DC.
+
+Cargo ou função
+Membro do Colegiado de Coordenação Didática do curso de Bacharelado em Ciência da Computação.
+05/2016 - Atual
+Conselhos, Comissões e Consultoria, Departamento de Letras.
+
+Cargo ou função
+Membro do Colegiado de Coordenação Didática de Curso de Letras.
+09/2025 - 12/2025
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Design Especulativo
+09/2025 - 12/2025
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Computadores e Sociedade
+04/2025 - 08/2025
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Computadores e Sociedade
+04/2025 - 08/2025
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software Experimental
+11/2024 - 03/2025
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio (BPM)
+11/2024 - 03/2025
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Computadores e Sociedade
+08/2024 - 11/2024
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computadores e Sociedade
+03/2024 - 10/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio
+03/2024 - 10/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Computadores e Sociedade
+05/2022 - 08/2024
+Direção e administração, Departamento de Computação - DC.
+
+Cargo ou função
+Supervisor de Cooperação e Inovação.
+10/2023 - 03/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Computadores e Sociedade
+10/2023 - 03/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software Experimental
+06/2023 - 09/2023
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+06/2023 - 09/2023
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio
+11/2022 - 05/2023
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software Experimental
+11/2022 - 05/2023
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+07/2022 - 10/2022
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+07/2022 - 10/2022
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio (BPM)
+02/2022 - 05/2022
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+02/2022 - 05/2022
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software Experimental
+08/2021 - 12/2021
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio
+08/2021 - 12/2021
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio
+08/2021 - 12/2021
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+04/2021 - 07/2021
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+04/2021 - 07/2021
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software Experimental
+06/2019 - 06/2021
+Direção e administração, Departamento de Computação - DC.
+
+Cargo ou função
+Vice-coordenador do curso de Bacharelado em Ciência da Computação.
+11/2020 - 01/2021
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio (BPM)
+08/2020 - 10/2020
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+08/2019 - 12/2019
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+08/2019 - 12/2019
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio
+03/2019 - 07/2019
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software Experimental
+03/2019 - 07/2019
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Desenvolvimento de Software
+09/2018 - 01/2019
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio (BPM)
+09/2018 - 01/2019
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software
+04/2018 - 08/2018
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software Experimental
+04/2018 - 08/2018
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Trabalho de Conclusão de Curso - TCC
+04/2018 - 08/2018
+Ensino, Educação Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+02/2018 - 07/2018
+Direção e administração, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO, Departamento de Computação - DC.
+
+Cargo ou função
+Substituto de supervisão.
+09/2017 - 02/2018
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Trabalho de Conclusão de Curso
+09/2017 - 02/2018
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio
+09/2017 - 02/2018
+Ensino, Educação Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+05/2017 - 09/2017
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Trabalho de Conclusão de Curso (TCC)
+05/2017 - 08/2017
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Engenharia de Software Experimental
+05/2017 - 08/2017
+Ensino, Educação Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+12/2016 - 07/2017
+Conselhos, Comissões e Consultoria, Universidade Federal Rural de Pernambuco.
+
+Cargo ou função
+Gerente do projeto de elaboração do PDTI 2017-2020.
+08/2016 - 03/2017
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Gestão de Processos de Negócio
+08/2016 - 03/2017
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Trabalho de Conclusão de Curso (TCC)
+08/2016 - 03/2017
+Ensino, Educação Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+03/2016 - 07/2016
+Ensino, Gastronomia, Nível: Graduação
+
+Disciplinas ministradas
+Aplicativos de Informática para Gastronomia
+03/2016 - 07/2016
+Ensino, Ciências Econômicas, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Microinformática
+08/2013 - 06/2016
+Conselhos, Comissões e Consultoria, Universidade Federal Rural de Pernambuco.
+
+Cargo ou função
+Membro do Colegiado de Coordenação Didática de Curso de Engenharia Florestal.
+08/2015 - 12/2015
+Ensino, Ciências Econômicas, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Microinformática
+08/2015 - 12/2015
+Ensino, Gastronomia, Nível: Graduação
+
+Disciplinas ministradas
+Aplicativos de Informática para Gastronomia
+03/2015 - 07/2015
+Ensino, Economia Doméstica, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+03/2015 - 07/2015
+Ensino, Gastronomia, Nível: Graduação
+
+Disciplinas ministradas
+Aplicativos de Informática para Gastronomia
+03/2015 - 07/2015
+Ensino, Educação Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+09/2014 - 01/2015
+Ensino, Gastronomia, Nível: Graduação
+
+Disciplinas ministradas
+Aplicativos de Informática para Gastronomia
+09/2014 - 01/2015
+Ensino, Economia Doméstica, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+09/2014 - 01/2015
+Ensino, Educação Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+01/2014 - 01/2015
+Conselhos, Comissões e Consultoria, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+
+Cargo ou função
+Comissão de Reformulação de Disciplinas Externas.
+12/2013 - 12/2014
+Extensão universitária , Departamento de Informática - DEINFO.
+
+Atividade de extensão realizada
+Ferramentas para Construção de Jogos Digitais no Ensino da Matemática: Ampliando o Processo de Aprendizagem Através da Tecnologia.
+03/2014 - 08/2014
+Ensino, Zootecnia, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+03/2014 - 08/2014
+Ensino, Agronomia, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+03/2014 - 08/2014
+Ensino, Educação Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+01/2014 - 05/2014
+Conselhos, Comissões e Consultoria, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+
+Cargo ou função
+Comissão de Estruturação do Departamento de Computação (DComp).
+11/2013 - 02/2014
+Conselhos, Comissões e Consultoria, Departamento de Informática - DEINFO.
+
+Cargo ou função
+Comissão Concurso Docente DEINFO - Edital 96/2013..
+10/2013 - 02/2014
+Ensino, Agronomia, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+10/2013 - 02/2014
+Ensino, Matemática, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Microinformática
+10/2013 - 02/2014
+Ensino, Ciências Econômicas, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Microinformática
+10/2013 - 12/2013
+Extensão universitária , Departamento de Informática - DEINFO.
+
+Atividade de extensão realizada
+Produção de Material Didático Digital para Educação Ambiental.
+07/2013 - 09/2013
+Conselhos, Comissões e Consultoria, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+
+Cargo ou função
+Comissão Concurso Docente DEINFO - Edital 36/2013.
+06/2013 - 09/2013
+Ensino, Agronomia, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+06/2013 - 09/2013
+Ensino, Licenciatura em Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Computação
+06/2013 - 09/2013
+Ensino, Engenharia de Pesca, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Informática
+
+Tribunal de Contas do Estado de Pernambuco, TCE PE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Professor Visitante, Enquadramento Funcional: Pesquisador
+
+
+Centro de Estudos e Sistemas Avançados do Recife, CESAR, Brasil.
+Vínculo institucional
+
+2018 - Atual
+Vínculo: Colaborador, Enquadramento Funcional: Professor / pesquisador externo
+
+Atividades
+
+08/2018 - 12/2021
+Pesquisa e desenvolvimento, CESAR School.
+
+Linhas de pesquisa
+Engenharia de Software
+
+Instituto de Tecnologia e Sociedade, ITS Rio, Brasil.
+Vínculo institucional
+
+2021 - 2023
+Vínculo: Pesquisador, Enquadramento Funcional: Integrante do ModeraLab, Carga horária: 4
+
+Atividades
+
+08/2021 - 05/2023
+Pesquisa e desenvolvimento, ModeraLab.
+
+Linhas de pesquisa
+Moderação de conteúdo; proteção de dados
+
+Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+Vínculo institucional
+
+2019 - 2022
+Vínculo: Colaborador, Enquadramento Funcional: Coordenador de projeto, Carga horária: 8
+
+Vínculo institucional
+
+2012 - 2013
+Vínculo: Colaborador, Enquadramento Funcional: Pesquisador voluntário
+Outras informações
+Pesquisador do projeto de pesquisa "Um Modelo para Governança de Processos de Negócio de Organizações do Ecossistema Público Brasileiro"
+
+Vínculo institucional
+
+2012 - 2013
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisador bolsista - doutorado (GD), Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2010 - 2010
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisador bolsista - mestrado (GM)
+
+Vínculo institucional
+
+2008 - 2009
+Vínculo: Colaborador, Enquadramento Funcional: Pesquisador voluntário, Carga horária: 20
+Outras informações
+Pesquisador do projeto de pesquisa "Desenvolvimento da Estrutura de Avaliação de Processos em um Ambiente de Implementação de Processos de Software"
+
+Vínculo institucional
+
+2006 - 2007
+Vínculo: Bolsista de ITI/A, Enquadramento Funcional: Bolsista de Iniciação Tecnológica Industrial, Carga horária: 20
+Outras informações
+Pesquisador do projeto de pesquisa "Um Framework de Engenharia de Requisitos para Desenvolvimento de Produtos de Software"
+
+
+Faculdades Integradas Barros Melo, FIBAM, Brasil.
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Celetista, Enquadramento Funcional: Professor, Carga horária: 10
+Outras informações
+Disciplinas (2012.1): Estrutura de Dados, Desenvolvimento Orientado a Aspectos, Tópicos Especiais I ? Programação Web, e Informática I (Word e Excel).
+
+
+Serviço Federal de Processamento de Dados, SERPRO, Brasil.
+Vínculo institucional
+
+2010 - 2012
+Vínculo: Celetista formal, Enquadramento Funcional: Analista, Carga horária: 40, Regime: Dedicação exclusiva.
+Outras informações
+* Especialidade: Negócios em Tecnologia da Informação. * Função: Gerentes de projetos relacionados à vertente conceitual da Plataforma de Processos. * Principais atividades: estruturação da vertente conceitual da Plataforma de Processos, ambiente de TI que congrega orientações metodológicas e ferramentas para o Gerenciamento de Processos de Negócio (BPM); elaboração e condução de treinamentos em BPM; modelagem dos processos organizacionais; difusão da Plataforma de Processos em eventos de Governo.
+
+
+Amadeus IT Group SA, AMADEUS, França.
+Vínculo institucional
+
+2009 - 2009
+Vínculo: Estagiário, Enquadramento Funcional: Estagiário, Carga horária: 35, Regime: Dedicação exclusiva.
+Outras informações
+* Gestão de Projetos: Comunicação e controle das atividades de gestão de projetos; promoção da metodologia de condução de projetos; design e prototipagem de ferramentas de gestão de projetos; avaliação objetiva de processos e resultados.
+
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2009 - 2009
+Vínculo: Colaborador, Enquadramento Funcional: Monitor bolsista, Carga horária: 4
+Outras informações
+Monitor do Curso Pós-graduação Lato Sensu Especialização em Tecnologias da Informação. Professora: Carina Frota Alves
+
+Vínculo institucional
+
+2006 - 2008
+Vínculo: Vínculo institucional, Enquadramento Funcional: Monitor bolsista, Carga horária: 3
+Outras informações
+Disciplina: Matemática Discreta. Professora: Anjolina Grisi de Oliveira. Semestres 2006.1 / 2006.2 / 2007.1 / 2007.2 e 2008.1. Não-bolsista durante 2006.1 / 2006.2.
+
+
+Centro Integrado de Tecnologia da Informação, CITi, Brasil.
+Vínculo institucional
+
+2007 - 2008
+Vínculo: Colaborador, Enquadramento Funcional: Diretor Vice-Presidente, Carga horária: 20
+Outras informações
+Representação da empresa; acompanhamento e elaboração das reuniões e assembléias do CITi; condução do planejamento estratégico; contato com a direção de outras empresas, entidades de classe e órgãos governamentais; condução dos processos de mudanças na cultura da organização.
+
+
+
+Linhas de pesquisa
+1.
+Engenharia de Software
+2.
+Moderação de conteúdo; proteção de dados
+
+
+Projetos de pesquisa
+2025 - Atual
+Melhoria de Processos e Tecnologias para Evolução da Governança do Tribunal de Contas do Estado de Pernambuco
+Descrição: Estabelecer uma parceria técnico-científica, a partir de um convênio de cooperação técnica, entre aUniversidade Federal Rural de Pernambuco e o TCE-PE para desenvolvimento de pesquisas aplicadasem áreas como Ciência da Computação, Linguística e Gestão com vistas à melhoria de processos etecnologias associadas na instituição. No convênio serão desenvolvidos guias, modelos em geral (ex.:fluxos de processos, catálogos de segurança da informação, etc.) e ferramentas de software, bem comodiagnósticos ligados a softwares e plataformas bem como procedimentos e normas, conformepreconizado pelo planejamento estratégico do TCE-PE sobretudo à luz de sua cadeia de valor..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (14) / Mestrado acadêmico: (2) / Doutorado: (7) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Fernando Antônio Aires Lins - Integrante / Sidney de Carvalho Nogueira - Integrante / Kellyton dos Santos Brito - Integrante / Robson Medeiros - Integrante / Ermeson Andrade - Integrante.
+Financiador(es): Tribunal de Contas do Estado de Pernambuco - Bolsa.
+2024 - 2025
+Avaliação de Design Ético em Plataformas Educacionais no Ensino Básico e Desenvolvimento de Ferramenta de Apoio
+Descrição: Plataformas educacionais digitais voltadas a crianças e adolescentes tem levantado preocupações sobre ética no design dessas soluções, que muitas vezes carecem de transparência na proteção de dados, acessibilidade, inclusão e respeito à autonomia dos usuários. Estudos apontam a presença de padrões manipulativos e enganosos de design, que promovem a coleta indevida de dados e decisões automatizadas, comprometendo os direitos de crianças e adolescentes em ambientes virtuais de aprendizagem.O projeto Práticas Manipulativas em Plataformas Digitais propõe a criação de um Guia de Design Ético, um catálogo de requisitos e um modelo de autoavaliação para softwares voltados a esse público. Este plano de trabalho visa aplicar esse modelo em plataformas amplamente utilizadas, como Google Classroom e Duolingo, com o objetivo de fortalecer a confiança nessas soluções. Também será desenvolvida uma ferramenta digital que automatize a aplicação do modelo, apoiando s.
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Doutorado: (1) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Maria Eduarda Rebelo di Carlli - Integrante / Steffano Xavier Pereira - Integrante / Maria Luisa de Almeida Vasconcelos - Integrante / Haga Fedra de Brito Cavalcanti - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2024 - Atual
+Práticas Manipulativas em Plataformas Digitais uma Investigação Sobre o Impacto de Padrões Enganosos de Design na Autonomia e no Bem-estar Online das Crianças
+Descrição: Parceria técnico-científica, a partir de um convênio de cooperação técnica, entre a Universidade Federal Rural de Pernambuco e o Instituto Alana para desenvolvimento de pesquisas aplicadas na área de interação humano-computador, engenharia de requisitos e engenharia de software com vistas à construção de soluções de software eticamente responsáveis. No convênio serão desenvolvidos guias emodelos em geral (ex.: catálogos de requisitos legais de software, guia de padrões éticos de design) bem como diagnósticos ligados a softwares e plataformas voltados à criança e ao adolescente e/ou aqueles de uso geral em que elas são parte relevante da base de usuários, conforme preconizado pelo planejamento do Instituto Alana..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Doutorado: (1) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Steffano Xavier Pereira - Integrante / Maria Luisa de Almeida Vasconcelos - Integrante / Haga Fedra de Brito Cavalcanti - Integrante.
+Financiador(es): Instituto Alana - Bolsa.
+Número de produções C, T & A: 3 / Número de orientações: 1
+2021 - 2022
+Processo de inovação social aberta para desenvolvimento de soluções tecnológicas inclusivas e competências empreendedoras em pessoas soropositivas
+Descrição: Projeto que visa desenvolver um modelo de um processo inclusivo inovação social aberta capaz de gerar soluções tecnológicas voltadas para atender as necessidades do público vulnerável em questão. Este modelo se inicia a partir de um ciclo que se inicia com a capacitação em uma formação empreendedora do público alvo em vulnerabilidade psicossocial, para que participem de workshops de co-criação (i.e., hackathon) com designers e programadores, aplicando design participativo junto a este público, e culminando em soluções tecnológicas que serão desenvolvidas durante um processo de mentoria e incubação. O projeto será realizado em parceria com o Grupo de Trabalhos em PrevençãoPositHIVo (GTP+), uma organização não governamental (ONG) de base comunitária e sem fins lucrativos fundada há 20 anos por pessoas que vivem com HIV/AIDS. O projeto proposto será executado por uma equipe interdisciplinar, que além de contar com pesquisadores da UFPE e UFRPE com experiência em estudos e projetos de inovação aberta, e do apoio da equipe do Porto Digital, cuja expertise em incubação de projetos de inovação via mentorias técnicas e de negócio permitirá que os produtos e grupos das hackathons evoluam, contará também com pesquisadoras da UFPE e FPS da área de Psicologia, com experiência nas temáticas em questão..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Doutorado: (5) .
+
+Integrantes: George Augusto Valença Santos - Integrante / Kiev Santos da Gama - Coordenador / Pedro Alessio - Integrante / Candy Laurendon - Integrante / Clarissa Barros - Integrante.
+2020 - 2025
+Um Modelo de Inovação para Transformação Digital do Tribunal de Contas do Estado de Pernambuco
+Descrição: O convênio aqui descrito busca apoiar o Tribunal de Contas na resolução de problemas complexos ligados ao estabelecimento de auditorias temáticas integradas. Neste contexto, soluções tradicionais não se aplicam. É indispensável empregar novas formas de refletir e atuar, com modelos mentais ligados à inovação e visão empreendedora que precisa ser aplicada a instituições públicas. Diante disso, este convênio prevê a concepção, o desenvolvimento e a aplicação de novas ideias e técnicas de inovação..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (14) / Mestrado acadêmico: (2) / Doutorado: (8) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / André Câmara Alves do Nascimento - Integrante / George Gomes Cabral - Integrante / Carlos Julian Menezes Araújo - Integrante / Fernando Antônio Aires Lins - Integrante / Sidney de Carvalho Nogueira - Integrante / Kellyton dos Santos Brito - Integrante / Robson Medeiros - Integrante / Ermeson Andrade - Integrante.
+Financiador(es): Tribunal de Contas do Estado de Pernambuco - Bolsa.
+2019 - 2022
+De Produtos para Plataformas: Um Framework para Design de Ecossistemas de Software
+Descrição: o paradigma de ecossistemas de software tem se tornado uma estratégia competitiva para empresas que passam a concorrer e colaborar em rede. Este ambiente geralmente resulta da ação de uma empresa líder chamada keystone, que parte de um modelo orientado ao produto para um modelo orientado à uma plataforma de software. Inicialmente, a partir da oferta de Application Programming Interfaces e, posteriormente, com Software Development Kits, essa empresa promove o engajamento e orquestra diversos atores externos (complementadores, revendedores, usuários, etc.). Ao firmar parcerias, esses atores passam a compor o ecossistema e obter vantagens como compartilhamento de clientes, acesso a novos mercados, divisão de custos de P&D e inovação de seus produtos. Com isso, os processos de co-criação de valor se tornam cada vez mais interligados e surgem desafios típicos das relações de poder e dependência que se formam entre os participantes. Ecossistemas de software conhecidos e bem-sucedidos incluem Apple iOS, Google Android, Microsoft Dynamics, SAP e Salesforce. Embora ao longo dos últimos anos a literatura tenha explorado a dinâmica de funcionamento de ecossistemas de software, há pouca compreensão sobre como eles surgem. Acreditamos que entender as forças que influenciam a criação de um ecossistema é vital para compreender o desempenho da indústria de software, no atual cenário altamente especializado, competitivo e dinâmico. Diante disso, o presente projeto de pesquisa tem por objetivo investigar o nascimento de ecossistemas através da construção de um framework para guiar as empresas que buscam desenvolver um ecossistema de software. Este framework deverá reunir orientações na forma de estratégias, processos e modelos que caracterizam um ecossistema em suas três dimensões (técnica, social e de negócio). Desenvolveremos tal contribuição a partir de uma referencial conceitual consolidado, adotando teorias de áreas ligadas à ecossistemas de software, como cooperação e inovação. Por fim, realizaremos estudos de campo diversos, com revisão por especialistas e ciclos de pesquisa-ação, para aplicação e evolução do framework em empresas de software.
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) / Doutorado: (2) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / Nycolas Lacerda de Oliveira - Integrante / Ítalo César de Souza Belo - Integrante / Joyce Aline de Oliveira Marins - Integrante / Cleidson R. B. de Souza - Integrante / Emanuel Amoras Rodrigues - Integrante / Filipe Damasceno Coelho - Integrante / Caio Shimada Rabello - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2018 - 2022
+HEAR - Helping Everyone to Actively React
+Descrição: O projeto de pesquisa HEAR - Helping Everyone to Actively React contempla a pesquisa e desenvolvimento de uma solução para identificação, de forma ativa, de atos de agressão contra a mulher através de um aplicativo no celular. A solução estudada irá captar o áudio ambiente, analisar sentimento na voz e as palavras utilizadas na conversa, sem a necessidade de ação da vítima, tratar as informações para identificação da ocorrência da violência. O projeto contempla pesquisa com uso de inteligência artificial, aprendizagem de máquina, análise de padrões acústicos, a ser desenvolvida com suporte dos princípios do Design Science Research. Os resultados esperados para o projeto contemplam o desenvolvimento do aplicativo para captura das informações e de uma plataforma web para identificação e acompanhamento das agressões em tempo real..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (5) .
+
+Integrantes: George Augusto Valença Santos - Integrante / Ana Paula Carvalho Cavalcanti Furtado - Coordenador / Rafael Ferreira de Mello - Integrante.
+2012 - 2013
+Um Modelo para Governança de Processos de Negócio de Organizações do Ecossistema Público Brasileiro
+Descrição: Gestão de Processos de Negócio (Business Process Management ? BPM) é um paradigma chave da computação empresarial para incrementar a agilidade das organizações. BPM refere-se à gestão do ciclo completo de gerenciamento de processos de negócio, desde o desenho e execução até o refinamento dos processos; em um contínuo ciclo de melhoria. Em todas as etapas desse ciclo, considera-se que BPM baseia-se no uso intenso de Tecnologia da Informação. A governança de BPM é considerada um fator crítico de sucesso em iniciativas de gestão e melhoria de processos. O objetivo geral deste projeto é a investigação dos elementos de Governança de Processos de Negócios em organizações do Setor Público Brasileiro. O projeto será conduzido em colaboração entre pesquisadores da UFPE e UNB, com a investigação de um conjunto de instituições públicas (esferas federal e estadual). Empregando uma metodologia de pesquisa qualitativa para investigar de forma colaborativa as iniciativas de gestão de processos nas instituições parceiras, o projeto prevê a construção de um Guia Metodológico para Governança de BPM no setor público (objetivando maior transparência, eficiência e inovação dos processos do Ecossistema de Governo)..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (2) .
+
+Integrantes: George Augusto Valença Santos - Integrante / Carina Frota Alves - Coordenador / André Felipe Santana - Integrante / Higor Ricardo Monteiro Santos - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2008 - 2009
+Desenvolvimento da Estrutura de Avaliação de Processos em um Ambiente de Implementação de Processos de Software
+Descrição: Este trabalho propõe uma nova versão para a ferramenta de avaliação de processos ProEvaluator, de modo a torná-la genérica (isto é, suportar o cadastro de qualquer modelo de referência e método de avaliação) e aderente ao modelo de avaliação de processo proposto pela norma ISO 15504, padrão internacional para avaliação de processos de software. Essa ferramenta deve ser integrada ao ambiente de implementação progressiva de software, o ImPProS. O trabalho foi desenvolvido no contexto da dissertação de mestrado da aluna Tayanna Sotero..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) .
+
+Integrantes: George Augusto Valença Santos - Integrante / tayanna sotero - Integrante / Alexandre Marcos Lins de Vasconcelos - Coordenador / Danilo Lima Veras - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+Número de produções C, T & A: 1
+2006 - 2007
+Um Framework de Engenharia de Requisitos para Desevolvimento de Produtos de Software
+Descrição: O objetivo específico do projeto de pesquisa foi realizar uma pesquisa empírica sobre práticas e processos de engenharia de requisitos conduzidos por empresas desenvolvedoras de produtos de software. O projeto foi inteiramente financiado pelo CNPQ e obteve apoio local do Softex-Recife e Centro de Informática da UFPE. O projeto de pesquisa foi guiado para investigar os seguintes aspectos: examinar como empresas desenvolvedoras de produtos de software conduzem o processo de engenharia de requisitos; entender os principais desafios e problemas enfrentados por empresas de produtos de software baseadas em Recife, Pernambuco; investigar se as práticas adotadas por essas empresas são diferentes do processo de engenharia de requisitos tradicional (i.e. desenvolvimento de software sob encomenda); definir boas práticas em engenharia de requisitos para melhorar a qualidade de processos e produtos de empresas desenvolvedoras baseadas em Recife, Pernambuco..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (1) .
+
+Integrantes: George Augusto Valença Santos - Integrante / Carina Frota Alves - Coordenador / Rodolfo V. C. L. de Andrade - Integrante / João Henrique Pimentel - Integrante / Silvia Cássia Pereira - Integrante / Rosangela Silva de Souza - Integrante / Carolina Neves Correia - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+Número de produções C, T & A: 3
+
+
+Projetos de extensão
+2025 - Atual
+Ciência para Todos - Tradução e Comunicação Simples de Pesquisas sobre Tecnologia e Infância
+Descrição: Este projeto tem como objetivo divulgar, em ambientes exclusivamente digitais, os resultados das pesquisas do Grupo ASPAS sobre os impactos das tecnologias digitais na infância. Os temas abordados incluem influenciadores mirins, design manipulativo, proteção de dados infantis e discriminação algorítmica. A comunicação será realizada por meio de vídeos curtos, infográficos e campanhas em redes sociais, com linguagem acessível e foco na conscientização pública. Um(a) aluno(a) de graduação participará ativamente da produção e gestão dos conteúdos digitais, fortalecendo sua formação acadêmica e cidadã. Cabe destacar que essa produção também derivará da cobertura que esta pessoa bolsista fará de eventos acadêmicos e de ensino em que o grupo ASPAS atuar, de forma a comunicar de maneira simples resultados destes eventos - para além da comunicação de artigos e outras realizações do grupo. A proposta está alinhada à Política Nacional de Extensão Universitária, promovendo interação dialógica online, interdisciplinaridade, integração entre ensino, pesquisa e extensão, impacto formativo no estudante e transformação social por meio da comunicação científica digital..
+Situação: Em andamento; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) / Doutorado: (2) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Carolina Neves Correia - Integrante / Letícia Gomes - Integrante.
+2014 - 2014
+Ferramentas para Construção de Jogos Digitais no Ensino da Matemática: Ampliando o Processo de Aprendizagem Através da Tecnologia
+Descrição: Esse projeto busca apoiar a aprendizagem da Matemática no Ensino Fundamental com a introdução de softwares de construção de jogos digitais. A partir de ações de capacitação, professores e alunos poderão desenvolver jogos eletrônicos que trabalhem os conceitos vistos em sala e, assim, dinamizar o ensino. A adoção de tais ferramentas é facilitada pela independência de sintaxes formais ou lógicas de programação complexas. Um exemplo é o software Scratch, desenvolvido pelo Massachussets Institute of Technology (MIT): sua linguagem intuitiva permite a criação de jogos, animações e demais programas interativos por pessoas sem base em programação ou lógica. Sob a perspectiva do aprendiz, destaca-se o aspecto lúdico desses sistemas e a contribuição para que o aluno pesquise, construa e aplique o conhecimento de forma colaborativa. Sob a ótica do educador, têm-se ferramentas ajustáveis ao conteúdo que busca transmitir, podendo ser aplicadas ao longo de toda disciplina, numa abordagem prática e evolutiva..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Gilberto Amado de Azevedo Cysneiros Filho - Integrante / Priscila Gabriele Marques dos Santos - Integrante / Rodrigo Felipe Tavares Bezerra Mendes - Integrante / Hugo Leonardo de Assunção Costa - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2014 - 2014
+Aplicando o Uso de Novas Tecnologias de Informação e Comunicação (TIC) na Cidade Histórica de Olinda
+Descrição: O objetivo desse projeto é investigar como o uso de novas tecnologias de informação e comunicação (TICs) podem ser usadas como ferramentas para o ensino de história. As TICs podem fornecer uma maneira divertida e interativa para o ensino de história. O objetivo principal desse projeto é produzir ferramentas digitais de m-learning' relacionadas ao Centro Histórico de Olinda como forma de atender a demanda social de divulgação e valorização deste patrimônio histórico. Na universidade, este projeto tem como meta a articulação entre o Departamento de Informática e Estatística, o Departamento de Educação e o Programa de Pós-Graduação em História..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (2) / Doutorado: (2) .
+
+Integrantes: George Augusto Valença Santos - Integrante / Gilberto Amado de Azevedo Cysneiros Filho - Coordenador / Taciana Pontual da Rocha Falcão - Integrante / Ricardo de Aguiar Pacheco - Integrante / Allan Monteiro de Lima - Integrante / Antônio Paulo Batista Junior - Integrante / Mardeni Ferreira de Souza Sa - Integrante / Rodrigo Cavalcanti Lins - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2013 - 2013
+Produção de Material Didático Digital para Educação Ambiental
+Descrição: Hoje em dia existe uma grande preocupação de se promover um desenvolvimento sustentável. Grande parte das agressões ambientais ocorrem devido a ignorância e a falta de conscientização ambiental. As instituições educacionais tem o papel de educar e transmitir conhecimento. As novas tecnologias de informação e comunicação (TIC) desempenham um papel fundamental no ensino, na medida em que se tornam elementos facilitadores na prática de ensino. Vários estudos comprovam a eficácia do uso de TICs como uma ferramenta de apoio ao ensino. O principal objetivo do projeto é estimular a criação de um conjunto de materiais digitais que possam ser compartilhados entre as instituições de ensino para Educação Ambiental. A expectativa é que projeto irá contribuir para aumentar a disponibilidade de materiais de ensino para Educação Ambiental, facilitar o acesso de materiais e melhorar a capacidade de professores e alunos para criar materiais digitais, tais como: jogos educativos, palavras cruzadas on-line, estórias digitais (storytelling), quizzes e livros digitais. Em particular, o projeto apoia as ações do programa de Extensão: Educação para a Gestão Compartilhada da Água aprovado no Edital PROEXT 2012. Este projeto visa contribuir com as práticas de educação socioambiental e disseminar o uso de novas tecnologias de informação e comunicação em instituições de ensino localizadas na bacia hidrográfica do Capibaribe usando uma abordagem inovadora. Na universidade, este projeto tem como meta a articulação entre o Departamento de Informática e Estatística e o Departamento de Biologia..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: George Augusto Valença Santos - Integrante / Gilberto Amado de Azevedo Cysneiros Filho - Coordenador / Priscila Gabriele Marques dos Santos - Integrante / Thais Karoline Ferreira da Silva - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+
+
+Projetos de desenvolvimento
+2024 - Atual
+Práticas Manipulativas em Plataformas Digitais uma Investigação Sobre o Impacto de Padrões Enganosos de Design na Autonomia e no Bem-estar Online das Crianças
+Descrição: Estabelecer uma parceria técnico-científica, a partir de um convênio de cooperação técnica, entre a Universidade Federal Rural de Pernambuco e o Instituto Alana para desenvolvimento de pesquisas aplicadas na área de interação humano-computador, engenharia de requisitos e engenharia de software com vistas à construção de soluções de software eticamente responsáveis. No convênio serão desenvolvidos guias e modelos em geral (ex.: catálogos de requisitos legais de software, guia de padrões éticos de design) bem como diagnósticos ligados a softwares e plataformas voltados à criança e ao adolescente e/ou aqueles de uso geral em que elas são parte relevante da base de usuários, conforme preconizado pelo planejamento do Instituto Alana..
+Situação: Em andamento; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (2) / Doutorado: (1) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Steffano Xavier Pereira - Integrante / Arthur Seabra Silva - Integrante.
+Financiador(es): Instituto Alana - Bolsa.Número de orientações: 1
+2020 - 2025
+Um Modelo de Inovação para Transformação Digital do Tribunal de Contas do Estado de Pernambuco
+Descrição: Este convênio busca apoiar o Tribunal de Contas na resolução de problemas complexos ligados ao estabelecimento de auditorias temáticas integradas. Neste contexto, soluções tradicionais não se aplicam. É indispensável empregar novas formas de refletir e atuar, com modelos mentais ligados à inovação e visão empreendedora, que precisa ser aplicada a instituições públicas. Diante disso, este convênio prevê a concepção, o desenvolvimento e a aplicação de novas ideias e técnicas de inovação. Para isso, suas metas incluem: estudo de modelos e laboratórios de inovação em governo; análise de padrões metodológicos e ferramentais para inovação; definição de um modelo de inovação do TCE-PE;elaboração de um programa de ensino e aprendizagem contínua voltado ao conhecimento e desenvolvimento de competências em inovação; realização de ações de capacitação e comunicação para inovação; e estruturação de um modelo integrado de processos que apoie novas abordagens de auditoria.
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (9) / Mestrado acadêmico: (1) / Doutorado: (8) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Robson Wagner Albuquerque de Medeiros - Integrante / Maria Eduarda Rebelo di Carlli - Integrante / André Câmara Alves do Nascimento - Integrante / George Gomes Cabral - Integrante / Carlos Julian Menezes Araújo - Integrante / Fernando Antônio Aires Lins - Integrante / Deyvesson Carlos da Silva Teixeira - Integrante / Camila Nunes de Paula Souza - Integrante / Eduardo Gomes Diniz - Integrante / Gabriel Vitor Lima Matias de Andrade - Integrante / Tiago Barbosa de Lima - Integrante / Alexandre Marques da Silva - Integrante / Matheus Cavalcanti Agostinho - Integrante / Éder Lucena Andrade da Fonseca - Integrante / João Lucas Pereira de Lima Santos - Integrante / Ermeson Carneiro de Andrade - Integrante / Sidney de Carvalho Nogueira - Integrante / Kellyton dos Santos Brito - Integrante.
+2016 - 2019
+Um Framework para Evolução do Escritório de Processos do TCE-PE
+Descrição: Criação de um Framework para Evolução do Escritório de Processos do TCE-PE para apoiar a melhoria e automação de processos de negócio do Tribunal de Contas do Estado de Pernambuco (TCE-PE) na ferramenta de Processo Eletrônico e-TCEPE. O Framework contempla a elaboração e aplicação de modelos, técnicas e conceitos de Gestão de Processos de Negócio para o Setor Público.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: George Augusto Valença Santos - Integrante / Carina Alves - Coordenador / Iveruska Jatobá - Integrante / Liliane Almeida - Integrante.
+2013 - 2015
+NIPAD - Processo Eletrônico
+Descrição: Instituição do Núcleo Interinstitucional de Pesquisa em Auditoria Digital e Gestão de Processos de Negócio (NIPAD-Processo Eletrônico), com o propósito de viabilizar para o Tribunal de Contas do Estado de Pernambuco o estudo, desenvolvimento e institucionalização da Gestão de Processos de 'Negócio, bem como o desenvolvimento de pesquisas inovadoras na área em tela. A pesquisa contribuirá com o desenvolvimento de mecanismos de coordenação, gestão, governança, melhoria e implantação de processos e técnicas de gestão de processos. O foco da pesquisa consiste na estruturação de um programa de gestão de processos.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: George Augusto Valença Santos - Integrante / Carina Alves - Coordenador / Luciana Andrade de Oliveira - Integrante / Higor Ricardo Monteiro Santos - Integrante / Iveruska Jatobá - Integrante / Liliane Almeida - Integrante / Joyce Aline de Oliveira Marins - Integrante.
+
+
+Membro de corpo editorial
+2020 - Atual
+Periódico: IEEE SOFTWARE
+
+
+Revisor de periódico
+2024 - Atual
+Periódico: Journal on Interactive Systems
+2024 - Atual
+Periódico: Journal of Systems & Software
+2024 - Atual
+Periódico: International Journal of Child-Computer Interaction
+2023 - Atual
+Periódico: Journal of Innovation and Enterpreneurship
+2021 - Atual
+Periódico: Journal of Software Engineering Research and Development
+2018 - Atual
+Periódico: INFORMATION SYSTEMS FRONTIERS
+2018 - Atual
+Periódico: iSys - Revista Brasileira de Sistemas de Informação
+2017 - Atual
+Periódico: IEEE SOFTWARE
+2014 - Atual
+Periódico: Frontiers of Computer Science - Springer - ISSN: 2095-2228
+
+
+Revisor de projeto de fomento
+2022 - Atual
+Agência de fomento: Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Ecossistemas de Software.
+2.
+Grande área: Ciências Sociais Aplicadas / Área: Administração / Subárea: Gerenciamento de Processos de Negócio.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Engenharia de Requisitos.
+4.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Engenharia de Software Empírica.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Francês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Espanhol
+Compreende Bem, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente.
+Alemão
+Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco.
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+
+
+Prêmios e títulos
+2026
+Patrono - colação de grau Bacharelado em Ciência da Computação - 2025.2, UFRPE.
+2025
+Patrono - colação de grau Bacharelado em Ciência da Computação - 2024.1, UFRPE.
+2025
+Patrono - colação de grau Bacharelado em Ciência da Computação - 2024.2, UFRPE.
+2025
+Professor homenageado - colação de grau Bacharelado em Ciência da Computação - 2025.1, UFRPE.
+2025
+Melhor artigo completo do 31º Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia),, PUC-Rio.
+2024
+Professor homenageado - colação de grau Bacharelado em Ciência da Computação - 2023.1, UFRPE.
+2024
+Menção Honrosa à Artigo na Trilha de Ideias Inovadoras e Resultados Emergentes em IHC, XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC 2024).
+2023
+Paraninfo - colação de grau Bacharelado em Ciência da Computação - 2021.2, Universidade Federal Rural de Pernambuco.
+2022
+Professor homenageado - colação de grau Bacharelado em Ciência da Computação - 2020.2, Universidade Federal Rural de Pernambuco.
+2021
+Professor homenageado - colação de grau Bacharelado em Ciência da Computação - 2020.1, Universidade Federal Rural de Pernambuco.
+2020
+Professor homenageado - colação de grau Bacharelado em Ciência da Computação - 2020.1, Universidade Federal Rural de Pernambuco.
+2019
+Patrono - colação de grau Bacharelado em Ciência da Computação - 2019.1, Universidade Federal Rural de Pernambuco - UFRPE.
+2017
+Best Paper Award in the Area of Information Systems Analysis and Specification, 19th International Conference on Enterprise Information Systems (ICEIS).
+2017
+Distinguished Paper of the SEAA 2017 Programme, 43rd Euromicro Conference on Software Engineering and Advanced Applications (SEAA).
+2017
+Professor homenageado - colação de grau Bacharelado em Ciência da Computação - 2017.1, UFRPE.
+
+
+Produções
+
+Produção bibliográfica
+Citações
+
+SCOPUS
+Total de trabalhos: 10Total de citações: 68Data: 29/05/2015
+Valença, George
+
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+GIZELE, M. ; MOURA, R. J. ; Valença, George ; FRAGA, G. ; PEIXOTO, S. ; OLIVIA, M. ; ANDRADE, E. . MIM-PS: A Mapping and Improvement Methodology for the Public Sector. iSys - Revista Brasileira de Sistemas de Informação, v. 18, p. 1, 2026.
+
+2.
+GAMA, KIEV ; DE SOUZA, CLEIDSON R. B ; NOLTE, ALEXANDER ; VALENCA, GEORGE . A C-Level Perspective on the Role of Developers in the Creative Process of Software Startups. IEEE SOFTWARE, v. 1, p. 1-8, 2025. Citações:1
+
+3.
+VALENCA, GEORGE. Design enganoso e manipulativo em plataformas digitais - um mapeamento entre estudos empíricos e reflexões para regulação. POLITICS, v. 1, p. 3, 2025.
+
+4.
+CARNEIRO, G. ; GUEIROS, P. ; VALENCA, GEORGE . Moderação de conteúdo em plataformas digitais ? uma reflexão baseada nos conceitos de transparência e legitimidade. POLITICS, v. 1, p. 40, 2025.
+
+5.
+MARCIO , T. ; GIZELE, M. ; VALENCA, GEORGE ; LIRA, B. ; FRAGA, G. ; MIRANDA, L. ; OLIVIA, M. ; GOMES, S. ; ANDRADE, E. C. . Mapeamento e Melhoria de Processos no Setor Público: Um Relato de Experiência no Ministério Público de Contas de Pernambuco. iSys - Revista Brasileira de Sistemas de Informação, v. 17, p. 1-2, 2024.
+
+6.
+PERILO, MICHEL ; Valença, George ; TELLES, ALDENIR . Non-Binary and Trans-Inclusive AI: A Catalogue of Best Practices for Developing Automatic Gender Recognition Solutions. Applied Computing Review, v. 24, p. 55-70, 2024. Citações:3
+
+7.
+ASSIS, J. V. ; VALENCA, GEORGE . Is My Child Safe Online? - On Requirements for Parental Control Tools in Apps used by Children. Journal on Interactive Systems, v. 15, p. 823-838, 2024.
+
+8.
+ALBUQUERQUE, N. ; VALENCA, GEORGE ; FALCAO, T. P. R. . Investigating Manipulative Design on Social Media Platforms - the Case of Kidinfluencers. Journal on Interactive Systems, v. 15, p. 860-874, 2024.
+
+9.
+MEDEIROS, H. ; VALENCA, GEORGE ; SANTIAGO, K. ; GUEDES, B. ; BRITO, K. S. . A Design Process to Define Public Challenges Addressing SDGs. RAP. Revista Brasileira de Administração Pública, v. 58, p. 1, 2023.
+
+10.
+GAMA, KIEV ; Valença, George ; ALESSIO, PEDRO ; FORMIGA, RAFAEL ; NEVES, ANDRÉ ; LACERDA, NYCOLAS . The Developers? Design Thinking Toolbox in Hackathons: A Study on the Recurring Design Methods in Software Development Marathons. INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION, v. 1, p. 1-23, 2022. Citações:20|21
+
+11.
+OLIVEIRA, J. A. P. ; ALVES, C. F. ; VALENCA, GEORGE . A Conceptual Model for Software Ecosystem Governance. INTERNATIONAL JOURNAL OF BUSINESS INFORMATION SYSTEMS (PRINT), v. 1, p. 1, 2020.
+
+12.
+ Valença, George; Alves, Carina ; JANSEN, SLINGER . Strategies for managing power relationships in software ecosystems. JOURNAL OF SYSTEMS AND SOFTWARE, v. 144, p. 478-500, 2018. Citações:18|21
+
+13.
+Alves, Carina ; VALENCA, GEORGE ; FRANCH, XAVIER . Exercising Power in Software Ecosystems. IEEE SOFTWARE, v. 1, p. 1-1, 2018. Citações:3|5
+
+14.
+ Valença, George; Alves, Carina . A Theory of Power in Emerging Software Ecosystems Formed by Small-to-Medium Enterprises. JOURNAL OF SYSTEMS AND SOFTWARE, p. 76-104, 2017. Citações:22|26
+
+15.
+SANTOS, HIGOR MONTEIRO ; VALENCA, GEORGE ; ALVES, Carina Frota . Strategies for Managing Critical Success Factors of BPM Initiatives in Brazilian Public Organizations: A Qualitative Empirical Study. iSys: Revista Brasileira de Sistemas de Informação, v. 8, p. 42-64, 2015.
+
+16.
+ VALENCA, GEORGE; Alves, Carina ; ALVES, Vander ; Niu, Nan . A Systematic Mapping Study on Business Process Variability. International Journal of Computer Science and Information Technology (Online), v. 5, p. 1-21, 2013. Citações:4
+
+17.
+ Alves, Vander ; Niu, Nan ; Alves, Carina ; Valença, George . Requirements engineering for software product lines: A systematic literature review. Information and Software Technology, v. 52, p. 806-820, 2010. Citações:125|162
+
+Capítulos de livros publicados
+
+1.
+Valença, George; NEJM, R. ; MELLO, M. ; MENDONCA, J. ; VASCONCELOS, F. ; MENDONCA, H. . Ethical Design and Child Protection in Platformized Education. Human-Computer Interaction ? INTERACT 2025: 20th IFIP TC 13 International Conference, Belo Horizonte, Brazil, September 8?12, 2025, Proceedings, Part IV. 1ed.: , 2026, v. , p. 149-154.
+
+2.
+VALENCA, GEORGE. Design Thinking Aplicado ao Ensino de Design, Criatividade e Inovação. Práticas de IHC em Sala de Aula. 1ed.: SBC, 2024, v. , p. 78-80.
+
+3.
+VALENCA, GEORGE. Manipulação de "Kidinfluencers" por Plataformas de Mídia Social - uma Análise de Causas e Efeitos Baseada no Conceito de Captura de Atenção. In: Valentina Faggiani (dir.), Gabrielle Bezerra Sales Sarlet (coord.). (Org.). Retos del derecho ante la IA: apuntes desde una perspectiva interdisciplinar. 1ed.Granada: JMB, 2024, v. 1, p. 379-398.
+
+4.
+GAMA, K. S. ; PAGANINI, L. ; PRADO, R. ; FERRAZ, C. ; OLIVEIRA, DAYANNE ; MENDES, W. ; PINTO, G. ; VALENCA, GEORGE . Toward more gender-inclusive game jams and hackathons. In: Daniela Damian, Kelly Blincoe, Denae Ford, Alexander Serebrenik, Zainab Masood. (Org.). Equity, Diversity, and Inclusion in Software Engineering: Best Practices and Insights. 1ed.London: Springer, 2023, v. 1, p. 1-20.
+
+5.
+VALENCA, GEORGE; COSTA, R. . Discriminação Automatizada: uma Análise dos Impactos Negativos de Tecnologias de Reconhecimento Facial para Pessoas Trans. In: Ingo Wolfgang Sarlet; Gabrielle Bezerra Sales Sarlet; Italo Roberto Fuhrmann. (Org.). Tecnologia & Discriminação. 1ed.Porto Alegre: Fundação Fênix, 2023, v. 1, p. 103-121.
+
+6.
+VALENCA, GEORGE; SANTOS, R. P. . Como Organizar uma Hackathon Corporativa?. In: Rafael Araújo. (Org.). Tópicos Especiais em Sistemas de Informação: Minicursos SBSI 2022. 1ed.: , 2022, v. 1, p. 1-22.
+
+7.
+Luz, Pillar Benedetti Vasconcellos ; Fernandes, Juliana ; Valença, George ; Santos, Rodrigo Pereira dos . Exploring Sustainability in Real Cases of Emerging Small-to-Medium Enterprises Ecosystems. Communications in Computer and Information Science. 1ed.: Springer International Publishing, 2020, v. , p. 42-59.
+
+8.
+Valença, George; Alves, Carina . Strategies to Foster Software Ecosystem Partnerships ¿ A System Dynamics Analysis. Lecture Notes in Business Information Processing. 1ed.: Springer International Publishing, 2018, v. , p. 189-211.
+
+9.
+ALVES, C. F. ; JATOBA, I. ; VALENCA, GEORGE ; FRAGA, G. . Exploring the Influence of Organizational Culture on BPM Success - The Experience of The Pernambuco Court of Accounts. In: Jan vom Brocke; Jan Mendling. (Org.). Business Process Management Cases - Digital Innovation and Business Transformation in Practice. 1ed.: Springer International Publishing, 2017, v. 1, p. 1-.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+NASCIMENTO, MARIA GIZELE ; MOURA, R. J. ; Valença, George ; FRAGA, G. ; MACEDO, R. ; ANDRADE, E. . Implementation and Validation of a Business Intelligence Dashboard for Business Process Monitoring. In: XXII Simpósio Brasileiro de Sistemas de Informação (SBSI), 2026, Vitória. Anais do XXII Simpósio Brasileiro de Sistemas de Informação (SBSI), 2026.
+
+2.
+CAVALCANTI, A. R. ; ACCIOLY, L. ; VALENCA, GEORGE ; NOGUEIRA, S. C. ; MACHADO, A. C. ; OLIVEIRA, A. ; GOMES, S. . Automating Test Design Using LLM Results from an Empirical Study on the Public Sector. In: International Conference on Digital Government Research (dg.o 2025), 2025, Porto Alegre. Proceedings of International Conference on Digital Government Research (dg.o 2025), 2025.
+
+3.
+MONTE, I. ; MARINHO, M. ; VALENCA, GEORGE ; MEDEIROS, R. ; CARDOSO, U. . Application of Design Thinking in Digital Transformation in Human Resources in the Public Sector. In: International Conference on Digital Government Research (dg.o 2025), 2025, Porto Alegre. Proceedings of International Conference on Digital Government Research (dg.o 2025), 2025.
+
+4.
+MOURA, R. J. ; GIZELE, M. ; VALENCA, GEORGE ; BRITO, K. S. ; FRAGA, G. ; PEIXOTO, S. ; ANDRADE, E. . Developing a BI Solution for Public Process Monitoring. In: International Conference on Digital Government Research (dg.o 2025), 2025, Porto Alegre. Proceedings of International Conference on Digital Government Research (dg.o 2025), 2025.
+
+5.
+ALVES, K. ; FIDELIS, M. ; SANTOS, E. ; VALENCA, GEORGE ; BRITO, K. S. . A Generative AI approach for creating and validating simplified versions of government documents. In: International Conference on Digital Government Research (dg.o 2025), 2025, Porto Alegre. Proceedings of International Conference on Digital Government Research (dg.o 2025), 2025.
+
+6.
+Valença, George; PEREIRA, STEFFANO ; REBELO, MARIA EDUARDA . Design Ético na Educação Básica - Adequando Sistemas de Informação às Necessidades de Crianças e Adolescentes. In: Anais Estendidos do Simpósio Brasileiro de Sistemas de Informação, 2025, Brasil. Anais Estendidos do XXI Simpósio Brasileiro de Sistemas de Informação (SBSI 2025). p. 181.
+
+7.
+SILVA, ARTHUR L. ; LIMA, ADRIANO M. A. ; Valença, George ; CABRAL, GEORGE G. . Ad-hoc v.s LLM based System for Information Retrieval in Large Tabular Data: A Comparative Study in Public Medicine Procurement Audits. In: Simpósio Brasileiro de Sistemas de Informação, 2025, Brasil. Anais do XXI Simpósio Brasileiro de Sistemas de Informação (SBSI 2025). p. 751.
+
+8.
+VALENCA, GEORGE. What Risks and Opportunities Games Bring to Children? A Consultation on Platform Regulation. In: 20th IFIP TC13 International Conference on Human-Computer Interaction - IV Workshop on Interaction and Player Research in Game Development, 2025, Belo Horizonte. Proceedings of 20th IFIP TC13 International Conference on Human-Computer Interaction, 2025.
+
+9.
+PEREIRA, S. X. ; CARLLI, M. E. R. ; VALENCA, GEORGE . Ethical Design for Edtechs Platforms ? an Analysis of Google Classroom via a Code of Design Practices. In: XXIV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2025, Belo Horizonte. Anais do XXIV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2025.
+
+10.
+CASTRO, J. V. ; VALENCA, GEORGE . Teaching or Manipulating? On the Adoption of Bright and Deceptive Patterns by Duolingo. In: XXIV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2025, Belo Horizonte. Anais do XXIV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2025.
+
+11.
+THEODORO, A. ; VALENCA, GEORGE . Entre o Acesso e a Proteção - Um Estudo sobre Verificação de Idade e Segurança Infantil em Plataformas Digitais. In: 31º Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia), 2025, Rio de Janeiro. Anais do 31º Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia), 2025.
+
+12.
+FEITOSA, M. G. ; GIZELE, M. ; MOURA, R. J. ; VALENCA, GEORGE ; FRAGA, G. ; ANDRADE, E. . Desenvolvimento de um Dashboard para Monitoramento de Demandas da Ouvidoria do TCE-PE. In: WFA | Workshop de Ferramentas e Aplicações, 2025, Rio de Janeiro. Anais do WFA | Workshop de Ferramentas e Aplicações, 2025.
+
+13.
+NASCIMENTO, MARIA GIZELE ; MOURA, RAFAEL JOSÉ ; BRITO, KELLYTON ; Valença, George ; PEIXOTO, SÉRGIO ; FRAGA, GLÓRIA ; ANDRADE, ERMESON . Metodologia de Mapeamento e Melhoria de Processos de Negócio para o Setor Público. In: Latin American Symposium on Digital Government, 2025, Brasil. Anais do XII Latin American Symposium on Digital Government (LASDiGov 2025). p. 61.
+
+14.
+VASCONCELOS, VINÍCIUS N. ; LINS, FERNANDO A. A. ; Valença, George ; LOSSE, MARIA A. P. F. ; MORAIS, ANA C. C. M. ; SOUSA, EDGARD T. . Instanciação do Processo de Gestão de Riscos de Segurança da Informação da ISO 27005 em Organizações Públicas. In: Latin American Symposium on Digital Government, 2025, Brasil. Anais do XII Latin American Symposium on Digital Government (LASDiGov 2025). p. 181.
+
+15.
+MOURA, RAFAEL JOSÉ ; NASCIMENTO, MARIA GIZELE ; BRITO, KELLYTON ; Valença, George ; PEIXOTO, SÉRGIO ; FRAGA, GLÓRIA ; ANDRADE, ERMESON . Desenvolvimento de um Painel de Business Intelligence para Monitoramento de Processos Públicos. In: Latin American Symposium on Digital Government, 2025, Brasil. Anais do XII Latin American Symposium on Digital Government (LASDiGov 2025). p. 301.
+
+16.
+FEITOSA, M. G. ; GIZELE, M. ; MOURA, R. J. ; VALENCA, GEORGE ; FRAGA, G. ; ANDRADE, E. . Desenvolvimento de um Dashboard para Monitoramento de Demandas da Ouvidoria do TCE-PE. In: 31º Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia), 2025, Rio de Janeiro. Anais do 31º Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia), 2025.
+
+17.
+PEREIRA, S. X. ; CARLLI, M. E. R. ; Valença, George . Ensuring Ethics on EdTech Technology: How to Safeguard Children in Digital Environments. In: IFIP Conference on Human-Computer Interaction, 2025, Belo Horizonte. Lecture Notes in Computer Science, 2025.
+
+18.
+VALENCA, GEORGE; MELLO, M. G. ; ASSIS, J. V. . ?It takes a village to raise a child? ? who and what to consider in designing parental mediation features?. In: XXIV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2025, Belo Horizonte. Anais do XXIV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2025.
+
+19.
+PERILO, M. ; VALENCA, GEORGE . How Facial Recognition Technologies Affect the Transgender Community? A Systematic Mapping Study. In: The 39th ACM/SIGAPP Symposium on Applied Computing (SAC 24), 2024, Avila. Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing (SAC 24),, 2024.
+
+20.
+LINS, F. A. A. ; LOSSE, M. A. ; MACHADO, A. C. ; SOUSA, E. ; CABRAL, R. ; VALENCA, GEORGE . Cultura de Segurança da Informação - Um Relato de Oficinas para Conscientização de Servidores em Organizações Públicas. In: 20º Simpósio Brasileiro de Sistemas de Informação (SBSI), 2024, Juiz de Fora. Anais do XX Simpósio Brasileiro de Sistemas de Informação, 2024.
+
+21.
+CABRAL, G. G. ; VALENCA, GEORGE ; OLIVEIRA, A. L. I. ; SAMPAIO, V. G. R. C. A. ; LIMA FILHO, A. . Ferramenta para Auxílio à Auditoria de Editais Municipais para Compra de Medicamentos. In: 20º Simpósio Brasileiro de Sistemas de Informação (SBSI), 2024, Juiz de Fora. Anais do XX Simpósio Brasileiro de Sistemas de Informação, 2024.
+
+22.
+BRITO, K. S. ; VALENCA, GEORGE ; FIDELIS, M. ; FRAGA, G. ; SILVA, H. R. A. . Políticas Públicas Baseadas em Evidências: um Sistema para Visualização e Análise da Mortalidade Infantil de Pernambuco. In: 20º Simpósio Brasileiro de Sistemas de Informação (SBSI), 2024, Juiz de Fora. Anais do XX Simpósio Brasileiro de Sistemas de Informação, 2024.
+
+23.
+FIDELIS, M. ; ALVES, K. ; FERREIRA, A. ; VALENCA, GEORGE ; BRITO, K. S. . A new perspective for longitudinal measurement and analysis of public education in Brazil based on open data and machine learning. In: 17th International Conference on Theory and Practice of Electronic Governance (ICEGOV 2024), 2024, Petroria. Proceedings of the 17th International Conference on Theory and Practice of Electronic Governance (ICEGOV 2024), 2024.
+
+24.
+ALVES, K. ; SANTOS, E. ; FIDELIS, M. ; MACHADO, A. C. ; FERNANDES, J. A. ; VALENCA, GEORGE ; BRITO, K. S. . Towards the regulation of Large Language Models (LLMs) and Generative AI use in the Brazilian Government: the case of a State Court of Accounts. In: 17th International Conference on Theory and Practice of Electronic Governance (ICEGOV 2024) - Track 01 - Trust and Ethical Digital Governance for the World We Want, 2024, Petroria. Proceedings of the 17th International Conference on Theory and Practice of Electronic Governance (ICEGOV 2024), 2024.
+
+25.
+FIDELIS, M. ; SANTOS, E. ; ALVES, K. ; SILVA, H. R. A. ; PEDROSA, F. ; VALENCA, GEORGE ; BRITO, K. S. . Using Generative AI for Simplifying Official Documents in the Public Accounts Domain. In: 12º Workshop de Computação Aplicada em Governo Eletrônico (WCGE), 2024, Brasília. Anais do 12º Workshop de Computação Aplicada em Governo Eletrônico (WCGE), 2024.
+
+26.
+MONTE, I. ; VALENCA, GEORGE ; SILVA, J. V. ; MACHADO, A. C. ; CARDOSO, U. ; MEDEIROS, R. W. A. . Development of a Human Resources Management Platform at TCE-PE: A Needs Assessment Report. In: 12º Workshop de Computação Aplicada em Governo Eletrônico (WCGE), 2024, Brasília. Anais do 12º Workshop de Computação Aplicada em Governo Eletrônico (WCGE), 2024.
+
+27.
+VALENCA, GEORGE; MACHADO, A. C. ; BRANDAO, W. . Inteligência Artificial no Controle Externo?Qual é a Visão de Profissionais de Auditoria dos Tribunais de Contas?. In: 12º Workshop de Computação Aplicada em Governo Eletrônico (WCGE), 2024, Brasília. Anais do 12º Workshop de Computação Aplicada em Governo Eletrônico (WCGE), 2024.
+
+28.
+VALENCA, GEORGE; SILVA, J. V. ; ROCHA, B. ; CORTIZ, D. . Children's Rights, not Deceptive Patterns by Design: a Requirements Perspective. In: XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2024, Brasília. Anais do XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2024.
+
+29.
+SILVA, J. N. ; FALCAO, T. P. R. ; VALENCA, GEORGE . Racismo Algorítmico no Desenvolvimento de Software - um Estudo de Caso sobre Letramento Racial no Ensino Superior. In: XXXV Simpósio Brasileiro de Informática na Educação, 2024, Rio de Janeiro. Anais do XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024), 2024.
+
+30.
+LINS, FERNANDO A. A. ; FREITAS, FÁBIO A. ; NÓBREGA, OBIONOR O. ; Valença, George . Security Requirements Engineering Approaches for IoT-Based Systems: A Comprehensive Review and Open Research Challenges. In: 2024 IEEE 10th World Forum on Internet of Things (WFIoT), 2024, Ottawa. 2024 IEEE 10th World Forum on Internet of Things (WF-IoT), 2024. p. 1.
+
+31.
+DE OLIVEIRA, LEANDER CORDEIRO ; AMARAL, MARÍLIA ABRAHÃO ; BIM, SILVIA AMÉLIA ; Valença, George ; ALMEIDA, LEONELO DELL ANHOL ; SALGADO, LUCIANA CARDOSO DE CASTRO ; GASPARINI, ISABELA ; DA SILVA, CLAUDIA BORDIN RODRIGUES . GranDIHC-BR 2025-2035 - GC3: Plurality and Decoloniality in HCI. In: IHC 2024: XXIII Brazilian Symposium on Human Factors in Computing Systems, 2024, Brasília DF Brazil. Proceedings of the XXIII Brazilian Symposium on Human Factors in Computing Systems. New York: ACM. p. 1.
+
+32.
+GAMA, K. S. ; VALENCA, GEORGE ; LAURENDON, C. ; NASIDI, A. ; RAMOS, L. E. ; AMARAL, R. ; BARROS, C. ; XAVIER, G. . Hackathons as Inclusive Spaces for Prototyping Software in Open Social Innovation with NGOs. In: 45th International Conference on Software Engineering (ICSE 2023), 2023, Melbourne. Proceedings of 45th International Conference on Software Engineering (ICSE 2023), 2023.
+
+33.
+VALENCA, GEORGE; MEDEIROS, H. ; SANTIAGO, K. ; GUEDES, B. ; FIDELIS, M. ; BRITO, K. S. . On Using Design Thinking to Define Public Challenges and Address SDGs. In: 24th Annual International Conference on Digital Government Research (DG.O), 2023, Gdańsk. Proceedings of the 24th Annual International Conference on Digital Government Research (DG.O), 2023.
+
+34.
+GIZELE, M. ; MARCIO , T. ; VALENCA, GEORGE ; BRITO, K. S. ; FRAGA, G. ; MIRANDA, L. ; OLIVIA, M. ; ANDRADE, E. C. . Como Monitorar os seus Processos? Um Relato sobre a Implantação de um Plano de Medição no TCE-PE. In: WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023, João Pessoa. Anais do WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023.
+
+35.
+MEDEIROS, H. ; VALENCA, GEORGE ; GUEDES, B. ; SANTIAGO, K. ; DIAS, P. ; PONTES, D. ; LARANJEIRA, J. ; DIAS, M. E. . Definição de um Ciclo de Inovação Baseado em Etnografia - o Ideathon LGBTQIAP+. In: WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023, João Pessoa. Anais do WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023.
+
+36.
+VALENCA, GEORGE; BRAYNER, F. . Processo de Inovação Baseado em Design Thinking e Lean Startup um estudo de caso na área de fiscalização. In: WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023, João Pessoa. Anais do WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023.
+
+37.
+CABRAL, R. ; LINS, F. A. A. ; VASCONCELOS, V. ; VALENCA, GEORGE ; LOSSE, M. A. ; SOUSA, E. ; MEDEIROS, A. ; FELIX, M. S. . Transparência e Livre Acesso: Uma Avaliação da Disponibilidade de Informações sobre a LGPD em Sites de Tribunais de Contas no Brasil. In: WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023, João Pessoa. Anais do WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023.
+
+38.
+CABRAL, G. G. ; VALENCA, GEORGE ; PAULA, C. ; EMMANUEL, Y. . Contabilidade Pública -- uma Ferramenta de Suporte à Auditoria de Dados em Municípios do Estado de Pernambuco. In: WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023, João Pessoa. Anais do WCGE - XI Workshop de Computação Aplicada em Governo Eletrônico, 2023.
+
+39.
+ALBUQUERQUE, N. ; VALENCA, GEORGE ; FALCAO, T. P. R. . How Social Media Platforms Manipulate Kidinfluencers? Analysing the Adoption of Deceptive Design Patterns by Big Techs. In: XXII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2023, Maceió. Anais do XXII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, 2023. v. 001. p. 1-10.
+
+40.
+Valença, George; PRADINES, DAVI . Ética em UX: Como Evitar Padrões Manipulativos de Design. In: Anais Estendidos do Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais, 2023, Brasil. Anais Estendidos do XXII Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC 2023). p. 11.
+
+41.
+LIMA, T. B. ; BRITO, K. S. ; NASCIMENTO, A. C. A. ; VALENCA, GEORGE ; PEDROSA, F. . Using Natural Language Processing to Improve Transparency by Enhancing the Understanding of Legal Decisions. In: 21th IFIP WG 8.5 Electronic Government, 2022, Linköping University. Proceedings of 21th IFIP WG 8.5 Electronic Government, 2022.
+
+42.
+ALVES, O. ; FALCAO, T. P. R. ; ANDRADE, E. C. ; VALENCA, GEORGE . BRIMO: uma Ferramenta para Analise de Sentimentos. In: XI Brazilian Workshop on Social Network Analysis and Mining (CSBC 2022 - BraSNAM 2022), 2022, Niterói. Anais do XI Brazilian Workshop on Social Network Analysis and Mining (CSBC 2022 - BraSNAM 2022), 2022.
+
+43.
+AGOSTINHO, M. ; VALENCA, GEORGE . Como definir um laboratorio de inovação em governo? Um estudo de caso de uma iniciativa na área de controle externo. In: XVII Simpósio Brasileiro de Sistemas Colaborativos, 2022, Porto Alegre. Anais do XVII Simpósio Brasileiro de Sistemas Colaborativos, 2022.
+
+44.
+VALENCA, GEORGE; SARINHO, M. W. ; POLITO, V. ; LINS, F. A. A. . Do Platforms Care About Your Child?s Data? A Proposal of Legal Requirements for Children?s Privacy and Protection. In: 25th Workshop on Requirements Engineering, 2022. Proceedings of 25th Workshop on Requirements Engineering, 2022.
+
+45.
+POLITO, V. ; VALENCA, GEORGE ; SARINHO, M. W. ; LINS, F. A. A. ; SANTOS, R. P. . On the Compliance of Platforms with Children?s Privacy and Protection Requirements - An Analysis of TikTok. In: 13th International Conference on Software Business (ICSOB), 2022, Bolzano. Proceedings of the 13th International Conference on Software Business (ICSOB), 2022.
+
+46.
+CARLLI, M. E. R. ; VALENCA, GEORGE ; LINS, F. A. A. . Power and Privacy in Software Ecosystems ? A Study on Data Breach Impact on Tech Giants. In: 27th International Working Conference on Requirement Engineering: Foundation for Software Quality, 2021, Essen. Proceedings of 27th International Working Conference on Requirement Engineering: Foundation for Software Quality, 2021.
+
+47.
+OLIVEIRA, DAYANNE ; PRADO, RAFA ; GAMA, KIEV ; Valença, George . An Exploratory Study on the participation of LGBTQIA+ people in the Global Game Jam 2021. In: ICGJ 2021: Sixth Annual International Conference on Game Jams, Hackathons, and Game Creation Events, 2021, Montreal Canada. Sixth Annual International Conference on Game Jams, Hackathons, and Game Creation Events. New York: ACM, 2021. p. 47.
+
+48.
+LIMA, T. ; NASCIMENTO, A. C. A. ; VALENCA, GEORGE ; MIRANDA, P. ; MELLO, R. F. ; SI, T. . Portuguese Neural Text Simplification using Machine Translation. In: 10th Brazilian Conference on Intelligent System, 2021, Campinas. Proceedings of 10th Brazilian Conference on Intelligent System, 2021.
+
+49.
+VALENCA, GEORGE; OLIVEIRA, N. L. ; SOUZA, C. R. B. ; GAMA, K. S. . A Systematic Mapping Study on the Organisation of Corporate Hackathons. In: 42th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA), 2020, Portoroz. Proceedings of 42th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA), 2020.
+
+50.
+VALENCA, GEORGE; KNEUPER, R. ; CARLLI, M. E. R. . Privacy in Software Ecosystems - An Initial Analysis of Data Protection Roles and Challenges. In: 42th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA), 2020, Portoroz. Proceedings of 42th Euromicro Conference Series on Software Engineering and Advanced Applications (SEAA), 2020.
+
+51.
+VALENCA, GEORGE; OLIVEIRA, N. L. ; CARLLI, M. E. R. ; Alves, Carina ; SOUZA, C. R. B. . On the Benefits of Corporate Hackathons for Software Ecosystems. In: 20th International Conference on Product-Focused Software Process Improvement, 2019, Barcelona. Proceedings of 20th International Conference on Product-Focused Software Process Improvement, 2019.
+
+52.
+Alves, Carina ; VALENCA, GEORGE ; FRAGA, G. . Integrating Requirements and Business Process Models in BPM Projects. In: 44th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), 2018, Praga. Proceedings of 44th Euromicro Conference on Software Engineering and Advanced Applications (SEAA), 2018.
+
+53.
+LUZ, P. ; FERNADES, J. ; SANTOS, R. P. ; VALENCA, GEORGE . An Exploratory Study on the Sustainability of Emerging Small-to-Medium Enterprises Ecosystems. In: IX Workshop de Aspectos da Interação Humano-Computador na Web Social, 2018, Belém. Anais do IX Workshop de Aspectos da Interação Humano-Computador na Web Social, 2018.
+
+54.
+Valença, George; Alves, Carina . We Need to Discuss the Relationship - An Analysis of Facilitators and Barriers of Software Ecosystem Partnerships. In: 19th International Conference on Enterprise Information Systems, 2017, Porto. Proceedings of the 19th International Conference on Enterprise Information Systems, 2017. p. 17.
+
+55.
+VALENCA, GEORGE; ALVES, C. F. . The Dynamics of Power in Software Ecosystems - Insights from a Multiple Case Study. In: Euromicro Conference on Software Engineering and Advanced Applications, 2017, Viena. Proceedings of 43rd Euromicro Conference on Software Engineering and Advanced Applications, 2017.
+
+56.
+Valença, George; Alves, Carina . Understanding how power influences business and requirements decisions in software ecosystems. In: the 31st Annual ACM Symposium, 2016, Pisa. Proceedings of the 31st Annual ACM Symposium on Applied Computing - SAC '16. New York: ACM Press. p. 1258.
+
+57.
+OLIVEIRA, J. A. P. ; ALVES, C. F. ; VALENCA, GEORGE . Fatores Envolvidos na Estruturação de um Escritório de Processos em uma Organização Pública. In: XII Simpósio Brasileiro de Sistemas de Informação, 2016, Florianópolis. Anais do XII Simpósio Brasileiro de Sistemas de Informação (SBSI), 2016.
+
+58.
+VALENCA, GEORGE; Alves, Carina ; JANSEN, SLINGER . A Power Perspective on Software Ecosystem Partnerships. In: 17th International Conference on Product-Focused Software Process Improvement (PROFES), 2016, Trondheim. Proceedings of 17th International Conference on Product-Focused Software Process Improvement, 2016.
+
+59.
+ANDRADE, R. V. C. L. ; ALVES, C. F. ; VALENCA, GEORGE . An Analysis of Dynamic Strategies during the Lifecycle of Software Ecosystems: The DS-SECO Model. In: IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES), 2015, Belo Horizonte. Anais do IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES), 2015.
+
+60.
+ALVES, C. F. ; VALENCA, GEORGE ; SANTANA, A. F. . Understanding the Factors that Influence the Adoption of BPM in Two Brazilian Public Organizations. In: Business Process Modeling, Development and Support (BPMDS) Working Conference, 2014, Thessaloniki. BPMDS LNBIP proceedings, 2014.
+
+61.
+SANTOS, H. R. M. ; ALVES, C. F. ; VALENCA, GEORGE ; SANTANA, A. F. . Identifying Strategies for Managing Critical Success Factors of BPM initiatives in Brazilian Public Organizations. In: X Simpósio Brasileiro de Sistemas de Informação, 2014, Londrina. Anais do X Simpósio Brasileiro de Sistemas de Informação (SBSI), 2014.
+
+62.
+ VALENCA, GEORGE; Alves, Carina ; HEIMANN, VIRGINIA ; JANSEN, SLINGER ; BRINKKEMPER, SJAAK . Competition and collaboration in requirements engineering: A case study of an emerging software ecosystem. In: 2014 IEEE 22nd International Requirements Engineering Conference (RE), 2014, Karlskrona. 2014 IEEE 22nd International Requirements Engineering Conference (RE). p. 384.
+
+63.
+SANTOS, R. P. ; VALENCA, GEORGE ; VIANA, D. ; ESTACIO, B. ; FONTAO, A. ; MARCZAK, S. ; WERNER, C. ; ALVES, C. F. ; CONTE, T. ; PRIKLADNICKI, R. . Qualidade em Ecossistemas de Software: Desafios e Oportunidades de Pesquisa. In: VIII Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES), 2014, Maceió. Anais do VIII Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES), 2014.
+
+64.
+VALENCA, GEORGE; ALVES, C. F. ; SANTANA, A. F. ; OLIVEIRA, J. A. P. ; SANTOS, H. R. M. . Understanding the Adoption of BPM Governance in Brazilian Public Sector. In: 21st European Conference on Information Systems, 2013, Utrecht. Proceedings of the 21st European Conference on Information Systems (ECIS 2013), 2013.
+
+65.
+VALENCA, GEORGE; ALVES, C. F. ; ALVES, Vander . Analysing Variability Management in BPM and SPL: A Knowledge Mapping. In: IX Simpósio Brasileiro de Sistemas de Informação, 2013, João Pessoa. Anais do IX Simpósio Brasileiro de Sistemas de Informação (SBSI): Trilha Regular, 2013. p. 863-874.
+
+66.
+OLIVEIRA, J. A. P. ; VALENCA, GEORGE ; SANTOS, H. R. M. ; ALVES, C. F. . Uma Análise Comparativa de Metodologias para Estruturação de Escritórios de Processos. In: VII Workshop em Gestão de Processos de Negócio (Business Process Management) - WBPM 2013 (SBSI 2013 - WBPM), 2013, João Pessoa. Anais do VII Workshop em Gestão de Processos de Negócio (Business Process Management) - WBPM 2013, 2013.
+
+67.
+VALENCA, GEORGE; ALVES, C. F. . Um Modelo para Negociação de Requisitos em Ecossistemas de Software. In: Engenharia de Requisitos @ Brasil (ER@BR 2013), 2013, Rio de Janeiro. Anais do Engenharia de Requisitos @ Brasil (ER@BR 2013), 2013.
+
+68.
+VALENCA, GEORGE; ALVES, C. F. ; TEDESCO, P. C. A. R. ; MORENO, L. . Analysing Requirements Negotiation in Software Ecosystems with Multi-Agent Systems Techniques. In: VII Workshop de Desenvolvimento Distribuído de Software, 2013, Brasília. Anais do VII Workshop de Desenvolvimento Distribuído de Software, 2013. v. 01. p. 44-51.
+
+69.
+SANTOS, H. R. M. ; ALVES, C. F. ; VALENCA, GEORGE ; SANTANA, A. F. . Critical Success Factors of BPM Initiatives in Brazilian Public Organizations. In: International Business Information Management Conference (19th IBIMA), 2012, Barcelona. Proceedings of International Business Information Management Conference (19th IBIMA), 2012.
+
+70.
+SANTOS, H. R. M. ; SANTANA, A. F. ; VALENCA, GEORGE ; ALVES, C. F. . Um Estudo Exploratório sobre adoção de BPM em Organizações Públicas. In: V Workshop em Gestão de Processos de Negócio (Business Process Management) - WBPM 2011 (SBSI 2011 - WBPM), 2011, Salvador. V Brazilian Workshop on Business Process Management, 2011.
+
+71.
+Alves, Carina ; Valença, George ; SOTERO, TAYANNA ; MENDES, JEANE . Requirements engineering process improvement. In: the 2008 ACM symposium, 2008, Fortaleza. Proceedings of the 2008 ACM symposium on Applied computing - SAC '08. New York: ACM Press. p. 619-623.
+
+72.
+ALVES, C. F. ; PEREIRA, S. C. ; VALENCA, GEORGE ; PIMENTEL, J. H. ; ANDRADE, R. V. C. L. . Preliminary Results from an Empirical Study in Market-Driven Software Companies. In: 10th Workshop on Requirements Engineering, 2007, Toronto. Anais do WER´07, 2007. p. 127-134.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+MARCIO , T. ; GIZELE, M. ; VALENCA, GEORGE ; ANDRADE, E. C. ; LIRA, B. ; FRAGA, G. ; MIRANDA, L. ; OLIVIA, M. . Um Relato sobre o Mapeamento de Processos do Ministério Público de Contas de Pernambuco. In: XIX Simpósio Brasileiro de Sistemas de Informação, 2023, Maceió. Anais do XIX Simpósio Brasileiro de Sistemas de Informação, 2023.
+
+2.
+PEREIRA, L. ; ACCIOLY, L. ; NOGUEIRA, S. C. ; VALENCA, GEORGE ; MACHADO, A. C. ; LIRA, A. ; GOMES, S. . Evolução do Processo de Testes do TCE-PE:resultados preliminares de um projeto de BPM. In: XIX Simpósio Brasileiro de Sistemas de Informação, 2023, Maceió. Anais do XIX Simpósio Brasileiro de Sistemas de Informação, 2023.
+
+3.
+EMMANUEL, Y. ; SILVA, F. ; CABRAL, G. G. ; VALENCA, GEORGE . Inovação na Contabilidade Pública - uma Solução que Analisa Atrasos de Pagamentos em Municípios Pernambucanos. In: XIX Simpósio Brasileiro de Sistemas de Informação, 2023, Maceió. Anais do XIX Simpósio Brasileiro de Sistemas de Informação, 2023.
+
+4.
+VALENCA, GEORGE. Requirements negotiation model: A social oriented approach for software ecosystems evolution. In: 2013 IEEE 21st International Requirements Engineering Conference (RE), 2013, Rio de Janeiro-RJ. 2013 21st IEEE International Requirements Engineering Conference (RE). p. 393.
+
+5.
+SANTOS, P. G. M. ; VALENCA, GEORGE ; CYSNEIROS FILHO, G. A. A. . Utilização do Scratch e Alice no ensino de Educação Ambiental. In: XIII Jornada de Ensino, Pesquisa e Extensão (JEPEX) da UFRPE, 2013, Recife. Anais do XIII Jornada de Ensino, Pesquisa e Extensão (JEPEX) da UFRPE. Recife: UFRPE, 2013.
+
+6.
+VALENCA, GEORGE; SOUZA, R. S. . Um Estudo Qualitativo Sobre Práticas de Engenharia de Requisitos em Empresas de Produtos de Software. In: III Congresso Sul Catarinense de Computação, 2007, Santa Catarina. Anais do III Congresso Sul Catarinense de Computação, 2007.
+
+Resumos publicados em anais de congressos
+
+1.
+Valença, George; SANTOS, RODRIGO . Como Organizar Hackathons Inclusivas?. In: Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais, 2022, Brasil. Anais Estendidos do XXI Simpósio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC 2022). p. 1.
+
+2.
+SANTOS, P. G. M. ; VALENCA, GEORGE . Ampliando a Aprendizagem por Meio da Tecnologia: Aplicação da Ferramenta Scratch para Construção de Jogos Digitais no Ensino da Matemática. In: XIV Jornada de Ensino, Pesquisa e Extensão (JEPEX) da UFRPE, 2014, Recife. Anais do XIV Jornada de Ensino, Pesquisa e Extensão (JEPEX) da UFRPE, 2014.
+
+3.
+SANTOS, P. G. M. ; VALENCA, GEORGE . Utilização do Scratch e Alice no Ensino da Educação Ambiental. In: Semana Acadêmica de Computação - DEINFO/UFRPE, 2014, Recife. Semana Acadêmica de Computação - DEINFO/UFRPE, 2014.
+
+4.
+VALENCA, GEORGE; VASCONCELOS, A. M. L. . Integração da Ferramenta ProEvaluator com o Ambiente ImPPros. In: Congresso de Iniciação Científica (CONIC), 2009, Recife. XVII Congresso de Iniciação Científica (CONIC), 2009.
+
+5.
+VALENCA, GEORGE; MELO, C. A. ; ARCOVERDE, D. F. ; REINAUX, L. . Ferramentas de Gerenciamento Interno. In: XVII Seminário Nacional de Parques Tecnológicos e Incubadorase e XV Workshop Anprotec, 2007, Belo Horizonte. Anais do XVII Seminário Nacional de Parques Tecnológicos e Incubadoras de Empresas e XII Workshop Anprotec Anais do XIV Seminário Nacional de Parques Tecnológicos e Incubadoras de Empresas e XV Workshop Anprotec, 2007.
+
+Apresentações de Trabalho
+
+1.
+VALENCA, GEORGE; FORTIM, I. . Cyber Dependência & Saúde Mental: Viés Algorítmico como Violência Estrutural. 2025. (Apresentação de Trabalho/Conferência ou palestra).
+
+2.
+VALENCA, GEORGE. Design Manipulativo em Bets. 2025. (Apresentação de Trabalho/Conferência ou palestra).
+
+3.
+VALENCA, GEORGE; FLORENCIO, J. P. ; MELO, J. . Apertem os cintos! A inovação saiu dos trilhos?. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+4.
+VALENCA, GEORGE. Design Manipulativo e Ética no Desenvolvimento de Software. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+5.
+VALENCA, GEORGE; CORTIZ, D. ; MELLO, M. G. ; VOLPI, M. ; ALVES, B. . Design manipulativo: como práticas antiéticas de desenvolvimento podem afetar o bem-estar da criança no ambiente digital.. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+6.
+VALENCA, GEORGE. Avaliação de Impacto e Risco de Plataformas Digitais nos Direitos de Crianças e Adolescentes. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+7.
+VALENCA, GEORGE; ROSENTHAL, D. . prendizados regulatórios: a regulação do design e a proteção de crianças e adolescentes no ambiente digital. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+8.
+VALENCA, GEORGE; PEREIRA, M. C. M. ; VALOIS, R. ; LOURENCO, P. . Regulação, Manipulação e Ética: Qual o papel da pessoa designer na construção de ambientes digitais. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+9.
+VALENCA, GEORGE; AKBAR, M. ; BALAN, F. . How unethical development practices can affect children's well-being in the digital environment. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+10.
+VALENCA, GEORGE. Client-side Scanning e Infância. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+11.
+VALENCA, GEORGE. IA não-binária e transinclusiva: um catálogo de práticas éticas de design. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+12.
+VALENCA, GEORGE; GRILLO, W. ; ARAUJO, K. S. ; SOUZA, S. ; BEZERRA, M. A. S. . Inteligência Artificial e Tecnologias na Saúde (ou contra ela, em muitas situações). 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+13.
+VALENCA, GEORGE. Governança Responsável: Política do Uso da Inteligência Artificial Generativa no Tribunal de Contas do Estado de Pernambuco. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+14.
+VALENCA, GEORGE; PRADINES, D. ; PEREIRA, M. C. M. . Como Proteger Crianças no Ambiente Digital? Uma Reflexão sobre Design Manipulativo, Ferramentas de Controle Parental e Ética no Desenvolvimento de Software. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+15.
+VALENCA, GEORGE; SANTANA, L. . IA não-binária e trans-inclusiva: práticas éticas de design para desenvolvimento de soluções de reconhecimento facial e automático de gênero. 2024. (Apresentação de Trabalho/Conferência ou palestra).
+
+16.
+VALENCA, GEORGE. ChatGPT e o Ensino Superior (EADTec UFRPE). 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+17.
+VALENCA, GEORGE. Children's Privacy and Protection by Software Platforms (FairPlay for Kids). 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+18.
+VALENCA, GEORGE. Reconhecimento Facial, ... Quais são as Tendências em TI e Como Elas Podem Ser Discriminatórias? (PUCRS). 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+19.
+VALENCA, GEORGE. Kidinfluencers: nutrindo o negócio das plataformas em meio a padrões de manipulação (CNJ). 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+20.
+VALENCA, GEORGE. Reconhecimento Facial, ... Quais são as Tendências em TI e Como Elas Podem Ser Discriminatórias? (FACCON). 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+21.
+VALENCA, GEORGE. Você está sendo manipulado! Padrões obscuros de design em plataformas de mídia social. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+22.
+VALENCA, GEORGE. O Futuro da Educação com IA: Tendências e Perspectivas. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+23.
+VALENCA, GEORGE. Padrões obscuros de design em plataformas: como estamos sendo manipulados?. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+24.
+VALENCA, GEORGE. Inovação aberta: o case do TCE-PE e a UFRPE. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+25.
+VALENCA, GEORGE; BRAYNER, F. . Ferramentas de controle parental nas plataformas: quais mecanismos as Big Techs oferecem para segurança e privacidade de crianças. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+26.
+VALENCA, GEORGE. Tomada de decisão orientada por algoritmos. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+27.
+VALENCA, GEORGE. Padrões obscuros de design em plataformas: como estamos sendo manipulados?. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+28.
+VALENCA, GEORGE; NEVES, C. ; MOYA, M. D. G. ; MAGALHAES, J. P. ; XAVIER, F. C. . Oficina: Ciência de Dados e Inteligência Artificial: como os Tribunais de Contas estão vivendo essa revolução?. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+29.
+VALENCA, GEORGE. Ética em UX e Padrões de Design Manipulativo. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+30.
+VALENCA, GEORGE. Inovação aberta - o case TCE-UFRPE. 2023. (Apresentação de Trabalho/Conferência ou palestra).
+
+31.
+VALENCA, GEORGE. Por tecnologias diversas e inclusivas - uma reflexão sobre vieses e discriminação algorítmica' (SECOMP 2022). 2022. (Apresentação de Trabalho/Conferência ou palestra).
+
+32.
+VALENCA, GEORGE. Metaverso, reconhecimento facial, ... Quais são as tendências em TI e como elas podem ser discriminatórias? (PUCRS). 2022. (Apresentação de Trabalho/Conferência ou palestra).
+
+33.
+VALENCA, GEORGE. Como Resolver Problemas e Testar Ideias? Design Thinking como Abordagem para Inovação (SEMISH). 2022. (Apresentação de Trabalho/Conferência ou palestra).
+
+34.
+VALENCA, GEORGE. Metaverso, reconhecimento facial, ... quais são as tendências em TI e como elas podem ser discriminatórias? (Evento de Integração e Inovação UFRPE). 2022. (Apresentação de Trabalho/Conferência ou palestra).
+
+35.
+VALENCA, GEORGE. Como as tecnologias podem discriminar? Uma visão crítica sobre os movimentos da indústria de TI (UFRPE). 2022. (Apresentação de Trabalho/Conferência ou palestra).
+
+36.
+VALENCA, GEORGE; DIAS, P. ; LARANJEIRA, J. R. ; DIAS, M. E. . Novas tecnologias a serviço de Transformação Digital - Ideathon LGBTQIA+ como Possibilidade de Inovação Social (ENAP). 2022. (Apresentação de Trabalho/Comunicação).
+
+37.
+Valença, George. Privacidade e Segurança. 2021. (Apresentação de Trabalho/Conferência ou palestra).
+
+38.
+Valença, George. Design Thinking como Metodologia para Inovação e Resolução de Problemas. 2021. (Apresentação de Trabalho/Conferência ou palestra).
+
+39.
+Valença, George. Como definir a estratégia de um laboratório de inovação? A experiência qualitativa e colaborativa do TCE-PE (ENAP). 2021. (Apresentação de Trabalho/Conferência ou palestra).
+
+40.
+VALENCA, GEORGE. A Importância do Mestrado em Políticas Públicas no Projeto de Inovação do TCE-PE. 2020. (Apresentação de Trabalho/Conferência ou palestra).
+
+41.
+VALENCA, GEORGE. Estruturação de Trilhas de Aprendizagem a partir de Design Thinking. 2020. (Apresentação de Trabalho/Outra).
+
+42.
+VALENCA, GEORGE. Como entender o negócio e seus sistemas a partir de Business Process Management. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+43.
+VALENCA, GEORGE; Alves, Carina ; ALVES, Vander . Analysing Variability Management in BPM and SPL: A Knowledge Mapping. 2013. (Apresentação de Trabalho/Simpósio).
+
+44.
+VALENCA, GEORGE; ALVES, C. F. ; SANTANA, A. F. ; OLIVEIRA, J. A. P. ; SANTOS, H. R. M. . Understanding the Adoption of BPM Governance in Brazilian Public Sector. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+45.
+VALENCA, GEORGE. Requirements Negotiation Model: A Social Oriented Approach for Software Ecosystems Evolution. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+46.
+VALENCA, GEORGE; ALVES, C. F. . Um Modelo para Negociação de Requisitos em Ecossistemas de Software. 2013. (Apresentação de Trabalho/Congresso).
+
+47.
+VALENCA, GEORGE; ALVES, C. F. ; TEDESCO, P. C. A. R. ; MORENO, L. . Analysing Requirements Negotiation in Software Ecosystems with Multi-Agent Systems Techniques. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+48.
+VALENCA, GEORGE. Ecossistemas de Software: Analisando a Indústria de Software Atual a Partir de Conceitos de Ecologia. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+49.
+VALENCA, GEORGE; ALENCAR, A. L. ; DAMASCENO, J. C. . O Uso da Computação em Nuvem no Desenvolvimento de Pesquisas Científicas: Benefícios e Desafios. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+50.
+VALENCA, GEORGE. Implementação de um Escritório de Processos a partir do uso incremental da Plataforma de Processos de Governo. 2011. (Apresentação de Trabalho/Outra).
+
+51.
+VALENCA, GEORGE. Integração da Ferramenta ProEvaluator com o Ambiente ImPPros. 2009. (Apresentação de Trabalho/Congresso).
+
+52.
+VALENCA, GEORGE; ARCOVERDE, D. F. ; MELO, C. A. ; REINAUX, L. . Ferramentas de Gerenciamento Interno. 2007. (Apresentação de Trabalho/Conferência ou palestra).
+
+
+Produção técnica
+Assessoria e consultoria
+
+1.
+Valença, George. Desenvolvimento do Guia de Inteligência Artificial para Infância (UNESCO). 2026.
+
+2.
+VALENCA, GEORGE. Atuação como expert em Inquérito Civil Público do MPT-SP - Inquérito Civil Público em face de Google Brasil Internet LTDA sobre o trabalho dos influenciadores digitais menores de 18 anos'. 2022.
+
+3.
+Valença, George. Design de Serviços para o Setor Público - Oficinas de Inovação TCE-PE. 2019.
+
+Entrevistas, mesas redondas, programas e comentários na mídia
+
+1.
+VALENCA, GEORGE. Proteção da Criança no Ambiente Digital. 2025. 
+
+2.
+VALENCA, GEORGE. O Tigrinho não é fofo à toa; como o design explica vício em apostas online?. 2025. (Programa de rádio ou TV/Entrevista). 
+
+3.
+VALENCA, GEORGE. Algoritmos das redes sociais e masculinidade tóxica. 2025. 
+
+4.
+VALENCA, GEORGE. Dos 10 jogos para celular mais baixados do Brasil, 8 têm 'padrões enganosos'; saiba identificá-los. 2025. (Programa de rádio ou TV/Entrevista). 
+
+5.
+VALENCA, GEORGE. Pesquisa aponta que quase todos os adolescentes têm acesso à rede mundial. 2025. 
+
+6.
+VALENCA, GEORGE. ECA digital proíbe caixas de recompensa em games de olho em vício em apostas entre crianças. 2025. (Programa de rádio ou TV/Entrevista). 
+
+7.
+Valença, George. ECA Digital: Publicidade Digital, Consumo e Exploração Comercial no Ambiente Digital. 2025. (Programa de rádio ou TV/Mesa redonda). 
+
+8.
+Valença, George. Como orientar adolescentes online? Lançamento do Internet com Responsa: Só para Adolescentes. 2025. (Programa de rádio ou TV/Mesa redonda). 
+
+9.
+Valença, George. ECA digital proíbe caixas de recompensa em games de olho em vício em apostas entre crianças. 2025. (Programa de rádio ou TV/Entrevista). 
+
+10.
+Valença, George. Exposição de crianças e adolescentes na internet.. 2025. 
+
+11.
+VALENCA, GEORGE. Como o discurso extremista e de ódio busca atrair adolescentes nas redes Leia mais em: https://veja.abril.com.br/coluna/balanco-social/como-o-discurso-extremista-e-de-odio-busca-atrair-adolescentes-nas-redes/. 2025. (Programa de rádio ou TV/Entrevista). 
+
+12.
+VALENCA, GEORGE. Vamos ter de conviver com deepfakes nas eleições, como disse o ministro Barroso?. 2024. (Programa de rádio ou TV/Entrevista). 
+
+13.
+VALENCA, GEORGE. Como algoritmos podem transformar a web em ambiente tóxico e violento. 2024. (Programa de rádio ou TV/Entrevista). 
+
+14.
+VALENCA, GEORGE. TikTok pode ser suspenso no país; ação reforça regulamentação sobre privacidade de crianças e jovens. 2024. (Programa de rádio ou TV/Entrevista). 
+
+15.
+VALENCA, GEORGE. Uso ético da IA na educação é possível?. 2024. (Programa de rádio ou TV/Entrevista). 
+
+16.
+VALENCA, GEORGE. Tendências para IA na Educação em 2025. 2024. (Programa de rádio ou TV/Entrevista). 
+
+17.
+VALENCA, GEORGE. Segurança de dados é tema de seminário no Recife. 2024. (Programa de rádio ou TV/Entrevista). 
+
+18.
+VALENCA, GEORGE; MAIA, L. ; CORREIA, J. . Diálogos PROFIAP: Inovação Aberta no Setor Público. 2023. (Programa de rádio ou TV/Entrevista). 
+
+19.
+VALENCA, GEORGE; MELLO, R. ; ALVES, R. . ChatGPT: quais são os desafios Vividos pela OpenAI e quais ela traz para a educação. 2023. (Programa de rádio ou TV/Mesa redonda). 
+
+20.
+VALENCA, GEORGE; CEU, M. ; SILVA, J. . Live Ideathon LGBTQIA+. 2022. 
+
+21.
+VALENCA, GEORGE. EducaPE - Design Thinking e Inovação. 2022. 
+
+22.
+VALENCA, GEORGE; MELO JUNIOR, D. R. ; MARINHO, C. ; RAMOS, L. . Políticas Públicas de Inovação em Pernambuco: Iniciativas e Avanços. 2021. 
+
+23.
+VALENCA, GEORGE; RAMOS, L. . Innovation Morning TCE-PE. 2021. (Programa de rádio ou TV/Mesa redonda). 
+
+24.
+VALENCA, GEORGE; BRAYNER, F. ; MELO JUNIOR, D. R. . Inovação no TCE - PE: oportunidades, desafios e perspectivas (TV Escola TCE-PE). 2020. 
+
+25.
+MACIEL, A. ; FERNANDO, H. ; VALENCA, GEORGE . Ciência de Dados e o Futuro da Auditoria. 2020. 
+
+26.
+VALENCA, GEORGE; SILVA, C. ; FONSECA, D. . BPM no Setor Público: promovendo inovação e melhoria de serviços ao cidadão a partir da gestão de processos. 2014. (Programa de rádio ou TV/Mesa redonda).
+
+Demais tipos de produção técnica
+
+1.
+VALENCA, GEORGE. Design Manipulativo x Design Ético no Desenvolvimento de Software. 2024. .
+
+2.
+VALENCA, GEORGE; PRADINES, D. . Minicurso 'Ética em UX: Como Evitar Padrões Manipulativos de Design?'. 2023. .
+
+3.
+VALENCA, GEORGE. Curso 'Inovação nas Ações de Estímulo ao Controle Social'. 2022. .
+
+4.
+VALENCA, GEORGE; SANTOS, R. P. . Minicurso 'Como Organizar uma Hackathon Corporativa?'. 2022. .
+
+5.
+VALENCA, GEORGE; SANTOS, R. P. . Minicurso 'Como Organizar Hackathons Inclusivas?'. 2022. .
+
+6.
+VALENCA, GEORGE; SOUZA, C. N. P. . Curso 'Inovação dos Serviços da Ouvidoria a partir de Design Thinking'. 2021. .
+
+7.
+VALENCA, GEORGE. Curso 'Design Thinking Aplicado à Estruturação de Trilhas de Aprendizagem'. 2020. .
+
+8.
+VALENCA, GEORGE; MARIANO, M. . Oficina de Metodologias Ativas. 2020. .
+
+9.
+VALENCA, GEORGE; Alves, Carina . Curso 'Inovação de Processos com Design Thinking'. 2019. .
+
+10.
+VALENCA, GEORGE. Curso 'Introdução à Gestão de Processos de Negócio'. 2014. .
+
+11.
+SANTOS, R. P. ; VALENCA, GEORGE ; ALVES, C. F. ; WERNER, C. M. L. . Minicurso 'Modelagem e Análise de Ecossistemas de Software (CBSoft 2013)'. 2013. .
+
+12.
+VALENCA, GEORGE; ALVES, C. F. ; OLIVEIRA, J. A. P. ; SANTOS, H. R. M. ; OLIVEIRA, L. A. . Curso 'Execução de Projetos de Análise e Melhoria de Processos de Negócio (SBTI 2013)'. 2013. .
+
+13.
+VALENCA, GEORGE; OLIVEIRA, L. A. . Curso 'Introdução à Gestão de Processos de Negócio (TCE-PE)'. 2013. .
+
+14.
+VALENCA, GEORGE. Curso 'Base Conceitual sobre Gestão de Processos para Governo - DF'. 2012. .
+
+15.
+VALENCA, GEORGE. Curso 'Base Conceitual sobre Gestão de Processos para Governo - RJ'. 2012. .
+
+16.
+VALENCA, GEORGE. Curso 'Base Conceitual para Modelo Global de Dados para Governo'. 2012. .
+
+17.
+VALENCA, GEORGE. Guia Referencial para Gestão de Processos no Governo. 2011. (Desenvolvimento de material didático ou instrucional - Instrucional).
+
+18.
+VALENCA, GEORGE. Guia de Gestão de Processos de Governo. 2011. (Desenvolvimento de material didático ou instrucional - Instrucional).
+
+19.
+VALENCA, GEORGE. Metodologia de Modelagem de Processos. 2011. (Desenvolvimento de material didático ou instrucional - Instrucional).
+
+20.
+VALENCA, GEORGE. Modelo de Governança e Gestão da Plataforma de Processos. 2011. (Desenvolvimento de material didático ou instrucional - Instrucional).
+
+21.
+VALENCA, GEORGE. Orientações para Capacitação na Plataforma de Processos. 2011. (Desenvolvimento de material didático ou instrucional - Instrucional).
+
+22.
+VALENCA, GEORGE. Manual e Modelo para Documentação de Processos. 2011. (Desenvolvimento de material didático ou instrucional - Instrucional).
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+FERRARI, P.; MITTERMAYER, T.; VALENCA, GEORGE. Participação em banca de Beatriz Matos dos Reis Rocha. Crianças nas Redes Sociais: Controle Parental e Design Centrado na Criança em Plataformas Digitais. 2025. Dissertação (Mestrado em Programa de Pós-Graduação) - Pontifícia Universidade Católica de São Paulo.
+
+2.
+VALENCA, GEORGE; MARCOLINO, A. S.; BOSCARIOLI, C.. Participação em banca de João Carlos Gomes Moeda Junior,. TrackWell: Recomendações para o design de Monitoramento de Humor em aplicativos de Saúde Mental. 2025. Dissertação (Mestrado em CIÊNCIA DA COMPUTAÇÃO) - Universidade Estadual do Oeste do Paraná.
+
+3.
+VALENCA, GEORGE; TEDESCO, P. C. A. R.; CALEGARIO, F.. Participação em banca de Rodrigo Adamski Parodes. Rodrigo Adamski Parodes. 2024. Dissertação (Mestrado em Ciência da Computação (conceito CAPES 6)) - Universidade Federal de Pernambuco.
+
+4.
+LINS, F. A. A.; SOUZA, R. N. P. M.; VALENCA, GEORGE. Participação em banca de Saulo Marques de Morais Silva. Uma Metodologia Para Avaliação De Custos Financeiros Na Implementação De Controles De Segurança Cibernética Para Pequenas E Médias Empresas. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+5.
+VALENCA, GEORGE; FIGUEIREDO FILHO, D. B.. Participação em banca de Priscila da Silva Cunha. Governança De Ti Como Parte Integrante Da Governança Corporativa: Uma Análise De Sua Interdependência E Seus Reflexos Nas Universidades Federais Brasileiras. 2023. Dissertação (Mestrado em Ciência Política) - Universidade Federal de Pernambuco.
+
+6.
+VALENCA, GEORGE; GARCIA, L. S.; PEREIRA, R.. Participação em banca de Luiz Adolpho Baroni. Deceptive Patterns Sob Uma Visão Sociotécnica. 2023. Dissertação (Mestrado em Informática) - Universidade Federal do Paraná.
+
+7.
+VALENCA, GEORGE; SANTOS, R. P.; SOUZA, G. S.; WIESE, I. S.. Participação em banca de Victor Garcia Farias. Power Relations Within Open-Source Software Ecosystems. 2022. Dissertação (Mestrado em Informática) - Universidade Federal do Estado do Rio de Janeiro.
+
+8.
+SCHUENEMANN, C. T. L. L. S.; VALENCA, GEORGE; ALVES, C. F.. Participação em banca de Rickson César da Cruz Silva. Um Estudo sobre a Influência de Fatores Humanos e Culturais em Projetos de Desenvolvimento de Software Ágeis. 2017. Dissertação (Mestrado em Ciência da Computação (conceito CAPES 6)) - Universidade Federal de Pernambuco.
+
+9.
+LIMA, S. C. S.; Valença, George; ALVES, C. F.. Participação em banca de Daniel Félix de Souza. Um Guia de Apoio à Implantação da Norma ISO 31000 para Gestão de Riscos em Processos de TI: um Estudo de Caso no IFTO. 2016. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Teses de doutorado
+
+1.
+CABRAL, G. R. E.; FARIA JUNIOR, I. H.; VALENCA, GEORGE; LANZA, B. B. B.; CUNHA, M. A. V. C.. Participação em banca de Joel Alves de Lima Júnior. Inovação Aberta no Setor Público Brasileiro: Um estudo de casos múltiplos em nível municipal, estadual e federal. 2025. Tese (Doutorado em Ciência da Computação (conceito CAPES 6)) - Universidade Federal de Pernambuco.
+
+2.
+VALENCA, GEORGE; LEITE, B.; LIMA, R. M. F.; GUSMAO, C.; SCALABRIN, E. E.. Participação em banca de Raphael José D'Castro. Pré-processamento Para Mineração De Processos: Técnicas Para Simplificação Automática De Logs De Eventos.. 2020. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Pernambuco.
+
+Qualificações de Doutorado
+
+1.
+SILVEIRA, S. A.; TEIXEIRA, A.; Valença, George; SILVA, S. J.. Participação em banca de Eliana Regina Lopes Loureiro. Arquitetura da desinformação: a modulação de comportamento a partir do uso de padrões enganosos no design de interface do ecossistema meta e proposta de redesign. 2026. Exame de qualificação (Doutorando em Ciências Humanas e Sociais) - Universidade Federal do ABC.
+
+2.
+VALENCA, GEORGE; MOURA, H. P.; LOSCIO, B. F.. Participação em banca de Joel Alves de Lima Júnior. Um modelo conceitual de Inovação Aberta para órgãos públicos. 2022. Exame de qualificação (Doutorando em Ciência da Computação (conceito CAPES 6)) - Universidade Federal de Pernambuco.
+
+3.
+VALENCA, GEORGE; OLIVEIRA, A. L. I.; LIMA, R. M. F.. Participação em banca de Rapahel José d'Castro. Collaborative Fuzzy Miner: uma Abordagem para Descoberta de Modelo de Processo de Referência Através de Informações Relevantes para o Negócio. 2018. Exame de qualificação (Doutorando em Ciência da Computação (conceito CAPES 6)) - Universidade Federal de Pernambuco.
+
+Qualificações de Mestrado
+
+1.
+VALENCA, GEORGE; MARCOLINO, A. S.; BOSCARIOLI, C.. Participação em banca de João Carlos Gomes Moeda Junior,. Canva TrackWell: Diretrizes para Design de Mood Tracking em Aplicativos de Saúde Mental baseados na Terapia Cognitivo-Comportamental. 2025. Exame de qualificação (Mestrando em CIÊNCIA DA COMPUTAÇÃO) - Universidade Estadual do Oeste do Paraná.
+
+2.
+VALENCA, GEORGE; SILVA, A. L. A.. Participação em banca de Fábio Tavares Santos Duarte. O que pensam os operadores do direito sobre inteligência artificial no poder judiciário? Uma percepção daqueles que fazem parte do trt6 sobre as ferramentas de i.A aplicadas no judiciário. 2024. Exame de qualificação (Mestrando em Ciência Política) - Universidade Federal de Pernambuco.
+
+3.
+MITTERMAYER, T.; VALENCA, GEORGE. Participação em banca de Beatriz Matos dos Reis Rocha. Interação Criança-Computador e Plataformas Digitais no Contexto das Crianças na Internet. 2024. Exame de qualificação (Mestrando em Tecnologias da Inteligência e Design Digital) - Pontifícia Universidade Católica de São Paulo.
+
+4.
+VALENCA, GEORGE. Participação em banca de Priscila da Silva Cunha. Governança De Ti Como Parte Integrante Da Governança Corporativa: Uma Análise De Sua Interdependência E Seus Reflexos Nas Universidades Federais Brasileiras. 2022. Exame de qualificação (Mestrando em Ciência Política) - Universidade Federal de Pernambuco.
+
+5.
+VALENCA, GEORGE; GOMES NETO, J. M. W.. Participação em banca de Sivaldo Orlando da Silva. Fatores Determinantes Da Qualidade Da Auditoria Eletrônica No Âmbito Dos Municípios Jurisdicionados Ao TCE-PE. 2022. Exame de qualificação (Mestrando em Ciência Política) - Universidade Federal de Pernambuco.
+
+6.
+VALENCA, GEORGE. Participação em banca de Hermógenes de Melo Neto. Transporte Escolar Rural Público No Estado De Pernambuco. 2022. Exame de qualificação (Mestrando em Ciência Política) - Universidade Federal de Pernambuco.
+
+7.
+FURTADO, A. P. C. C.; Valença, George. Participação em banca de Helton Santa Cruz Souto. Uso de Aprendizado de Máquina para Classificação de Cenas Acústicas Envolvendo Violência Doméstica. 2019. Exame de qualificação (Mestrando em Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+8.
+FURTADO, A. P. C. C.; Valença, George. Participação em banca de Lincon Ademir Pereira da Silva. Proposta de identificação de taxonomia de palavras utilizadas em agressão com base em algoritmos de IA. 2019. Exame de qualificação (Mestrando em Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+9.
+FURTADO, A. P. C. C.; VALENCA, GEORGE. Participação em banca de Márcio Braga dos Santos. Automação de Testes de Chatbots. 2019. Exame de qualificação (Mestrando em Mestrado Profissional em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+Valença, George; MEDEIROS, R.. Participação em banca de Jullyane Maria dos Santos Correia.Principais Funcionalidades de Aplicativos para Apoio no Tratamento do Diabetes Mellitus Tipo 1: Uma Revisão. 2026. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+2.
+VALENCA, GEORGE; NASCIMENTO, L. M.. Participação em banca de THIAGO LUIZ BARBOSA DA SILVA.Um estudo de caso para previsão de partidas de futebol utilizando o ChatGPT. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+3.
+VALENCA, GEORGE; FALCAO, T. P. R.. Participação em banca de THIAGO FERREIRA DE LIMA.Análise da Acessibilidade Para Pessoas com Deficiência Visual e Auditiva em Redes Sociais. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+4.
+VALENCA, GEORGE; BRITO, K. S.. Participação em banca de Hugo Rafael Alves da Silva.Benchmark for Public Ombudsman Portals of the State Court of Accounts in Brazil. 2024 - Universidade Federal Rural de Pernambuco.
+
+5.
+VALENCA, GEORGE; ARAUJO, C. J. M.; FALCAO, T. P. R.. Participação em banca de Gabriel Andrade.Evaluating the usability of Mobile applications for Elderly Users: A Case Study on the Ifood App. 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+6.
+VALENCA, GEORGE. Participação em banca de Raylison Nunes dos Santos.Uma Solução para Verificação do Uso de Dados Pessoais em Formulários Web. 2022. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+7.
+MEDEIROS, R. W. A.; Valença, George. Participação em banca de Inês Alves Lima de Oliveira.Gerenciamento de Custo e Desempenho de Composição de Serviços. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+8.
+Valença, George; MARINHO, M. L. M.; SAMPAIO, S. C. B.. Participação em banca de Luciano José da Silva Júnior.Um Processo para Gerenciar Times de Desenvolvimento de Software Distribuídos (GSE). 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+9.
+VALENCA, GEORGE; MARINHO, M. L. M.; FURTADO, A. P. C. C.. Participação em banca de Daniel Lima Nogueira.Uma Método para Estruturação e Gestão de Portfólios de Processos de Negócio. 2017. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+VALENCA, GEORGE; MIRANDA, B.. Participação como membro de banca de concurso (seleção de professor adjunto) na área de Engenharia de Software. 2022. Universidade Federal do Cariri.
+
+Outras participações
+
+1.
+VALENCA, GEORGE. Comitê de Programa do SBSI 2024 - Trilha de Pesquisa. 2024. Universidade Federal de Juiz de Fora.
+
+2.
+VALENCA, GEORGE. Program Committee of The 12th ACM/IEEE International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems. 2024. Universidade de Lisboa.
+
+3.
+VALENCA, GEORGE. Program Committee for the Research Track of ICSOB2024. 2024. Utrecht University.
+
+4.
+VALENCA, GEORGE. Technical Program Committee (TPC) for IHC 2024 - Pesquisa. 2024. Universidade de Brasília.
+
+5.
+VALENCA, GEORGE. Revisor do IHC 2024 - Prêmio Junia Coutinho Anacleto. 2024. Universidade de Brasília.
+
+6.
+VALENCA, GEORGE. Chair da Trilha da Indústria e Inovação do XX Simpósio Brasileiro de Sistemas de Informação. 2024. Universidade Federal de Juiz de Fora.
+
+7.
+VALENCA, GEORGE. Coordenação Geral do 12º Workshop de Computação Aplicada em Governo Eletrônico. 2024. Universidade de Brasília.
+
+8.
+VALENCA, GEORGE. Reunião de especialistas da pesquisa TIC Kids Online Brasil 2024. 2024. NUCLEO DE INFORMACAO E COORDENACAO DO PONTO BR - NIC .BR.
+
+9.
+VALENCA, GEORGE. Program Committee for 27th Workshop on Requirements Engineering - Master's and Doctoral Track (WER-MDT 2024). 2024. Universidad de Buenos Aires.
+
+10.
+VALENCA, GEORGE; SILVA, S. E. D.. Chair da Trilha de Workshops do XXII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais. 2023. Universidade Federal Rural de Pernambuco.
+
+11.
+VALENCA, GEORGE; KOZIEVITCH, N. P.. Chair da Trilha da Indústria e Inovação do XIX Simpósio Brasileiro de Sistemas de Informação. 2023. Instituto Federal de Alagoas.
+
+12.
+VALENCA, GEORGE. Program Committee of SESoS 2023. 2023. Universidade de São Paulo.
+
+13.
+VALENCA, GEORGE. Program Committee - DG.O 2023. 2023. Gdañsk University of Technology.
+
+14.
+VALENCA, GEORGE. Technical Program Committee for CSBC. 2023. Universidade Federal da Paraíba.
+
+15.
+VALENCA, GEORGE. Comitê Técnico de Programa.BraSNAM. 2023. Universidade Federal da Paraíba.
+
+16.
+VALENCA, GEORGE. Technical Program Committee for IHC 2023 - Research Track. 2023. Universidade Federal de Alagoas.
+
+17.
+VALENCA, GEORGE. Technical Program Committee for IHC 2023 - Artigos Internacionais. 2023. Universidade Federal de Alagoas.
+
+18.
+VALENCA, GEORGE. Program Committee - ICSOB. 2023. Lappeenranta University of Technology.
+
+19.
+VALENCA, GEORGE. Membro do Program Committee da 11th ACM/IEEE International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems (SESoS 2023). 2022. Universidade Federal Rural de Pernambuco.
+
+20.
+VALENCA, GEORGE. Membro da Comissão Avaliadora, do Julgamento do Edital FACEPE 30/2022 ? Jornada de Inovação Governo Academia de Pernambuco - JIGA.PE ? parceria da FACEPE e SECTI.. 2022. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+21.
+VALENCA, GEORGE. Membro da Comissão Avaliadora das propostas do Edital 16/2022. 2022. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+22.
+VALENCA, GEORGE. Technical Program Committee for CTCCSI 2022. 2022. Universidade de Pernambuco.
+
+23.
+VALENCA, GEORGE. Technical Program Committee for SBSI 2023 - Trilha de Pesquisa em SI. 2022. Universidade de São Paulo.
+
+24.
+VALENCA, GEORGE. Technical Program Committee for SBSI 2023 - Concurso de Teses, Dissertações e TCCs em SI.. 2022. Universidade de São Paulo.
+
+25.
+VALENCA, GEORGE. Technical Program Committee for SBSI 2021 - CTDSI/CTCCSI: III Information Systems Thesis and Dissertations Contest & III Information Systems Undergraduate Final Projects Contest. 2021. Universidade Federal Rural de Pernambuco.
+
+26.
+VALENCA, GEORGE. Membro do program committee do 10º Brazilian Workshop on Social Network Analysis and Mining. 2021. Universidade Federal Rural de Pernambuco.
+
+27.
+VALENCA, GEORGE. Program committee at ESELAW (Experimental Software Engineering) track in the 24th Ibero-American Conference on Software Engineering (CIbSE 2021). 2021. Universidade Federal Rural de Pernambuco.
+
+28.
+VALENCA, GEORGE. Membro do program committee - 10th ACM/IEEE International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems (SESoS). 2021. Instituto de Estudos Avançados - USP.
+
+29.
+VALENCA, GEORGE. Membro do Technical Program Committee for CTDSI 2022: IV Information Systems Thesis and Dissertations Contest. 2021. Universidade Tecnológica Federal do Paraná.
+
+30.
+VALENCA, GEORGE. Membro do Technical Program Committee of the Brazilian Symposium on Information Systems (SBSI) 2022 - Main Track. 2021. Universidade Tecnológica Federal do Paraná.
+
+31.
+VALENCA, GEORGE; MEDEIROS, H.; SANTIAGO, K.. Membro da Comissão Avaliadora do Ideathon LGBTQIA+. 2021. Secretaria de Ciência Tecnologia e Inovação de Pernambuco.
+
+32.
+VALENCA, GEORGE. Membro do program committee do 9º Brazilian Workshop on Social Network Analysis and Mining. 2020. Universidade Federal do Estado do Rio de Janeiro.
+
+33.
+VALENCA, GEORGE. Membro do program committee do XI WAIHCWS - Workshop sobre Aspectos da Interação. 2020. Universidade Federal Rural de Pernambuco.
+
+34.
+VALENCA, GEORGE. Technical Program Committee do SBSI 2021. 2020.
+
+35.
+VALENCA, GEORGE. Membro do program committee - SESoS/WDES 2021 (Joint 9th International Workshop on Software Engineering for Systems-of-Systems and 15th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems. 2020. Universidade Federal do Rio Grande do Norte.
+
+36.
+VALENCA, GEORGE. Membro do program committee da Springer Communications in Computer and Information Science (CCIS) volume entitled. 2019. Universidade Federal do Estado do Rio de Janeiro.
+
+37.
+VALENCA, GEORGE. Membro do program committee do 8º Brazilian Workshop on Social Network Analysis and Mining. 2019. Universidade Federal do Pará.
+
+38.
+VALENCA, GEORGE. Membro do program committee da CIbSE 2020 (XXIII IBERO-AMERICAN CONFERENCE ON SOFTWARE ENGINEERING). 2019. Universidade Federal de Santa Catarina.
+
+39.
+VALENCA, GEORGE. Membro da comissão de avaliadores de propostas submetidas ao Edital Centelha/PE - FINEP _ FACEPE.. 2019. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+40.
+VALENCA, GEORGE. Membro do Technical Program Committee do XVI Simpósio Brasileiro de Sistemas de Informação. 2019. Universidade Federal Fluminense.
+
+41.
+VALENCA, GEORGE. Membro do program committee do Joint 8th International Workshop on Software Engineering for Systems-of-Systems and 14th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems (SESoS/WDES 2020). 2019. Universidade Federal da Bahia.
+
+42.
+VALENCA, GEORGE. Membro do Technical Program Committee do VII Brazilian Workshop on Social Network Analysis and Mining (CSBC 2018 - VII BraSNAM). 2018. Universidade do Estado do Rio Grande do Norte.
+
+43.
+VALENCA, GEORGE. Membro do program committee do 12th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems. 2018. Universidade de São Paulo.
+
+44.
+VALENCA, GEORGE. Membro do Technical Program Committee for IHC 2018 - IX WAIHCWS: Workshop sobre Aspectos da Interação Humano-Computador para a Web Social. 2018. Universidade Federal de Mato Grosso.
+
+45.
+Valença, George. Membro do comitê de avaliação PIBIC/PIC - 2017/2018 - DC/UFRPE. 2018. Universidade Federal Rural de Pernambuco.
+
+46.
+VALENCA, GEORGE. Membro do Technical Program Committee do XV Simpósio Brasileiro de Sistemas de Informação. 2018. Universidade Tiradentes.
+
+47.
+VALENCA, GEORGE. Membro da comissão de avaliação do First Software-intensive Business Workshop on Start-ups, Platforms and Ecosystems. 2018. HelsinkiExpo and Convention Center.
+
+48.
+VALENCA, GEORGE. Membro do Program Committee do 7th ICSE International Workshop on Software Engineering for Systems-of-Systems and 13th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems (SESoS-WDES 2019). 2018. Université de Montreal.
+
+49.
+VALENCA, GEORGE. Membro do Technical Program Committee do VIII Brazilian Workshop on Social Network Analysis and Mining (CSBC 2019 - 8º BraSNAM). 2018. Universidade Federal Rural de Pernambuco.
+
+50.
+VALENCA, GEORGE. Membro do comitê de avaliação PIBIC/PIC 2016-2017 DEINFO/UFRPE. 2017. Universidade Federal Rural de Pernambuco.
+
+51.
+VALENCA, GEORGE. Membro do program committee Workshop sobre Aspectos da IHC para a Web Social (WAIHCWS). 2017. Universidade do Estado de Santa Catarina.
+
+52.
+VALENCA, GEORGE. Membro do program committee, 9th International Workshop on Software Ecosystems (IWSECO 2017). 2017. IWSECO.
+
+53.
+VALENCA, GEORGE. Membro do program committee, 8th International Workshop on Software Ecosystems (IWSECO 2016). 2016.
+
+54.
+VALENCA, GEORGE. Membro da comissão de avaliação, IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES). 2015.
+
+55.
+VALENCA, GEORGE. Membro da comissão de avaliação, VIII Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES). 2014. Universidade Federal de Alagoas.
+
+56.
+VALENCA, GEORGE. Membro da comissão de avaliação, EXPOTEC (Exposição de Tecnologia e Ciência em Gamaragibe/PE). 2014. Universidade Federal Rural de Pernambuco.
+
+57.
+VALENCA, GEORGE. Membro da comissão de avaliação, 9º Simpósio Brasileiro de Sistemas de Informação (SBSI). 2013. Sociedade Brasileira de Computação - Porto Alegre.
+
+58.
+VALENCA, GEORGE. Membro da comissão de avaliação, 7th IEEE International Conference on Research Challenges in Information Science (RCIS). 2013. Université Paris 1 Pantheon-Sorbonne.
+
+59.
+VALENCA, GEORGE. Membro da comissão de avaliação, VII Workshop Brasileiro em Gestão de Processos de Negócio (WBPM). 2013. Sociedade Brasileira de Computação - Porto Alegre.
+
+60.
+VALENCA, GEORGE. Membro da comissão de avaliação, VII Workshop de Desenvolvimento Distribuído de Software (WDDS). 2013. Universidade de Brasília.
+
+61.
+VALENCA, GEORGE. Membro da comissão de avaliação, 6º Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS). 2012. Universidade Federal do Rio Grande do Norte.
+
+62.
+VALENCA, GEORGE. Membro da comissão de avaliação, XX Congresso de Iniciação Científica da UFPE (CONIC). 2012. Universidade Federal de Pernambuco.
+
+63.
+VALENCA, GEORGE. Membro da comissão de avaliação, 21st European Conference on Information Systems (ECIS). 2012. Utrecht University.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+13ª International Conference on Software Business (ICSOB). On the Compliance of Platforms with Children?s Privacy and Protection Requirements - An Analysis of TikTok. 2022. (Congresso).
+
+2.
+10th International Workshop on Creativity in Requirements Engineering (CreaRE'21). 2021. (Congresso).
+
+3.
+27th International Working Conference on Requirement Engineering: Foundation for Software Quality. Power and Privacy in Software Ecosystems: A Study on Data Breach Impact on Tech Giants. 2021. (Congresso).
+
+4.
+46 EUROMICRO Conference on Software Engineering and Advanced Applications (SEAA). A Systematic Mapping Study on the Organisation of Corporate Hackathons. 2020. (Congresso).
+
+5.
+Do Governo Eletrônico À Transformação Digital Nos Governos Brasileiros - Iniciativas Federais E Casos De Sucesso Em Governos Locais - INOVAFUNDAJ. 2020. (Seminário).
+
+6.
+GNPapo Inovaflix 1ª Temporada | Design em Políticas Públicas. 2020. (Oficina).
+
+7.
+GNPapo Inovaflix 1ª Temporada | Design Etnográfico. 2020. (Oficina).
+
+8.
+GNPapo Inovaflix 1ª Temporada | Insights Comportamentais em Projetos de Inovaçãoção. 2020. (Oficina).
+
+9.
+GNPapo Inovaflix 1ª Temporada | Prototipagem e Teste. 2020. (Oficina).
+
+10.
+Inovação Aberta e Compras Públicas de Inovação - INOVAFUNDADAJ. 2020. (Seminário).
+
+11.
+20th International Conference on Product-Focused Software Process Improvement. On the Benefits of Corporate Hackathons for Software Ecosystems?A Systematic Mapping Study. 2019. (Congresso).
+
+12.
+Gov in Play - Inovação no Setor Público. 2019. (Encontro).
+
+13.
+Semana de Inovação do TCE-PE. 2019. (Encontro).
+
+14.
+17th International Conference on Product-Focused Software Process Improvement (PROFES). A Power Perspective on Software Ecosystem Partnerships. 2016. (Congresso).
+
+15.
+Gov.Lab Experience Recife - PE. 2016. (Encontro).
+
+16.
+2014 IEEE 22nd International Requirements Engineering Conference (RE). Competition and collaboration in requirements engineering: A case study of an emerging software ecosystem. 2014. (Congresso).
+
+17.
+21st European Conference on Information Systems. Understanding the Adoption of BPM Governance in Brazilian Public Sector. 2013. (Congresso).
+
+18.
+21st IEEE International Requirements Engineering Conference. Requirements Negotiation Model: A Social Oriented Approach for Software Ecosystems Evolution. 2013. (Congresso).
+
+19.
+Congresso Brasileiro de Software: Teoria e Prática.Modelagem e Análise de Ecossistemas de Software. 2013. (Simpósio).
+
+20.
+Engenharia de Requisitos @ Brasil (ER@BR 2013). Um Modelo para Negociação de Requisitos em Ecossistemas de Software. 2013. (Congresso).
+
+21.
+Simpósio Brasileiro de Sistemas de Informação.Analysing Variability Management in BPM and SPL: A Knowledge Mapping. 2013. (Simpósio).
+
+22.
+VII Workshop de Desenvolvimento Distribuído de Software.Analysing Requirements Negotiation in Software Ecosystems with Multi-Agent Systems Techniques. 2013. (Outra).
+
+23.
+Seminário de Gestão de Processos de Negócio para o Setor Público. 2012. (Seminário).
+
+24.
+II Encontro Nacional de Tecnologia da Informação.II Encontro Nacional de Tecnologia da Informação. 2011. (Encontro).
+
+25.
+XVII Congresso de Iniciação Científica - CONIC. Integração da Ferramenta ProEvaluator com o Ambiente Imppros. 2009. (Congresso).
+
+26.
+23th ACM Symposium on Applied Computing (SAC). ACM SAC 2008.. 2008. (Simpósio).
+
+27.
+Workshop Iberoamericano de Engenharia de Requisitos e Ambientes de Software (IDEAS). 2008. (Congresso).
+
+28.
+1º EEJ - Encontro de Empresários Juniores.Centro Integrado de Tecnologia da Informação. 2007. (Encontro).
+
+29.
+III Congresso Sul-Catarinense de Computação - SULCOMP. 2007. (Congresso).
+
+30.
+XVII Seminário Nacional de Parques Tecnológicos e Incubadorase e XV Workshop Anprotec. 2007. (Seminário).
+
+31.
+XXI Simpósio Brasileiro de Engenharia de Software - SBES. 2007. (Simpósio).
+
+32.
+Gerenciamento Integrado de Projetos: Visão de Negócios, Estratégia de Resultados ? Uma Política de Sucesso na CSN. 2006. (Seminário).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+VALENCA, GEORGE. Mentoria da NASA International Space Apps Challenge. 2022. (Concurso).
+
+2.
+VALENCA, GEORGE; GAMA, K. S. ; BARROS, C. ; LAURENDON, C. . Organizador do HackaGTP+. 2022. (Concurso).
+
+3.
+VALENCA, GEORGE; MEDEIROS, H. ; SANTIAGO, K. . Ideathon LGBTQIA+. 2021. (Concurso).
+
+4.
+VALENCA, GEORGE. 22nd IEEE International Requirements Engineering Conference. 2014. (Congresso).
+
+5.
+VALENCA, GEORGE. 21st IEEE International Requirements Engineering Conference. 2013. (Congresso).
+
+6.
+ALVES, C. F. ; VALENCA, GEORGE . Seminário de Gestão de Processos de Negócio para o Setor Público. 2012. (Outro).
+
+7.
+VALENCA, GEORGE; ANDRADE, R. V. C. L. ; FARIAS, F. ; ARCOVERDE, D. F. . TechUpgrade - Seminário de Atualização Tecnológica. 2007. (Outro).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+
+1.
+Firmo de Assis Batista. Ethics in Game Development. Início: 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Tese de doutorado
+
+1.
+Fabiana Barboza. Uso prático de ferramentas de IA Generativa no Ensino Básico. Início: 2025. Tese (Doutorado em Doutorado profissional) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+2.
+Sandro Diniz. Uso de AI Companion por Adolescentes. Início: 2025. Tese (Doutorado em Doutorado profissional) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+3.
+Carlos Eduardo Freire Gurgel. Modelos de Negócio em Plataformas de Software. Início: 2025. Tese (Doutorado em Doutorado profissional) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+4.
+Willian Grillo. Design de serviços no setor privado. Início: 2024. Tese (Doutorado em Doutorado profissional) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Atila Rodrigues de Almeida. Auditoria dos Mecanismos de Verificação Etária para a Proteção de Crianças em Plataformas Digitais. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+Gabriel Santos e Silva. Problema futuros na interação da criança com a tecnologia e smart toys. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+Lucas Gonçalves Venancio. Uso Excessivo e Dependência de Crianças e Adolescentes em Relação a Jogos de Apostas e Azar. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+4.
+Rafael Cassiano Matos. Análise de riscos em plataformas - uma visão crítica do design do Discord. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+5.
+Haga Fedra de Brito Cavalcanti. Avaliação de Design Ético em Plataformas Educacionais no Ensino Básico e Desenvolvimento de Ferramenta de Apoio. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+6.
+João Victor Silva. Design Manipulativo de Crianças em Plataformas de Mídia Social. Início: 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Iniciação científica
+
+1.
+Maria Luisa de Almeida Vasconcelos. Práticas Manipulativas em Plataformas Digitais uma Investigação Sobre o Impacto de Padrões Enganosos de Design na Autonomia e no Bem-estar Online das Crianças. Início: 2025. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, UFRPE. (Orientador).
+
+2.
+Steffano Pereira. Práticas Antiéticas de Design em Softwares do Ensino Básico. Início: 2024. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+Maria Eduarda Rebelo di Carlli. Towards a Quality Audit Process for Children?s Privacy Policies. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Coorientador: George Augusto Valença Santos.
+
+2.
+Lincon Ademir Pereira da Silva. Classificação de Tipos de Violência Doméstica a partir de Machine Learning. 2020. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Coorientador: George Augusto Valença Santos.
+
+3.
+Edluce Leitão Veras. Gerenciamento de Requisitos em Ecossistemas de Software. 2020. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Coorientador: George Augusto Valença Santos.
+
+4.
+Mauricio Wanderley Martins. Predição do Perfil de Atletas sobre o Marketing Digital Baseado no Instagram. 2020. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Coorientador: George Augusto Valença Santos.
+
+5.
+Adriana Almeida Nascimento de Oliveira. Um Método para Definição e Monitoramento de Indicadores de Desempenho de Processos de Negócio. 2017. Dissertação (Mestrado em Ciência da Computação (conceito CAPES 6)) - Universidade Federal de Pernambuco, . Coorientador: George Augusto Valença Santos.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+João Victor Castro. Teaching or Manipulating? On the Adoption of Bright and Deceptive Patterns by Duolingo. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+2.
+André Theodoro. Behind the Gate: How Popular Apps Design ? or Fail to Design ? Age Verification Features for Children. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+3.
+Marielly Lins da Silva. Ensino de Discriminação Algorítmica nos Cursos de Tecnologia - Um Estudo Qualitativo. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+4.
+Aildson Nascimento Ferreira da Silva. Towards Algorithmic Justice and Gender Perspectives ? an Inclusive Audit of Facial Recognition Systems. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+5.
+Marcos Inácio de Paula Lima. Como definir os serviços de um laboratório de inovação no setor público? Uma Pesquisa Qualitativa. 2023. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+6.
+Michel Perilo Oliveira Silva. How Facial Recognition Technologies Affect the Transgender Community? A Systematic Mapping Study. 2023. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+7.
+João Victor Cavalcanti Teixeira de Assis. Parental Control Tools in Apps Used by Children: Are IT Companies Supporting Caregivers?. 2023. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+8.
+Aldenir José Telles da Silva. Um Catálogo de Boas Práticas para Soluções de IA com Impacto em Pessoas Trans. 2023. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+9.
+Jamelly Nascimento Silva. Racismo algorítmico em redes sociais. 2023. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+10.
+Vinícius Barbosa Polito Lopes. Children?s Privacy and Protection Requirements for Software Platforms. 2022. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+11.
+Nathalia Freire Albuquerque. Kidinfluencers ? um Diagnóstico sobre Proteção, Segurança e Privacidade de YouTubers Mirins. 2022. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+12.
+Matheus Cavalcanti Agostinho. Como definir a estratégia de um laboratório de inovação no setor público? Um estudo de caso da iniciativa de inovação do Tribunal de Contas do Estado de Pernambuco. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+13.
+João Lucas Pereira de Lima Santos. Auditoria do futuro - Um Estudo de Caso de Melhoria do Processo de Auditoria de Dados do Tribunal de Contas do Estado de Pernambuco. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+14.
+Nycolas Lacerda de Oliveira. On the Definition of a Hackathon Process. 2020. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+15.
+Maria Eduarda Rebelo di Carlli. Privacy Requirements for Software Ecosystems. 2020. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+16.
+Lucas Neves Melo. Modelagem de Requisitos de Segurança para Sistemas de Informação Orientados a Processos. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. Orientador: George Augusto Valença Santos.
+
+17.
+Higor Cavalcanti Machado Botelho. Understanding the Emergence of Platform Ecosystems ? A Case Study. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. Orientador: George Augusto Valença Santos.
+
+18.
+Daniel Lima Nogueira. Um Método para Estruturação e Gestão de Portfólios de Processos de Negócio. 2017. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+19.
+Felipe Rodrigues Camara. Uma Análise sobre Poder em Ecossistemas de Software. 2017. Trabalho de Conclusão de Curso. (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. Orientador: George Augusto Valença Santos.
+
+20.
+João Guilherme Alcântara Cunha. Uma metodologia ágil para BPM. 2016. Trabalho de Conclusão de Curso. (Graduação em Sistemas de Informação) - Universidade Federal de Pernambuco. Orientador: George Augusto Valença Santos.
+
+21.
+Alexandre Amâncio de Castro Filho. Implantação de uma Ferramenta de Processo Eletrônico numa Organização do Setor Público: um Relato de Experiência. 2014. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal de Pernambuco. Orientador: George Augusto Valença Santos.
+
+22.
+Diego de Aquino Soares. Estudo exploratório utilizando uma modelagem com notação BPMN em um processo de Engenharia de Requisitos. 2011. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade de Brasília. Orientador: George Augusto Valença Santos.
+
+23.
+Lino Salvatore Bordin Insfrán. Estudo exploratório utilizando uma modelagem com notação BPMN em um processo de Engenharia de Requisitos. 2011. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade de Brasília. Orientador: George Augusto Valença Santos.
+
+Orientações de outra natureza
+
+1.
+Priscila Gabriele Marques dos Santos. Utilização do Scratch e Alice no ensino de Educação Ambiental. 2013. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: George Augusto Valença Santos.
+
+
+
+Inovação
+
+Projetos de pesquisa
+2021 - 2022
+Processo de inovação social aberta para desenvolvimento de soluções tecnológicas inclusivas e competências empreendedoras em pessoas soropositivas
+Descrição: Projeto que visa desenvolver um modelo de um processo inclusivo inovação social aberta capaz de gerar soluções tecnológicas voltadas para atender as necessidades do público vulnerável em questão. Este modelo se inicia a partir de um ciclo que se inicia com a capacitação em uma formação empreendedora do público alvo em vulnerabilidade psicossocial, para que participem de workshops de co-criação (i.e., hackathon) com designers e programadores, aplicando design participativo junto a este público, e culminando em soluções tecnológicas que serão desenvolvidas durante um processo de mentoria e incubação. O projeto será realizado em parceria com o Grupo de Trabalhos em PrevençãoPositHIVo (GTP+), uma organização não governamental (ONG) de base comunitária e sem fins lucrativos fundada há 20 anos por pessoas que vivem com HIV/AIDS. O projeto proposto será executado por uma equipe interdisciplinar, que além de contar com pesquisadores da UFPE e UFRPE com experiência em estudos e projetos de inovação aberta, e do apoio da equipe do Porto Digital, cuja expertise em incubação de projetos de inovação via mentorias técnicas e de negócio permitirá que os produtos e grupos das hackathons evoluam, contará também com pesquisadoras da UFPE e FPS da área de Psicologia, com experiência nas temáticas em questão..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Doutorado: (5) .
+
+Integrantes: George Augusto Valença Santos - Integrante / Kiev Santos da Gama - Coordenador / Pedro Alessio - Integrante / Candy Laurendon - Integrante / Clarissa Barros - Integrante.
+2019 - 2022
+De Produtos para Plataformas: Um Framework para Design de Ecossistemas de Software
+Descrição: o paradigma de ecossistemas de software tem se tornado uma estratégia competitiva para empresas que passam a concorrer e colaborar em rede. Este ambiente geralmente resulta da ação de uma empresa líder chamada keystone, que parte de um modelo orientado ao produto para um modelo orientado à uma plataforma de software. Inicialmente, a partir da oferta de Application Programming Interfaces e, posteriormente, com Software Development Kits, essa empresa promove o engajamento e orquestra diversos atores externos (complementadores, revendedores, usuários, etc.). Ao firmar parcerias, esses atores passam a compor o ecossistema e obter vantagens como compartilhamento de clientes, acesso a novos mercados, divisão de custos de P&D e inovação de seus produtos. Com isso, os processos de co-criação de valor se tornam cada vez mais interligados e surgem desafios típicos das relações de poder e dependência que se formam entre os participantes. Ecossistemas de software conhecidos e bem-sucedidos incluem Apple iOS, Google Android, Microsoft Dynamics, SAP e Salesforce. Embora ao longo dos últimos anos a literatura tenha explorado a dinâmica de funcionamento de ecossistemas de software, há pouca compreensão sobre como eles surgem. Acreditamos que entender as forças que influenciam a criação de um ecossistema é vital para compreender o desempenho da indústria de software, no atual cenário altamente especializado, competitivo e dinâmico. Diante disso, o presente projeto de pesquisa tem por objetivo investigar o nascimento de ecossistemas através da construção de um framework para guiar as empresas que buscam desenvolver um ecossistema de software. Este framework deverá reunir orientações na forma de estratégias, processos e modelos que caracterizam um ecossistema em suas três dimensões (técnica, social e de negócio). Desenvolveremos tal contribuição a partir de uma referencial conceitual consolidado, adotando teorias de áreas ligadas à ecossistemas de software, como cooperação e inovação. Por fim, realizaremos estudos de campo diversos, com revisão por especialistas e ciclos de pesquisa-ação, para aplicação e evolução do framework em empresas de software.
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) / Doutorado: (2) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / Nycolas Lacerda de Oliveira - Integrante / Ítalo César de Souza Belo - Integrante / Joyce Aline de Oliveira Marins - Integrante / Cleidson R. B. de Souza - Integrante / Emanuel Amoras Rodrigues - Integrante / Filipe Damasceno Coelho - Integrante / Caio Shimada Rabello - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+
+
+Projeto de desenvolvimento tecnológico
+2020 - 2025
+Um Modelo de Inovação para Transformação Digital do Tribunal de Contas do Estado de Pernambuco
+Descrição: Este convênio busca apoiar o Tribunal de Contas na resolução de problemas complexos ligados ao estabelecimento de auditorias temáticas integradas. Neste contexto, soluções tradicionais não se aplicam. É indispensável empregar novas formas de refletir e atuar, com modelos mentais ligados à inovação e visão empreendedora, que precisa ser aplicada a instituições públicas. Diante disso, este convênio prevê a concepção, o desenvolvimento e a aplicação de novas ideias e técnicas de inovação. Para isso, suas metas incluem: estudo de modelos e laboratórios de inovação em governo; análise de padrões metodológicos e ferramentais para inovação; definição de um modelo de inovação do TCE-PE;elaboração de um programa de ensino e aprendizagem contínua voltado ao conhecimento e desenvolvimento de competências em inovação; realização de ações de capacitação e comunicação para inovação; e estruturação de um modelo integrado de processos que apoie novas abordagens de auditoria.
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (9) / Mestrado acadêmico: (1) / Doutorado: (8) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Robson Wagner Albuquerque de Medeiros - Integrante / Maria Eduarda Rebelo di Carlli - Integrante / André Câmara Alves do Nascimento - Integrante / George Gomes Cabral - Integrante / Carlos Julian Menezes Araújo - Integrante / Fernando Antônio Aires Lins - Integrante / Deyvesson Carlos da Silva Teixeira - Integrante / Camila Nunes de Paula Souza - Integrante / Eduardo Gomes Diniz - Integrante / Gabriel Vitor Lima Matias de Andrade - Integrante / Tiago Barbosa de Lima - Integrante / Alexandre Marques da Silva - Integrante / Matheus Cavalcanti Agostinho - Integrante / Éder Lucena Andrade da Fonseca - Integrante / João Lucas Pereira de Lima Santos - Integrante / Ermeson Carneiro de Andrade - Integrante / Sidney de Carvalho Nogueira - Integrante / Kellyton dos Santos Brito - Integrante.
+
+
+Projeto de extensão
+2014 - 2014
+Ferramentas para Construção de Jogos Digitais no Ensino da Matemática: Ampliando o Processo de Aprendizagem Através da Tecnologia
+Descrição: Esse projeto busca apoiar a aprendizagem da Matemática no Ensino Fundamental com a introdução de softwares de construção de jogos digitais. A partir de ações de capacitação, professores e alunos poderão desenvolver jogos eletrônicos que trabalhem os conceitos vistos em sala e, assim, dinamizar o ensino. A adoção de tais ferramentas é facilitada pela independência de sintaxes formais ou lógicas de programação complexas. Um exemplo é o software Scratch, desenvolvido pelo Massachussets Institute of Technology (MIT): sua linguagem intuitiva permite a criação de jogos, animações e demais programas interativos por pessoas sem base em programação ou lógica. Sob a perspectiva do aprendiz, destaca-se o aspecto lúdico desses sistemas e a contribuição para que o aluno pesquise, construa e aplique o conhecimento de forma colaborativa. Sob a ótica do educador, têm-se ferramentas ajustáveis ao conteúdo que busca transmitir, podendo ser aplicadas ao longo de toda disciplina, numa abordagem prática e evolutiva..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: George Augusto Valença Santos - Coordenador / Gilberto Amado de Azevedo Cysneiros Filho - Integrante / Priscila Gabriele Marques dos Santos - Integrante / Rodrigo Felipe Tavares Bezerra Mendes - Integrante / Hugo Leonardo de Assunção Costa - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2014 - 2014
+Aplicando o Uso de Novas Tecnologias de Informação e Comunicação (TIC) na Cidade Histórica de Olinda
+Descrição: O objetivo desse projeto é investigar como o uso de novas tecnologias de informação e comunicação (TICs) podem ser usadas como ferramentas para o ensino de história. As TICs podem fornecer uma maneira divertida e interativa para o ensino de história. O objetivo principal desse projeto é produzir ferramentas digitais de m-learning' relacionadas ao Centro Histórico de Olinda como forma de atender a demanda social de divulgação e valorização deste patrimônio histórico. Na universidade, este projeto tem como meta a articulação entre o Departamento de Informática e Estatística, o Departamento de Educação e o Programa de Pós-Graduação em História..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (2) / Doutorado: (2) .
+
+Integrantes: George Augusto Valença Santos - Integrante / Gilberto Amado de Azevedo Cysneiros Filho - Coordenador / Taciana Pontual da Rocha Falcão - Integrante / Ricardo de Aguiar Pacheco - Integrante / Allan Monteiro de Lima - Integrante / Antônio Paulo Batista Junior - Integrante / Mardeni Ferreira de Souza Sa - Integrante / Rodrigo Cavalcanti Lins - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+
+
+
+Educação e Popularização de C & T
+
+Cursos de curta duração ministrados
+1.
+VALENCA, GEORGE; Alves, Carina . Curso 'Inovação de Processos com Design Thinking'. 2019. .
+
+2.
+VALENCA, GEORGE. Curso 'Design Thinking Aplicado à Estruturação de Trilhas de Aprendizagem'. 2020. .
+
+3.
+VALENCA, GEORGE; MARIANO, M. . Oficina de Metodologias Ativas. 2020. .
+
+4.
+VALENCA, GEORGE; SOUZA, C. N. P. . Curso 'Inovação dos Serviços da Ouvidoria a partir de Design Thinking'. 2021. .
+
+5.
+VALENCA, GEORGE. Curso 'Inovação nas Ações de Estímulo ao Controle Social'. 2022. .
+
+6.
+VALENCA, GEORGE; SANTOS, R. P. . Minicurso 'Como Organizar uma Hackathon Corporativa?'. 2022. .
+
+7.
+VALENCA, GEORGE. Curso 'Base Conceitual sobre Gestão de Processos para Governo - DF'. 2012. .
+
+8.
+VALENCA, GEORGE. Curso 'Base Conceitual sobre Gestão de Processos para Governo - RJ'. 2012. .
+
+9.
+VALENCA, GEORGE. Curso 'Base Conceitual para Modelo Global de Dados para Governo'. 2012. .
+
+10.
+SANTOS, R. P. ; VALENCA, GEORGE ; ALVES, C. F. ; WERNER, C. M. L. . Minicurso 'Modelagem e Análise de Ecossistemas de Software (CBSoft 2013)'. 2013. .
+
+11.
+VALENCA, GEORGE; ALVES, C. F. ; OLIVEIRA, J. A. P. ; SANTOS, H. R. M. ; OLIVEIRA, L. A. . Curso 'Execução de Projetos de Análise e Melhoria de Processos de Negócio (SBTI 2013)'. 2013. .
+
+12.
+VALENCA, GEORGE; OLIVEIRA, L. A. . Curso 'Introdução à Gestão de Processos de Negócio (TCE-PE)'. 2013. .
+
+13.
+VALENCA, GEORGE. Curso 'Introdução à Gestão de Processos de Negócio'. 2014. .
+
+
+
+Outras informações relevantes
+* 1º lugar no Concurso para Professor Substituto na área de Informática em Saúde, 2013 - Departamento de Medicina Clínica/UFPE. * Aprovado no Concurso para Professor Substituto na área de Tecnologia da Computação, 2012 - CODAI/UFRPE. * 1º lugar no Concurso para Analista de Sistemas/Negócios em Tecnologia da Informação - Serviço Federal de Processamento de Dados (SERPRO), 2010.
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 13:41:36
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo

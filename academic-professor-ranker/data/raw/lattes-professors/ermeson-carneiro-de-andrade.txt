@@ -1,0 +1,1463 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+Dados gerais Formação Atuação Projetos Produções Patentes e Registros Inovação Educação e Popularização de C & T Eventos Orientações Bancas Citações +
+
+Ermeson Carneiro de Andrade
+Bolsista de Produtividade em Pesquisa do CNPq - Nível 2
+Endereço para acessar este CV: http://lattes.cnpq.br/2466077615273972
+ID Lattes: 2466077615273972
+Última atualização do currículo em 11/05/2026
+
+Possui graduação em Ciência da Computação pela Universidade Católica de Pernambuco (2006), mestrado em Ciências da Computação pela Universidade Federal de Pernambuco (2009), doutorado em Ciências da Computação pela Universidade Federal de Pernambuco (2014) e pós-doutorado na Universidade Livre de Amsterdã (2016). Entre 2010 e 2011, fez doutorado sanduíche na Universidade de Duke, nos Estados Unidos. Em 2022, recebeu a prestigiada bolsa de professor visitante da Sociedade Japonesa para a Promoção da Ciência. Atualmente, é professor adjunto da Universidade Federal Rural de Pernambuco e bolsista de produtividade do CNPq. Também é Co-líder do grupo de pesquisa GMOS. Seus interesses de pesquisa focam em: Dependabilidade, Data Science, Modelagem e Performance. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Ermeson Carneiro de AndradeDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+ANDRADE, E.C.;Andrade, E.;Ermeson Andrade;Andrade, Ermeson;ANDRADE, ERMESON C.;ANDRADE, ERMESON CARNEIRO;CARNEIRO, ERMESON;DE ANDRADE, ERMESON CARNEIRO;ANDRADE, E. C.;ANDRADE, ERMESON CARNEIRO DE
+Lattes iD
+http://lattes.cnpq.br/2466077615273972
+Orcid iD
+? https://orcid.org/0000-0002-9614-4492
+País de Nacionalidade
+Brasil
+
+Formação acadêmica/titulação
+2009 - 2014
+Doutorado em Doutorado em Ciência da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+com período sanduíche em Duke University (Orientador: Kishor Trivedi).
+Título: Modelagem e Análise de Mecanismos de Tratamento de Interrupções em Infraestruturas Computacionais dos Sistemas Distribuídos , Ano de obtenção: 2014.
+Orientador: Paulo Romero Martins Maciel.
+Palavras-chave: SysML; Redes de Petri; Sistemas Distribuídos; Disponibilidade.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Métodos Formais.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas Distribuídos.
+2007 - 2009
+Mestrado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Modelagem e Análise de Especificações de Sistemas Embarcados Críticos com Restrições de Energia. , Ano de Obtenção: 2009.
+Orientador: Paulo Romero Martins Maciel.
+Palavras-chave: Avaliação de Desempenho; Consumo de Energia; Sistemas Embarcados de Tempo Real; Análises; Sistemas Críticos; Modelagem.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Sistemas Embarcados.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Métodos Formais.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação.
+2002 - 2006
+Graduação em Ciencia da Computação.
+Universidade Católica de Pernambuco, UNICAP, Brasil.
+
+
+Pós-doutorado
+2015 - 2016
+Pós-Doutorado.
+Vrije Universiteit, VU, Holanda.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação / Especialidade: Engenharia de Software.
+
+
+Formação Complementar
+2012 - 2012
+Introdução ao MPS.BR (C1-MPS.BR). (Carga horária: 16h).
+Centro de Tecnologia de Software para Exportação do Recife, SOFTEX/RECIFE, Brasil.
+2010 - 2010
+Course in the ESL Intensive Program. (Carga horária: 160h).
+Global Village Toronto, GV, Canadá.
+2009 - 2009
+Gerenciamento de Projeto com PMBOK. (Carga horária: 45h).
+Centro de Tecnologia de Software para Exportação do Recife, SOFTEX/RECIFE, Brasil.
+2007 - 2007
+TEF - Test Engineering Foundation. (Carga horária: 2007h).
+KEEGGO TECHNOLOGY BRASIL S/A, KEEGGO, Brasil.
+2006 - 2006
+Introdução ao MPS.BR. (Carga horária: 4h).
+Centro de Tecnologia de Software para Exportação do Recife, SOFTEX/RECIFE, Brasil.
+2005 - 2005
+Campanha Java Certified Programmer. (Carga horária: 85h).
+Iteci Instituto de Tecnologia e Ciencia da Informacão, ITECI, Brasil.
+
+
+Atuação Profissional
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+
+Atividades
+
+03/2023 - Atual
+Conselhos, Comissões e Consultoria, Departamento de Computação.
+
+Cargo ou função
+Representante da Cooperação Internacional da UFRPE.
+10/2022 - Atual
+Conselhos, Comissões e Consultoria, Departamento de Computação.
+
+Cargo ou função
+Presidente da Comissão de Avaliação e Progressão Docente (CAPD).
+12/2020 - Atual
+Conselhos, Comissões e Consultoria, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+
+Cargo ou função
+Membro da Comissão de Avaliação de Concessão, Fixação e Alteração do Regime de Trabalho dos Docentes.
+09/2024 - 03/2025
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+COMPUTAÇÃO PARA ANÁLISE DE DADOS - 60 h
+EDUCAÇÃO À DISTÂNCIA - 60 h
+PROJETO DE CONCLUSÃO - SISTEMAS DE INFORMAÇÃO - 420 h
+08/2024 - 01/2025
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+TÓPICOS EM TICS 1 - 60 h
+03/2024 - 09/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+COMPUTAÇÃO PARA ANÁLISE DE DADOS - 60h
+EDUCAÇÃO À DISTÂNCIA - 60h
+04/2024 - 07/2024
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+COMPUTAÇÃO PARA ANÁLISE DE DADOS (PPGIA)- 60 h
+COMPUTAÇÃO PARA ANÁLISE DE DADOS (PPGESE)- 60 h
+10/2023 - 03/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+COMPUTAÇÃO PARA ANÁLISE DE DADOS - 60 h
+EDUCAÇÃO À DISTÂNCIA - 60 h
+INTRODUÇÃO A AMBIENTES VIRTUAIS DE APRENDIZAGEM - 30 h
+05/2023 - 09/2023
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+COMPUTAÇÃO PARA ANÁLISE DE DADOS - 60 h
+TRABALHO DE CONCLUSÃO DE CURSO - 120 h
+04/2023 - 07/2023
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+COMPUTAÇÃO PARA ANÁLISE DE DADOS - 60 h
+TÓPICOS EM TICS 1 - 60 h
+02/2023 - 05/2023
+Conselhos, Comissões e Consultoria, Departamento de Computação.
+
+Cargo ou função
+SUPLENTE COMISSÃO DE CONSULTA.
+11/2022 - 04/2023
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+COMPUTAÇÃO PARA ANÁLISE DE DADOS - 60 h
+PROJETO DE CONCLUSÃO - SISTEMAS DE INFORMAÇÃO - 420 h
+TRABALHO DE CONCLUSÃO DE CURSO - 120 h
+04/2022 - 07/2022
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+TÓPICOS EM TICS 1 - 60 h
+10/2018 - 09/2020
+Direção e administração, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+
+Cargo ou função
+Vice-Coordenador do Curso Licenciatura em Computação..
+
+Duke University, DUKE, Estados Unidos.
+Vínculo institucional
+
+2010 - 2011
+Vínculo: Colaborador, Enquadramento Funcional: Pesquisador Visitante, Regime: Dedicação exclusiva.
+
+Atividades
+
+08/2010 - 10/2011
+Pesquisa e desenvolvimento, Electrical and Computer Engineering.
+
+Linhas de pesquisa
+Trabalhei no desenvolvimento de modelos analíticos para avaliação de dependabilidade de cloud computing. Este projeto foi em colaboração com a NEC Corporation, Japão.
+
+Foxconn Technology Group, FOXCONN, Brasil.
+Vínculo institucional
+
+2009 - 2011
+Vínculo: Colaborador, Enquadramento Funcional: Bolsista
+
+Atividades
+
+03/2009 - 03/2011
+Pesquisa e desenvolvimento, Foxconn Technology Group.
+
+Linhas de pesquisa
+Este projeto foi em colaboração com a Foxconn e a UFPE. Fui responsável pela avaliação de performabilidade de sistemas de armazenamento de dados usando modelos formais, tais como: cadeias de Markov e redes de Petri.
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Livre, Enquadramento Funcional: Docência, Carga horária: 4
+
+Atividades
+
+03/2009 - 07/2010
+Estágios , Centro de Informática.
+
+Estágio realizado
+Estágio de docência na disciplina de interface hardware software.
+
+Faculdades Integradas Barros Melo, FIBAM, Brasil.
+Vínculo institucional
+
+2012 - 2013
+Vínculo: Colaborador, Enquadramento Funcional: Professor
+
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Colaborador, Enquadramento Funcional: Professor
+
+Atividades
+
+03/2012 - 05/2013
+Ensino, Sistema de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Arquitetura de Computadores
+Gestão de Qualidade de Software e Testes
+Informática II
+Introdução a Computação
+Rede de Computadores
+Tópicos Especiais II
+Informática e Sociedade
+08/2009 - 06/2010
+Ensino, Sistema de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Desenvolvimento Orientado a Componente e Reuso
+Engenharia de Software
+Informática e Sociedade
+Introdução à Modelagem
+Tópicos Avançados em Computação
+
+Centro de Tecnologia de Software para Exportação do Recife, SOFTEX/RECIFE, Brasil.
+Vínculo institucional
+
+2012 - 2013
+Vínculo: Colaborador, Enquadramento Funcional: Bolsista
+
+Vínculo institucional
+
+2006 - 2010
+Vínculo: Livre, Enquadramento Funcional: Bolsista, Carga horária: 30
+
+Vínculo institucional
+
+2005 - 2006
+Vínculo: Livre, Enquadramento Funcional: Estagiário, Carga horária: 30
+
+Atividades
+
+01/2012 - 06/2013
+Pesquisa e desenvolvimento, next.
+
+Linhas de pesquisa
+Consultoria em Teste e Qualidade de Software
+03/2008 - 03/2009
+Pesquisa e desenvolvimento, next.
+
+Linhas de pesquisa
+Responsável pela execução e automação dos casos de teste.
+10/2005 - 10/2006
+Estágios , next.
+
+Estágio realizado
+Responsável pela execução e automação dos casos de teste.
+
+Universidade Católica de Pernambuco, UNICAP, Brasil.
+Vínculo institucional
+
+2005 - 2006
+Vínculo: Voluntário de I. Científica, Enquadramento Funcional: Livre, Carga horária: 20
+
+Vínculo institucional
+
+2004 - 2005
+Vínculo: Livre, Enquadramento Funcional: Aluno Bolsista, Carga horária: 20
+
+Vínculo institucional
+
+2003 - 2004
+Vínculo: Livre, Enquadramento Funcional: Estagiário, Carga horária: 20
+
+Atividades
+
+08/2005 - 01/2006
+Outras atividades técnico-científicas , Centro de Ciências e Tecnologia, Centro de Ciências e Tecnologia.
+
+Atividade realizada
+Voluntário de Iniciação Científica - Programa UNICAP.
+08/2004 - 08/2005
+Outras atividades técnico-científicas , Centro de Ciências e Tecnologia, Centro de Ciências e Tecnologia.
+
+Atividade realizada
+Bolsista de Iniciação Científica - Programa CNPQ/UNICAP.
+10/2003 - 08/2004
+Estágios , Centro de Ciências e Tecnologia, Nucleo de Informatica e Computação.
+
+Estágio realizado
+Técnico em Manutenção.
+
+
+Linhas de pesquisa
+1.
+Consultoria em Teste e Qualidade de Software
+2.
+Responsável pela execução e automação dos casos de teste.
+3.
+Trabalhei no desenvolvimento de modelos analíticos para avaliação de dependabilidade de cloud computing. Este projeto foi em colaboração com a NEC Corporation, Japão.
+4.
+Este projeto foi em colaboração com a Foxconn e a UFPE. Fui responsável pela avaliação de performabilidade de sistemas de armazenamento de dados usando modelos formais, tais como: cadeias de Markov e redes de Petri.
+
+
+Projetos de pesquisa
+2026 - Atual
+SAFE-CPS: Soluções Inteligentes para Monitoramento, Detecção de Erros e Prevenção de Falhas em Sistemas Ciber-Físicos
+Descrição: Os sistemas ciber-físicos (CPS) combinam componentes físicos, como sensores e atuadores, com sistemas computacionais, permitindo o controle em tempo real de processos críticos na Indústria 4.0, desde a manufatura até plantas industriais. No entanto, a complexidade intrínseca desses sistemas os torna vulneráveis a diversos tipos de interrupções. Erros de software, como bugs e vulnerabilidades, podem comprometer a funcionalidade e a segurança desses sistemas. A degradação do desempenho ao longo do tempo, causada por fatores como desgaste de componentes e variações ambientais, pode levar a ineficiências operacionais e aumentar os riscos de falhas catastróficas. Além disso, a falta de otimização pode resultar em perdas de produtividade, danos a equipamentos e impactos financeiros significativos. Assim, este projeto, intitulado SAFE-CPS, propõe soluções inteligentes que integram inteligência artificial, modelos estocásticos e otimização para garantir a robustez, confiabilidade e eficiência dos CPSs, tanto na fase de desenvolvimento quanto durante a operação contínua. O foco inclui a automação da detecção e correção de erros antes da implantação, o monitoramento da degradação do software em operação, o desenvolvimento de sensores inteligentes para identificar falhas em componentes físicos, a modelagem estocástica para avaliação dos sistemas em cenários de falhas e a otimização para maximizar a eficiência operacional e a utilização de recursos..
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Ermeson Carneiro de Andrade - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2022 - 2023
+Plataforma da Indústria - PI
+Descrição: O objetivo do projeto é antecipar-se às falhas e evitar paradas não programadas de produção, prevendo o mal funcionamento de componentes como: rolamentos, engrenagens, além de defeitos comuns relacionados a eixos e rotores como desalinhamento, folga, desbalanceamento e cavitação, além de defeitos elétricos nas espiras de rotor e estator de motores elétricos, etc. Para tal, pretende-se abordar desde a definição de um protocolo de comunicação de alta performance e sensores IIoT para coleta dos dados à análise e predição para otimização da gestão da manutenção..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Ermeson Carneiro de Andrade - Coordenador / Danilo Araujo - Integrante / Sergio Chevtchenko - Integrante / Diego Moura Vieira - Integrante.
+Financiador(es): Agência Brasileira de Desenvolvimento Industrial - Auxílio financeiro.
+2021 - Atual
+Bolsista de Produtividade em Pesquisa do CNPq - Nível 2
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Ermeson Carneiro de Andrade - Coordenador.
+2018 - 2022
+Modelagem e Análise de Sistemas Ciber-Físicos Resilientes
+Descrição: Os Sistemas Ciber-Físicos (CPSs) estão em todas as partes, de veículos semi-autônomos a dispositivos portáteis. Esses sistemas são caracterizados pela interação estreita entre elementos digitais (a parte ciber) e elementos físicos (a parte física). Assim como a Internet mudou a forma como as pessoas lidam com as informações, os CPSs estão transformando a maneira como interagimos com o mundo físico. No entanto, questões relacionadas à resiliência, desempenho e segurança dos sistemas ciber-físicos desempenham um grande papel na aceitação e no uso desses sistemas hoje e no futuro. Apesar de tais questões não serem novas, os avanços tecnológicos em detecção, computação, atuação e rede dos CPSs fazem com que seja necessário desenvolver novas abordagens para proteger esses sistemas contra consequências indesejadas. Novas ameaças continuarão sendo exploradas e ataques cibernéticos continuarão a surgir, assim como falhas dos CPSs continuarão a acontecer, seja devido às falhas de projeto ou erros administrativos. Desta forma, é necessário desenvolver novas abordagens que maximizem o desempenho e a resiliência através da criação de sistemas ciber-físicos dependáveis e seguros. O projeto proposto endereça esses importantes e novos desafios, desenvolvendo tecnologias (modelos, técnicas e ferramentas) para auxiliar os projetistas e desenvolvedores de CPSs a projetar, analisar e otimizar sistemas ciberfísicos resilientes. O projeto irá trazer impactos significativos para o mercado dos CPSs, fornecendo tecnologias para reduzir o tempo de desenvolvimento e o custo de operacionalidade de tais sistemas, além de protegê-los contra falhas não intencionais ou ataques malintencionados..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: Ermeson Carneiro de Andrade - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2015 - 2017
+Avaliação de Soluções de Recuperação de Desastres em Infraestruturas de Computação em Nuvem
+Descrição: Todos os dias as companhias tem se preocupado que algum tipo de interrupção venha a afetar os negócios. Muitos sistemas críticos requerem a disponibilidade de 24 horas por dia, sete dias por semana e não toleram interrupções nos serviços por mais do que poucas horas, já que as interrupções podem resultar em perdas financeiras significativas ou até mesmo perdas de vidas. No ambiente de trabalho de hoje, ter um serviço de recuperação de desastres não é mais um equipamento de luxo e sim uma necessidade de negócio. Por outro lado, as soluções de recuperação de desastres tradicionais (ex.: a duplicação de hardware e software) são caros e complexos, e pode não atender aos objetivos de um negócio. O objetivo geral do projeto de pesquisa é monitorar e avaliar características de desempenho/dependabilidade dos sistemas de computação em nuvem, levando em consideração diferentes mecanismos de contingência e mitigação de desastres (ex.: backup de dados, rejuvenescimento, sincronização de bancos, entre outros). Espera-se que estimativas geradas a partir do monitoramento/modelos sirvam como guia na tomada de decisão dos projetistas de implementar ou não uma determinada solução de recuperação/mitigação de desastre que garanta alta disponibilidade e continuidade dos serviços hospedados em infraestruturas em nuvem..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Ermeson Carneiro de Andrade - Coordenador / Carlos Araújo - Integrante / Bruno Nogueira - Integrante / Lúciano José da Silva Júnior - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Auxílio financeiro.
+2014 - 2024
+Avaliação e Otimização de Desempenho, Dependabilidade, Sustentabilidae e Custo de Sistemas Computacionais.
+
+Projeto certificado pelo(a) coordenador(a) Gustavo Rau de Almeida Callou em 19/08/2021.
+Descrição: Um dos objetivos desse projeto é propor um conjunto de modelos para a quantificação integrada do impacto na sustentabilidade, desempenho, custo e dependabilidade de infraestruturas para data centers e computação nas nuvens. Técnicas de medições serão adotadas para realizar a coleta de dados dos experimentos realizados tanto em cenários reais como em outros criados experimentalmente. Métodos de otimização também serão propostos para melhorar os resultados obtidos através de modelos como os diagramas de blocos de confiabilidade, as redes de Petri estocásticas e o modelo de fluxo de energia (EFM)..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Ermeson Carneiro de Andrade - Integrante / Callou, Gustavo - Coordenador.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2013 - 2016
+MAS - Modelagem e Avaliação de Sistemas
+Descrição: A evolução dos sistemas computacionais, dos sistemas de comunicação e da tecnologia de sensoriamento têm proporcionado o desenvolvimento de sistemas dinâmicos de alta complexidade e valor agregado. Os exemplos estão em nosso entorno, ao nosso alcance e presentes no nosso cotidiano. A ubiquidade desses sistemas, portanto, é um fator que tem induzido a concepção e desenvolvimento de novas aplicações e serviços que permeiam o cotidiano das pessoas na sociedade moderna. As pessoas e as organizações dependem, deste modo, dos serviços proporcionados pela tecnologia da informação e critérios tais quais eficiência, disponibilidade, confiabilidade, consumo energético e custo são requisitos essenciais para o desenvolvimento adequado das atividades da sociedade atual. A computação em nuvem (cloud computing) concorre neste sentido, impulsionando a ampla difusão do uso e aplicação desses sistemas. Cloud computing é um modelo que propicia o uso dos recursos computacionais de forma muito mais próxima daquelas com as quais as pessoas normalmente estão acostumadas no seu dia-a-dia, tais quais uso de recursos como água e energia elétrica. Com esse modelo, é possível aos usuários pagarem apenas pelos recursos que efetivamente venham utilizar e que adequem a capacidade computacional necessária às suas demandas específicas do momento. Em função do extraordinário crescimento em número, dimensões e capacidade dos data centers, é também relevante salientar a tendência de crescimento dos custos associados à energia destes sistemas, assim como as preocupações ambientais relativas ao uso dos recursos energéticos. Aproximadamente metade da energia consumida por um data center é devida ao sistema energético e ao sistema de resfriamento, infra-estruturas essenciais para o funcionamento do sistema computacional. A outra parte da energia consumida é devida aos mecanismos de armazenamento, servidores e comunicação. Estudos revelam que 1,5% do consumo energético dos EUA é devido aos data centers e também demonstram que esses também são responsáveis por cerca de 2% da emissão de gás carbônico. Portanto, fica clara a importância da disponibilidade de mecanismos que permitam quantificar o impacto ambiental devido às diferentes matrizes energéticas as quais podem ser fontes de suprimento de energia para os data centers. Parte significativa das atividades dos sistemas computacionais é gerida por um conjunto de regras operacionais sujeitas a eventos discretos controlados - por exemplo, execução de um serviço de compra na web - ou não ? a ocorrência de uma falha em um serviço na cloud. Sistemas com estas características, integrantes da classe de sistemas dinâmicos, são classificados com Sistemas de Eventos Discretos (Discrete Event Systems - DES). O estudo dos DES é uma tarefa complexa que envolve conhecimento de controle; modelagem funcional, análise e verificação de propriedades qualitativas; desempenho e dependabilidade. Esta proposta de projeto de pesquisa trata sobre o estudo o desenvolvimento conhecimento, modelos, métodos e procedimentos para o estudo de aspectos relacionados ao desempenho, disponibilidade, confiabilidade e consumo energético dos sistemas computacionais e mais particularmente aqueles relacionados às infraestrutras computacionais que dão suporte aos serviços de cloud compunting..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (11) / Doutorado: (11) .
+
+Integrantes: Ermeson Carneiro de Andrade - Integrante / Maciel, Paulo - Coordenador.
+2010 - 2011
+MASED - Modelagem e Avaliação de Sistemas de Eventos Discretos
+Descrição: A rápida evolução dos sistemas computacionais, comunicações e tecnologia de sensoriamento têm proporcionado o desenvolvimento de sistemas dinâmicos de alta complexidade e valor agregado. Os exemplos estão em nosso entorno, ao nosso alcance na vida cotidiana: computadores pessoais; redes de comunicações; sistemas computacionais embarcados dos mais diversos; sistemas de manufatura; monitoração avançada de automóveis e edificações, sistemas distribuídos, data centers, call centers etc. Parte significativa das atividades destes sistemas é gerida por um conjunto de regras operacionais sujeitas a eventos discretos que ocorrem de maneira assíncrona. Estes eventos podem ser controlados, como por exemplos a digitação de comandos em um teclado de um telefone celular, ou não a ocorrência de uma falha ou perda de um pacote nos sistemas de comunicação. Sistemas com estas características, integrantes da classe de sistemas dinâmicos, são classificados com Sistemas de Eventos Discretos (Discrete Event Systems - DES). O estudo dos DES é uma tarefa complexa que envolve conhecimento de controle; modelagem funcional, análise e verificação de propriedades qualitativas; modelagem e avaliação temporal determinística e estocástica; estatística etc. Este projeto de pesquisa pode ser delineado em duas frentes de estudo. A primeira frente de trabalho trata sobre modelagem estocástica, avaliação de desempenho e dependabilidade de ambientes servidores, data centers, call centers, cadeias de suprimentos e sistemas de comunicação. Mais particularmente, neste ramo de aplicações, os trabalhos concernem o estudo e desenvolvimento de modelos e procedimentos e ferramentas de avaliação de desempenho e dependabilidade para o planejamento de capacidade. A segunda frente de estudo é voltada para a modelagem, desenvolvimento e avaliação de sistemas embarcados, envolvendo a concepção de mecanismos de escalonamento de aplicações de tempo real e a respectiva síntese do software..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (18) Doutorado: (6) .
+
+Integrantes: Ermeson Carneiro de Andrade - Integrante / Maciel, Paulo - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+
+
+Projetos de extensão
+2017 - 2017
+Elaboração de Material Didático para o Ensino de Data Science Aplicado a Performabilidade
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (20) .
+
+Integrantes: Ermeson Carneiro de Andrade - Integrante / Carlos Araújo - Integrante / CALLOU, GUSTAVO RAU DE ALMEIDA - Coordenador / Gabriel Alves de Albuquerque Junior - Integrante.
+
+
+Projetos de desenvolvimento
+2022 - Atual
+Um Modelo de Inovação para Transformação Digital do Tribunal de Contas do Estado de Pernambuco
+Descrição: Este convênio busca apoiar o Tribunal de Contas na resolução de problemas complexos ligados ao estabelecimento de auditorias temáticas integradas. Neste contexto, soluções tradicionais não se aplicam. É indispensável empregar novas formas de refletir e atuar, com modelos mentais ligados à inovação e visão empreendedora, que precisa ser aplicada a instituições públicas. Diante disso, este convênio prevê a concepção, o desenvolvimento e a aplicação de novas ideias e técnicas de inovação. Para isso, suas metas incluem: estudo de modelos e laboratórios de inovação em governo; análise de padrões metodológicos e ferramentais para inovação; definição de um modelo de inovação do TCE-PE; elaboração de um programa de ensino e aprendizagem contínua voltado ao conhecimento e desenvolvimento de competências em inovação; realização de ações de capacitação e comunicação para inovação; e estruturação de um modelo integrado de processos que apoie novas abordagens de auditoria..
+Situação: Em andamento; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (9) / Mestrado acadêmico: (1) / Doutorado: (8) .
+
+Integrantes: Ermeson Carneiro de Andrade - Integrante / George Valença - Coordenador.
+
+
+Membro de corpo editorial
+2024 - Atual
+Periódico: Journal of Reliable Intelligent Environments
+
+
+Revisor de periódico
+2025 - Atual
+Periódico: Software: Practice and Experience
+2025 - Atual
+Periódico: IEEE Transactions on Reliability
+2025 - Atual
+Periódico: Information and Software Technology
+2023 - Atual
+Periódico: International Journal of Computational Science and Engineering
+2022 - Atual
+Periódico: Electronics Letters
+2022 - Atual
+Periódico: Software Quality Journal
+2021 - Atual
+Periódico: Software and Systems Modeling
+2021 - Atual
+Periódico: Journal of Reliable Intelligent Environments
+2020 - Atual
+Periódico: Journal of Grid Computing
+2018 - Atual
+Periódico: THE JOURNAL OF SUPERCOMPUTING (DORDRECHT. ONLINE)
+2017 - 2017
+Periódico: IEEE Transactions on Services Computing
+2016 - 2019
+Periódico: Journal of Network and Computer Applications (Online)
+2016 - Atual
+Periódico: ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+2012 - 2012
+Periódico: International Journal On Advances in Telecommunications
+2012 - 2012
+Periódico: International Journal On Advances in Systems and Measurements
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística / Subárea: Performance.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Data Science.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística / Subárea: Modelagem.
+4.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Dependabilidade.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Bem.
+
+
+Prêmios e títulos
+2024
+Professor Homenageado, Concluintes do Programa de Pós-Graduação em Informática Aplicada (PPGIA).
+2014
+Implementadores do MPS-SV, Softex.
+2012
+Implementadores do MPS.BR (P2-MPS.BR), Softex.
+2010
+Certificação Brasileira de Teste de Software (CBTS), Associação Latino-Americana de Teste de Software.
+2007
+Certificação em Testes de Software pelo ISTQB, ISTQB - International Software Testing Qualification Board.
+
+
+Produções
+
+Produção bibliográfica
+Citações
+
+Google Scholar
+Total de trabalhos: 130Total de citações: 1573Data: 16/01/2026
+https://scholar.google.com.br/citations?hl=pt-BR&user=_lirV_QAAAAJ
+
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+NGUYEN, T. A. ; NOGUEIRA, B. ; ANDRADE, E.C. ; CALLOU, G. R. A. ; TORQUATO, MATHEUS ; SILVA, F. A. P. ; MACIEL, P. . S-iNAS: A Performance-Centric SRN Modeling and Analysis of Time and Event Based Scaling Strategies in Ceph-Based Industrial Network-Attached Storage. Journal of Network and Systems Management, v. 34, p. 1, 2026.
+
+2.
+NASCIMENTO, M. G. ; SILVA, R. J. M. ; ANDRADE, E.C. . MIM-PS: A Mapping and Improvement Methodology for the Public Sector. iSys - Revista Brasileira de Sistemas de Informação, v. 1, p. x, 2026.
+
+3.
+ANDRADE, E.C.; Bruno Nogueira ; TIENGO, W. ; SILVA, F. A. P. . Modeling and Evaluation of Dependability in Robotic Telesurgery with Distance-Aware Supervised Failover. Journal of Network and Systems Management, v. 34, p. 1, 2026.
+
+4.
+ASSIS, A. C. S. ; DANTAS, J. R. ; Andrade, Ermeson . The performance-interpretability trade-off: a comparative study of machine learning models. Journal of Reliable Intelligent Environments, v. 11, p. 1, 2025.
+
+5.
+BORGES, I. ; SILVA, F. A. ; Andrade, Ermeson ; Gustavo Callou . Availability evaluation of a video surveillance system with distributed storage. Cluster Computing-The Journal of Networks Software Tools and Applications, v. 28, p. 273, 2025. Citações:1
+
+6.
+ARAUJO, I. ; BARBOSA, V. ; LIMA, L. N. ; SILVA, L. G. ; BRITO, C. ; FE, I. S. ; LOPES, L. ; Andrade, Ermeson ; LEAO, E. ; SILVA, F. A. . Assessing the performance of a fault tolerant LoRaWAN architecture with a focus on the sensor layer and data retransmission strategy. Cluster Computing-The Journal of Networks Software Tools and Applications, v. 28, p. 1, 2025. Citações:3
+
+7.
+FERREIRA, S. ; MENDONCA, J. ; ANDRADE, E.C. . Experimental Performance Analysis of Data Consistency Levels in NoSQL Databases. SOFTWARE: PRACTICE AND EXPERIENCE, v. 1, p. x, 2025.
+
+8.
+FERREIRA, SAULO ; MENDONÇA, JÚLIO ; Nogueira, Bruno ; TIENGO, WILLY ; Andrade, Ermeson . Benchmarking Consistency Levels of Cloud-Distributed NoSQL Databases Using YCSB. IEEE Access, v. 1, p. 1-1, 2025. Citações:19|15
+
+9.
+ZHANG, QINGYANG ; MACHIDA, F. ; ANDRADE, ERMESON C. . SPADE: Simulator-assisted Performability Design for UAV-based monitoring systems. Future Generation Computer Systems, p. 107967, 2025.
+
+10.
+SANTOS, CÉSAR ; Machida, Fumio ; Andrade, Ermeson . Experimental investigation of memory-related software aging in LLM systems. JOURNAL OF SYSTEMS AND SOFTWARE, v. 1, p. 112653, 2025. Citações:1
+
+11.
+MOURA, RAFAEL JOSÉ ; NASCIMENTO, MARIA GIZELE ; Machida, Fumio ; COTRONEO, DOMENICO ; Andrade, Ermeson . Machine Learning for Software Aging Detection: A Systematic Mapping Study. JOURNAL OF SYSTEMS AND SOFTWARE, v. 1, p. 112715, 2025.
+
+12.
+ROCHA JR, V. ; Jean Araujo ; ANDRADE, E.C. ; Bruno Nogueira . Modelagem e Análise de um Ambiente de Telecirurgia Considerando uma Rede 5G. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA, v. X, p. 1, 2024.
+
+13.
+SILVA, T. ; NASCIMENTO, M. G. ; VALENÇA, GEORGE ; LIRA, B. ; SANTOS, G. ; MIRANDA, L. ; OLIVIA, M. ; PEIXOTO, S. ; Andrade, Ermeson . Mapping and Improvement of Processes in the Public Sector: An Experience Report at the Public Ministry of Accounts of Pernambuco. iSys - Revista Brasileira de Sistemas de Informação, v. 17(1), p. 2:1-2:25, 2024.
+
+14.
+BARBOSA, V. ; SABINO, A. ; LIMA, L. N. ; VICTOR, C. ; FEITOSA, L. ; Andrade, Ermeson ; SILVA, F. A. . Dependability Evaluation of a Smart Poultry Monitoring System with Disaster Recovery Mechanism. JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE), v. 1, p. 1, 2024.
+
+15.
+FARIAS, D. ; FARIAS, I. ; ANDRADE, E.C. ; Bruno Nogueira . A modeling-based approach for dependability analysis of a constellation of satellites. Software and Systems Modeling, p. 1, 2024. Citações:4|1
+
+16.
+SILVA, E. M. ; ARAUJO, D. ; Andrade, Ermeson . Performance Evaluation and Operational Availability of a Textile Manufacturing 4.0 Using Stochastic Petri Nets. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA, v. 1, p. 1, 2024.
+
+17.
+COUTO, H. ; CALLOU, G. R. A. ; MACHIDA, F. ; ANDRADE, E.C. . A Comparative Analysis of Software Aging in Relational Database System Environments. IEEE Transactions on Emerging Topics in Computing, v. V, p. 1, 2024. Citações:1
+
+18.
+Bruno Nogueira ; ROSENDO, W. ; ANDRADE, E.C. ; Eduardo Antônio Guimarães Tavares . GPU tabu search: a study on using GPU to solve massive instances of the maximum diversity problem. JOURNAL OF PARALLEL AND DISTRIBUTED COMPUTING, p. 105012, 2024.
+
+19.
+FERREIRA, S. ; MENDONCA, J. ; Bruno Nogueira ; TIENGO, W. ; ANDRADE, E.C. . Impacts of Data Consistency Levels in Cloud-based NoSQL for Data-intensive Applications. Journal of Cloud Computing: Advances, Systems and Applications, v. X, p. 1, 2024. Citações:2
+
+20.
+SANTOS NETO, O. M. ; CALLOU, G. R. A. ; SANTOS JUNIOR, R. M. ; ANDRADE, E.C. . Performability Evaluation of Railway Systems: A Study on the Impact of Adding Alternative Routes. IEEE Latin America Transactions, v. 21, p. 270-276, 2023. Citações:1|1
+
+21.
+Machida, Fumio ; ZHANG, Q. ; Andrade, Ermeson . Performability analysis of adaptive drone computation offloading with fog computing. Future Generation Computer Systems, p. 1, 2023. Citações:10|11
+
+22.
+COUTO, H. G. ; SILVA, F. A. ; ANDRADE, E.C. ; Gustavo Callou . Analysis of Software Aging in a Database Environment. IEEE Latin America Transactions, v. 21, p. 821-828, 2023. Citações:2|1
+
+23.
+JUNIOR, V. ; Jean Araujo ; ANDRADE, E.C. ; Bruno Nogueira . Modeling and Analysis of a Telesurgery Environment Using Stochastic Petri Nets. IEEE Latin America Transactions, v. 21, p. 1073-1080, 2023. Citações:2|1
+
+24.
+ANDRADE, E.C.; Machida, Fumio . Assuring Autonomy of UAVs in Mission-critical Scenarios by Performability Modeling and Analysis. ACM TRANSACTIONS ON CYBER-PHYSICAL SYSTEMS, p. 1, 2023. Citações:1|2
+
+25.
+CHEVTCHENKO, SÉRGIO F. ; ROCHA, ELISSON DA SILVA ; SANTOS, MONALISA CRISTINA MOURA DOS ; MOTA, RICARDO LINS ; VIEIRA, DIEGO MOURA ; DE ANDRADE, ERMESON CARNEIRO ; DE ARAÚJO, DANILO RICARDO BARBOSA . Anomaly Detection in Industrial Machinery using IoT Devices and Machine Learning: a Systematic Mapping. IEEE Access, v. 1, p. 1-1, 2023. Citações:25|5
+
+26.
+ALVES, D. ; OLIVEIRA, D. ; ANDRADE, E.C. ; Bruno Nogueira . GPU-BRKGA: A GPU accelerated library for optimization using the biased random-key genetic algorithm. IEEE Latin America Transactions, v. 20, p. 14-21, 2022. Citações:3|5
+
+27.
+SILVA, H. ; ANDRADE, E.C. ; ARAUJO, D. ; DANTAS, J. R. . Sentiment Analysis of Tweets Related to SUS Before and During COVID-19 pandemic. IEEE Latin America Transactions, v. 20, p. 6-13, 2022. Citações:7|17
+
+28.
+ANDRADE, E.C.; PIETRANTUONO, R. ; Machida, Fumio ; COTRONEO, D. . A Comparative Analysis of Software Aging in Image Classifiers on Cloud and Edge. IEEE Transactions on Dependable and Secure Computing, v. x, p. 1, 2022. Citações:14|12
+
+29.
+GONCALVES, C. F. ; ANDRADE, ERMESON CARNEIRO DE ; Mendonça, J. ; Gustavo Callou . Modelos Estocástica para o Planejamento de Ambientes AVAs Baseados em Contêineres e Máquinas Virtuais. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA, v. 1, p. 1, 2022. Citações:1
+
+30.
+Machida, Fumio ; ANDRADE, E.C. . Modeling and Analysis of Deforestation Prevention by Uncrewed Aerial Vehicles-based monitoring systems. ENVIRONMENTAL MODELLING & SOFTWARE, v. 158, p. 105540, 2022. Citações:4|6
+
+31.
+PIMENTEL, HENRIQUE PABLO PINHEIRO DOS SANTOS ; SILVA, EDSON MOURA ; ANDRADE, ERMESON CARNEIRO DE ; ARAÚJO, DANILO RICARDO BARBOSA DE . Modelos preditivos para o setor têxtil: estudo de Caso de uma empresa de confecções do polo Agreste de Pernambuco.. RMP - REVISTA DOS MESTRADOS PROFISSIONAIS, v. 11, p. 221, 2022.
+
+32.
+ANDRADE, E.C.; Bruno Nogueira ; FARIAS JUNIOR, I. ; ARAUJO, D. . Performance and Availability Trade-Offs in Fog-Cloud IoT Environments. Journal of Network and Systems Management, v. 29, p. 1, 2021. Citações:22|26
+
+33.
+GONCALVES, C. F. ; Bruno Nogueira ; Gustavo Callou ; ANDRADE, E.C. . Avaliação de Desempenho, Consumo de Energia e Custo para Ambientes Baseados em Contêineres e Máquinas Virtuais. REVISTA BRASILEIRA DE COMPUTAÇÃO APLICADA, v. 13, p. 1, 2021. Citações:1
+
+34.
+LIMA, J. W. S. ; Gustavo Callou ; ANDRADE, ERMESON C. . Teoria de Filas e Rede de Petri Estocástica: Um Tutorial. RESEARCH, SOCIETY AND DEVELOPMENT, v. 10, p. 1, 2021.
+
+35.
+LIMA, C. J. ; SILVA, A. V. G. ; ANDRADE, ERMESON CARNEIRO ; CALLOU, G. R. A. . Avaliação de Desempenho e Consumo de Energia de um Ambiente Virtual de Aprendizagem em Nuvens Privadas. REVISTA BRASILEIRA DE COMPUTAÇÃO APLICADA, v. 13, p. 1, 2021. Citações:1
+
+36.
+LIMA, C. J. ; Gomes, Alison ; ANDRADE, E.C. ; CALLOU, G. R. A. . Avaliação de desempenho e consumo de energia do ambiente MOODLE. RESEARCH, SOCIETY AND DEVELOPMENT, v. 10, p. e57010515191, 2021.
+
+37.
+MELO, F. F. L. ; CALLOU, G. R. A. ; ANDRADE, E.C. . Optimization of electrical infrastructures at data centers through a DoE-based approach. JOURNAL OF SUPERCOMPUTING, p. 1, 2021. Citações:3
+
+38.
+LIMA, J. W. S. ; FALCÃO, TACIANA PONTUAL ; ANDRADE, E.C. . Desenvolvimento e Avaliação de uma Ferramenta Interativa Baseada em Exemplos para o Aprendizado de Modelagem de Sistemas usando Redes de Petri. REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO, v. 1, p. 1, 2021.
+
+39.
+Mendonça, J. ; LIMA, R. M. F. ; ANDRADE, E.C. . Evaluating and modelling solutions for disaster recovery. INTERNATIONAL JOURNAL OF GRID AND UTILITY COMPUTING (ONLINE), v. 11, p. 683, 2020. Citações:2
+
+40.
+Mendonça, J. ; ANDRADE, E.C. ; LIMA, R. M. F. . Assessing mobile applications performance and energy consumption through experiments and Stochastic models. COMPUTING, p. 1, 2019. Citações:5|6
+
+41.
+Bruno Nogueira ; TAVARES, E. A. G. ; ANDRADE, E.C. . Power-aware scheduling of real-time applications onto MPSoC platforms with multi-bank shared memory. MICROPROCESSORS AND MICROSYSTEMS, p. 1, 2019. Citações:2|3
+
+42.
+TORRES, E. ; Callou, Gustavo ; Andrade, Ermeson . A hierarchical approach for availability and performance analysis of private cloud storage services. COMPUTING, p. 1, 2018. Citações:17|18
+
+43.
+ANDRADE, E.C.; Bruno Nogueira . Dependability evaluation of a disaster recovery solution for IoT infrastructures. JOURNAL OF SUPERCOMPUTING, p. 1, 2018. Citações:22|28
+
+44.
+ARAUJO, C. ; Maciel, Paulo ; ANDRADE, E.C. ; CALLOU, G. R. A. ; ALVES, V. ; Cunha, Paulo . Decision making in cloud environments: an approach based on multiple-criteria decision analysis and stochastic models. Journal of Cloud Computing: Advances, Systems and Applications, v. 7, p. 1, 2018. Citações:28|41
+
+45.
+ Andrade, Ermeson; Nogueira, Bruno . Performability Evaluation of a Cloud-Based Disaster Recovery Solution for IT Environments. Journal of Grid Computing, v. 1, p. 1, 2018. Citações:14|16
+
+46.
+Andrade, Ermeson; Nogueira, Bruno ; Callou, Gustavo ; ALVES, GABRIEL . Dependability analysis of a cyber-physical system for smart environments. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE, v. 1, p. e4739, 2018. Citações:5|3
+
+47.
+Mendonça, J. ; ANDRADE, E.C. ; ENDO, P. T. ; LIMA, R. M. F. . Disaster Recovery Solutions for IT Systems: A Systematic Mapping Study. JOURNAL OF SYSTEMS AND SOFTWARE, p. 1, 2018. Citações:15|20
+
+48.
+ANDRADE, E. C.; Bruno Nogueira ; MATOS, R. ; Callou, Gustavo ; MACIEL, P. R. M. . Availability modeling and analysis of a disaster-recovery-as-a-service solution. COMPUTING, p. 1, 2017.
+
+49.
+Nogueira, Bruno ; MACIEL, P. R. M. ; Tavares, Eduardo ; SILVA, RICARDO M. A. ; ANDRADE, E.C. . Multi-objective Optimization of Multimedia Embedded Systems using Genetic Algorithms and Stochastic Simulation. Soft Computing (Berlin. Print), v. 1, p. 1-18, 2016. Citações:8|9
+
+50.
+Nogueira, Bruno ; Maciel, Paulo ; Tavares, Eduardo ; Andrade, Ermeson ; Massa, Ricardo ; Callou, Gustavo ; Ferraz, Rodolfo . A Formal Model for Performance and Energy Evaluation of Embedded Systems. EURASIP Journal on Embedded Systems, v. 2011, p. 1-12, 2011. Citações:5
+
+51.
+Bruno Nogueira ; Paulo Maciel ; Gustavo Callou ; ANDRADE, E.C. . ALUPAS: Avaliação de desempenho e consumo de energia de softwares para sistemas embarcados. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA, v. 16, p. 25-44, 2010.
+
+52.
+Andrade, Ermeson; Maciel, Paulo ; Falcão, Tiago ; Nogueira, Bruno ; Araujo, Carlos ; Callou, Gustavo . Performance and energy consumption estimation for commercial off-the-shelf component system design. INNOVATIONS IN SYSTEMS AND SOFTWARE ENGINEERING (PRINT), v. 6, p. 107-114, 2010. Citações:8
+
+53.
+ANDRADE, E.C.; Maciel, Paulo ; Nogueira, Bruno ; Araújo, Carlos ; Callou, Gustavo . A COTS-based approach for estimating performance and energy consumption of embedded real-time systems. INFORMATION PROCESSING LETTERS, v. 110, p. 525-534, 2010. Citações:1|1
+
+54.
+Araújo, Carlos ; Maciel, Paulo ; Zimmermann, Armin ; Andrade, Ermeson ; Sousa, Erica ; Callou, Gustavo ; Cunha, Paulo . Performability modeling of electronic funds transfer systems. Computing (Wien. Print), p. 525-534, 2010. Citações:5|2
+
+55.
+Callou, Gustavo ; Maciel, Paulo ; Tavares, Eduardo ; Andrade, Ermeson ; Nogueira, Bruno ; Araujo, Carlos . Energy consumption and execution time estimation of embedded system applications. Microprocessors and Microsystems, p. 47, 2010. Citações:20|25
+
+56.
+Trivedi, Kishor S. ; Grottke, Michael ; Andrade, Ermeson . Software fault mitigation and availability assurance techniques. International Journal of Systems Assurance Engineering and Management, v. 1, p. 340-350, 2010.
+
+57.
+Callou, G. ; Maciel, P. ; Andrade, E. ; Nogueira, B. ; Tavares, E. . Estimation of energy consumption and execution time in early phases of design lifecycle: an application to biomedical systems. Electronics Letters, v. 44, p. 1343, 2008.
+
+Capítulos de livros publicados
+
+1.
+Trivedi, Kishor ; Andrade, Ermeson ; Machida, Fumio . Combining Performance and Availability Analysis in Practice. In: Ali Hurson; Sahra Sedigh. (Org.). Advances in Computers. 1ed.: Elsevier, 2012, v. 18, p. 1-38.
+
+2.
+Gustavo Callou ; Paulo Maciel ; ANDRADE, E.C. ; Bruno Nogueira ; Eduardo Tavares ; Carlos Araújo . Estimating Energy Consumption and Execution Time of Embedded System Applications. Advances in Energy Research. New York: Nova Science Publisher, 2010, v. , p. 267-314.
+
+3.
+Andrade, Ermeson; Maciel, Paulo ; Callou, Gustavo ; Nogueira, Bruno ; Araujo, Carlos . An Approach Based in Petri Net for Requirement Analysis. In: Pawel Pawlewski. (Org.). Petri Nets Applications. 1ed.: InTech, 2010, v. , p. 653-672.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+NASCIMENTO, M. G. ; SILVA, R. J. M. ; Andrade, Ermeson . Implementation and Validation of a Business Intelligence Dashboard for Business Process Monitoring. In: XXII Simpósio Brasileiro de Sistemas de Informação, 2026, Vitória. Proceedings of SBSI, 2026.
+
+2.
+ALVES, M. ; SILVA, FRANCISCO AIRTON ; ANDRADE, E.C. . IoT-TSim: A Lightweight Discrete-Event Simulator for Gateway Queueing and Processing Dynamics in IoT. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2026, Praia do Forte. Proceedings of SBRC, 2026.
+
+3.
+MELO, R. ; CHEVTCHENKO, S. ; Gustavo Callou ; Andrade, Ermeson . Supervised Prediction of Remaining Useful Life of Drills from Acoustic Signals. In: WTF ? XXVII Workshop de Testes e Tolerância a Falhas, 2026, Praia do Forte. Proceedings of WTF, 2026.
+
+4.
+COSTA, G. ; SANTOS, C. ; Andrade, Ermeson . A Case Study on Software Aging in LLM-Generated Python Application. In: WTF ? XXVII Workshop de Testes e Tolerância a Falhas, 2026, Praia do Forte. Proceedings of WTF, 2026.
+
+5.
+PEREIRA, C. ; SILVA, R. J. M. ; ARAUJO, D. ; ANDRADE, E.C. . Avaliação de Desempenho e Consumo Energético de TinyML em Dispositivos de Borda para Previsão de Precipitação. In: 25º Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2026, Gramado. Proceedings of WPerformance, 2026.
+
+6.
+SILVA, E. M. ; Gustavo Callou ; ANDRADE, E.C. . Avaliação do Desempenho Operacional de uma Manufatura Têxtil Tradicional Utilizando Modelos Estocásticos. In: 25º Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2026, Gramado. Proceedings of WPerformance, 2026.
+
+7.
+GOMES, A. ; BRITO, K. ; SILVA, R. J. M. ; VALENCA, G. ; ANDRADE, E.C. . Intelligent Ombudsman: An AI-Based Approach to Demand Classification. In: IFIP International Conference on Electronic Government and Electronic Participation, 2026, Athens. Proceedings of EGOV-CeDEM-ePart, 2026.
+
+8.
+SILVA, H. ; FRAGA, G. ; BRITO, K. ; ANDRADE, E.C. . Prompt Engineering for Generative AI in Digital Government: Improving Citizen Complaints. In: IFIP International Conference on Electronic Government and Electronic Participation, 2026, Athens. Proceedings of EGOV-CeDEM-ePart, 2026.
+
+9.
+FURQAN, MOHAMMAD DWIPA ; Machida, Fumio ; Andrade, Ermeson . Vehicle Density-Aware Adaptive Offloading for UAV-Based Road Traffic Monitoring. In: 2025 IEEE 9th International Conference on Fog and Edge Computing (ICFEC), 2025, Tromso. 2025 IEEE 9th International Conference on Fog and Edge Computing (ICFEC), 2025. p. 42.
+
+10.
+SILVA, R. J. M. ; NASCIMENTO, M. G. ; VALENÇA, GEORGE ; BRITO, K. ; PEIXOTO, S. ; FRAGA, G. ; ANDRADE, ERMESON C. . Developing a BI Solution for Public Process Monitoring. In: 26th Annual International Conference on Digital Government Research, 2025, Porto Alegre. Proceedings of DG.O, 2025.
+
+11.
+NUZHAT, TASFIA ; Machida, Fumio ; Andrade, Ermeson . Weather Impact Analysis for UAV-based Deforestation Monitoring Systems. In: 2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSNW), 2025, Naples. 2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W), 2025. p. 224.
+
+12.
+MOURA, RAFAEL JOSÉ ; NASCIMENTO, MARIA GIZELE ; BRITO, KELLYTON ; VALENÇA, GEORGE ; PEIXOTO, SÉRGIO ; FRAGA, GLÓRIA ; Andrade, Ermeson . Desenvolvimento de um Painel de Business Intelligence para Monitoramento de Processos Públicos. In: Latin American Symposium on Digital Government, 2025, Brasil. Anais do XII Latin American Symposium on Digital Government (LASDiGov 2025). p. 301.
+
+13.
+NASCIMENTO, MARIA GIZELE ; MOURA, RAFAEL JOSÉ ; BRITO, KELLYTON ; VALENÇA, GEORGE ; PEIXOTO, SÉRGIO ; FRAGA, GLÓRIA ; Andrade, Ermeson . Metodologia de Mapeamento e Melhoria de Processos de Negócio para o Setor Público. In: Latin American Symposium on Digital Government, 2025, Brasil. Anais do XII Latin American Symposium on Digital Government (LASDiGov 2025). p. 61.
+
+14.
+ASSIS, ANDRÉ ; DANTAS, JAMILSON ; Andrade, Ermeson . IMAT: Uma Ferramenta para Análise de Modelos de Aprendizado de Máquina Interpretáveis. In: Brazilian Workshop on Social Network Analysis and Mining, 2025, Brasil. Anais do XIV Brazilian Workshop on Social Network Analysis and Mining (BraSNAM 2025). p. 134.
+
+15.
+ROSENDO, WILLIAM ; Andrade, Ermeson ; Nogueira, Bruno . A GPU-Based Tabu Search Algorithm for Large Instances of the Generalized Max-Mean Dispersion Problem. In: Seminário Integrado de Software e Hardware, 2025, Brasil. Anais do LII Seminário Integrado de Software e Hardware (SEMISH 2025). p. 501.
+
+16.
+DE OLIVEIRA, GABRIEL V. ; FERREIRA, JOÃO ; ANDRADE, ERMESON C. ; BALIEIRO, ANDSON ; BRITO, GILMAR G. ; DANTAS, JAMILSON R. . EdgeWidgets: A Dual-Protocol IoT Platform for Resilient Environmental Monitoring Using Embedded Tilt Sensing. In: 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2025, Vienna. 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2025. p. 4090.
+
+17.
+ASSIS, ANDRÉ ; Machida, Fumio ; Andrade, Ermeson . Exploring Explainability in Machine Learning Models for Software Aging Detection. In: 2025 IEEE 36th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2025, São Paulo. 2025 IEEE 36th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2025. p. 306.
+
+18.
+SANTOS, CÉSAR ; Andrade, Ermeson ; NATELLA, ROBERTO . Investigating Software Aging in LLM-Generated Software Systems. In: 2025 IEEE 36th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2025, São Paulo. 2025 IEEE 36th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2025. p. 314.
+
+19.
+ARAUJO, L. E. S. ; ARAUJO, D. ; CHEVTCHENKO, S. ; ANDRADE, ERMESON C. . Evaluating Machine Learning Algorithms for Anomaly Detection in Industrial Engines on Edge Devices. In: XXVI Simpósio em Sistemas Computacionais de Alto Desempenho, 2025, Bonito. Proceedings of SSCAD, 2025.
+
+20.
+SILVA, R. J. M. ; NASCIMENTO, MARIA GIZELE ; Machida, Fumio ; ANDRADE, ERMESON C. . Adaptive Detection of Software Aging under Workload Shift. In: XXVI Simpósio em Sistemas Computacionais de Alto Desempenho, 2025, Bonito. Proceedings of SSCAD, 2025.
+
+21.
+LIMA, V. G. P. ; ANDRADE, ERMESON C. ; ARAUJO, D. . Dependability Analysis of Weather Monitoring Systems Considering Different Redundancy Mechanisms. In: XXVI Simpósio em Sistemas Computacionais de Alto Desempenho, 2025, Bonito. Proceedings of SSCAD, 2025.
+
+22.
+FEITOSA, M. G. ; SILVA, R. J. M. ; NASCIMENTO, M. G. ; VALENCA, G. ; FRAGA, G. ; ANDRADE, ERMESON C. . Desenvolvimento de um Dashboard para Monitoramento de Demandas da Ouvidoria do TCE-P. In: Workshop de Ferramentas e Aplicações (WFA 2025), 2025, Rio de Janeiro. Proceedings of WFA, 2025.
+
+23.
+ZHANG, QINGYANG ; Machida, Fumio ; Andrade, Ermeson . Performability Modeling and Analysis for Real-Time Object Detection on UAV Systems. In: 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC), 2024, Osaka. 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC), 2024. p. 1398.
+
+24.
+SILVA, E. M. ; ARAUJO, D. ; Andrade, Ermeson . Avaliação de Disponibilidade e Confiabilidade de uma Manufatura Têxtil 4.0 Utilizando Modelos Estocásticos. In: XXV Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Procedings of CBA, 2024.
+
+25.
+HIROI, IPPO ; Machida, Fumio ; Andrade, Ermeson . Energy Bugs in Object Detection Software on Battery-Powered Devices. In: 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2024, Tsukuba. 2024 IEEE 35th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2024. p. 313.
+
+26.
+SILVA, EDSON MOURA ; MACIEIRA, RAFAEL MELO ; DE ARAÚJO, DANILO RICARDO BARBOSA ; ANDRADE, ERMESON CARNEIRO DE . Assessment of Availability and Reliability of a Textile Manufacturing 4.0 Using Stochastic Models. In: LADC 2024: 13th LatinAmerican Symposium on Dependable and Secure Computing, 2024, Recife Brazil. Proceedings of the 13th Latin-American Symposium on Dependable and Secure Computing. New York: ACM. p. 146.
+
+27.
+NASCIMENTO, MARIA GIZELE ; MOURA, RAFAEL JOSÉ ; Machida, Fumio ; Andrade, Ermeson . Comparison of Machine Learning Algorithms for Detecting Software Aging in SQL Server. In: LADC 2024: 13th LatinAmerican Symposium on Dependable and Secure Computing, 2024, Recife Brazil. Proceedings of the 13th Latin-American Symposium on Dependable and Secure Computing. New York: ACM. p. 159.
+
+28.
+WATANABE, KENGO ; Machida, Fumio ; Andrade, Ermeson ; PIETRANTUONO, ROBERTO ; COTRONEO, DOMENICO . Software Aging in a Real-Time Object Detection System on an Edge Server. In: SAC '23: 38th ACM/SIGAPP Symposium on Applied Computing, 2023, Tallinn Estonia. Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing. New York: ACM. p. 671.
+
+29.
+NASCIMENTO, M. G. ; SILVA, T. ; VALENCA, G. ; BRITO, K. ; SANTOS, G. ; MIRANDA, L. ; OLIVIA, M. ; Andrade, Ermeson . Como Monitorar os seus Processos? Um Relato sobre a Implantação de um Plano de Medição no TCE-PE. In: Workshop de Computação Aplicada em Governo Eletrônico, 2023, João Pessoa. Proceedings of WCGE, 2023.
+
+30.
+CHEVTCHENKO, SERGIO F. ; SANTOS, MONALISA. C. M. DOS ; VIEIRA, DIEGO. M. ; MOTA, RICARDO. L. ; ROCHA, ELISSON ; CRUZ, BRUNA. V. ; ARAÚJO, DANILO ; Andrade, Ermeson . Predictive Maintenance Model Based on Anomaly Detection in Induction Motors: A Machine Learning Approach Using Real-Time IoT Data. In: 33rd European Safety and Reliability Conference, 2023. Proceeding of the 33rd European Safety and Reliability Conference, 2023. p. 3173.
+
+31.
+ASSIS, ANDRÉ ; VÉRAS, DOUGLAS ; Andrade, Ermeson . Explainable Artificial Intelligence - An Analysis of the Trade-offs Between Performance and Explainability. In: 2023 IEEE Latin American Conference on Computational Intelligence (LACCI), 2023, Recife-Pe. 2023 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2023. p. 1.
+
+32.
+DIAS, DOUGLAS ; Machida, Fumio ; Andrade, Ermeson . Software Aging Analysis in a Testing Framework. In: 2023 IEEE 34th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2023, Florence. 2023 IEEE 34th International Symposium on Software Reliability Engineering Workshops (ISSREW), 2023. p. 222.
+
+33.
+PAES, VINÍCIUS J. ; ARAÚJO, DANILO ; BRITO, KELLYTON ; Andrade, Ermeson . Análise de Sentimento em Tweets Relacionados ao Desmatamento da Floresta Amazônica. In: Brazilian Workshop on Social Network Analysis and Mining, 2022, Brasil. Anais do XI Brazilian Workshop on Social Network Analysis and Mining (BraSNAM 2022). p. 61.
+
+34.
+MACÊDO, JORGE ; CARVALHO, VICENTE ; Andrade, Ermeson ; SILVA, FRANCISCO AIRTON . Modelagem e Análise da Comunicação em VANETs com uso de RSUs. In: Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2022, Brasil. Anais do XXI Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance 2022). p. 96.
+
+35.
+ALVES, OTÁVIO ; FALCÃO, TACIANA PONTUAL ; VALENÇA, GEORGE ; Andrade, Ermeson . BRIMO: uma Ferramenta para Análise de Sentimentos. In: Brazilian Workshop on Social Network Analysis and Mining, 2022, Brasil. Anais do XI Brazilian Workshop on Social Network Analysis and Mining (BraSNAM 2022). p. 97.
+
+36.
+DIAS, DOUGLAS ; Andrade, Ermeson . Análise de Envelhecimento de Software em uma Plataforma de Blockchain. In: Workshop em Blockchain: Teoria, Tecnologias e Aplicações, 2022, Brasil. V Workshop em Blockchain: Teoria, Tecnologias e Aplicações (WBlockchain 2022). p. 40.
+
+37.
+DIAS, DOUGLAS ; Machida, Fumio ; Andrade, Ermeson . Analysis of Software Aging in a Blockchain Platform. In: 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2022, Charlotte. 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2022. p. 170.
+
+38.
+ZHANG, QINGYANG ; Machida, Fumio ; Andrade, Ermeson . Performance Bottleneck Analysis of Drone Computation Offloading to a Shared Fog Node. In: 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2022, Charlotte. 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2022. p. 216.
+
+39.
+COUTO, HERDERSON ; SILVA, FRANCISCO AIRTON ; Callou, Gustavo ; Andrade, Ermeson . Uma Abordagem Experimental para Avaliar o Desempenho do Banco de Dados Open-Source PostgreSQL. In: Escola Regional de Informática de Goiás, 2022, Brasil. Anais da X Escola Regional de Informática de Goiás (ERI-GO 2022). p. 12.
+
+40.
+PIETRANTUONO, ROBERTO ; COTRONEO, DOMENICO ; Andrade, Ermeson ; Machida, Fumio . An Empirical Study on Software Aging of Long-Running Object Detection Algorithms. In: 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), 2022, Guangzhou. 2022 IEEE 22nd International Conference on Software Quality, Reliability and Security (QRS), 2022. p. 1091.
+
+41.
+SOARES DE LIMA, JOHN WESLEY ; FALCÃO, TACIANA PONTUAL ; Andrade, Ermeson . TryRdP: uma Ferramenta para o Aprendizado de Modelagem de Sistemas usando Redes de Petri. In: Simpósio Brasileiro de Educação em Computação, 2021, Brasil. Anais do Simpósio Brasileiro de Educação em Computação (EDUCOMP 2021), 2021. p. 362.
+
+42.
+Machida, Fumio ; Andrade, Ermeson . PA-Offload: Performability-Aware Adaptive Fog Offloading for Drone Image Processing. In: 2021 IEEE 5th International Conference on Fog and Edge Computing (ICFEC), 2021, Melbourne. 2021 IEEE 5th International Conference on Fog and Edge Computing (ICFEC), 2021. p. 66.
+
+43.
+CARVALHO, VALDIR ; QUEIROZ, EWERTON ; MENDONÇA, JÚLIO ; Callou, Gustavo ; Andrade, Ermeson . Avaliação de Desempenho de Modelos Deep Learning para Deteção de Intrusão em Dispositvos IoT. In: Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2021, Brasil. Anais do XX Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance 2021). p. 1.
+
+44.
+SANTOS, MARIO ; Nogueira, Bruno ; PINHEIRO, RIAN G. S. ; GUIMARAES, ALMIR ; LIMA, ALEXANDRE ; Andrade, Ermeson . A comparative study of GPU metaheuristics for data clustering. In: 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021, Melbourne. 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021. p. 1387.
+
+45.
+MENDONCA, JULIO ; ENOCH, SIMON YUSUF ; Andrade, Ermeson ; KIM, DAN DONGSEONG . A Hierarchical Modeling Approach for Evaluating Availability of Dynamic Networks Considering Hardening Options. In: 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021, Melbourne. 2021 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2021. p. 2555.
+
+46.
+Andrade, Ermeson; Machida, Fumio ; PIETRANTUONO, ROBERTO ; COTRONEO, DOMENICO . Memory Degradation Analysis in Private and Public Cloud Environments. In: 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2021, Wuhan. 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2021. p. 33.
+
+47.
+Machida, Fumio ; Andrade, Ermeson . Availability Modeling for Drone Image Processing Systems with Adaptive Offloading. In: 2021 IEEE 26th Pacific Rim International Symposium on Dependable Computing (PRDC), 2021, Perth. 2021 IEEE 26th Pacific Rim International Symposium on Dependable Computing (PRDC), 2021. p. 93.
+
+48.
+DE ARAUJO, MICHEL ; Andrade, Ermeson ; Machida, Fumio . Performance Analysis of Machine Learning-Based Systems for Detecting Deforestation. In: 2021 XI Brazilian Symposium on Computing Systems Engineering (SBESC), 2021, Florianopolis. 2021 XI Brazilian Symposium on Computing Systems Engineering (SBESC), 2021. p. 1.
+
+49.
+FERREIRA, SAULO ; Andrade, Ermeson ; MENDONÇA, JÚLIO . Uma Abordagem Experimental para Avaliar os Níveis de Consistência do Banco de Dados NoSQL Cassandra. In: Simpósio em Sistemas Computacionais de Alto Desempenho, 2021, Brasil. Anais do XXII Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD 2021). p. 156.
+
+50.
+MENDONCA, JULIO ; LIMA, RICARDO ; Andrade, Ermeson ; ARAUJO, JULIAN ; KIM, DONG SEONG . Multiple-criteria Evaluation of Disaster Recovery Strategies Based on Stochastic Models. In: 2020 16th International Conference on the Design of Reliable Communication Networks (DRCN), 2020, Milano. 2020 16th International Conference on the Design of Reliable Communication Networks DRCN 2020, 2020. p. 1.
+
+51.
+MEDEIROS, W. ; Mendonça, J. ; ALVES, G. ; ANDRADE, E.C. . Avaliação Experimental de Replicação em Banco de Dados para Recuperação de Desastres. In: 19º WPerformance ? Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2020, Cuabá-MT. Proceedings of the WPerformance, 2020.
+
+52.
+Andrade, Ermeson; Machida, Fumio ; PIETRANTUONO, ROBERTO ; COTRONEO, DOMENICO . Software Aging in Image Classification Systems on Cloud and Edge. In: 2020 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2020, Coimbra. 2020 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2020. p. 342.
+
+53.
+MENDONCA, JULIO ; LIMA, RICARDO ; QUEIROZ, EWERTON ; Andrade, Ermeson ; KIM, DONG SEONG . Evaluation of a Backup-as-a-Service Environment for Disaster Recovery. In: 2019 IEEE Symposium on Computers and Communications (ISCC), 2019, Barcelona. 2019 IEEE Symposium on Computers and Communications (ISCC), 2019. p. 1.
+
+54.
+MENDONCA, JULIO ; MEDEIROS, WILSON ; Andrade, Ermeson ; MACIEL, RONIERISON ; Maciel, Paulo ; LIMA, RICARDO . Evaluating Database Replication Mechanisms for Disaster Recovery in Cloud Environments. In: 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2019, Bari. 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2019. p. 2358.
+
+55.
+Callou, Gustavo ; Andrade, Ermeson ; FERREIRA, JOAO . Modeling and Analyzing Availability, Cost and Sustainability of IT Data Center Systems. In: 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2019, Bari. 2019 IEEE International Conference on Systems, Man and Cybernetics (SMC), 2019. p. 2127.
+
+56.
+Andrade, Ermeson; Machida, Fumio . Analysis of Software Aging Impacts on Plant Anomaly Detection with Edge Computing. In: 2019 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2019, Berlin. 2019 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), 2019. p. 204.
+
+57.
+MENDONCA, JULIO ; LIMA, RICARDO ; MATOS, RUBENS ; FERREIRA, JOAO ; Andrade, Ermeson . Availability Analysis of a Disaster Recovery Solution Through Stochastic Models and Fault Injection Experiments. In: 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA), 2018, Krakow. 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA), 2018. p. 135.
+
+58.
+VASCONCELOS, VIVIANE ; Andrade, Ermeson . Análise da Evasão de Alunos na Licenciatura em Computação. In: XXVI Workshop sobre Educação em Computação, 2018. Anais do Workshop sobre Educação em Computação (WEI).
+
+59.
+FALCÃO, TACIANA PONTUAL ; ARAÚJO, DANILO ; FRANÇA, ROZELMA ; Andrade, Ermeson ; FRANÇA, CESAR . Currículo da Licenciatura em Computação: uma Proposta Alinhada às Novas Diretrizes e Demandas Contemporâneas. In: VII Congresso Brasileiro de Informática na Educação, 2018, Fortaleza. org.crossref.xschema._1.Title@604afcd, 2018. p. 1108.
+
+60.
+Cavalcanti, Ana ; Ivaldir Junior ; Gomes, Marcos ; Sampaio, S. ; ANDRADE, E.C. . Adopting Agile Practices in Maturity Model for Testing. In: The 14th International Conference on Software Engineering Research and Practice, 2016, Las Vegas. Proceeddings of SERP, 2016.
+
+61.
+ANDRADE, E. C.; Van der AA, H. ; LEOPOLD, H. ; ALTER, S. ; REIJERS, H. A. . Factors Leading to Business Process Noncompliance and its Positive and Negative Effects: Empirical Insights from a Case Study. In: 22nd Americas Conference on Information Systems, 2016, San Diego. Proceeddings of AMICS, 2016.
+
+62.
+MENDONCA, JULIO ; LIMA, RICARDO ; Andrade, Ermeson ; Callou, Gustavo . Assessing Performance and Energy Consumption in Mobile Applications. In: 2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2015, Kowloon Tong. 2015 IEEE International Conference on Systems, Man, and Cybernetics, 2015. p. 74.
+
+63.
+ARAUJO, JULIAN ; Maciel, Paulo ; TORQUATO, MATHEUS ; Callou, Gustavo ; Andrade, Ermeson . Availability Evaluation of Digital Library Cloud Services. In: 2014 44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2014, Atlanta. 2014 44th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, 2014. p. 666.
+
+64.
+MATOS, RUBENS ; ANDRADE, ERMESON C. ; Maciel, Paulo . Evaluation of a disaster recovery solution through fault injection experiments. In: 2014 IEEE International Conference on Systems, Man and Cybernetics SMC, 2014, San Diego. 2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2014. p. 2675.
+
+65.
+ANDRADE, E. C.; ALVES, M. ; MATOS, R. ; Bruno Silva ; Maciel, Paulo . OpenMADS: An Open Source Tool for Modeling and Analysis of Distributed Systems. In: The 32nd International Conference on Computer Safety, Reliability and Security, 2013, Toulouse. Proceeddings of SAFECOMP, 2013.
+
+66.
+YIN, XIAOYAN ; ALONSO, JAVIER ; Machida, Fumio ; ANDRADE, ERMESON C. ; Trivedi, Kishor S. . Availability Modeling and Analysis for Data Backup and Restore Operations, 2012.
+
+67.
+FURTADO, ANA PAULA CARVALHO CAVALCANTI ; GOMES, MARCOS ANDRE WANDERLEY ; ANDRADE, ERMESON CARNEIRO ; DE FARIAS JUNIOR, IVALDIR HONORIO . MPT.BR: A Brazilian Maturity Model for Testing. In: 2012 12th International Conference on Quality Software (QSIC 2012), 2012, Xi'an. 2012 12th International Conference on Quality Software, 2012. p. 220.
+
+68.
+ANDRADE, ERMESON C.; ALVES, MARCELO ; Nogueira, Bruno ; Maciel, Paulo . Calau: An environment for modeling and analyzing embedded real-time systems. In: 2012 IEEE International Conference on Systems, Man and Cybernetics SMC, 2012, Seoul. 2012 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2012. p. 3135.
+
+69.
+ Machida, Fumio ; Andrade, Ermeson ; KIM, DONG SEONG ; Trivedi, Kishor S. . Candy: Component-based Availability Modeling Framework for Cloud Service Management Using SysML. In: 2011 IEEE 30th International Symposium on Reliable Distributed Systems (SRDS), 2011, Madrid. 2011 IEEE 30th International Symposium on Reliable Distributed Systems.
+
+70.
+ ANDRADE, ERMESON C.; Machida, Fumio ; Kim, Dong-Seong ; Trivedi, Kishor S. . Modeling and Analyzing Server System with Rejuvenation through SysML and Stochastic Reward Nets. In: 2011 Sixth International Conference on Availability, Reliability and Security (ARES), 2011, Vienna. 2011 Sixth International Conference on Availability, Reliability and Security.
+
+71.
+MARINHO, MARCELO ; Maciel, Paulo ; Sousa, Erica ; MACIEL, TERESA ; Andrade, Ermeson . Performance evaluation model for test process. In: 2010 11th Latin American Test Workshop LATW, 2010, Punta del Este. 2010 11th Latin American Test Workshop.
+
+72.
+MARINHO, MARCELO ; Maciel, Paulo ; Sousa, Erica ; MACIEL, TERESA ; Andrade, Ermeson . Performance evaluation of test process based on stochastic models. In: the 2010 Spring Simulation Multiconference, 2010, Orlando. Proceedings of the 2010 Spring Simulation Multiconference on - SpringSim '10. New York: ACM Press.
+
+73.
+Falcão, Tiago ; ANDRADE, E.C. ; MATOS, R. ; Paulo Maciel ; WORTH, S. ; MALENFANT, P. . WFS: Um Sistema de Arquivos FUSE-Linux Baseado na Política Write-Once Read-Many. In: Workshop de Software Livre, 2010, Rio Grande do Sul. Proceeddings of WSL, 2010.
+
+74.
+Falcão, Tiago ; Andrade, E. ; MATOS, R. ; Paulo Maciel ; WORTH, S. ; MALENFANT, P. . Otimização do Desempenho de um Sistema de Arquivos FUSE-Linux Baseado na Política Write-Once Read-Many. In: Conferência Latino-americana de Informática, 2010, Assunção. Proceeddings of CLEI 2010, 2010.
+
+75.
+Andrade, Ermeson; Maciel, Paulo ; Callou, Gustavo ; Nogueira, Bruno . A Methodology for Mapping SysML Activity Diagram to Time Petri Net for Requirement Validation of Embedded Real-Time Systems with Energy Constraints. In: The Third International Conference on Digital Society, 2009, Cancun. Procedings of IARIA, 2009. p. 266.
+
+76.
+ Andrade, Ermeson; Maciel, Paulo ; Callou, Gustavo ; Nogueira, Bruno ; Araújo, Carlos . Mapping UML sequence diagram to time petri net for requirement validation of embedded real-time systems with energy constraints. In: the 2009 ACM symposium, 2009, Honolulu. Proceedings of the 2009 ACM symposium on Applied Computing - SAC '09, 2009. p. 377.
+
+77.
+Araújo, Carlos ; Sousa, Erica ; Maciel, Paulo ; CHICOUT, FÁBIO ; Andrade, Ermeson . Performance Modeling for Evaluation and Planning of Electronic Funds Transfer Systems with Bursty Arrival Traffic. In: 2009 First International Conference on Intensive Applications and Services (INTENSIVE), 2009, Valencia. 2009 First International Conference on Intensive Applications and Services, 2009. p. 65.
+
+78.
+NOGUEIRA, BRUNO COSTA E SILVA ; MACIEL, PAULO ROMERO MARTINS ; TAVARES, EDUARDO ANTONIO GUIMARAES ; CARNEIRO, ERMESON ; Callou, Gustavo ; LIMA, RICARDO MASSA OLIVEIRA ; Ferraz, Rodolfo ; Montenegro, Bruno . Performance and Energy Consumption Evaluation of Embedded Applications: A Method Based on Platform's Behavioral Model. In: 2009 21st International Symposium on Computer Architecture and High Performance Computing (SBACPAD), 2009, Sao Paolo. 2009 21st International Symposium on Computer Architecture and High Performance Computing, 2009. p. 135.
+
+79.
+CALLOU, GUSTAVO RAU DE ALMEIDA ; MACIEL, PAULO ROMERO MARTINS ; DE ANDRADE, ERMESON CARNEIRO ; NOGUEIRA, BRUNO COSTA E SILVA ; TAVARES, EDUARDO ANTONIO GUIMARÃES . A coloured petri net based approach for estimating execution time and energy consumption in embedded systems. In: the twentyfirst annual symposium, 2008, Gramado. Proceedings of the twenty-first annual symposium on Integrated circuits and system design - SBCCI '08, 2008. p. 134.
+
+80.
+Gustavo Callou ; Paulo Maciel ; ANDRADE, E.C. ; Bruno Nogueira ; Eduardo Tavares . A Formal Approach for Estimating Embedded System Execution Time and Energy Consumption. In: Power And Timing Modeling, Optimization and Simulation, 2008, Lisboa- Portugal. Lecture Notes in Computer Science, 2008.
+
+81.
+CARNEIRO, ERMESON; Maciel, Paulo ; Callou, Gustavo ; Tavares, Eduardo ; Nogueira, Bruno . Mapping SysML State Machine Diagram to Time Petri Net for Analysis and Verification of Embedded Real-Time Systems with Energy Constraints. In: International Conference on Advances in Electronics and Microelectronics, 2008, Valencia. Proceedings of the 2008 International Conference on Advances in Electronics and Micro-electronics, 2008. p. 1.
+
+82.
+Andrade, Ermeson; Maciel, Paulo ; Callou, Gustavo ; Nogueira, Bruno . Mapping UML Interaction Overview Diagram to Time Petri Net for Analysis and Verification of Embedded Real-Time Systems with Energy Constraints. In: International Conference on Innovation in Software Engineering, 2008, Vienna. Proceedings of the 2008 International Conference on Computational Intelligence for Modelling Control & Automation, 2008. p. 615.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+QUEIROZ, E. ; Mendonça, J. ; CALLOU, G. R. A. ; ANDRADE, E.C. . Analisando o Backup-as-a-Service como uma Estratégia de Recuperação de Desastres. In: IX Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2019, Natal. Anais Estendidos do Simpósio Brasileiro de Engenharia de Sistemas Computacionais (SBESC), 2019.
+
+2.
+ANDRADE, E.C.; LIMA, E. A. O. . Estudo e Implementação de Técnicas de Aproximação Numérica em Problemas de Controle. In: VII Jornada de Iniciação Científica da UNICAP, 2005, Recife. Anais da VII Jornada de Iniciação Científica da UNICAP, 2005.
+
+Resumos publicados em anais de congressos
+
+1.
+SILVA, T. ; NASCIMENTO, M. G. ; VALENCA, G. ; Andrade, Ermeson ; LIRA, B. ; SANTOS, G. ; MIRANDA, L. ; OLIVIA, M. . Um Relato sobre o Mapeamento de Processos do Ministério Público de Contas de Pernambuco. In: Simpósio Brasileiro de Sistemas de Informação, 2023, Maceió. Proceedings of SBSI, 2023.
+
+2.
+VICTOR, CARLOS ; NGUYEN, TUAN ANH ; SILVA, LEONARDO AUGUSTO ; Andrade, Ermeson ; SANTOS, GUTO LEONI ; MIN, DUGKI ; LEE, JAE WOO ; SILVA, FRANCISCO AIRTON . Performability Assessment and Sensitivity Analysis of a Home Automation System. In: 2021 IEEE/ACM 25th International Symposium on Distributed Simulation and Real Time Applications (DSRT), 2021, Valencia. 2021 IEEE/ACM 25th International Symposium on Distributed Simulation and Real Time Applications (DS-RT), 2021. p. 1.
+
+3.
+Cavalcanti, Ana ; Sampaio, S. ; ANDRADE, E. C. ; Ivaldir Junior ; Gomes, Marcos . Agile Practices in Maturity Model for Testing: an Experience Report. In: The Twenty-Seventh International Conference on Software Engineering and Knowledge Engineering (SEKE 2015), 2015, Pittsburgh. Demo in the SEKE2015, 2015.
+
+4.
+MORAIS, L. ; MASSA, R. ; Tavares, E. ; Andrade, E. . Avaliação de Desempenho do Processo de Manufatura do Café. In: Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2015, Brasil. Anais do XIV Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance 2015), 2015. p. 162.
+
+Apresentações de Trabalho
+
+1.
+ANDRADE, E.C.; Machida, Fumio ; PIETRANTUONO, R. ; COTRONEO, D. . Software Aging in Image Classification Systems on Cloud and Edge. 2020. (Apresentação de Trabalho/Congresso).
+
+2.
+ANDRADE, E.C.; Machida, Fumio . Analysis of Software Aging Impacts on Plant Anomaly Detection with Edge Computing. 2019. (Apresentação de Trabalho/Congresso).
+
+3.
+ANDRADE, E. C.; ALVES, M. ; Nogueira, Bruno ; Maciel, Paulo . Calau: An Environment for Modeling and Analyzing Embedded Real-Time System. 2012. (Apresentação de Trabalho/Conferência ou palestra).
+
+4.
+ANDRADE, E. C.; Maciel, Paulo ; Falcão, Tiago ; Nogueira, Bruno ; Carlos Araújo ; Callou, Gustavo . An Approach for Estimating Performance and Energy Consumption in Component-Based Embedded Real-Time Systems. 2009. (Apresentação de Trabalho/Conferência ou palestra).
+
+5.
+ANDRADE, E. C.; Maciel, Paulo ; Callou, Gustavo ; Nogueira, Bruno ; Eduardo Tavares . Mapping SysML State Machine Diagram to Time Petri Net for Analysis and Verification of Embedded Real-Time Systems with Energy Constraints. 2008. (Apresentação de Trabalho/Conferência ou palestra).
+
+
+Produção técnica
+Demais tipos de produção técnica
+
+1.
+ANDRADE, E.C.. Workshop de Testes e Tolerância a Falhas (WTF). 2026. (Membro do Comitê de Programa).
+
+2.
+ANDRADE, E.C.. U-SPACE Dependability, Security, and Resilience for Future Airspace Safety (U-SPACE). 2026. (Membro do Comitê de Programa).
+
+3.
+ANDRADE, ERMESON C.. Workshop de Testes e Tolerância a Falhas (WTF). 2025. (Membro do Comitê de Programa).
+
+4.
+ANDRADE, E.C.. The 36rd IEEE International Symposium on Software Reliability Engineering.. 2025. (Membro do Comitê de Programa).
+
+5.
+Andrade, Ermeson. XXIV Workshop de Testes e Tolerância a Falhas. 2024. (Membro do Comitê de Programa).
+
+6.
+Andrade, Ermeson. 16th IEEE International Workshop on Software Aging and Rejuvenation. 2024. (Membro do Comitê de Programa).
+
+7.
+Andrade, Ermeson. 1st Workshop on Resilience Engineering in Computer Systems. 2024. (Membro do Comitê de Programa).
+
+8.
+ANDRADE, E.C.. The 34rd IEEE International Symposium on Software Reliability Engineering.. 2024. (Membro do Comitê de Programa).
+
+9.
+Andrade, Ermeson. XXIV Workshop de Testes e Tolerância a Falhas. 2023. (Membro do Comitê de Programa).
+
+10.
+Andrade, Ermeson. The 34rd IEEE International Symposium on Software Reliability Engineering.. 2023. (Membro do Comitê de Programa).
+
+11.
+Andrade, Ermeson. 15TH INTERNATIONAL WORKSHOP ON SOFTWARE AGING AND REJUVENATION. 2023. (Membro do Comitê de Programa).
+
+12.
+ANDRADE, ERMESON CARNEIRO DE. The 33rd IEEE International Symposium on Software Reliability Engineering. 2022. (Membro do Comitê de Programa).
+
+13.
+ANDRADE, E.C.. The 32nd International Symposium on Software Reliability Engineering. 2021. (Membro do Comitê de Programa).
+
+14.
+ANDRADE, E.C.; CALLOU, G. R. A. . Introdução à Programação em Java (Curso Ministrado). 2014. .
+
+15.
+Andrade, E.. The Fourth International Conference on Advances in Circuits, Electronics and Micro-electronics. 2011. (Membro do Comitê de Programa).
+
+16.
+Andrade, E.. The Fifth International Conference on Digital Society. 2011. (Membro do Comitê de Programa).
+
+17.
+ANDRADE, E. C.. The Third International Conference on Advances in Circuits, Electronics and Micro-electronics. 2010. (Membro do Comitê de Programa).
+
+18.
+ANDRADE, E. C.. The Fourth International Conference on Digital Society. 2010. (Membro do Comitê de Programa).
+
+19.
+ANDRADE, E. C.. The Second International Conference on Advances in Circuits, Electronics and Micro-electronics. 2009. (Membro do Comitê de Programa).
+
+
+
+Patentes e registros
+
+Programa de computador
+1.
+LIMA, J. W. S. ; ANDRADE, E.C. ; FALCAO, T. . TryRdP. 2020.
+Patente: Programa de Computador. Número do registro: BR512021002422-2, data de registro: 24/12/2020, título: "TryRdP" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+2.
+ANDRADE, ERMESON CARNEIRO DE; SALES, O. ; FALCAO, T. . BRIMO: uma Ferramenta para Análise de Sentimentos. 2021.
+Patente: Programa de Computador. Número do registro: BR512022001426-2, data de registro: 21/07/2021, título: "BRIMO: uma Ferramenta para Análise de Sentimentos" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+Gustavo Callou; DANTAS, J. R.; CARNEIRO, ERMESON. Participação em banca de Osvaldo Marinho dos Santos Neto. Performabilidade de Sistemas Ferroviários: Um Estudo de Caso sobre o Impacto da Disponibilidade dos Dispositivos de Sinalização e Controle do Tráfego sobre Indicadores de Desempenho da Ferrovia. 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+2.
+SILVA, F. A.; GONCALVES, G. D.; SOUSA, R. G.; ANDRADE, ERMESON C.; TORQUATO, M.. Participação em banca de LUCASVINÍCIUS SILVA DOS SANTOS. Hybrid and Decoy Moving Target Defense in Cloud Computing: A Performance Modeling Approach. 2025. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Piauí.
+
+3.
+DANTAS, J. R.; ANDRADE, ERMESON C.; TAVARES, E. A. G.. Participação em banca de CAMILA DE SOUSA DANTAS. Uma estratégia para Seleção de Atributos em Dados Não Paramétricos com Aplicações em Aprendizado de Máquina. 2025. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+4.
+Gustavo Callou; SILVA, F. A.; Andrade, Ermeson. Participação em banca de Ivson Galdino Borges. Avaliação de Desempenho, Disponibilidade e Consumo de Energia de um Ambiente de Videomonitoramento com armazenamento distribuído.. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+5.
+ALVES, G.; ARAUJO, J. C. T.; ANDRADE, E.C.. Participação em banca de Juliana Ferreira dos Santos. Análise Do Impacto da Evasão e Retenção No Ensino Superior Utilizando Cadeias de Markov Absorventes. 2022. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+6.
+Bruno Nogueira; PINHEIRO, R. G. S.; BARBOZA, E. A.; ANDRADE, E.C.. Participação em banca de Mario Diego Ferreira dos Santos. Estudo comparativo sobre meta-heurísticas em GPU para clusterização de dados. 2021. Dissertação (Mestrado em Informática) - Universidade Federal de Alagoas.
+
+7.
+ANDRADE, E.C.; Gustavo Callou; DINIZ, J. R. B.. Participação em banca de Claudemir Jeremias de Lima. Avaliação de Desempenho e Consumo de Energia do Ambiente Moodle. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+8.
+Callou, Gustavo; ANDRADE, E.C.; TAVARES, E. A. G.; ALVES, G.. Participação em banca de Elton Bezerra Torres. Availability and Performance Analysis of Private Cloud Storage. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+9.
+ALVES, G.; Callou, Gustavo; MACIEL, P. R. M.; ANDRADE, E.C.. Participação em banca de Hallyson Gustavo Tavares de Souza. Análise de Disponibilidade de Sistemas de mHealth Fundamentados na Internet das Coisas. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+Teses de doutorado
+
+1.
+ANDRADE, E.C.; ROSA, N.; TAVARES, E. A. G.; OLIVEIRA, L. A. H. G.; LUNA, H. P. L.. Participação em banca de João Ferreira da Silva Júnior. Estratégias para analisar e estimar a eficiência do consumo de energia em centros de dados. 2019. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Qualificações de Doutorado
+
+1.
+Andrade, Ermeson; LARANJEIRO, N.. Participação em banca de Giuseppe De Rosa. An LLM-based Dynamic Automatic Program Repair approach. 2024 - Scuola IMT Alti Studi Lucca.
+
+Qualificações de Mestrado
+
+1.
+SILVA, F. A.; GONCALVES, G. D.; TORQUATO, MATHEUS; ANDRADE, E.C.. Participação em banca de Lucas Vinícius Silva dos Santos. Desempenho de Estratégias de Defesa com Alvo em Movimento: Uma Abordagem com Modelos Analíticos. 2025. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Piauí.
+
+Monografias de cursos de aperfeiçoamento/especialização
+
+1.
+ANDRADE, E.C.; SANTANA, C. A.; VIANA, T. A.. Participação em banca de Márcio Brasil de Sá Leitão. Estudo de Topologiade Redes Neurais MLP em uma Base de Dados de Câncer e Diabetes. 2009. Monografia (Aperfeiçoamento/Especialização em Banco de Dados) - Faculdades Integradas Barros Melo.
+
+2.
+ANDRADE, E.C.; SANTANA, C. A.; VIANA, T. A.. Participação em banca de Rafael Luiz Ribeiro da Costa. A Tomada de Decisões Gerenciais e a Ferramenta Data Warehouse. 2009. Monografia (Aperfeiçoamento/Especialização em Banco de Dados) - Faculdades Integradas Barros Melo.
+
+3.
+ANDRADE, E.C.; SANTANA, C. A.; VIANA, T. A.. Participação em banca de Saulo Vasconcelos de Lima. Estudo de Caso: Sistema Integrado de Gestão de Serviços de Saneamento. 2009. Monografia (Aperfeiçoamento/Especialização em Banco de Dados) - Faculdades Integradas Barros Melo.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+Andrade, Ermeson; ARAUJO, D.. Participação em banca de Ingo P. P. Montarroyos.Optimization of Public Transport Networks by Considering Alternative Positions for Network Stations. 2024 - Universidade Federal Rural de Pernambuco.
+
+2.
+Bruno Nogueira; PINHEIRO, R. G. S.; Andrade, Ermeson. Participação em banca de William Gabriel da Paz Rosendo.Dois Algoritmos de Tabu Search em GPU para Resolver Instâncias Massivas dos Problemas de Diversidade Máxima e de Dispersão Máxima Média Ponderada.. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Alagoas.
+
+3.
+Andrade, Ermeson; ARAUJO, D.. Participação em banca de Henrique P. P. dos S. Pimentel.Predição do Consumo Energético de Dispositivos LoRa usando Aprendizagem de Máquina. 2024. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+4.
+Andrade, Ermeson; Gustavo Callou. Participação em banca de Matheus Felipe Lima Domingos.Uma Estratégia para Realizar a Análise de Eficiência Energética em Serviços em Nuvens. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+5.
+ARAUJO, C.; Andrade, Ermeson. Participação em banca de Jhon Sidney Josué dos Santos.Impacto dos dispositivos móveis na saúde mental: um estudo com estudantes do DC-UFRPE. 2023. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+6.
+SILVA, F. A.; CARVALHO, J. O.; ANDRADE, E.C.. Participação em banca de Laécio Andrade Rodrigues,.Avaliação de Desempenho e Disponibilidade de uma Arquitetura de Hospital Inteligente. 2020. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal do Piauí.
+
+7.
+ANDRADE, E.C.; GUSMAO, C.; MOSTRAERT, H.. Participação em banca de Eduardo Lessa de Andrade Cavalcanti.Um Estudo de Caso da Adoção das Práticas do Extreme Programming. 2009. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Faculdades Integradas Barros Melo.
+
+8.
+ANDRADE, E.C.; Eduardo Tavares; MOSTRAERT, H.. Participação em banca de Leonardo Sebastião da Silva.Ginga: Middleware para TV Digital Interativa Brasileira. 2009. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Faculdades Integradas Barros Melo.
+
+9.
+VIANA, T. A.; SANTANA, C. A.; ANDRADE, E.C.. Participação em banca de Hyldmar Augusto da Costa e Silva Andrade.Desenvolvimento de um Sistema de Logística Utilizando o Rastreamento Veicular por GPS. 2009. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Faculdades Integradas Barros Melo.
+
+10.
+ALBURQUERQUE, E.; SANTANA, C. A.; ANDRADE, E.C.. Participação em banca de José Bruno Bezerra Peixoto.Melhoria do Sinal da Rede Wireless nas Faculdades Integradas Barro Melo. 2009. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Faculdades Integradas Barros Melo.
+
+11.
+ALBURQUERQUE, E.; SANTANA, C. A.; ANDRADE, E.C.. Participação em banca de Fábio Luiz de Lima Barbosa.Tecnologias para Transmissão de Dados. 2009. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Faculdades Integradas Barros Melo.
+
+12.
+ANDRADE, E.C.; GUSMAO, C.; SANTANA, C. A.. Participação em banca de Lukas Alexandre Pereira de Andrade.Definição da Atividade de Planejamento de Testes com Base nos Riscos na RBTTool. 2009. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Faculdades Integradas Barros Melo.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+Andrade, Ermeson; ARAUJO, D.; Jean Araujo. Concurso público de provas e títulos para professor da carreira do magistério superior e do EBTT. 2026. Universidade Federal Rural de Pernambuco.
+
+2.
+Cavalcanti, Ana; Carlos Araújo; ANDRADE, E.C.. Concurso Publico para Seleção Simplificada de Professor Substituto Referente ao Edital Nº 01/2018. 2018. Universidade Federal Rural de Pernambuco.
+
+Outras participações
+
+1.
+ANDRADE, E.C.. Programa Centelha. 2022. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+2.
+ANDRADE, E. C.. Programa Centelha. 2019. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+Simpósio Brasileiro de Sistemas de Informação. 2025. (Congresso).
+
+2.
+The 36th IEEE International Symposium on Software Reliability Engineering. 2025. (Simpósio).
+
+3.
+LADC 2024: 13th LatinAmerican Symposium on Dependable and Secure Computing. 2024. (Congresso).
+
+4.
+SPIE Photonics West. 2024. (Congresso).
+
+5.
+XXV Congresso Brasileiro de Automática. 2024. (Congresso).
+
+6.
+V ENCONTRO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO. 2023. (Encontro).
+
+7.
+5th IEEE International Conference on Fog and EdgeComputing. 2021. (Congresso).
+
+8.
+Workshop on Software Aging and Rejuvenation. Software Aging in Image Classification Systems on Cloud and Edge. 2020. (Congresso).
+
+9.
+Workshop on Software Aging and Rejuvenation. Analysis of Software Aging Impacts on Plant Anomaly Detection with Edge Computing.. 2019. (Congresso).
+
+10.
+The 32nd International Conference on Advanced Information Networking and Applications. 2018. (Congresso).
+
+11.
+The 32nd International Conference on Computer Safety, Reliability and Security. OpenMADS: An Open Source Tool for Modeling and Analysis of Distributed Systems. 2013. (Congresso).
+
+12.
+The 2012 IEEE International Conference on Systems, Man, and Cybernetics. Calau: An Environment for Modeling and Analyzing Embedded Real-Time System. 2012. (Congresso).
+
+13.
+DEVS 2011 - Symposium on Theory of Modeling and Simulation. A Formal Approach to the Quantification of Sustainability and Dependability Metrics on Data Center Infrastructure. 2011. (Congresso).
+
+14.
+International Conference on Formal Engineering Methods - ICFEM. An Approach for Estimating Performance and Energy Consumption in Component-Based Embedded Real-Time Systems. 2009. (Congresso).
+
+15.
+International Conference on Advances in Electronics and Micro-electronics. Mapping SysML State Machine Diagram to Time Petri Net for Analysis and Verification of Embedded Real-Time Systems with Energy Constraints. 2008. (Congresso).
+
+16.
+II Encontro Brasileiro de Testes de Software. 2007. (Encontro).
+
+17.
+IX Simpósio Brasileiro de Linguagens de Programação. 2005. (Simpósio).
+
+18.
+VII Brazilian Congress of Neural Networks. 2005. (Congresso).
+
+19.
+VII Jornada de Iniciação Científica da Universidade Católica de Pernambuco.Estudo e Implementação de Técnicas de Aproximação Numérica em Problemas de Controle. 2005. (Outra).
+
+20.
+I Encontro de Norte-Nordeste de Matemática Aplicada e Computacional. 2004. (Encontro).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+ANDRADE, E.C.. Co-Chair do progama do 17th IEEE International Workshop on Software Aging and Rejuvenation. 2025. (Congresso).
+
+2.
+ANDRADE, E.C.. Co-Chair do fórum de doutorado do 36th IEEE International Symposium on Software Reliability Engineering. 2025. (Congresso).
+
+3.
+Andrade, Ermeson. Co-Chair do fórum de doutorado da 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. 2024. (Congresso).
+
+4.
+Andrade, Ermeson. Co-Chair das publicações do 35th IEEE International Symposium on Software Reliability Engineering. 2024. (Congresso).
+
+5.
+Andrade, Ermeson. Co-Chair das Bolsas de Viagem para Estudantes da 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. 2024. (Congresso).
+
+6.
+ANDRADE, E.C.. Co-Chair do progama do 16th IEEE International Workshop on Software Aging and Rejuvenation. 2024. (Congresso).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+
+1.
+HUDO LEONARDO DA SILVA GUEDES ALCOFORADO. A definir. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+PEDRO AUGUSTO DE LIMA TENORIO. A definir. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+CESAR HENRIQUE ARAUJO DOS SANTOS. A definir. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+4.
+LUCAS EDSON SILVA DE ARAÚJO. A definir. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+5.
+MICHELE GOMES FEITOSA. A definir. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+6.
+RENAN BESERRA PEREIRA DA SILVA. A definir. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+7.
+AYRTON ROGÉRIO DA SILVA GOMES. A definir. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+8.
+HUGO RAFAEL ALVES DA SILVA. A definir. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+9.
+RAFAEL JOSÉ MOURA DA SILVA. A definir. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+10.
+Clariele de Almeida Pereira.. A definir. Início: 2025. Dissertação (Mestrado em Engenharia de Sistemas de Energia) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Tese de doutorado
+
+1.
+Bemielison Gletson. A definir. Início: 2025. Tese (Doutorado em Doutorado em Engenharia da Computação) - Universidade de Pernambuco. (Coorientador).
+
+2.
+Edson Moura Silva. A definir. Início: 2025. Tese (Doutorado em Doutorado em Engenharia da Computação) - Universidade de Pernambuco. (Coorientador).
+
+Iniciação científica
+
+1.
+Thiago Diniz Cruz Ribeiro. A definir. Início: 2026 - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+Vinícius Gabriel Pereira Lima. A definir. Início: 2026 - Universidade Federal Rural de Pernambuco. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+Maria Gizele Alves do Nascimento. Mapeamento, Monitoramento e Melhoria de Processos no Setor Público. 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Ermeson Carneiro de Andrade.
+
+2.
+André Carlos Santos de Assis. Interpretability and Trust in Machine Learning Models. 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Ermeson Carneiro de Andrade.
+
+3.
+Saulo Lucas Gomes Ferreira. Performance Impacts of NoSQL Databases: Consistency Levels Across Multiple Environments. 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Ermeson Carneiro de Andrade.
+
+4.
+Edson Moura Silva. Modelagem e Análise de Manufaturas Têxteis. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Ermeson Carneiro de Andrade.
+
+5.
+Vamberto de Freitas Rocha Junior. Modelagem Estocástica de um Ambiente de Telecirurgia para Avaliação de Disponibilidade, Confiabilidade e Entrega de Mensagem. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Ermeson Carneiro de Andrade.
+
+6.
+Valdir Carvalho de Santana Filho. Avaliação de Desempenho de Sistemas de Detecção de Intrusão baseados em IA para Ambientes de Nuvem e Borda. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Ermeson Carneiro de Andrade.
+
+7.
+Herderson Gomes Couto. Uma Análise Comparativa do Envelhecimento de Software em Ambientes com Bancos de Dados Relacionais. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Ermeson Carneiro de Andrade.
+
+8.
+Cleyton Ferreira Gonçalves. Modelos Estocásticos para o Planejamento de Ambientes AVA Moodle Baseados em Contêineres e Máquinas Virtuais. 2022. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Ermeson Carneiro de Andrade.
+
+9.
+JOHN WESLEY SOARES DE LIMA. Desenvolvimento e Avaliação de uma Ferramenta Interativa Baseada em Exemplos para o Aprendizado de Modelagem de Sistemas Usando Redes de Petri. 2021. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+10.
+Júlio Mendonça. Modelagem e Análise de Desempenho e Consumo de Energia em Aplicações Móveis. 2015. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: Ermeson Carneiro de Andrade.
+
+11.
+Lubnnia Morais Florencio de Souza. Avaliaçãao de Performabilidade do Processo de Manufatura do Café. 2015. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: Ermeson Carneiro de Andrade.
+
+Tese de doutorado
+
+1.
+Júlio Rodrigues de Mendonça Neto. Modelos Probabilísticos e Método de Tomada de Decisão para Avaliação e Seleção de Estratégias de Recuperação de Desastres. 2020. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: Ermeson Carneiro de Andrade.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Raphael Barbosa De Melo. Previsão Supervisionada da Vida Útil Remanescente de Brocas a partir de Sinais Acústicos. 2026. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+2.
+Cleydson Paes da Silva. Desenvolvimento de jogos: Uma Abordagem Prática com Unity e Scrum. 2025. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+3.
+Hudo Alcoforado. Mapping and Profiling Access to Brazil?s Continued Provision Benefit: A Data-Driven Analysis Using Clustering and Regional Indicators. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+4.
+DANIEL CASTRO DE FARIAS. A Modeling-Based Approach for Dependability Analysis of a Constellation of Satellites. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+5.
+CESAR SANTOS. A Comprehensive Software Aging Analysis in LLMs-Based Systems. 2024. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+6.
+LUCAS ARAUJO. Avaliação de Desempenho de Modelos de Detecção de Anomalias para Dispositivos de Borda. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+7.
+Isaque João da Silva. Rede de Atenção Psicossocial na cidade de Olinda: Desenvolvimento de um Protótipo Web para Melhoria do Acesso aos Serviços de Saúde Mental. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+8.
+Ikaro A. de L. Silva. Analise de Sentimentos de Tweets relacionados a Vacinas antes e durante a Pandemia da COVID-19 no Brasil. 2023. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+9.
+André Carlos Santos de Assis. Explainable Artificial Intelligence - Uma Análise dos trade-offs entre Desempenho e Explicabilidade. 2023. Trabalho de Conclusão de Curso. (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+10.
+Otávio Alves Guedes Sales. BRIMO: uma Ferramenta para Análise de Sentimentos. 2022. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+11.
+Douglas Dias da Silva. Análise de Envelhecimento de Software em uma Plataforma de Blockchain. 2022. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+12.
+Felipe de Araújo Morais Vilar Oliveira. Analise de Sentimos de Tweets Relacionados ao Uso de ́ Mascara Durante a Pandemia da Covid-19. 2022. Trabalho de Conclusão de Curso. (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+13.
+Guilherme Lapa de Araújo Cadengue. Análise de Sentimentos dos Tweets Relacionados ao Superior Tribunal Federal no Ano de 2019. 2022. Trabalho de Conclusão de Curso. (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+14.
+Henrique Silva. Sentiment Analysis of Tweets Related to SUS Before and During COVID-19 pandemic. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+15.
+Saulo Lucas Gomes Ferreira. Análise de Desempenho dos Nı́veis de Consistência do Banco de Dados NoSQL Cassandra. 2021. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+16.
+Ewerton Cleyton Silva de Queiroz. Analisando o Backup-as-a-Service como uma Estratégia de Recuperação de Desastres. 2021. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+17.
+Vinicius J. P. Silva. Analise de Sentimentos em Tweets Relacionados ao Desmatamento da Floresta Amazônica. 2021. Trabalho de Conclusão de Curso. (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+18.
+Wilson Medeiros Dos Santos Neto.. Avaliação Experimental de Replicação em Banco de Dados para Recuperação de Desastres. 2020. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+Iniciação científica
+
+1.
+Rodrigo Antônio Barbosa Ferreira. Desenvolvimento de uma Ferramenta Baseada em Machine Learning para a Previsão de Falhas e Reparos de Sistemas Computacionais. 2022. Iniciação Científica. (Graduando em Física) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Ermeson Carneiro de Andrade.
+
+2.
+Ewerton Cleyton Silva de Queiroz. Modelagem e Avaliação de Mecanismos de Replicação de Dados. 2019. Iniciação Científica. (Graduando em Computação e Informática) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Ermeson Carneiro de Andrade.
+
+3.
+Ewerton Cleyton Silva de Queiroz. Estudo de Mecanismos de Replicação de Dados em Nuvens Computacionais. 2018. Iniciação Científica. (Graduando em Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Ermeson Carneiro de Andrade.
+
+4.
+Lúciano José da Silva Júnior. Análise de Mecanismos de Tratamento de Desastre em Infraestrutura Computacionais dos Sistemas Distribuídos Através de Experimentos e Técnicas de Medição. 2015. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+Orientações de outra natureza
+
+1.
+André Assis. Orientação de Monitoria. 2022. Orientação de outra natureza. (Sistema de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+2.
+Maria Fernanda Souza. Orientação de Monitoria. 2021. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+3.
+Douglas Dias da Silva. Orientação de Monitoria.. 2021. Orientação de outra natureza. (Computação) - Universidade Federal Rural de Pernambuco. Orientador: Ermeson Carneiro de Andrade.
+
+
+
+Inovação
+
+Programa de computador registrado
+1.
+LIMA, J. W. S. ; ANDRADE, E.C. ; FALCAO, T. . TryRdP. 2020.
+Patente: Programa de Computador. Número do registro: BR512021002422-2, data de registro: 24/12/2020, título: "TryRdP" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+2.
+ANDRADE, ERMESON CARNEIRO DE; SALES, O. ; FALCAO, T. . BRIMO: uma Ferramenta para Análise de Sentimentos. 2021.
+Patente: Programa de Computador. Número do registro: BR512022001426-2, data de registro: 21/07/2021, título: "BRIMO: uma Ferramenta para Análise de Sentimentos" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+Projetos de pesquisa
+2022 - 2023
+Plataforma da Indústria - PI
+Descrição: O objetivo do projeto é antecipar-se às falhas e evitar paradas não programadas de produção, prevendo o mal funcionamento de componentes como: rolamentos, engrenagens, além de defeitos comuns relacionados a eixos e rotores como desalinhamento, folga, desbalanceamento e cavitação, além de defeitos elétricos nas espiras de rotor e estator de motores elétricos, etc. Para tal, pretende-se abordar desde a definição de um protocolo de comunicação de alta performance e sensores IIoT para coleta dos dados à análise e predição para otimização da gestão da manutenção..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Ermeson Carneiro de Andrade - Coordenador / Danilo Araujo - Integrante / Sergio Chevtchenko - Integrante / Diego Moura Vieira - Integrante.
+Financiador(es): Agência Brasileira de Desenvolvimento Industrial - Auxílio financeiro.
+
+
+
+Educação e Popularização de C & T
+
+Organização de eventos, congressos, exposições e feiras
+1.
+Andrade, Ermeson. Co-Chair do fórum de doutorado da 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. 2024. (Congresso).
+
+2.
+Andrade, Ermeson. Co-Chair das publicações do 35th IEEE International Symposium on Software Reliability Engineering. 2024. (Congresso).
+
+3.
+Andrade, Ermeson. Co-Chair das Bolsas de Viagem para Estudantes da 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. 2024. (Congresso).
+
+4.
+ANDRADE, E.C.. Co-Chair do progama do 16th IEEE International Workshop on Software Aging and Rejuvenation. 2024. (Congresso).
+
+5.
+ANDRADE, E.C.. Co-Chair do fórum de doutorado do 36th IEEE International Symposium on Software Reliability Engineering. 2025. (Congresso).
+
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 13:47:32
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo
+[]

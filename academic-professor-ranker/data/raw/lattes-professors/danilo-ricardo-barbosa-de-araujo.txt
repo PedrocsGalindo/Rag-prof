@@ -1,0 +1,1818 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+Dados gerais Formação Atuação Projetos Produções Inovação Eventos Orientações Bancas Citações +
+
+Danilo Ricardo Barbosa de Araújo
+Endereço para acessar este CV: http://lattes.cnpq.br/2708354422178489
+ID Lattes: 2708354422178489
+Última atualização do currículo em 14/05/2026
+
+Danilo Ricardo Barbosa de Araújo recebeu o título de Doutor em Engenharia Elétrica pela UFPE - Universidade Federal de Pernambuco em 2015; recebeu o título de Mestre em Engenharia da Computação pela UPE - Universidade de Pernambuco em 2011; e recebeu o título de Bacharel em Ciência da Computação pela Unicap - Universidade Católica de Pernambuco em 2002. Após a conclusão de sua dissertação de mestrado, recebeu o prêmio de melhor trabalho de pós-graduação da UPE no ano de sua defesa. Em 2013 foi aprovado em 1o lugar no concurso público para Professor Assistente do Departamento de Estatística e Informática da UFRPE - Universidade Federal Rural de Pernambuco. Atuou em diferentes empresas de tecnologia do Recife de 2000 até 2022, incluindo a participação em diversos projetos de Pesquisa Desenvolvimento (Lei de Informática). Atualmente é Professor Associado do Departamento de Computação da UFRPE. É professor do Programa de Pós-Graduação em Informática Aplicada (PPGIA) da UFRPE e é professor do Programa de Pós-Graduação em Engenharia de Sistemas de Energia (PPGESE) da UFRPE. É membro do IEEE - Institute of Electrical and Electronic Engineers e da SBC - Sociedade Brasileira de Computação. É membro do corpo editorial do Applied Soft Computing e revisor de periódicos bem conceituados em Ciência da Computação. Possui interesse por temas de pesquisa relacionados a Redes de Alta Capacidade, Inteligência Artificial e Redes Complexas. ORCID: https://orcid.org/0000-0002-4822-0390 (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Danilo Ricardo Barbosa de AraújoDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+ARAÚJO, D. R. B.;DE ARAÚJO, DANILO R.B.;ARAUJO, DANILO R. B.;DE ARAUJO, DANILO;ARAUJO, DANILO R.B.;BARBOSA DE ARA?JO, DANILO RICARDO;ARAUJO, D. R. B.;ARAUJO, DANILO;ARAÚJO, DANILO R. B.;ARAÚJO, DANILO;ARAÚJO, DANILO RICARDO BARBOSA DE;BARBOSA DE ARAUJO, DANILO RICARDO;Danilo Ricardo Barbosa de Araujo;Barbosa de Araujo, D.;DE ARAUJO, DANILO R. B.;DE ARAÚJO, DANILO RICARDO BARBOSA;DE ARAÚJO, DANILO R. B.;BARBOSA DE ARAÚJO, DANILO RICARDO;ARAÚJO, DANILO RICARDO
+Lattes iD
+http://lattes.cnpq.br/2708354422178489
+Orcid iD
+? https://orcid.org/0000-0002-4822-0390
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco, Campus Dois Irmãos, Departamento de Computação (DC).
+Universidade Federal Rural de Pernambuco
+Dois Irmãos
+52171900 - Recife, PE - Brasil
+Telefone: (81) 33206491
+
+
+Formação acadêmica/titulação
+2011 - 2015
+Doutorado em Engenharia Elétrica.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Planejamento de Redes Ópticas Usando Inteligência Computacional e Ciência das Redes , Ano de obtenção: 2015.
+Orientador: Carmelo Jose Albanez Bastos Filho.
+Coorientador: Joaquim Ferreira Martins Filho.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+Palavras-chave: Redes ópticas; Algoritmos para Otimização de Redes; Inteligência Computacional; Redes Complexas.
+2009 - 2011
+Mestrado em Engenharia da Computação.
+Universidade de Pernambuco, UPE, Brasil.
+Título: Comparação de Algoritmos de Otimização Multiobjetivos Aplicados a Projetos de Redes Ópticas, Ano de Obtenção: 2011.
+Orientador: Carmelo Jose Albanez Bastos Filho.
+Coorientador: Joaquim Ferreira Martins Filho.
+Palavras-chave: Computação inteligente; Computação Evolucionária; Redes ópticas.
+2008 - 2009
+Especialização em MBA Gestão de Negócios. (Carga Horária: 360h).
+Universidade Católica de Pernambuco, UNICAP, Brasil.
+Título: TERMOPLAX - Indústria de Transformação do Plástico.
+Orientador: Adilson Celestino de Lima.
+1998 - 2002
+Graduação em Ciência da Computação.
+Universidade Católica de Pernambuco, UNICAP, Brasil.
+
+
+
+
+Formação Complementar
+2023 - 2023
+PLATAFORMA SUCUPIRA/CAPES E GESTÃO DA PÓS- GRADUAÇÃO. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2020 - 2020
+TÉCNICAS DE PRODUÇÃO DE VÍDEO PARA DOCENTES. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2015 - 2015
+Curso de Atualização Didático Pedagógica. (Carga horária: 60h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2008 - 2008
+Desenvolvimento de Líderes. (Carga horária: 15h).
+Serviço Nacional de Aprendizagem do Transporte, SENAT, Brasil.
+2003 - 2005
+Curso intermediário de inglês. (Carga horária: 170h).
+Sociedade Brasileira de Cultura Inglesa, CULTURA INGLESA, Brasil.
+
+
+Atuação Profissional
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2025 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor Associado I, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2023 - 2025
+Vínculo: Servidor público, Enquadramento Funcional: Professor Adjunto IV, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2021 - 2023
+Vínculo: Servidor público, Enquadramento Funcional: Professor Adjunto III, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2019 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor Adjunto II, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2017 - 2019
+Vínculo: Servidor público, Enquadramento Funcional: Professor Adjunto I, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2015 - 2017
+Vínculo: , Enquadramento Funcional: Professor Adjunto A, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2013 - 2015
+Vínculo: , Enquadramento Funcional: Professor Assistente A, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Atividades
+
+04/2026 - Atual
+Conselhos, Comissões e Consultoria, Unidade Acadêmica do Cabo de Santo Agostinho.
+
+Cargo ou função
+Presidente da Comissão de Produção Científica, Tecnolõgica e Inovação do PPGESE da UFRPE.
+09/2025 - Atual
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Redes de Computadores
+01/2023 - Atual
+Direção e administração, Campus Dois Irmãos.
+
+Cargo ou função
+Substituto Eventual da Coordenação de Pós-Graduação em Informática Aplicada.
+03/2021 - Atual
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos.
+
+Cargo ou função
+Membro Suplente do Colegiado de Coordenação Didática do Curso de Bacharelado em Ciências Biológicas.
+2/2019 - Atual
+Conselhos, Comissões e Consultoria, Capus Dois Irmãos, Departamento de Computação (DC).
+
+Cargo ou função
+Membro do Colegiado de Coordenação Didática do Curso de Licenciatura em Computação.
+2/2019 - Atual
+Conselhos, Comissões e Consultoria, Capus Dois Irmãos, Departamento de Computação (DC).
+
+Cargo ou função
+Membro do Núcleo Docente Estruturante do Curso de Licenciatura Plena em Computação.
+2/2019 - Atual
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos, Departamento de Computação (DC).
+
+Cargo ou função
+Membro da Comissão de Orientação e Apoio Acadêmico do Curso de Licenciatura Plena em Computação.
+10/2018 - Atual
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos.
+
+Cargo ou função
+Membro da Comissão de Ensino do Departamento de Computação (suplente).
+08/2025 - 02/2026
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+Tópicos em TICS1
+08/2025 - 02/2026
+Ensino, Engenharia de Sistemas de Energia, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Inteligência Computacional
+01/2025 - 08/2025
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Redes de Computadores
+Tecnologia de Redes
+08/2024 - 12/2024
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+08/2024 - 12/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Redes de Computadores
+Introdução à Computação
+03/2024 - 07/2024
+Ensino, Engenharia de Sistemas de Energia, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Inteligência Computacional
+03/2024 - 07/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Linguagem de Programação II
+Redes de Computadores
+10/2023 - 02/2024
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Linguagem de Programação II
+Redes de Computadores
+08/2023 - 12/2023
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+Tópicos em TICS1
+03/2023 - 09/2023
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Redes de Computadores
+Linguagem de Programação II
+06/2022 - 03/2023
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Ciência da Computação
+06/2022 - 03/2023
+Ensino, Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Computação
+10/2022 - 02/2023
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos.
+
+Cargo ou função
+Comissão de Seleção 2023.1 para o Programa de Pós-graduação em Informática Aplicada.
+08/2022 - 12/2022
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+Tópicos em TICS1
+11/2018 - 08/2022
+Direção e administração, Campus Dois Irmãos.
+
+Cargo ou função
+Supervisor da Área de Arquitetura e Redes de Computadores (ARC) do Departamento de Computação.
+10/2018 - 08/2022
+Conselhos, Comissões e Consultoria, Capus Dois Irmãos.
+
+Cargo ou função
+Membro do Conselho Técnico e Administrativo do Departamento de Computação.
+02/2022 - 06/2022
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Ciência da Computação
+Prática de Ensino de Computação I
+08/2021 - 12/2021
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+Tópicos em TICS1
+08/2021 - 12/2021
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Ciência da Computação
+Prática de Ensino de Computação 1
+03/2021 - 07/2021
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Estágio Supervisionado Obrigatório II
+Prática de Ensino de Redes e Sistemas Internet
+Tecnologia de Redes
+Redes de Computadores
+02/2021 - 04/2021
+Conselhos, Comissões e Consultoria, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+
+Cargo ou função
+Presidente da Comissão Eleitoral de Consulta para a Nova Gestão da Coordenação do Curso de Licenciatura em Computação Sede/UFRPE.
+11/2020 - 03/2021
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Metodologia Científica Aplicada à Computação
+03/2019 - 03/2021
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos.
+
+Cargo ou função
+Membro do Comitê Interno do PIBIC/CNPq-UFRPE.
+09/2020 - 01/2021
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos.
+
+Cargo ou função
+Comissão de Seleção 2021.1 para o Programa de Pós-graduação em Informática Aplicada.
+5/2020 - 01/2021
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos, Departamento de Computação (DC).
+
+Cargo ou função
+Comissão Temporária para Elaboração de Propostas de Ocupação dos Espaços Físicos do Prédio do Departamento de Computação para Acomodação de Projetos de Pesquisa e Inovação Tecnológica.
+07/2020 - 08/2020
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos.
+
+Cargo ou função
+Comissão de Avaliação de Pedidos de Reconsideração referente ao Edital PRPPG-UFRPE 06/2020.
+08/2019 - 12/2019
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Elementos de Informática
+Pensamento Computacional
+Projeto de Conclusão de Curso
+08/2019 - 12/2019
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+TÓPICOS EM TICS 1
+04/2019 - 10/2019
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos, Departamento de Computação (DC).
+
+Cargo ou função
+Comissão para Elaboração de Regras para Alocação de Professores.
+03/2019 - 07/2019
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Ensino de Redes e Sistemas Internet
+Redes de Computadores
+Tecnologias de Redes
+03/2019 - 07/2019
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+09/2018 - 02/2019
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Microinformática
+Laboratório de Programação I
+Prática de Ensino de Redes e Sistemas Internet
+10/2016 - 10/2018
+Direção e administração, Campus Dois Irmãos.
+
+Cargo ou função
+Coordenador do Curso Licenciatura Plena em Computação.
+06/2014 - 10/2018
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos, Departamento de Estatística e Informática (DEInfo).
+
+Cargo ou função
+Membro do Núcleo Docente Estruturante do Curso de Licenciatura Plena em Computação.
+04/2018 - 09/2018
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Computação
+Prática de Ens. de Redes e Sistemas Internet
+03/2018 - 08/2018
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+Tópicos em TICS1
+10/2017 - 02/2018
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Tecnologia de Redes
+08/2016 - 09/2017
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Redes e Sistemas Internet
+03/2017 - 08/2017
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+10/2015 - 08/2016
+Conselhos, Comissões e Consultoria, Campus Dois Irmãos, Departamento de Estatística e Informática (DEInfo).
+
+Cargo ou função
+Membro da Comissão de Extensão.
+03/2016 - 07/2016
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Redes e Sistemas Internet
+Tecnologias de Transmissão
+08/2015 - 12/2015
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Programação
+Projeto de Conclusão de Curso
+01/2015 - 12/2015
+Extensão universitária , Campus Dois Irmãos.
+
+Atividade de extensão realizada
+Coordenação do projeto de extensão intitulado "Uso da Tecnologia da Informação e Comunicação para o Fortalecimento do Trabalho Voluntário no Estado de Pernambuco".
+03/2015 - 07/2015
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Conclusão de Curso
+Redes e Sistemas Internet
+09/2014 - 02/2015
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Redes e Sistemas Internet
+Tópicos Avançados em Redes de Computadores II
+01/2014 - 12/2014
+Extensão universitária , Campus Dois Irmãos.
+
+Atividade de extensão realizada
+Coordenação do projeto de extensão intitulado "Um Portal Web para Recomendação de Trabalhos Voluntários com Base no Perfil do Voluntariado".
+03/2014 - 08/2014
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Prática de Redes e Sistemas Internet
+Redes e Sistemas Internet
+10/2013 - 03/2014
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Infra-estrutura de Software
+Prática de Ensino em Redes e Sistemas Internet
+Redes e Sistemas Internet
+06/2013 - 09/2013
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+Infra-estrutura de software
+Introdução à microinformática
+Prática de ensino de redes e sistemas Internet
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2011 - 2015
+Vínculo: Doutorado, Enquadramento Funcional: Aluno de Doutorado
+
+
+Associação Educacional Boa Viagem, AEBV, Brasil.
+Vínculo institucional
+
+2010 - 2013
+Vínculo: Celetista formal, Enquadramento Funcional: Professor Assistente, Carga horária: 10
+
+Atividades
+
+01/2013 - 05/2013
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Laboratório de Programação I
+Linguagem de Programação III
+Paradigmas de Linguagens de Programação
+06/2012 - 12/2012
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Laboratório de Programação I
+Redes de Computadores 2
+06/2012 - 10/2012
+Ensino, Pós-Graduação em Engenharia de Software, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Análise e Projeto Orientado a Objetos com Ênfase em Arquitetura de Software
+Técnicas para Desenvolvimento de Software
+02/2012 - 06/2012
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Laboratório de Programação I
+Linguagem de Programação III
+08/2011 - 12/2011
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Laboratório de Programação I
+Redes de Computadores 2
+02/2011 - 06/2011
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Laboratório de Programação I
+Linguagem de Programação III
+08/2010 - 12/2010
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Laboratório de Programação I
+02/2010 - 06/2010
+Ensino, Bacharelado em Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Linguagem de Programação III
+
+Institute Of Electrical And Electronics Engineers, Inc., IEEE, Estados Unidos.
+Vínculo institucional
+
+2009 - Atual
+Vínculo: Livre, Enquadramento Funcional: Student Member, Carga horária: 0
+
+
+Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco, FADE/UFPE, Brasil.
+Vínculo institucional
+
+2011 - 2012
+Vínculo: Celetista formal, Enquadramento Funcional: Engenheiro de SW Sênior, Carga horária: 30
+
+Vínculo institucional
+
+2010 - 2011
+Vínculo: Celetista formal, Enquadramento Funcional: Engenheiro de SW Sênior, Carga horária: 40
+Outras informações
+Lotado no Laboratório de P&D Itautec-UFPE/CIn. Atividades: coordenação de equipe: alocação e gerenciamento de escopo, tempo e recursos. Controle de prazos e avaliação do progresso dos projetos. Responsável também pela qualidade técnica dos produtos do projeto e pela orientação da equipe durante o processo de execução. Análise e especificação de requisitos. Desenvolvimento de sistema para automação comercial. Uso das tecnologias Java para Web (EJB 3.0, JSP, Custom Tags, Servlets), C++, JNI, Jasper Reports, framework de aplicação Struts e framework de ORM Hibernate. Uso de banco de dados relacional MS SQL Server 2000, 2005 e 2008 e Oracle 10g. Uso do servidor de aplicação JBOSS. Outras ferramentas e tecnologias: HTML, Java Script, CSS, Bugzilla, SVN, Eclipse.
+
+
+Universidade de Pernambuco, UPE, Brasil.
+Vínculo institucional
+
+2015 - 2017
+Vínculo: Colaborador, Enquadramento Funcional: Professor Colaborador, Carga horária: 0
+Outras informações
+Professor Colaborador do Programa de Pós-Graduação em Engenharia de Sistemas da UPE
+
+Vínculo institucional
+
+2014 - 2014
+Vínculo: Colaborador, Enquadramento Funcional: Professor
+Outras informações
+Professor da disciplina "Ambiente Web" do Curso de Especialização em Engenharia de Software da Escola Politécnica de Pernambuco.
+
+Atividades
+
+03/2019 - Atual
+Ensino, Residência tecnológica em Inteligência Artificial da UPE/SECTI/FACEPE/FITec, Nível: Especialização
+
+Disciplinas ministradas
+Otimização e Tomada de Decisão Usando Inteligência Artificial
+
+Universidade Católica de Pernambuco, UNICAP, Brasil.
+Vínculo institucional
+
+2006 - 2010
+Vínculo: Celetista formal, Enquadramento Funcional: Analista de Sistemas Pleno, Carga horária: 40
+Outras informações
+Lotado no Laboratório de P&D Itautec-Unicap. Atividades: coordenação de equipe. Análise e especificação de requisitos. Desenvolvimento de sistema para automação comercial. Uso das tecnologias Java para Web (EJB 3.0, JSP, Custom Tags, Servlets), C++, JNI, Jasper Reports, framework de aplicação Struts e framework de ORM Hibernate. Uso de banco de dados relacional MS SQL Server 2000, 2005 e 2008. Uso do servidor de aplicação JBOSS. Outras ferramentas e tecnologias: HTML, Java Script, CSS, Bugzilla, CVS, Eclipse.
+
+Vínculo institucional
+
+2004 - 2006
+Vínculo: Celetista formal, Enquadramento Funcional: Analista de Sistemas Júnior, Carga horária: 40
+Outras informações
+Lotado no Laboratório de P&D Itautec-Unicap. Atividades: coordenação de equipe. Análise e especificação de requisitos. Desenvolvimento de sistema para distribuição e atualização automática de versões de software. Desenvolvimento de sistema para automação comercial. Uso das tecnologias Java para Web (JSP, Servlets), C++ (MFC, ATL), JNI, framework de aplicação Struts e framework de ORM Hibernate. Uso de banco de dados relacional MS SQL Server 2000 e PostgreSQL. Uso do container Tomcat e servidor de aplicação JBOSS. Outras ferramentas e tecnologias: HTML, Java Script, CSS, Bugzilla, CVS, Eclipse.
+
+Vínculo institucional
+
+2003 - 2004
+Vínculo: Celetista formal, Enquadramento Funcional: Analista de Sistemas Trainee, Carga horária: 40
+Outras informações
+Lotado no Laboratório de P&D Itautec-Unicap. Atividades: coordenação de equipe. Análise e especificação de requisitos. Desenvolvimento de módulo para controle de licenças de software. Desenvolvimento de sistema para distribuição e atualização automática de versões de software. Uso das tecnologias Java para Web (JSP, Servlets), C++, VB.Net, banco de dados relacional MS SQL Server 2000.
+
+
+WIT - Planejamento e Tecnologia da Informação, WIT, Brasil.
+Vínculo institucional
+
+2002 - 2003
+Vínculo: Celetista formal, Enquadramento Funcional: Programador, Carga horária: 40
+Outras informações
+Desenvolvimento sistema para gerenciamento de treinamentos e sistema para atendimento ao cliente. Suporte técnico em projetos de desenvolvimento de software. Modelagem dimensional de banco de dados para data marts. Uso das tecnologias ASP.Net, VB.Net, VB 6.0, Crystal Reports, banco de dados relacional MS SQL Server 7.0 e 2000. Outras tecnologias: ADO, HTML, Java Script, CSS.
+
+
+STAFF Consultorias & Sistemas, STAFF, Brasil.
+Vínculo institucional
+
+2001 - 2001
+Vínculo: Colaborador, Enquadramento Funcional: Estagiário, Carga horária: 40
+Outras informações
+Programação de sistema de informação para Secretaria da Fazenda - SEFAZ - usando as tecnologias VB 6.0, ActiveX, ADO, Crystal Reports, bancos de dados relacionais MS SQL Server 7.0 e MS SQL Server 2000. Programação de sistemas Web para controle de tramitação de processos usando as tecnologias ASP, HTML, Java Script, CSS, acesso a banco de dados relacional Oracle 8i.
+
+Vínculo institucional
+
+2000 - 2001
+Vínculo: Colaborador, Enquadramento Funcional: Estagiário, Carga horária: 20
+Outras informações
+Treinamento programador trainee plataforma Microsoft, com tecnologias VB 6.0, ActiveX, ADO, bancos de dados relacionais MS SQL Server 7.0 e MS SQL Server 2000.
+
+
+Tribunal de Contas do Estado, TCE, Brasil.
+Vínculo institucional
+
+2000 - 2001
+Vínculo: Colaborador, Enquadramento Funcional: Estagiário, Carga horária: 20
+Outras informações
+Programação de componentes Web reutilizáveis para uso em sistemas da Intranet da instituição. Tecnologias utilizadas: ASP, HTML, Java Script, CSS e banco de dados relacional MS SQL Server 6.5 com uso de TSQL através de stored procedures.
+
+
+
+Projetos de pesquisa
+2024 - Atual
+Investigação de Novas Abordagens Integrativas Envolvendo Internet das Coisas e Inteligência Artificial para Apoiar a Solução de Problemas Complexos
+Descrição: Há um crescimento mundial no desenvolvimento de soluções inovadoras que utilizem a Internet das Coisas (IoT - Internet of Things) para proporcionar agilidade, acurácia e eficiência na tomada de decisões mais assertivas em diversos setores, como agronegócio, Industria 4.0, Cidades Inteligentes, entre outros. De forma mais abrangente, é possível afirmar que os problemas complexos atualmente estão sendo resolvidos por meio de soluções que envolvem um conjunto de técnicas, metodologias e tecnologias disruptivas, como Inteligência Artificial (IA), Internet das Coisas, Big Data, Computação em Nuvem, Robótica, dentre outras. Um exemplo de problema complexo que está em evidência e possui potencial para ser solucionado por tais tecnologias é a mitigação de eventos extremos decorrentes de precipitações intensas. Em função das mudanças climáticas, a frequência, intensidade e duração de eventos extremos tem aumentado nos últimos anos, incluindo inundações, secas, tempestades e temperaturas extremas. Esses eventos muitas vezes culminam em perda de propriedades, custos financeiros e até vidas, especialmente em países pobres e em desenvolvimento.Neste sentido, estudos científicos que possam mitigar desastres decorrentes de precipitações intensas são fundamentais na medida em que evitam perdas financeiras e promovem a preservação da vida. A modelagem do fluxo e nível de água de um rio ou canal envolve em geral um modelo hidrológico para calcular a fonte de inundação gerada pelas chuvas e um modelo de cálculo hidrodinâmico usado para simular efetivamente o processo de escoamento da rede fluvial. Os estudos anteriores usam principalmente dados de pluviômetro como condição de contorno para conduzir o modelo hidrológico/hidrodinâmico e simular o nível e vazão de água, o que é adequado apenas para áreas naturais e com grande cobertura geográfica. Em áreas urbanas, a área de captação é pequena e a distância de confluência é curta. Portanto, uma tendência nos estudos recentes é aplicar um modelo de previsão de precipitações como a condição de contorno para conduzir os cálculos do modelo hidrológico/hidrodinâmico, o que melhora significativamente a previsão dos resultados. A proposta deste projeto é modelar o comportamento do nível da água de rios urbanos considerando modelos hidrológicos associados com a previsão de precipitações futuras, considerando o histórico hidrometeorológico da região analisada e sensoriamento em tempo real, fazendo uso de equipamentos já utilizado em projetos anteriores. A proposta será analisada sob a ótica de eventos extremos e precipitações ocorridas na Região Metropolitana do Recife (RMR) nos últimos anos. A pesquisa tem como objetivo sistematizar bases de dados relacionadas com o cenário considerado e fornecer um arcabouço preditivo que possa ser incorporado em sistemas de alertas dos órgãos públicos competentes. Além disso, problemas em outras temáticas podem ser investigados desde que possuam potencial para serem beneficiados pelo uso combinado de IoT e IA..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (4) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Obionor de Oliveira Nóbrega - Integrante / Ermeson C. de Andrade - Integrante.
+2022 - 2025
+Mitigação de Eventos Críticos Decorrentes de Precipitações Intensas com Apoio de Internet das Coisas e Inteligência Artificial: um Enfoque em Previsões Sobre o Nível da Água em Áreas Urbanas
+Descrição: Devido às mudanças climáticas, a frequência, intensidade e duração de eventosextremos tem aumentado nos últimos anos, incluindo inundações, secas, tempestadese temperaturas extremas. Esses eventos críticos muitas vezes culminam em perda depropriedades, custos financeiros e até vidas, especialmente em países pobres e emdesenvolvimento, nos quais não há ou há má gestão de desastres por dificuldadessociais e financeiras ou por falta de sinergia entre as ações de mitigação realizadas. NoBrasil, de 1994 a 2015 a estimativa de perdas causadas por desastres relacionados àágua foram R$ 182,7 bilhões. Inundações e deslizamentos de terra correspondem a40 desse montante e 39 dos desastres registrados. Neste sentido, estudoscientíficos e avanços tecnológicos que possam mitigar desastres decorrentes deprecipitações intensas são fundamentais na medida em que evitam perdas financeiras epromovem a preservação da vida. O fluxo e nível de água de um rio ou canal envolveuma modelagem hidrológica e hidrodinâmica e os estudos anteriores usamprincipalmente o processo de chuva observado pelo pluviômetro como condições decontorno para conduzir o modelo hidrológico/hidrodinâmico e simular o nível e vazão deágua. Em grandes bacias hidrográficas e áreas naturais, os modelos oferecem relativaprecisão quando a previsão pretendida envolve um grande espaço temporal. Em áreasurbanas, há desafios específicos que dificulta o uso com precisão de modelostradicionais, como: pequena área de captação; curta distância de confluência;construções decorrentes da urbanização e dutos subterrâneos que aceleram oescoamento das águas pluviais. Estes aspectos resultam em um curto tempo deresposta da água dos rios urbanos às precipitações e inviabilizam as abordagens demodelagem que exigem um tempo maior de resposta. Portanto, uma tendência nosestudos recentes é aplicar um modelo de previsão de precipitações, usando aprecipitação prevista como a condição de contorno para conduzir os cálculos do modelohidrológico/hidrodinâmico, o que melhora significativamente a período de previsão dosresultados. Este projeto de pesquisa pretende investigar e propor novas abordagenspara monitoramento e previsão do nível da água em áreas urbanas e com alertasemitidos para um curto espaço temporal, com potencial de antecipar desastres eoferecer à população e às autoridades responsáveis um tipo de informação queatualmente não está disponível. A proposta considera o uso combinado de sensores IoTde baixo custo, técnicas recentes de Inteligência Artificial e dados obtidos a partir depluviômetros, radar e sensores específicos, usando os modeloshidrográficos/hidrodinâmicos alimentados com dados preditivos para antecipação doseventos. Além disso, será considerada a instalação de pontos de monitoramentohidrometeorológicos na Região Metropolitana do Recife e parceria com as autoridadesde água locais, de modo a validar as abordagens propostas na pesquisa..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Carmelo José Albanez Bastos Filho - Integrante / Carlos Julian Menezes Araújo - Integrante / Ermeson C. de Andrade - Integrante / Kellyton Brito - Integrante / Francisco Paulo - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2022 - 2025
+Acolhe: Sistema de apoio ao acolhimento do cidadão em áreas de risco em situações de emergências decorrentes de desastres naturais
+Descrição: As mudanças climáticas e os seus impactos já são uma realidade para a população mundial e os eventos que confirmam essa percepção em nível global também são percebidos localmente. Estudos apontam que houve uma mudança no padrão das precipitações no estado de Pernambuco nos últimos anos, levando a eventos extremos máximos em várias regiões do estado que muitas vezes culminam em desastres. Considerando os estudos mais relacionados à mitigação dos danos provenientes desses desastres, destaca-se duas questões fundamentais: (i) o maior impacto na população com maior vulnerabilidade social, que vivencia maior número de óbitos e de perdas de bens materiais; e (ii) a necessidade da preparação do estado e da própria população em tempos de normalidade para uma rápida e efetiva resposta e acolhimento aos afetados quando ocorrerem os eventos. No contexto dessas questões fundamentais, observou-se nas últimas chuvas de 2022 o desafio do governo e da sociedade civil de Pernambuco em possuir e utilizar uma solução que pudesse coletar, centralizar e gerenciar os dados e informações de acolhimento das famílias desabrigadas e desalojadas nos diversos municípios, além da necessidade de sistemas de apoio de alertas à população. Assim, originado por uma prospecção realizada pela Secretaria de Ciência Tecnologia e Inovação do Estado de Pernambuco por soluções que pudessem contribuir com o rápido enfrentamento aos Desastres provocados pelas chuvas de junho de 2022, o Laboratório de Inovação em Governo Digital do Departamento de Computação da UFRPE iniciou o desenvolvimento do ?Acolhe: Sistema de apoio ao acolhimento do cidadão em áreas de risco em situações de emergências decorrentes de desastres naturais. Neste contexto, o objetivo deste projeto de pesquisa aplicada é, em articulação com a sociedade civil representada pela Central Única de Favelas (CUFA-PE), com o Governo do Estado de Pernambuco representado pela Secretaria Executiva de Defesa Civil do Estado, e com representantes do poder público municipal, como a Secretaria Executiva de Assistência Social de Olinda/PE, aprofundar a pesquisa e desenvolvimento deste eistema para que seja utilizado em ambiente real de produção quando das próximas precipitações intensas..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (3) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Vanilson Andre de Arruda Buregio - Integrante / Kellyton Brito - Coordenador / Leandro Marques do Nascimento - Integrante / George Augusto Valença Santos - Integrante / Sidney de Carvalho Nogueira - Integrante.
+2022 - 2024
+Plataforma da Indústria - PI
+Descrição: O objetivo do projeto é antecipar-se às falhas e evitar paradas não programadas de produção, prevendo o mal funcionamento de componentes como: rolamentos, engrenagens, além de defeitos comuns relacionados a eixos e rotores como desalinhamento, folga, desbalanceamento e cavitação, além de defeitos elétricos nas espiras de rotor e estator de motores elétricos, etc. Para tal, pretende-se abordar desde a definição de um protocolo de comunicação de alta performance e sensores IIoT para coleta dos dados à análise e predição para otimização da gestão da manutenção..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Ermeson C. de Andrade - Coordenador / Diego Moura Vieira - Integrante / Sergio Chevtchenko - Integrante.
+2021 - 2023
+INOVAÇÕES TECNOLÓGICAS PARA A PISCICULTURA DO ESTADO DE PERNAMBUCO
+Descrição: As soluções e inovações tecnológicas representam o motor da competição para a melhoria de diversos setores, uma vez que a manutenção da sustentabilidade e competitividade do modelo de produção necessita continuamente de avanços tecnológicos. Entre as principais contribuições para o desenvolvimento da Piscicultura, em particular tilapicultura, pode se citar a transformação digital em conjunto com a incorporação de tecnologias da informação e novas técnicas de processamento de pescado..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Obionor de Oliveira Nóbrega - Integrante / Fernando Antônio Aires Lins - Integrante / Alfredo Olivera Gálvez - Coordenador / Raquel Coimbra - Integrante / Suzianny Maria Bezerra Cabral da Silva - Integrante / LUIS OTAVIO BRITO - Integrante / Paulo Roberto Campagnoli de Oliveira Filho - Integrante / Elizabeth Pereira da Silva - Integrante / Jéssika Abreu - Integrante / Carlos Yure Barbosa de Oliveira - Integrante / Juliana Ferreira dos Santos - Integrante / Dijaci Araújo Ferreira - Integrante / Gelcirene de Albuquerque Costa - Integrante / Mateus Vitória Medeiros - Integrante / Vanilson Andre de Arruda Buregio - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2020 - 2022
+Planejamento de Infraestrutura para Redes 5G Apoiado por Técnicas de Inteligência Artificial
+Descrição: Enquanto a quarta geração de redes móveis (4G) surgiu para atender à crescente demanda por redes móveis tráfego de banda larga, a quinta geração (5G) está prevista para fornecer suporte contínuo a diversas aplicações, que estão além da comunicação pessoal. O 5G está sendo lançado e apontado como uma promessa revolucionar as comunicações e a experiência do usuário, permitindo o crescimento maciço do volume de tráfego, o aumento de dispositivos conectados e cobertura geral. As redes 5G permitirão uma ampla variedade de novas aplicações, como banda larga massiva e comunicações máquina a máquina, Internet tátil, virtual / aumentada realidade, entrega de mídia de alta definição, aplicações industriais, veículos autônomos e monitoramento em tempo real e controle. Para lidar com essa diversidade, a UIT (União Internacional de Telecomunicações) e 3GPP (Projeto de parceria de terceira geração) classificaram os serviços 5G em três categorias: serviços móveis aprimorados banda larga (eMBB), comunicação masssive-type machine (mMTC) e ultra-confiável e baixa latência Comunicação (URRLC) [5]. A primeira categoria está relacionada a altos requisitos de largura de banda, como alta vídeo de definição (dezenas de gigabytes de largura de banda) e aplicativos baseados em realidade aumentada. O segundo fornece conectividade para grande quantidade de dispositivos do tipo máquina que compõem a Internet das Coisas (IoT). mMTC serviços como detecção, medição e monitoramento requerem alta densidade de conexão e melhor eficiência energética. Várias novas tecnologias de acesso via rádio 5G, como ondas milimétricas (mm-Ondas), sistemas massivos de múltiplas entradas e saídas (massive multiple-input and multiple-output - M-MIMO), formação de feixe, multiponto coordenado (CoMP) e interferência intercelular aprimorada coordenação (eICIC) e diferentes arquiteturas de implantação (pequenas células, estações rádio-base integradas, rede centralizada de acesso via rádio C-RAN) introduzirá novos desafios no acesso / metro e transporte redes que não podem ser alcançadas pelas tecnologias existentes. Por exemplo, a rede principal de transporte precisa oferecer suporte à virtualização de funções EPC, como MME, SGW, PGW e HSS, e suas implantações ao longo dos CDs distribuídos geograficamente. O requisito de multilocação imposto pelo fatiamento da rede exigirá uma rede de transporte central altamente escalonável, reconfigurável e flexível, difícil de alcançar pela convencional Redes IP-over-WDM ou IP-over-DWDM. Assim, vários estudos apontam para uma integração entre os parte sem fio e redes ópticas elásticas de transporte (EON) para permitir redes 5G que atendem a todos os requisitos esperados para a próxima geração de serviços móveis. Embora os resultados iniciais baseados em pequenas demonstrações em escala de teste indicam que existe um potencial significativo em redes de transporte baseadas em EON, mais soluções complexas e detalhadas ainda não foram desenvolvidas. Muitos desses desafios serão destacados pelos recursos previstos e os casos de uso 5G. Este projeto tem como objetivo propor uma abordagem integrativa baseada em inteligência artificial para permitir a conexão sem fio Redes 5G. As soluções propostas serão acopladas como uma ferramenta de planejamento que considera usuários finais de redes 5G como casos de uso. Investigações e novos algoritmos serão propostos nas seguintes linhas de ação: i) novo algoritmo de otimização de muitos objetivos para lidar com o design físico e o RSMA para todos os três níveis de redes de infraestrutura; ii) um novo modelo de previsão para prever a demanda de tráfego em redes ópticas sem fio 5G baseado em aprendizado profundo; iii) novas estratégias para lidar com a tolerância a falhas para diferentes classes de serviços..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Emerson Alexandre de Oliveira Lima - Integrante.
+2019 - 2021
+Inteligência Artificial e Métodos Cognitivos em Redes Ópticas Elásticas para Viabilizar a Internet do Futuro
+Descrição: O objetivo geral do projeto consiste no desenvolvimento de soluções para os planos de dados e controle de redes ópticas, utilizando técnicas de inteligência computacional, métodos cognitivos, métodos de otimização e redes complexas, para a otimização da operação e do planejamento das redes. Com isso, pretende-se contribuir com o desenvolvimento desta tecnologia viabilizadora da Internet, no sentido de torná-la mais eficiente para atender às crescentes demandas de dados da internet do futuro. Processo FAPESP 2018/22878-1.
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (2) / Doutorado: (4) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Carmelo Jose Albanez Bastos Filho - Integrante / Erick de Andrade Barboza - Integrante / Daniel A. R. Chaves - Integrante / Joaquim Ferreira Martins Filho - Coordenador / Raul Camelo de Almeida Junior - Integrante / André V. S. Xavier - Integrante / Leonardo Didier Coelho - Integrante.
+Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Cooperação.
+2019 - 2021
+Integração de Dispositivos IoT para Monitoramento Remoto de Pontos Turísticos
+Descrição: O termo Internet das Coisas (Internet of Things - IoT) foi cunhado há alguns anos. A idéia básica desse conceito é a presença de uma variedade de objetos - como RFID, NFC, sensores, atuadores, telefones celulares que, por meio de esquemas de endereçamento exclusivos, são capazes de interagir entre si. Por outro lado, o Brasil tem os patrimônios naturais e a biodiversidade mais ricos do planeta, mas seu potencial turístico é limitado por deficiências em segurança, infraestrutura, mão de obra e outros fatores. O objetivo principal deste projeto é investigar e desenvolver uma prova de conceito de uma plataforma de apoio a turistas baseada em aplicativos para dispositivos móveis e um conjunto de equipamentos de IoT composto por estação meteorológica, câmera IP e placa controladora. De forma geral, os turistas poderão acompanhar em tempo real as condições climáticas e obter imagens de um ponto turístico remoto à sua localização física, de modo a potencializar áreas não exploradas e facilitar a programação do turista durante sua estadia. Adicionalmente, o projeto alcança o objetivo indireto de capacitação de recursos humanos qualificados na área de Internet das Coisas e Desenvolvimento de Aplicativos Móveis, a cooperação técnica entre atores do ecossistema de IoT e tecnologias de comunicação avançadas, além de potencializar o setor de turismo no Brasil..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (2) Doutorado: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Obionor de Oliveira Nóbrega - Integrante.
+Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Cooperação.
+2018 - 2020
+NOVAS ABORDAGENS PARA A OTIMIZAÇÃO DE PROBLEMAS DISCRETOS COM MUITOS OBJETIVOS CONFLITANTES USANDO TÉCNICAS DE INTELIGÊNCIA ARTIFICIAL
+Descrição: Muitos problemas desafiantes nos dias atuais envolvem a otimização de muitos objetivos conflitantes, dentre os quais podem ser citados: definição da topologia física em redes de telecomunicações considerando custo, robustez, desempenho, gasto energético; planejamento de transporte público considerando mais de um modal, custos e tempo de viagem; arquitetura para redes neurais e máquinas de aprendizagem profunda considerando o custo computacional, complexidade da arquitetura e acurácia. A lista completa de problemas de otimização sujeito a muitos objetivos conflitantes é extensa e permeia diversos outros domínios de aplicação como os encontrados em problemas sociais e biológicos, por exemplo. Problemas de otimização envolvendo muitos objetivos conflitantes são computacionalmente dispendiosos e geralmente têm sido apoiados por meta-heurísticas de otimização global. Um dos algoritmos mais promissores para tratar este tipo de problema é o NSGAIII, especialmente quando 4 ou mais objetivos conflitantes são considerados. Além disso, os algoritmos meméticos, que fazem uso de busca local no contexto de uma metaheurística de otimização global, tem demonstrado serem promissores para vários tipos de problemas. Por outro lado, Ciência das redes é uma área de investigação interdisciplinar que estuda redes complexas presentes em diferentes domínios de aplicação. Avanços importantes na Ciência das Redes estão relacionados com a proposição de modelos de geração de redes para criar grafos com propriedades topológicas semelhantes às propriedades encontradas em redes do mundo real. Neste sentido, quando os problemas de otimização para muitos objetivos são subclassificados para problemas discretos ou combinatoriais, nos quais seja possível modelar a relação entre as variáveis de decisão como uma estrutura em rede, as diversas técnicas de Inteligência Artificial podem ser combinadas com os avanços em Ciência das Redes para obter soluções de qualidade superior. No entanto, poucos estudos foram conduzidos neste sentido e diversas questões ainda estão em aberto. Esta proposta tem como objetivo principal propor novas abordagens para a otimização de problemas discretos, incluindo as redes geométricas que consideram a posição dos nós terminais como variáveis de decisão, tanto por meio de etapas de pré-processamento (que funcionam de forma offline), quanto por meio da otimização simultânea da posição dos nós e da topologia da rede. São objetivos específicos do projeto: propor modelos canônicos para geração de grafos geométricos que considere uma função de preferência para posições dos nós terminais; apresentar novas abordagens de otimização de redes geométricas que considera a otimização da posição de nós terminais em operadores de busca local de algoritmos de otimização iterativos; generalizar a proposta e ilustrar a aplicabilidade das abordagens obtidas em estudos de casos reais relacionados com redes relevantes para a sociedade, como otimização de redes de telecomunicações de alta capacidade, redes de transporte público e arquiteturas para máquinas de aprendizagem profunda..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Integrante / Péricles Barbosa Cunha de Miranda - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Auxílio financeiro.
+2018 - 2020
+Planejamento de Redes Geométricas Considerando a Otimização da Posição dos Nós da Rede
+Descrição: Ciência das redes é uma área de investigação interdisciplinar que estuda redes complexas presentes em diferentes domínios de aplicação, tais como as redes de telecomunicações, redes biológicas, redes neurais, redes sociais, dentre outras. Avanços importantes na Ciência das Redes estão relacionados com a proposição de modelos de geração de redes para criar grafos com propriedades topológicas semelhantes às propriedades encontradas em redes do mundo real. As redes classificadas como geométricas são aquelas nas quais a posição dos nós terminais exerce um papel importante na organização e no funcionamento da rede, como é o caso dos nós terminais em uma rede óptica de longa distância ou os terminais de ônibus em uma rede de transporte público. Por outro lado, o planejamento/otimização de redes é uma tarefa classificada como NP-difícil e normalmente é apoiada por algoritmos heurísticos e meta-heurísticos que possam oferecer soluções sub-ótimas, mas com baixa complexidade computacional. Neste sentido, diversas técnicas de Inteligência Computacional são aplicáveis em diferentes etapas de um planejador de redes, desde técnicas de clusterização em etapas de pré-processamento, passando por motores de otimização baseados em algoritmos evolucionários, até o uso de modelos substitutos para avaliação de desempenho de redes construídos a partir de técnicas de regressão/classificação. Em virtude do elevado custo computacional, em geral, a posição dos nós em redes geométricas é definida à priori pelo projetista devido à complexidade da otimização conjunta da posição dos nós e da topologia física da rede. Contudo, estudos recentes demonstraram que é possível melhorar o desempenho de redes geométricas quando o projeto da rede considera a posição dos nós como uma variável de decisão do problema. No entanto, poucos estudos foram conduzidos neste sentido e diversas questões ainda estão em aberto. Este projeto de pesquisa tem como objetivo principal propor novas abordagens para o planejamento de redes geométricas que considera a posição dos nós terminais como variáveis de decisão, tanto por meio de etapas de pré-processamento (que funcionam de forma offline), quanto por meio da otimização simultânea da posição dos nós e da topologia da rede. o desenvolvimento de novas abordagens para planejamento de redes que forneçam soluções equilibradas em termos de resiliência, desempenho e custo, mas que também considerem restrições de tempo de execução para uso prático das abordagens para redes ópticas com dezenas de nós terminais. São objetivos específicos do projeto: fornecer um panorama geral sobre o impacto de diversos algoritmos de clusterização quando aplicados em etapas de pré-processamento do planejamento de redes geométricas; apresentar novas abordagens de otimização de redes geométricas que considera a otimização da posição de nós terminais em operadores de busca local de algoritmos de otimização iterativos; ilustrar a aplicabilidade das abordagens obtidas em estudos de casos reais relacionados com redes relevantes para a sociedade, como otimização de redes de telecomunicações de alta capacidade ou redes de transporte público, por exemplo..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Péricles Barbosa Cunha de Miranda - Integrante.
+2018 - 2018
+Planejamento de redes ópticas elásticas apoiado por otimização robusta para muitos objetivos
+Descrição: O crescente aumento de demanda por taxa de transmissão, relacionado em sua maior parte pelo crescimento contínuo de tráfego de Internet, tem sido suprido nos últimos anos principalmente por comunicações por fibra óptica. Considerando as recentes investigações sobre eficiência espectral, percebe-se que há um crescente interesse em novas arquiteturas de redes ópticas, como por exemplo a denominada de arquitetura elástica ou gridless, que não possui uma grade fixa e uniformemente espaçada de comprimentos de onda. Diversas soluções já foram propostas para análise e planejamento de redes ópticas DWDM. Entretanto, diferente das ferramentas de análise e projeto de redes DWDM, pouco tem sido feito no sentido do desenvolvimento de ferramentas próprias para auxiliar o projeto de redes elásticas que considere a otimização de vários objetivos conflitantes simultaneamente. O problema de projeto de redes é classificado na categoria NP-Difícil e por este motivo é comum o uso de meta-heurísticas de otimização para obtenção de soluções subótimas em um baixo tempo de execução. Por outro lado, a avaliação da qualidade de soluções para projetos de redes ópticas geralmente é feita usando simuladores de redes, o que torna a tarefa de otimização computacionalmente custosa. Este projeto propõe uma nova abordagem para otimização de redes elásticas que considere diversos objetivos conflitantes usando modelos substitutos para acelerar o processo de busca. Os modelos substitutos serão incorporados ao processo de otimização usando técnicas de otimização robusta, incluindo a análise de incerteza no uso dos meta-modelos. A nova abordagem será comparada com soluções existentes em termos de capacidade convergência, diversidade de soluções e tempo de execução. A abordagem proposta será ainda usada para simular o cenário de construção de uma rede de fibra óptica com arquitetura gridless para o Estado de Pernambuco, de modo a evidenciar as vantagens dessa nova proposta em um cenário prático local..
+Situação: Desativado; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2017 - 2020
+PLANEJAMENTO DE REDES ÓPTICAS ELÁSTICAS PARA OBTENÇÃO DE PROJETOS RESILIENTES, DE BAIXO CUSTO E DE ALTO DESEMPENHO
+Descrição: Alguns estudos já investigaram técnicas para planejamento de topologia física de redes WDM e DWDM. Contudo,há uma carência sobre ferramentas automáticas para projeto de redes ópticas elásticas, que é uma área de investigação recente. Este projeto pretende contribuir para o preenchimento desta lacuna. Este projeto de pesquisa pretende investigar novas técnicas para planejamento físico de redes ópticas elásticas. A modelagem do projeto usa como dados de entrada: a posição geográfica dos nós, um algoritmo de roteamento e atribuição de espectro (Routing and. Spectrum Assignment - RSA) e uma demanda de tráfego. A proposta de planejamento de rede retornada pela ferramenta de otimização deverá informar quais enlaces serão usados na rede, a configuração dos slots de frequência e os modelos de dispositivos ópticos empregados (como amplificador óptico e WSS - Wavelength Selective Switching). É imposta a restrição de que a topologia física encontrada seja um grafo conectado e a resiliência da rede será avaliada por meio de métricas topológicas e por simulações de falha simples e duplas..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Integrante / Raul Camelo de Almeida Junior - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2016 - 2017
+Novas Abordagens para Planejamento de Redes Ópticas DWDM Considerando Requisitos de Desempenho, de Resiliência e de Custo
+Descrição: A demanda por altas taxas de transmissão é historicamente suprida por redes de fibra óptica. O projeto de uma nova rede óptica ou a expansão de uma rede existente é uma tarefa complexa pois envolve diversas variáveis com impactos em desempenho, custo e robustez. O planejamento de uma rede é classificado como um problema NP-difícil. De modo a viabilizar a construção de ferramentas para o planejamento de redes ópticas, estudos recentes fizeram uso de meta-heurísticas para auxiliar o processo de otimização. Contudo, a avaliação do desempenho de uma rede óptica ainda é um gargalo no processo de otimização, pois requer simulações de vários dias para avaliação de redes de médio porte. Este projeto será pioneiro em propor e aplicar regressão simbólica para a obtenção de meta-modelos que possam substituir os simuladores e estudar formas alternativas de quantificar a resiliência em redes. A proposta é relevante, pois além do pioneirismo técnico, o projeto aplicará as técnicas desenvolvidas para projetar redes ópticas com abrangência no estado de Pernambuco..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+Número de produções C, T & A: 1
+2015 - 2018
+Planejamento de Redes Ópticas Usando Técnicas de Inteligência Computacional para Provimento de Redes Resilientes, de Alto Desempenho e de Baixo Custo
+Descrição: A infraestrutura de transporte para Internet e outros serviços de telecomunicações que exigem elevada taxa de transmissão é constituída basicamente por redes de comunicações ópticas. Em redes com estabelecimento dinâmico de requisições, algumas das requisições podem não ser atendidas devido à indisponibilidade de um caminho óptico, decorrente da ausência de um canal ou de restrições de Qualidade de Transmissão (QoT). O desempenho global de uma rede pode ser melhorado por meio da expansão da malha de fibra óptica ou por meio do uso de equipamentos mais sofisticados nos nós da rede. Entretanto, diferentes escolhas realizadas na fase de planejamento de uma rede podem acarretar em diferentes níveis de resiliência, de desempenho e de custo de implantação. Algoritmos evolucionários multiobjetivos foram usados em trabalhos anteriores sobre planejamento de redes para tratar os objetivos conflitantes, mas estas propostas apresentam elevado custo computacional e são inviáveis para o planejamento de redes com muitos nós, devido à necessidade de ativar simuladores de redes diversas vezes durante o processo. Estudos recentes aplicaram o conceito de modelos substitutos para diminuir o custo computacional de algoritmos evolucionários aplicados à projetos de redes, mas mesmo considerando o estado da arte em planejamento de redes ópticas, os resultados indicam que projetos complexos exigem diversos dias para execução e os algoritmos são limitados a fornecer soluções relacionadas com ótimos locais. Este projeto de pesquisa tem como objetivo principal o desenvolvimento de novas abordagens para planejamento de redes que forneçam soluções equilibradas em termos de resiliência, desempenho e custo, mas que também considerem restrições de tempo de execução para uso prático das abordagens para redes ópticas com dezenas de nós terminais. São objetivos específicos do projeto: o desenvolvimento de modelos substitutos baseados em aprendizagem de máquina para quantificação do desempenho de redes ópticas; o desenvolvimento de novas métricas topológicas para quantificar a resiliência de uma rede; o desenvolvimento de algoritmos evolucionários híbridos para planejamento de redes ópticas; o desenvolvimento de novos modelos para geração de grafos que representem topologias físicas de redes ópticas; a aplicação das abordagens desenvolvidas para o planejamento de redes de transporte ópticas em operação na atualidade, de modo a permitir uma avaliação objetiva das contribuições do projeto, e em especial, a aplicação em redes brasileiras, como a RNP e as redes dos provedores nacionais de Internet..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+
+
+Projetos de extensão
+2016 - 2016
+Recrutamento e Capacitação de Voluntários no Estado de Pernambuco Usando Tecnologia da Informação e Comunicação
+Descrição: O trabalho voluntário está previsto na Lei 9.608/1998 como atividade não remunerada prestada por pessoa física à entidade pública ou privada de fins não lucrativos. Considerando as características inerentes ao trabalho voluntário, um dos desafios para o aumento do efetivo de pessoas dispostas ao voluntariado está relacionado com a aderência das habilidades e preferências das pessoas em realizar determinada atividade. Além disso, outros fatores devem ser considerados, tais como o tempo disponível para realização do trabalho e a proximidade do voluntário ao local de prestação do serviço. Normalmente, o alinhamento entre o perfil do voluntariado e os serviços necessários é executado por triagem manual nas diversas entidades sem fins lucrativos e antes de iniciar suas atividades, o voluntário precisa realizar um curso de capacitação. Percebe-se que há uma lacuna no processo de prestação de serviço voluntário relacionada com a existência de uma ferramenta computacional que possa recomendar atividades a serem prestadas por trabalho voluntário que considere as características individuais de cada cidadão e apoie o processo de capacitação. A proposta deste trabalho é desenvolver um sistema baseado em TIC, em parceria com ONGs parceiras, no qual as pessoas possam ser automaticamente direcionadas à ONGs que possuam alinhamento com o perfil do voluntário. O perfil do voluntariado será composto por características diversas, tais como: área de atuação do indivíduo (educação, saúde, esporte, etc.), agenda disponível e localização geográfica. Além disso, o projeto visa prover um sistema para gestão de capacitações oferecidas pelas ONGs para conscientização do trabalho voluntário..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Valmir Macário Filho - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2016 - 2016
+Uma Proposta Baseada em Agregação de Tráfego de Redes Celulares para Provimento de Internet de Alta Capacidade em Regiões de Difícil Acesso no Estado de Pernambuco
+Descrição: A Internet evoluiu de um sistema de troca de informações de hipertexto entre universidades para um sistema global de comunicação entre pessoas, oferecendo novas formas de realizar tarefas importantes em diversos domínios de aplicação, tais como os ligados à educação, comércio eletrônico, saúde, entretenimento, etc. Embora a Internet seja comprovadamente benéfica para a população em geral, o seu acesso ainda não é garantido para todos. Algumas regiões não possuem acesso à Internet e outras possuem um acesso de baixa qualidade. Com o objetivo de tentar democratizar o uso da Internet e levar a tecnologia para áreas menos favorecidas, algumas ações vem sendo desenvolvidas. Na Índia, por exemplo, existe uma iniciativa para levar atendimento à população rural, por meio do uso da Internet móvel por agregação de conexões de redes celulares. No estado de Pernambuco há um quadro de completo desfavorecimento no acesso à Internet em alguns municípios. Este projeto de extensão tem como objetivo principal aplicar tecnologias de agregação de tráfego de redes celular es para oferecer acesso à Internet de qualidade em municípios do estado de Pernambuco que possuam carência na prestação de tal serviço. Considerando que, embora muitos municípios não possuam acesso à Internet por fibra óptica, a maioria deles possui acesso a redes de telefonia celular e por várias operadoras. Portanto, no projeto serão usadas descobertas recentes para permitir o uso de Internet de qualidade usando a agregação de diversas conexões da telefonia celular. A proposta será aplicada como um projeto piloto no município de Taquaritinga do Norte..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (3) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Jeísa Pereira de Oliveira Domingues - Integrante / Obionor de Oliveira Nóbrega - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2015 - 2015
+Uso da Tecnologia da Informação e Comunicação para o Fortalecimento do Trabalho Voluntário no Estado de Pernambuco
+Descrição: Considerando as características inerentes ao trabalho voluntário, um dos desafios para o aumento do efetivo de pessoas dispostas ao voluntariado está relacionado com a aderência das habilidades e preferências das pessoas em realizar determinada atividade. Normalmente, o alinhamento entre o perfil do voluntariado e os serviços necessários é executado por triagem manual nas diversas entidades sem fins lucrativos. Portanto, percebe-se que há uma lacuna no processo de prestação de serviço voluntário relacionada com a existência de uma ferramenta computacional que possa recomendar atividades a serem prestadas por trabalho voluntário que considere as características individuais de cada cidadão. A proposta deste projeto é desenvolver um portal Web, em parceria com ONGs da RMR, no qual as pessoas possam informar o interesse no voluntariado e instituições sem fins lucrativos possam cadastrar os serviços voluntários disponíveis. O portal desenvolvido irá recomendar automaticamente pares de serviços e voluntários com base na adequação do perfil do voluntariado com as atividades existentes..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (3) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Valmir Macário Filho - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2014 - 2014
+Um Portal Web para Recomendação de Trabalhos Voluntários com Base no Perfil do Voluntariado
+Descrição: O trabalho voluntário está previsto em lei como atividade não remunerada prestada por pessoa física a entidade pública ou a instituição privada de fins não lucrativos. Considerando as características inerentes ao trabalho voluntário, um dos desafios para o aumento constante do efetivo de pessoas dispostas ao voluntariado está relacionado com a aderência das habilidades e preferências das pessoas em realizar determinada atividade. A proposta deste trabalho é desenvolver um portal Web no qual as pessoas possam informar o interesse no voluntariado e instituições sem fins lucrativos possam cadastrar os serviços voluntários disponíveis. O portal desenvolvido irá recomendar automaticamente pares de serviços e voluntários com base na adequação do perfil do voluntariado com as atividades existentes. O perfil do voluntariado será composto por características diversas, tais como: área de atuação do indivíduo (educação, saúde, esporte, etc.), agenda disponível e localização geográfica..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Valmir Macário Filho - Integrante.
+
+
+Projetos de desenvolvimento
+2020 - 2022
+Ferramenta de Planejamento de Redes Ópticas Parte 6
+
+Projeto certificado pelo(a) coordenador(a) Joaquim Ferreira Martins Filho em 16/09/2021.
+Descrição: Descrição: Desenvolvimento de novas funcionalidades para a ferramenta computacional para planejamento de redes de comunicação óptica da PADTEC. Proc. UFPE: 23076.013282/2020-62, Convênio 29/2020 - UFPE..
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Daniel A. R. Chaves - Integrante / Joaquim F. Martins Filho - Coordenador / André V. S. Xavier - Integrante / BASTOS-FILHO, CARMELO - Integrante / ALMEIDA-JUNIOR, R. C. - Integrante.
+Financiador(es): Padtec - Optical Components and Systems - Auxílio financeiro.
+2019 - 2020
+Ferramenta de Planejamento de Redes Ópticas Parte 5
+
+Projeto certificado pelo(a) coordenador(a) Joaquim Ferreira Martins Filho em 16/09/2021.
+Descrição: Desenvolvimento de novas funcionalidades para a ferramenta computacional para planejamento de redes de comunicação óptica da PADTEC. Proc. UFPE: 23076.038596/2018-70, convênio 70/2018-UFPE..
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Erick de Andrade Barboza - Integrante / Joaquim F. Martins Filho - Coordenador / André V. S. Xavier - Integrante / Leonardo Didier Coelho - Integrante / BASTOS-FILHO, CARMELO - Integrante / ALMEIDA-JUNIOR, R. C. - Integrante.
+Financiador(es): Padtec - Optical Components and Systems - Auxílio financeiro.
+2017 - 2018
+Ferramenta de Planejamento de Redes Ópticas Parte 4
+Descrição: Desenvolvimento de funcionalidades adicionais para a ferramenta computacional para simulação e planejamento de redes ópticas. Convênio UFPE 12/2017, processo 23076.028618/2016-21..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (3) Graduação: (1) / Doutorado: (3) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Erick de Andrade Barboza - Integrante / Daniel A. R. Chaves - Integrante / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Coordenador / Raul Camelo de Almeida Junior - Integrante / André V. S. Xavier - Integrante / Leonardo Didier Coelho - Integrante / Marcionilo J. Silva - Integrante.
+Financiador(es): Padtec - Optical Components and Systems - Auxílio financeiro.
+2015 - 2016
+Ferramenta de Planejamento de Redes Ópticas, Parte 3
+Descrição: Desenvolvimento de funcionalidades adicionais para a ferramenta computacional para simulação e planejamento de redes ópticas. Processo nº 23076.045686/2014-93. / Convênio n 11/2015-UFPE..
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Carmelo Jose Albanez Bastos Filho - Integrante / Erick de Andrade Barboza - Integrante / Daniel Augusto Ribeiro Chaves - Integrante / Joaquim Ferreira Martins Filho - Coordenador / Raul Camelo de Almeida Junior - Integrante / André V. S. Xavier - Integrante.
+2013 - 2014
+Evolução da Ferramenta de Planejamento de Redes Ópticas
+Descrição: Desenvolvimento de funcionalidades adicionais para a ferramenta computacional para simulação e planejamento de redes ópticas..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (3) / Doutorado: (2) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Carmelo Jose Albanez Bastos Filho - Integrante / Helder Alves Pereira - Integrante / Daniel Augusto Ribeiro Chaves - Integrante / Joaquim Ferreira Martins Filho - Coordenador / Raul Camelo de Almeida Junior - Integrante / André V. S. Xavier - Integrante.
+Financiador(es): Padtec - Optical Components and Systems - Auxílio financeiro.
+2012 - 2013
+Ferramenta de Planejamento de Redes Ópticas
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Integrante / Carmelo Jose Albanez Bastos Filho - Integrante / Daniel A. R. Chaves - Integrante / Joaquim F. Martins Filho - Coordenador / Helder Alves Pereira - Integrante / Renan V. B. Carvalho - Integrante.
+Financiador(es): Padtec - Optical Components and Systems - Auxílio financeiro.
+
+
+Membro de corpo editorial
+2016 - Atual
+Periódico: Applied Soft Computing (Print)
+
+
+Revisor de periódico
+2024 - Atual
+Periódico: Journal of Reliable Intelligent Environments
+2022 - Atual
+Periódico: IEEE Access
+2018 - Atual
+Periódico: Journal of Optical Communications and Networking
+2017 - Atual
+Periódico: Engineering Applications of Artificial Intelligence
+2016 - 2016
+Periódico: Expert Systems with Applications
+2016 - Atual
+Periódico: Journal of Microwaves, Optoelectronics and Electromagnetic Applications
+2015 - 2016
+Periódico: Journal of Communication and Information Systems (Online)
+2014 - Atual
+Periódico: Applied Soft Computing (Print)
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Redes de Computadores.
+2.
+Grande área: Engenharias / Área: Engenharia Elétrica / Subárea: Telecomunicações/Especialidade: Comunicações Ópticas.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Computacional.
+
+
+Idiomas
+Inglês
+Compreende Razoavelmente, Fala Razoavelmente, Lê Bem, Escreve Bem.
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+
+
+Prêmios e títulos
+2025
+Professor Homenageado, Concluintes do Curso de Graduação em Licenciatura em Computação - Turma 2025.1, UFRPE.
+2021
+Professor Homenageado, Concluintes do Curso de Bacharelado em Sistemas de Informação - UAEADTec - Turma 2020.4, Universidade Federal Rural de Pernambuco.
+2019
+Professor Homenageado, Concluintes do Curso de Graduação em Licenciatura Plena de Computação - Turma 2018.2, Universidade Federal Rural de Pernambuco.
+2019
+Patrono dos concluintes 2019.1 do curso de Licenciatura Plena em Computação da UFRPE, Universidade Federal Rural de Pernambuco.
+2018
+Professor Homenageado, Concluintes do Curso de Graduação em Licenciatura Plena de Computação - Turma 2018.', Universidade Federal Rural de Pernambuco.
+2017
+Patrono dos concluintes 2016.2 do curso de Licenciatura Plena em Computação da UFRPE, Universidade Federal Rural de Pernambico.
+2017
+Paraninfo dos concluintes 2017.1 do curso de Licenciatura Plena em Computação da UFRPE, Universidade Federal Rural de Pernambuco.
+2016
+Professor Homenageado, Concluintes do Curso de Graduação em Licenciatura Plena de Computação - Turma 2015.2, Universidade Federal Rural de Pernambuco.
+2016
+Professor Homenageado, Concluintes do Curso de Graduação em Licenciatura Plena de Computação - Turma 2016.1, Universidade Federal Rural de Pernambuco.
+2016
+Melhor artigo da trilha de Computação Evolucionária e Inteligência de Enxames apresentado no 2016 IEEE LA-CCI (Latin American Conference on Computational Intelligence), Sociedade Latino Americana de Inteligência Computacional.
+2015
+Professor Homenageado, Concluintes do Curso de Graduação em Licenciatura Plena de Computação - Turma 2015.1, Universidade Federal Rural de Pernambuco.
+2015
+1º Lugar em Concurso de Trabalhos Científicos Submetidos ao Evento SECOMP 2015, Universidade Federal Rural de Pernambuco.
+2015
+Outstanding reviewer for the Applied Soft Computing Journal. Status for the top 10th percentile of reviewers in the last two years., Elsevier, Amsterdam, The Netherlands.
+2014
+Professor Homenageado, Concluintes do Curso de Graduação em Licenciatura Plena de Computação - Turma 2014.1, Universidade Federal Rural de Pernambuco.
+2013
+1º Lugar no concurso público 26/2012 para seleção de Professor Assistente na área de Redes de Computadores/Tópicos Avançados em Redes de Computadores, UFRPE - Universidade Federal Rural de Pernambuco.
+2010
+1º Lugar em trabalho de pós-graduação da UPE, UPE - Universidade de Pernambuco.
+2005
+Sun Certified Programmer for the Java Platform, Standard Edition 5.0 (CX-310-055), Sun Microsystems.
+
+
+Produções
+
+Produção bibliográfica
+Citações
+
+Web of Science
+Total de trabalhos: 20Total de citações: 78Data: 27/09/2023Fator H: 5
+Araújo, Danilo R. B.
+
+SCOPUS
+Total de trabalhos: 31Total de citações: 172Data: 27/09/2023
+ARAÚJO, D. R. B
+
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+SILVA, J. C. ; XAVIER, A. V. S. ; MARTINS-FILHO, J. F. ; BASTOS-FILHO, C. J. A. ; CHAVES, Daniel A. R. ; OLIVEIRA, A. ; ALMEIDA JUNIOR, R. C. ; ARAÚJO, D. R. B. ; MARTINS, J. A. . Multi-objective Evolutionary Algorithm for the Design of Resilient OTN over DWDM Networks. OPTICAL FIBER TECHNOLOGY, v. 1, p. 1-18, 2025.
+
+2.
+MONTARROYOS, I. P. P. ; ARAÚJO, DANILO R. B. . Optimization of Public Transport Networks by Considering Alternative Positions for Network Stations. IEEE Latin America Transactions, v. 22, p. 468-474, 2024. Citações:3|1
+
+3.
+SILVA, E. M. ; ARAÚJO, D. R. B. ; ANDRADE, E. C. . Performance Evaluation and Operational Availability of a Textile Manufacturing 4.0 Using Stochastic Petri Nets. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA, v. 31, p. 31-42, 2024.
+
+4.
+SILVA, S. A. ; BASTOS-FILHO, C. J. A. ; ARAÚJO, D. R. B. ; ALMEIDA JUNIOR, R. C. . Strategy for Resource Allocation in Elastic Optical Networks Considering Physical Layer Impairments and Spectrum Fragmentation. JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS, v. 23, p. 1-18, 2024.
+
+5.
+NASCIMENTO, J. C. ; ARAÚJO, D. R. B. ; MIRANDA, P. B. C. ; BASTOS-FILHO, C. J. A. . Memetic evolutionary algorithms to design optical networks with a local search that improves diversity. EXPERT SYSTEMS WITH APPLICATIONS, v. 232, p. 1-16, 2023. Citações:4|4
+
+6.
+CHEVTCHENKO, ; ROCHA, E. S. ; SANTOS, M. C. M. ; MOTA, R. L. ; VIEIRA, D. M. ; ANDRADE, ERMESON CARNEIRO DE ; ARAÚJO, D. R. B. . Anomaly Detection in Industrial Machinery Using IoT Devices and Machine Learning: A Systematic Mapping. IEEE Access, v. 11, p. 128288-128305, 2023. Citações:25|5
+
+7.
+SILVA, H. ; ANDRADE, E. C. ; ARAÚJO, DANILO R. B. ; DANTAS, J. . Sentiment Analysis of Tweets Related to SUS Before and During COVID-19 pandemic. IEEE Latin America Transactions, v. 20, p. 6-13, 2022. Citações:7|17
+
+8.
+FONSECA, V. M. F. ; ARAÚJO, D. R. B. ; NOBREGA, O. O. ; SILVA, L. O. B. . Energy efficiency of aerators with IoT support in Aquaculture 4.0: a systematic literature review. Brazilian Journal of Development, v. 8, p. 39429-39443, 2022.
+
+9.
+PIMENTEL, HENRIQUE PABLO PINHEIRO DOS SANTOS ; SILVA, EDSON MOURA ; ANDRADE, ERMESON CARNEIRO DE ; ARAÚJO, DANILO RICARDO BARBOSA DE . Modelos preditivos para o setor têxtil: estudo de Caso de uma empresa de confecções do polo Agreste de Pernambuco.. RMP - REVISTA DOS MESTRADOS PROFISSIONAIS, v. 11, p. 221, 2022.
+
+10.
+LIMA, FELIPE C. N. O. ; ARAÚJO, LIVISGHTON K. S. ; SILVA, SÉGIO A. ; MARTINS-FILHO, JOAQUIM F. ; ARAÚJO, DANILO R. B. ; BARBOZA, ERICK A. ; OLIVEIRA, ARYSSON S. ; BASTOS-FILHO, Carmelo J. A. . Defining amplifier?s gain to maximize the transmission rate in optical systems using evolutionary algorithms and swarm intelligence. PHOTONIC NETWORK COMMUNICATIONS, v. 1, p. 1, 2022. Citações:3
+
+11.
+XAVIER, A. V. S. ; SILVA, J. C. ; MARTINS-FILHO, J. F. ; BASTOS-FILHO, C. J. A. ; CHAVES, D. A. R. ; ALMEIDA JUNIOR, R. C. ; ARAÚJO, D. R. B. ; MARTINS, J. A. . Heuristic planning algorithm for sharing restoration interfaces in OTN over DWDM networks. OPTICAL FIBER TECHNOLOGY, v. 61, p. 102426, 2021. Citações:8|10
+
+12.
+ARAÚJO, D. R. B.; NOBREGA, O. O. ; FONSECA, V. M. F. ; NASCIMENTO, J. C. ; FELIX, E. F. ; FONSECA, E. L. A. . Uma solução baseada em internet das coisas para apoiar o turismo de natureza. RESEARCH, SOCIETY AND DEVELOPMENT, v. 10, p. e32210918271, 2021.
+
+13.
+BASTOS-FILHO, C. J. A. ; ARAÚJO, D. R. B. ; MARTINS-FILHO, J. F. . SuMCET: Support Machines on Clustered Electric Transformers. REVISTA DE ENGENHARIA E PESQUISA APLICADA, v. 5, p. 27-35, 2020.
+
+14.
+SOUSA, R. S. ; ARAÚJO, D. R. B. . Um Sistema para Predição de Risco de Acidentes em Rodovias de Pernambuco. REVISTA DE ENGENHARIA E PESQUISA APLICADA, v. 5, p. 18-26, 2020.
+
+15.
+ANDRADE, E. C. ; NOGUEIRA, B. ; FARIAS JUNIOR, I. ; ARAÚJO, D. R. B. . Performance and Availability Trade-offs in Fog-Cloud IoT Environments. Journal of Network and Systems Management, v. 29, p. 1-27, 2020.
+
+16.
+BASTOS-FILHO, C. J. A. ; ARAÚJO, D. R. B. ; MARTINS-FILHO, J. F. . Usando Inteligência Computacional para Problemas em Telecomunicações. Revista de Tecnologia da Informação e Comunicação, v. 5, p. 27-35, 2018.
+
+17.
+ARA?JO DE SOUZA CAMPOS, GLEIDSON ; BARBOSA DE ARA?JO, DANILO RICARDO . Agrega??o de Tr?fego de Redes Celulares como Catalisador de Neg?cios Inteligentes para Usu?rios que Demandam Altas Taxas de Transmiss?o. GESTÃO.ORG, v. 14, p. 319-326, 2017.
+
+18.
+NASCIMENTO, JEAN RODRIGUES ; BARBOSA DE ARAUJO, DANILO RICARDO . Comparação entre Servidores de Banco de Dados Tradicionais e Sistemas Dedicado: um estudo de caso sobre a aplicação do Oracle Exatada Software. REVISTA DE ENGENHARIA E PESQUISA APLICADA, v. 2, p. 1-10, 2017.
+
+19.
+SILVA, R. G. ; ARAÚJO, D. R. B. . Proposta de um Sistema de Apoio à Doação Sanguínea Baseado em Gamificação. REVISTA DE ENGENHARIA E PESQUISA APLICADA, v. 2, p. 47-59, 2017.
+
+20.
+LIMA, N. J. S. ; BASTOS-FILHO, C. J. A. ; ARAÚJO, D. R. B. . Boolean Operators to Improve Multi-Objective Evolutionary Algorithms for Designing Optical Networks. JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS, v. 15, p. 319-332, 2016. Citações:2
+
+21.
+LUZ, ANDRÉ LUIZ XIMENES GONÇALVES DA ; ARAÚJO, DANILO RICARDO BARBOSA DE . Plataforma Colaborativa para Auxílio na Identificação de Casos Suspeitos de Doenças da Tríplice Epidemia e Focos do Mosquito Aedes Aegypit. REVISTA DE ENGENHARIA E PESQUISA APLICADA, v. 3, p. 1-11, 2016.
+
+22.
+ ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Methodology to Obtain a Fast and Accurate Estimator for Blocking Probability of Optical Networks. Journal of Optical Communications and Networking (Print), v. 7, p. 380-391, 2015. Citações:24|32
+
+23.
+ ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . An evolutionary approach with surrogate models and network science concepts to design optical networks. Engineering Applications of Artificial Intelligence, v. 43, p. 67-80, 2015. Citações:23|24
+
+24.
+ ARAÚJO, D. R. B.; J. F. MARTINS-FILHO ; BASTOS-FILHO, C. J. A. . New Graph Model to Design Optical Networks. IEEE Communications Letters (Print), v. PP, p. 1-4, 2015. Citações:7|8
+
+25.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Métricas de Redes Complexas para Análise de Redes Ópticas. Revista de Tecnologia da Informação e Comunicação, v. 4, p. 11-18, 2014.
+
+26.
+ARAÚJO, D. R. B.; BASTOS-FILHO, Carmelo J. A. ; CARVALHO, Renan V. B. ; CHAVES, Daniel A. R. ; Martins Filho, Joaquim F . Avanços em Planejamento de Redes Ópticas WDM Utilizando Inteligência Computacional. Revista de Tecnologia da Informação e Comunicação, v. 2, p. 1-8, 2012.
+
+Livros publicados/organizados ou edições
+
+1.
+ARAÚJO, D. R. B.. Algoritmos evolucionários para otimização multiobjetiva: um estudo comparativo para projetos de redes ópticas. 1. ed. Saarbrücken: Novas Edições Acadêmicas, 2015. v. 1. 152p .
+
+Capítulos de livros publicados
+
+1.
+FONSECA, V. M. F. ; ARAÚJO, D. R. B. ; NOBREGA, O. O. ; SILVA, L. O. B. . Eficiência Energética de Aeradores com apoio de IoT na Aquicultura 4.0: uma revisão sistemática da literatura. In: João Paulo Perbiche. (Org.). Os Impactos das Tecnologias nas Ciências Exatas. 1ed.São José dos Pinhais: Brazilian Journals Publicações de Periódicos e Editora, 2022, v. 1, p. 120-137.
+
+2.
+ARAÚJO, D. R. B.; MARTINS-FILHO, J. F. ; BASTOS-FILHO, C. J. A. . Non-supervised Learning Applied to Analysis of Topological Metrics of Optical Networks. In: Nadia Nedjah. (Org.). Designing With Computational Intelligence. 1ed.: Springer, 2016, v. 1, p. 1-19.
+
+3.
+ ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Using the Entropy of DFT of the Laplacian Eigenvalues to Assess Networks. Studies in Computational Intelligence. Complex Networks V. 1ed.: Springer, 2014, v. 549, p. 209-216.
+
+Textos em jornais de notícias/revistas
+
+1.
+ARAÚJO, D. R. B.. Ideias que motivam os alunos: uso de redes sociais como ferramenta facilitadora no processo ensino-aprendizagem. Jornal Flor do Mandacaru - Grupo Devry Brasil, p. 8 - 8, 01 dez. 2012.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+PIMENTEL, H. P. P. S. ; FREITAS, F. A. ; NOBREGA, O. O. ; ARAÚJO, DANILO R. B. . Proposal of Communication Infrastructure for Aquaculture 4.0 Based on LoRaWAN. In: 1st IEEE Latin American Conference on Internet of Things, 2025, Fortaleza. Procedings of the 1st IEEE Latin American Conference on Internet of Things, 2025. v. 1. p. 1-4.
+
+2.
+ALBUQUERQUE, A. S. ; ARAÚJO, DANILO R. B. . Short-Term Rainfall Forecasting Aided by IoT and Deep Learning. In: 1st IEEE Latin American Conference on Internet of Things, 2025, Fortaleza. Procedings of the 1st IEEE Latin American Conference on Internet of Things, 2025. v. 1. p. 1-4.
+
+3.
+SILVA, SÉGIO A. ; BASTOS-FILHO, CARMELO J.A. ; ARAÚJO, D. R. B. ; ALMEIDA JUNIOR, R. C. ; MARTINS-FILHO, J. F. . A Strategy for Resource Allocation in Elastic Optical Networks Aiming to Reduce Physical Layer Impairments and Spectral Fragmentation. In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Procedings of the 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025. v. 1. p. 1-5.
+
+4.
+LIMA, V. G. P. ; LIMA, E. A. O. ; ARAÚJO, DANILO R. B. . Dependability Analysis of Weather Monitoring Systems Considering Different Redundancy Mechanisms. In: XXVI Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2025), 2025, Bonito. Anais do XXVI Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2025), 2025. v. 1. p. 1-12.
+
+5.
+ARAUJO, L. E. S. ; CHEVTCHENKO, S. ; ARAÚJO, DANILO R. B. ; ANDRADE, E. C. . Evaluating Machine Learning Algorithms for Anomaly Detection in Industrial Engines on Edge Devices. In: XXVI Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2025), 2025, Bonito. Anais do XXVI Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2025), 2025. v. 1. p. 1-12.
+
+6.
+ALBUQUERQUE, ADRIANO ; LIMA, MARIA BEATRIZ ; NEVES, RENATA ; ARAÚJO, DANILO RICARDO . Algoritmos de Aprendizado de Máquina Aplicados na Avaliação do Volume de Chuvas na Cidade do Recife. In: Congresso Brasileiro de Inteligência Computacional, 2024. Anais do XVI Congresso Brasileiro de Inteligência Computacional. v. 1. p. 1-8.
+
+7.
+PIMENTEL, H. P. P. S. ; VIANA, H. A. ; ALBUQUERQUE, A. S. ; ARAÚJO, D. R. B. . Predição do Consumo Energético de Dispositivos LoRa usando Aprendizagem de Máquina. In: XXV Congresso Brasileiro de Automática (CBA 2024), 2024, Rio de Janeiro. Anais do XXV Congresso Brasileiro de Automática, 2024. v. 1. p. 1-6.
+
+8.
+SILVA, E. M. ; ARAÚJO, D. R. B. ; ANDRADE, E. C. . Avaliação de Disponibilidade e Confiabilidade de uma Manufatura Têxtil 4.0 Utilizando Modelos Estocásticos. In: XXV Congresso Brasileiro de Automática (CBA 2024), 2024, Rio de Janeiro. Anais do XXV Congresso Brasileiro de Automática, 2024. v. 1. p. 1-6.
+
+9.
+SILVA, E. M. ; MACIEIRA, R. M. ; ANDRADE, E. C. ; ARAÚJO, DANILO R. B. . Assessment of Availability and Reliability of a Textile Manufacturing 4.0 Using Stochastic Models. In: 13th Latin-American Symposium on Dependable and Secure Computing, 2024, Recife. Procedings of the 13th Latin-American Symposium on Dependable and Secure Computing, 2024. v. 1. p. 1-6.
+
+10.
+CHEVTCHENKO, ; SANTOS, M. C. M. ; VIEIRA, D. M. ; MOTA, R. L. ; ROCHA, E. S. ; CRUZ, B. V. ; ARAÚJO, D. R. B. ; ANDRADE, E. C. . Predictive maintenance model based on anomaly detection in induction motors: a machine learning approach using real-time IoT data. In: ESREL2023: EUROPEAN SAFETY AND RELIABILITY CONFERENCE 2023, 2023, Southampton. Proceedings of the ESREL2023, 2023. v. 1. p. 1-8.
+
+11.
+VIANA, CAIO B. ; ARAÚJO, CARLOS J. M. ; DE ARAÚJO, DANILO R. B. . Identifying Physical Unclonable Functions Using Classifier Algorithms. In: 2023 IEEE Latin American Conference on Computational Intelligence (LACCI), 2023, Recife-Pe. 2023 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2023. p. 1.
+
+12.
+FALCÃO FONSECA, VICTOR MATHEUS ; DE OLIVEIRA NÓBREGA, OBIONOR ; BRITO DA SILVA, LUIS OTAVIO ; BARBOSA DE ARAÚJO, DANILO RICARDO . Energy Efficiency IoT System for Aeration in Aquaculture 4.0. In: 2023 IEEE 9th World Forum on Internet of Things (WFIoT), 2023, Aveiro. 2023 IEEE 9th World Forum on Internet of Things (WF-IoT), 2023. p. 1.
+
+13.
+PAES, VINÍCIUS J. ; ARAÚJO, DANILO ; BRITO, KELLYTON ; ANDRADE, ERMESON . Análise de Sentimento em Tweets Relacionados ao Desmatamento da Floresta Amazônica. In: Brazilian Workshop on Social Network Analysis and Mining, 2022, Brasil. Anais do XI Brazilian Workshop on Social Network Analysis and Mining (BraSNAM 2022). v. 1. p. 61-72.
+
+14.
+OLIVEIRA, ARYSSON S. ; SILVA, JOSE C. ; ARAUJO, DANILO R. B. ; MARTINS-FILHO, JOAQUIM F. ; BASTOS-FILHO, Carmelo J. A. . Evaluation of Multi-objective Evolutionary Algorithms for the Design of Resilient OTN over DWDM Networks. In: 2022 IEEE Latin American Conference on Computational Intelligence (LACCI), 2022, Montevideo. 2022 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2022. v. 1. p. 1-6.
+
+15.
+SANTOS, MATHEUS L. ; ALMEIDA JR, RAUL C. ; ARAÚJO, DANILO R. B. . Heurísticas para Atribuição de Espectro em Redes Ópticas Elásticas Baseadas em Perda de Capacidade Sob Múltiplas Rotas. In: XXXIX Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2021. Anais do XXXIX Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. v. 1.
+
+16.
+BARBOZA, ERICK A. ; BASTOS-FILHO, Carmelo J. A. ; CHAVES, Daniel A. R. ; MARTINS-FILHO, JOAQUIM F. ; COELHO, LEONARDO D. ; ALMEIDA, RAUL C. ; SILVA, MARCIONILO J. ; DE ARAUJO, DANILO R. B. ; MARTINS, JOSE A. . Analyzing the Objective Functions for Multi-Objective Optimization of the Amplifier Adaptive Control of Operating Point. In: 2021 SBMO/IEEE MTTS International Microwave and Optoelectronics Conference (IMOC), 2021, Fortaleza. 2021 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2021. v. 1. p. 1-3.
+
+17.
+BARBOZA, ERICK A. ; BASTOS-FILHO, Carmelo J. A. ; CHAVES, Daniel A. R. ; MARTINS-FILHO, JOAQUIM F. ; COELHO, LEONARDO D. ; ALMEIDA, RAUL C. ; SILVA, MARCIONILO J. ; XAVIER, ANDRE V. S. ; DE ARAUJO, DANILO R. B. ; MARTINS, JOSE A. . Multi-objective Optimization of Amplifier Operating Point and Launch Signal Power Pre-emphasis in a Cascade of EDFAs. In: 2021 SBMO/IEEE MTTS International Microwave and Optoelectronics Conference (IMOC), 2021, Fortaleza. 2021 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2021. v. 1. p. 1-3.
+
+18.
+NASCIMENTO, J. C. ; ARAÚJO, D. R. B. ; MIRANDA, P. B. C. . A Novel Strategy for Selecting Individuals in Manyobjective Algorithms with Local Search Applied to the Network Design Problem. In: 16h Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2020, Rio Grande. Anais do 16h Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2020. v. 1. p. 1-12.
+
+19.
+ARAÚJO, D. R. B.; BARROS, J. F. A. M. . Estimativa de Probabilidade de Bloqueio de Redes Ópticas Elásticas Usando Redes Neurais Artificiais. In: 19o SBMO ? Simpósio Brasileiro de Micro-ondas e Optoeletrônica, 2020, Rio de Janeiro. Anais do 19o SBMO ? Simpósio Brasileiro de Micro-ondas e Optoeletrônica, 2020. v. 1. p. 1-6.
+
+20.
+DA SILVA, J. C. ; BASTOS-FILHO, C. J. A. ; ALMEIDA-JUNIOR, R. C. ; CHAVES, D. A. R. ; ARAUJO, D. R. B. ; XAVIER, A. V. S. ; MARTINS-FILHO, J. F. . OTN Network Planning Over DWDM Using Computational Intelligence. In: 2019 21st International Conference on Transparent Optical Networks (ICTON), 2019, Angers. 2019 21st International Conference on Transparent Optical Networks (ICTON), 2019. v. 1. p. 1-4.
+
+21.
+LIRA, C. ; FREIRE, J. ; ARAUJO, P. ; ARAÚJO, D. R. B. . Artificial Neural Networks to Assess Fault Tolerance of Optical Networks. In: XVI Encontro Nacional de Inteligência Artificial e Computacional, 2019, Salvador. Anais do XVI Encontro Nacional de Inteligência Artificial e Computacional, 2019. p. 1-8.
+
+22.
+NASCIMENTO, JORGE C. ; ARAUJO, DANILO R.B. ; BASTOS-FILHO, CARMELO J.A. ; MARTINS-FILHO, JOAQUIM F. . Manyobjective Optimization to Design Physical Topology of Optical Networks with Undefined Node Locations. In: 2018 IEEE Congress on Evolutionary Computation (CEC), 2018, Rio de Janeiro. 2018 IEEE Congress on Evolutionary Computation (CEC), 2018. v. 1. p. 1-7.
+
+23.
+SILVA, M. J. ; BARBOZA, E. A. ; BASTOS-FILHO, C. J. A. ; COELHO, L. D. ; ALMEIDA JUNIOR, R. C. ; CHAVES, D. A. R. ; ARAÚJO, D. R. B. ; XAVIER, A. V. S. ; MARTINS-FILHO, J. F. ; MARANHAO NETO, J. C. . Impacto da Planicidade Espectral do Ganho na Avaliação da OSNR em Cascata de EDFAs. In: MOMAG 18 - 18º SBMO ? Simpósio Brasileiro de Micro-ondas e Optoeletrônica, 2018, Santa Rita do Sapucaí. Anais do 18º SBMO ? Simpósio Brasileiro de Micro-ondas e Optoeletrônica, 2018. v. 1. p. 1-5.
+
+24.
+SILVA, JOSÉ ; BASTOS-FILHO, CARMELO ; COUTO, ISABELLA ; XAVIER, ANDRÉ ; O.FIGUEIRÔA, EWERTON ; ARAÚJO, DANILO ; MARTINS-FILHO, JOAQUIM . Uma Abordagem de Otimização Para o Algoritmo de Roteamento Utilizando Lógica Nebulosa. In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018. Anais de XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. v. 1.
+
+25.
+FALCÃO, TACIANA PONTUAL ; ARAÚJO, DANILO ; FRANÇA, ROZELMA ; ANDRADE, ERMESON ; FRANÇA, CESAR . Currículo da Licenciatura em Computação: uma Proposta Alinhada às Novas Diretrizes e Demandas Contemporâneas. In: VII Congresso Brasileiro de Informática na Educação, 2018, Fortaleza. org.crossref.xschema._1.Title@a66809b, 2018. v. 1. p. 1108-10.
+
+26.
+DO NASCIMENTO, JORGE CANDEIAS ; SANTANA, CLODOMIR J. ; ARAUJO, DANILO ; BASTOS-FILHO, Carmelo J. A. . Performance Comparison of Clustering Algorithms to Handle Grouping of City Locations. In: 2018 IEEE Latin American Conference on Computational Intelligence (LACCI), 2018, Gudalajara. 2018 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2018. v. 1. p. 1-6.
+
+27.
+ARAUJO, DANILO R. B.; BASTOS-FILHO, Carmelo J. A. . Robustness of physical topologies of optical networks created by variants of Gabriel graphs. In: 2017 IEEE 18th International Conference on High Performance Switching and Routing (HPSR), 2017, Campinas. 2017 IEEE 18th International Conference on High Performance Switching and Routing (HPSR), 2017. v. 1. p. 1-6.
+
+28.
+FIGUEIROA, E. O. ; LIMA, E. A. O. ; BASTOS-FILHO, C. J. A. ; DA SILVA, J. C. ; XAVIER, A. V. S. ; ARAUJO, D. R. B. . A routing algorithm based on fuzzy logics for elastic optical networks. In: 2017 IEEE 18th International Conference on High Performance Switching and Routing (HPSR), 2017, Campinas. 2017 IEEE 18th International Conference on High Performance Switching and Routing (HPSR), 2017. v. 1. p. 1-6.
+
+29.
+ARAUJO, DANILO R. B.; DE BARROS, GUSTAVO H. P. S. ; BASTOS-FILHO, Carmelo J. A. ; MARTINS-FILHO, JOAQUIM F. . Surrogate models assisted by neural networks to assess the resilience of networks. In: 2017 IEEE Latin American Conference on Computational Intelligence (LACCI), 2017, Arequipa. 2017 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2017. v. 1. p. 1-6.
+
+30.
+BASTOS-FILHO, Carmelo J. A. ; ARAUJO, DANILO R. B. ; MARTINS-FILHO, JOAQUIM F. . Incorporating an indicator based on modularity to improve routing in optical networks. In: 2016 18th International Conference on Transparent Optical Networks (ICTON), 2016, Trento. 2016 18th International Conference on Transparent Optical Networks (ICTON). v. 1. p. 1-4.
+
+31.
+SILVA, J. C. ; BASTOS-FILHO, C. J. A. ; ARAÚJO, D. R. B. ; MARTINS-FILHO, J. F. . Um Algoritmo Eficiente de Roteamento Considerando Risco Compartilhado em Grupos de Enlaces. In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém. Anais do XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Rio de Janeiro: SBrT - Sociedade Brasileira de Redes e Telecomunicações, 2016. v. 1. p. 1-5.
+
+32.
+BASTOS-FILHO, C. J. A. ; XAVIER, A. V. S. ; BARBOZA, E. A. ; ALMEIDA JUNIOR, R. C. ; COELHO, L. D. ; ARAUJO, DANILO R. B. ; CHAVES, D. A. R. ; MARTINS-FILHO, J. F. . Algoritmo de Roteamento baseado no Menor Compartilhamento de Enlaces. In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém. Anais do XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. Rio de Janeiro: SBrT - Sociedade Brasileira de Redes e Telecomunicações, 2016. v. 1. p. 1-5.
+
+33.
+FALCAO, T. P. ; ARAÚJO, D. R. B. ; TEIXEIRA, R. V. ; BARROS, G. D. N. ; SILVA, E. L. O. ; CAMARA, D. L. B. M. . Inovando no Terceiro Setor: a Disciplina de IHC Aplicada ao Contexto do Movimento Pró-Criança. In: IHC 2016 - VII Workshop sobre Educação em IHC, 2016, São Paulo. Anais do VII Workshop sobre Educação em IHC, 2016. v. 1. p. 19-24.
+
+34.
+FIGUEIREDO, ELLIACKIN M.N. ; ARAUJO, DANILO R.B. ; FILHO, CARMELO J.A. BASTOS ; LUDERMIR, TERESA B. . Physical Topology Design of Optical Networks Aided by Many-Objective Optimization Algorithms. In: 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 2016, Recife. 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 2016. v. 1. p. 409-6.
+
+35.
+BEZERRA, CARLOS M.M. ; ARAUJO, DANILO R.B. ; MACARIO, VALMIR . Allocation of Volunteers in Non-governmental Organizations Aided by Non-supervised Learning. In: 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 2016, Recife. 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 2016. v. 1. p. 223-6.
+
+36.
+DUPLEIX, VITAL ; ARAUJO, DANILO R. B. ; BASTOS-FILHO, Carmelo J. A. . Designing the optical network of Haiti using a multi-objective evolutionary approach. In: 2016 IEEE Latin American Conference on Computational Intelligence (LACCI), 2016, Cartagena. 2016 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2016. v. 1. p. 1-6.
+
+37.
+ARAUJO, DANILO R. B.; BASTOS-FILHO, Carmelo J. A. ; MARTINS-FILHO, JOAQUIM F. . Artificial Neural Networks to estimate Blocking Probability of transparent optical networks: A robustness study for different networks. In: 2015 17th International Conference on Transparent Optical Networks (ICTON), 2015, Budapest. 2015 17th International Conference on Transparent Optical Networks (ICTON). p. 1.
+
+38.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Analyzing Surrogate Models to Assess Blocking Probability of Optical Networks. In: 2015 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference, 2015, Ipojuca. Proceedings of the 2015 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference, 2015. p. 1-6.
+
+39.
+LIMA, N. J. S. ; ARAÚJO, D. R. B. ; MARTINS-FILHO, J. F. ; BASTOS-FILHO, C. J. A. . Towards Using Boolean Operators on Graphs to Generate Network Topologies. In: 2015 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference, 2015, Ipojuca. Proceedings of the 2015 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference, 2015. p. 1-6.
+
+40.
+ARAÚJO, DANILO R. B.; MARTINS-FILHO, JOAQUIM F. ; BASTOS-FILHO, Carmelo J. A. . Aprendizagem Não-Supervisionada para Avaliação de Métricas Topológicas de Redes Ópticas. In: 12. Congresso Brasileiro de Inteligência Computacional, 2015, Curitiba. Anais do 12. Congresso Brasileiro de Inteligência Computacional. p. 1-6.
+
+41.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Using Multi-Layer Perceptron and Complex Network Metrics to Estimate the Performance of Optical Networks. In: SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference - IMOC 2013, 2013, Rio de Janeiro. Proceedings of the SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference, 2013. v. 1. p. 1-5.
+
+42.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Towards Using DFT to Characterize Complex Networks. In: XXXI Simpósio Brasileiro de Telecomunicações (SBrT2013), 2013, Fortaleza. Anais do XXXI Simpósio Brasileiro de Telecomunicações, 2013. p. 1-5.
+
+43.
+ARAÚJO, D. R. B.; BASTOS FILHO, C. J. A. ; BARBOZA, E. A. ; CHAVES, D. A. R ; MARTINS-FILHO, J. F. . A performance comparison of multi-objective optimization evolutionary algorithms for all-optical networks design. In: 2011 IEEE Symposium on Computational Intelligence in Multicriteria Decision-Making (MCDM), 2011 IEEE Symposium Series on Computational Intelligence (SSCI), 2011, Paris. Proceeding of IEEE Symposium Series on Computational Intelligence - SSCI 2011, 2011. p. 89-96.
+
+44.
+BASTOS FILHO, C. J. A. ; ARAÚJO, D. R. B. ; BARBOZA, E. A. ; CHAVES, D. A. R ; MARTINS-FILHO, J. F. . Design of Transparent Optical Networks Considering Physical Impairments, CAPEX and Energy Consumption. In: 13th International Conference on Transparent Optical Networks ICTON, 2011, Estocolmo. Proceeding of 13th International Conference on Transparent Optical Networks ICTON 2011, 2011. p. 1-4.
+
+45.
+ARAÚJO, D. R. B.; BASTOS FILHO, C. J. A. ; BARBOZA, E. A. ; CHAVES, D. A. R ; MARTINS-FILHO, J. F. . An Efficient Multi-Objective Evolutionary Optimizer to Design All-Optical Networks Considering Physical Impairments and CAPEX. In: 11th International Conference on. Intelligent Systems Design and Applications (ISDA), 2011, Córdoba. Proc. of 11th International Conference on. Intelligent Systems Design and Applications (ISDA), 2011. v. 1. p. 76-81.
+
+Resumos publicados em anais de congressos
+
+1.
+LIMA, A. M. ; CABRAL, J. C. ; BEZERRA, C. M. M. ; ARAÚJO, D. R. B. ; MACARIO FILHO, V. . Uso de Técnicas de Inteligência Artificial para Alocação Semiautomática de Voluntários em ONGs do Estado de Pernambuco. In: XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015, Recife. Anais da XV Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2015.
+
+2.
+ARAÚJO, D. R. B.; BARBOZA, E. A. ; CHAVES, D. A. R ; BASTOS FILHO, C. J. A. . Uma Comparação de Desempenho de Algoritmos Evolucionários Multi-objetivos para Projeto de Redes Ópticas. In: IV Encontro de Pós-Graduação e Pesquisa da Universidade de Pernambuco, 2010, Recife. Uma Comparação de Desempenho de Algoritmos Evolucionários Multi-objetivos para Projeto de Redes Ópticas, 2010.
+
+3.
+ARAÚJO, D. R. B.; CAMPELO JUNIOR, E. C. . Modelo de Organização da Gestão dos Recursos de Tecnologia da Informação (TI) Orientada para Qualidade com Produtividade. In: 4º Jornada de Iniciação Científica Unicap PIBIC CNPQ, 2002, Recife. Anais da 4ª Jornada de Iniciação Científica da UNICAP. Recife: Comissão Editorial UNICAP, 2002. v. 1. p. 152-153.
+
+Artigos aceitos para publicação
+
+1.
+SILVA, S. A. ; ALMEIDA JUNIOR, R. C. ; ARAÚJO, D. R. B. ; BASTOS-FILHO, C. J. A. . Multi-objective Optimization for Resource Allocation in Elastic Optical Networks: Integrating spectrum and power assignment. JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS, 2026.
+
+Apresentações de Trabalho
+
+1.
+ARAÚJO, D. R. B.; MARTINS-FILHO, J. F. ; BASTOS-FILHO, C. J. A. . Aprendizagem Não-Supervisionada para Avaliação de Métricas Topológicas de Redes Ópticas. 2015. (Apresentação de Trabalho/Congresso).
+
+2.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Analyzing Surrogate Models to Assess Blocking Probability of Optical Networks. 2015. (Apresentação de Trabalho/Congresso).
+
+3.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Artificial Neural Networks to Estimate Blocking Probability of Transparent Optical Networks: A Robustness Study for Different Networks. 2015. (Apresentação de Trabalho/Congresso).
+
+4.
+ARAÚJO, D. R. B.. Planejamento de Redes de Fibra Óptica: Desafios e Soluções Baseadas em Inteligência Computacional. 2015. (Apresentação de Trabalho/Outra).
+
+5.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Métricas de Redes Complexas para Análise de Redes Ópticas. 2014. (Apresentação de Trabalho/Conferência ou palestra).
+
+6.
+ARAÚJO, D. R. B.. Comunicação por Fibra Óptica. 2014. (Apresentação de Trabalho/Conferência ou palestra).
+
+7.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Using the Entropy of the DFT of the Laplacian Eigenvalues to Assess Networks. 2014. (Apresentação de Trabalho/Outra).
+
+8.
+ARAÚJO, D. R. B.; BASTOS FILHO, C. J. A. ; MARTINS-FILHO, J. F. . Towards Using DFT to Characterize Complex Networks. 2013. (Apresentação de Trabalho/Simpósio).
+
+9.
+ARAÚJO, D. R. B.; BASTOS FILHO, C. J. A. ; BARBOZA, E. A. ; CHAVES, D. A. R ; MARTINS-FILHO, J. F. . Uma Comparação de Algoritmos Evolucionários de Otimização Multiobjetivos Aplicados a Projetos de Redes Ópticas. 2010. (Apresentação de Trabalho/Outra).
+
+10.
+ARAÚJO, D. R. B.; CAMPELO JUNIOR, E. C. . Modelo de Organização da Gestão dos Recursos de Tecnologia da Informação (TI) Orientada para Qualidade com Produtividade. 2002. (Apresentação de Trabalho/Outra).
+
+Outras produções bibliográficas
+
+1.
+ ARAÚJO, D. R. B.. Planejamento de Redes Ópticas Usando Inteligência Computacional e Ciência das Redes 2015 (Tese de Doutorado).
+
+2.
+ARAÚJO, D. R. B.. Comparação de Algoritmos de Otimização Multiobjetivos Aplicados a Projeto de Redes Ópticas. Recife: O Autor, 2011 (Dissertação de Mestrado).
+
+
+Produção técnica
+Programas de computador sem registro
+
+1.
+MARTINS-FILHO, J. F. ; BASTOS-FILHO, C. J. A. ; ARAÚJO, D. R. B. ; CHAVES, D. A. R. ; ALMEIDA JUNIOR, R. C. ; PEREIRA, H. A. ; XAVIER, A. V. S. . Ferramenta de Planejamento de Redes Ópticas. 2013.
+
+Demais tipos de produção técnica
+
+1.
+ARAÚJO, D. R. B.; DOMINGUES, J. P. O. . Redes sem fio. 2014. (Curso de curta duração ministrado/Extensão).
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+ANDRADE, E. C.; NOGUEIRA, B.; ARAÚJO, DANILO R. B.. Participação em banca de Vamberto de Freitas Rocha Junior. Modelagem e Análise de um Ambiente de Telecirurgia Utilizando Redes de Petri Estocásticas. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+2.
+ANDRADE, E. C.; ARAUJO, C. J. M.; MACIEIRA, R. M.; ARAÚJO, DANILO R. B.. Participação em banca de Edson Moura Silva. MODELAGEM E ANÁLISE DE MANUFATURAS TÊXTEIS. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+3.
+LINS, F. A. A.; NOBREGA, O. O.; SANTOS, J. F.; ARAÚJO, D. R. B.; DOMINGUES, M. A. O.. Participação em banca de Fábio Alves de Freitas. Uma Solução IoT de Baixo Custo Para Monitoramento da Qualidade de Água na Aquicultura 4.0. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+4.
+ARAÚJO, D. R. B.; DOMINGUES, M. A. O.; SILVA, L. O. B.; LINS, F. A. A.; NOBREGA, O. O.. Participação em banca de VICTOR MATHEUS FALCÃO FONSECA. Sistema para Aeração na Aquicultura 4.0 Baseado em IoT com Ênfase em Eficiência Energética. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+5.
+ARAÚJO, D. R. B.; BASTOS-FILHO, C. J. A.; GARROZI, C.. Participação em banca de Jorge Candeias do Nascimento. PROJETO DE REDES ÓPTICAS DE LONGA DISTÂNCIA APOIADO POR ALGORITMOS MEMÉTICOS QUE CONSIDERAM VÁRIOS OBJETIVOS CONFLITANTES. 2021. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+6.
+SANTOS, A. F.; XAVIER, A. V. S.; ARAÚJO, D. R. B.; ALMEIDA JUNIOR, R. C.. Participação em banca de MATHEUS LÔBO DOS SANTOS. Abordagens para Atribuição de Espectro em Redes Ópticas Elásticas Baseadas em Perda de Capacidade Sob Múltiplas Rotas. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+7.
+ALMEIDA JUNIOR, R. C.; ARAÚJO, D. R. B.; MARTINS-FILHO, J. F.. Participação em banca de Marcelo Macêdo Alves. Abordagens de roteamento fixo-alternativo com metodologia BSR para Redes Ópticas Elásticas. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+8.
+ALMEIDA JUNIOR, R. C.; ARAÚJO, D. R. B.; COELHO, L. D.. Participação em banca de Pedro Jorge Freire de Carvalho Souza. UMA NOVA ESTRATÉGIA PARA RESOLVER O PROBLEMA RMLSA CONSIDERADANDO EFEITOS DA CAMADA FÍSICA NUM TRÁFEGO ESTÁTICO. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+9.
+OLIVEIRA, S. C.; ALBUQUERQUE, E. Q.; ARAÚJO, D. R. B.. Participação em banca de Dupleix Vital. Projeto de Redes de Fibras Ópticas de Alta Capacidade para a República do Haíti Usando uma Abordagem Evolutiva Multiobjetiva. 2017. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS) - Universidade de Pernambuco.
+
+10.
+LIMA, E. A. O.; MARTINS-FILHO, J. F.; ARAÚJO, D. R. B.. Participação em banca de Ewerton de Oliveira Figueirôa. Algoritmo de Roteamento Baseado em Lógica Nebulosa para Redes Ópticas Elásticas. 2017. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS) - Universidade de Pernambuco.
+
+11.
+BASTOS FILHO, C. J. A.; ARAÚJO, D. R. B.; BERNARDINO JUNIOR, F. M.. Participação em banca de Rodrigo de Paula Monteiro. Improve the Active Noise Control in Automotive Vehicles Using Swarm Intelligene and Neural Computing. 2017. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS) - Universidade de Pernambuco.
+
+12.
+SILVA FILHO, A. G.; ARAÚJO, D. R. B.; SADOK, D. F. H.. Participação em banca de Gibson Belarmino Nunes Barbosa. SISTEMA DE SEGURANÇA PARA IOT BASEADO EM AGRUPAMENTO DE SMART CARDS GERENCIADOS POR FPGA. 2017. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+13.
+ALMEIDA JUNIOR, R. C.; CHAVES, Daniel A. R.; ARAÚJO, D. R. B.. Participação em banca de Nadja Juliana da Silva Lima. Utilização de Operadores Booleanos em Grafos para Gerar Novas Topologias de Redes em Projetos de Redes Ópticas. 2016. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS) - Universidade de Pernambuco.
+
+14.
+CHAVES, D. A. R.; MARTINS-FILHO, J. F.; ARAÚJO, D. R. B.. Participação em banca de Emerson Ferreira da Silva. Heurísticas para atribuição de regeneradores em redes ópticas translúcidas. 2016. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS) - Universidade de Pernambuco.
+
+15.
+BASTOS-FILHO, Carmelo J. A.; SIQUEIRA, H. V.; ARAÚJO, D. R. B.. Participação em banca de Sérgio Ferreira Ribeiro. Avaliando Algoritmos de Otimização Baseados em Colônia de Formigas Utilizando Métricas de Ciência das Redes. 2016. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS) - Universidade de Pernambuco.
+
+16.
+BEZERRA, B. L. D.; BASTOS-FILHO, C. J. A.; ARAÚJO, D. R. B.. Participação em banca de Victor César de França Lima. Aperfeiçoamento de Técnicas de Escolha de Anúncios para Plataformas de Propaganda. 2016. Dissertação (Mestrado em Engenharia da Computação) - Universidade de Pernambuco.
+
+17.
+ALMEIDA JUNIOR, R. C.; ARAÚJO, D. R. B.; CHAVES, D. A. R.. Participação em banca de Clayton José Natal de Lira. Utilização de Meta-Heurística e de Divisão Espectral para Alocação Eficiente de Espectro em Redes Ópticas Elásticas. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+18.
+FERRAZ, F. S.; FRANCA, A. C. C.; ARAÚJO, D. R. B.. Participação em banca de Antônio Jusué de Lima Neto. ServiceHub - Proposta de um SaaS para acesso e gerenciamento de serviços baseados no SPED. 2014. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+19.
+LINS, W. C. B.; FERRAZ, F. S.; ARAÚJO, D. R. B.. Participação em banca de Francisco Hamilton de Freitas Junior. Revisão Sistemática de Estudos em Segurança no Ambiente de Cloud Computing. 2014. Dissertação (Mestrado em Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+Teses de doutorado
+
+1.
+ALMEIDA JUNIOR, R. C.; SOARES, A. C. B.; ARAÚJO, D. R. B.; MONTEIRO, J. A. S.; BASTOS-FILHO, C. J. A.; CHAVES, D. A. R.. Participação em banca de Clayton José Natal de Lira. MÉTODOS HEURÍSTICOS E BIO-INSPIRADOS PARA OTIMIZAÇÃO DE ALOCAÇÃO DE ESPECTRO E DE DIVISÃO ESPECTRAL EM REDES ÓPTICAS ELÁSTICAS. 2022. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+2.
+BASTOS-FILHO, C. J. A.; MARTINS-FILHO, J. F.; ALMEIDA JUNIOR, R. C.; ARAÚJO, D. R. B.; MARCIEL, A. M.; SEGATTO, M. E. V.. Participação em banca de José Cleyton da Silva. Projeto Eficiente de Redes Ópticas Resilientes do Tipo OTN sobre DWDM. 2020. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+3.
+ZANCHETTIN, C.; LIMA NETO, F. B.; PARPINELLI, R. S.; ARAÚJO, D. R. B.; POZO, A. T. R.. Participação em banca de Elliackin Messias do Nascimento Figueiredo. Uma nova abordagem baseada em enxames de partículas para otimização de muitos objetivos. 2017. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+4.
+MONTEIRO, J. A. S.; SOUZA, B. A.; FEITOSA, E. L.; ANDRADE, R. M. C.; ARAÚJO, D. R. B.. Participação em banca de Ubiratan Alves do Carmo. Ilha de Segurança para Redes de Automação de Sistemas Elétricos. 2017. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+5.
+BASTOS-FILHO, Carmelo J. A.; ALMEIDA JUNIOR, R. C.; MARTINS-FILHO, J. F.; CAMPELO, D. R. S.; ARAÚJO, D. R. B.; ASSIS, K. D. R.. Participação em banca de André Victor Silva Xavier. Roteamento e Proteção Dedicada em Redes Ópticas Usando Inteligência Computacional. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+Qualificações de Doutorado
+
+1.
+ASSIS, K. D. R.; ARAÚJO, DANILO R. B.; ALMEIDA FILHO, A. T.. Participação em banca de Jorge Candeias do Nascimento. Algoritmo Evolucionário com Operadores Especialistas para Problema Complexo Multiobjetivo Combinatório: Projeto de Topologias Ópticas Multibanda. 2025. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+2.
+MARCIEL, A. M.; ARAÚJO, D. R. B.; ALMEIDA JUNIOR, R. C.. Participação em banca de JOSÉ CLEYTON DA SILVA. PLANEJAMENTO DE REDES OTN SOBRE DWDM UTILIZANDO INTELIGÊNCIA COMPUTACIONAL. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+3.
+CHAVES, D. A. R; ARAÚJO, D. R. B.; BASTOS FILHO, C. J. A.. Participação em banca de Clayton José Natal de Lira. ALGORITMOS BIO-INSPIRADOS E ANÁLISE DO USO DE DIVISÃO ESPECTRAL NO ROTEAMENTO E ALOCAÇÃO DE ESPECTRO COM APLICAÇÕES EM PROTEÇÃO DE REDES ÓPTICAS ELÁSTICAS. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+Qualificações de Mestrado
+
+1.
+ARAÚJO, DANILO R. B.; BARBOZA, E. A.; PINHEIRO, R. G. S.. Participação em banca de JOSE AUGUSTO DOS SANTOS SILVA. OTIMIZAÇÃO DE FUNÇÕES RACIONAIS COMO FUNÇÕES DE KERNEL EM MÁQUINAS DE VETORES DE SUPORTE. 2025. Exame de qualificação (Mestrando em Informática) - Universidade Federal de Alagoas.
+
+Monografias de cursos de aperfeiçoamento/especialização
+
+1.
+MARCIEL, A. M.; ARAUJO, DANILO R. B.; AMARAL, Y. B.. Participação em banca de Marcos de Souza Oliveira. Proposta de Arquitetura Utilizando o Paradigma SOA para o Avatar Educação. 2016. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+2.
+ARAÚJO, D. R. B.; MARCIEL, A. M.; BASTOS-FILHO, C. J. A.. Participação em banca de André Luiz Ximenes Gonçalves da Luz. Plataforma colaborativa para auxílio na identificação de casos suspeitos de doenças da Tríplice epidemia e focos do mosquito Aedes Aegypit. 2016. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+3.
+ARAUJO, DANILO R. B.; CRUZ, M. L. P. M.; FERNANDES, B. J. T.. Participação em banca de Jean Nascimento. Comparação entre Servidores de Banco de Dados Tradicionais e Sistemas Baseados em Infraestrutura Dedicada. 2016. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+4.
+ARAÚJO, D. R. B.; CRUZ, M. L. P. M.; FERNANDES, B. J. T.. Participação em banca de Cássio Silva de Carvalho. Proposta de sistema para busca de animais domésticos desaparecidos com utilização de tecnologia da informação e comunicação. 2016. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+5.
+ARAÚJO, D. R. B.; MARCIEL, A. M.; CRUZ, M. L. P. M.. Participação em banca de Raniel Gomes da Silva. Proposta de um sistema de apoio à doação sanguínea baseado em gamificação. 2016. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+6.
+ARAÚJO, D. R. B.; FERNANDES, B. J. T.; CRUZ, M. L. P. M.. Participação em banca de Roger Steve de Souza. Análise sobre o Desempenho dos Protocolos SOAP e REST para o Uso em Aplicações Mobile Consumidoras de Web Services. 2015. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+7.
+ARAÚJO, D. R. B.; FERNANDES, B. J. T.; CRUZ, M. L. P. M.. Participação em banca de Yves Mendes Galvão. Desenvolvendo Sítios Adaptáveis para Dispositivos Móveis e Computadores Pessoais: Um Estudo de Caso Utilizando Frameworks de Design Responsivo. 2015. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+8.
+FERNANDES, B. J. T.; CRUZ, M. L. P. M.; ARAÚJO, D. R. B.. Participação em banca de Pedro Leon Barbosa Gomes. Ferramenta para Geração de Base de Dados do Sistema Supervisório SAGE. 2015. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+9.
+FERNANDES, B. J. T.; CRUZ, M. L. P. M.; ARAÚJO, D. R. B.. Participação em banca de Luís Gustavo de Souza Neri. Uso de Computação nas Nuvens em Ambientes Empresariais. 2015. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+10.
+C. J. A. BASTOS FILHO; CRUZ, M. L. P. M.; ARAÚJO, D. R. B.. Participação em banca de João Gustavo Guedes Leite. Análise de Software para Suporte à Manutenção Industrial. 2015. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+SAMPAIO, P. A.; ARAÚJO, D. R. B.; BRITO, K.. Participação em banca de Elvison Victor F. da Costa.O IMPACTO DA IMAGEM NO ENGAJAMENTO POLÍTICO: uma análise multimodal baseada em dados sobre a campanha presidencial de 2022. 2026. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+2.
+SAMPAIO, P. A.; ARAÚJO, DANILO R. B.; MOURA, G.. Participação em banca de Geraldo Paes.Previsão de Chuvas no Setor Leste do Nordeste Brasileiro com Machine Learning e Preditores Oceânicos. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+3.
+LIMA, E. A. O.; ARAÚJO, DANILO R. B.; ARAUJO, C. J. M.. Participação em banca de Cleydson P; da Silva.Desenvolvimento de jogos: Uma Abordagem Prática com Unity e Scrum. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+4.
+ANDRADE, E. C.; SALES, J.; ARAÚJO, D. R. B.. Participação em banca de Hudo Leonardo.Mapping and Profiling Access to Brazil?s Continued Provision Benefit: A Data-Driven Analysis Using Clustering and Regional Indicators. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+5.
+ARAÚJO, D. R. B.; ANDRADE, E. C.. Participação em banca de Ingo P; P; Montarroyos.Otimização de Redes de Transporte Público Considerando a Variação na Posição dos Nós Terminais. 2024. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+6.
+ARAÚJO, D. R. B.; ANDRADE, E. C.. Participação em banca de Henrique P. P. dos S. Pimentel.Predição do Consumo Energético de Dispositivos LoRa usando Aprendizagem de Máquina. 2024. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+7.
+ANDRADE, E. C.; ARAÚJO, D. R. B.; CHEVTCHENKO, S.. Participação em banca de Lucas Araújo.Avaliação de Desempenho de Modelos de Detecção ̃ de Anomalias para Dispositivos de Borda. 2024. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+8.
+ARAUJO, D. R. B.; DOMINGUES, J. P. O.. Participação em banca de Marcos Antônio da Silva.Redes Ópticas de Acesso: uma Análise Comparativa entre EPON e SuperPON. 2024. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+9.
+NEVES, R. F. P.; ARAÚJO, D. R. B.; FALCAO, T. L.; NEPOMUCENO, V. S.. Participação em banca de Ramon Vicente da Silva.WOOD CAPTURE, UMA FERRAMENTA PARA COLETA DE INFORMAÇÕES DE ESPÉCIES DE MADEIRA. 2023. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Pernambuco.
+
+10.
+ANDRADE, E. C.; ARAÚJO, D. R. B.. Participação em banca de Henrique Farias Pereira da Silva.Análise de Sentimentos de Tweets Relacionados ao SUS Antes e Durante a Pandemia do COVID-19. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+11.
+ARAÚJO, D. R. B.; ARAUJO, C. J. M.. Participação em banca de Eder Lucena Andrade de Fonseca.Proposta de um Aplicativo Android para Monitoramento Remoto de Pontos Turísticos. 2021. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+12.
+ARAÚJO, D. R. B.; SAMPAIO, P. A.. Participação em banca de Jonas Freire de Alcântara Marques de Barros.Uso de Técnicas de Detecção de Comunidades para Análise de Redes Ópticas. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+13.
+ANDRADE, E. C.; ARAÚJO, D. R. B.. Participação em banca de Vinicius J. Paes.An´alise de Sentimentos em Tweets Relacionados ao Desmatamento da Floresta Amaz?onica. 2021. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco.
+
+14.
+ARAÚJO, DANILO R. B.; ARAUJO, C. J. M.. Participação em banca de Caio Bruno Bezerra de Souza.Alocação Dinâmica de Recursos para URLLC em Redes 5G NFV-MEC. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+15.
+MACARIO FILHO, V.; ARAUJO, D. R. B.. Participação em banca de Allan Alves de Moura.Segmentação de banhistas utilizando algoritmos de agrupamento com seleção automática do número de grupos em regiões litorâneas. 2019 - Universidade Federal Rural de Pernambuco.
+
+16.
+ARAUJO, C. J. M.; ARAÚJO, D. R. B.. Participação em banca de Alexandre Golveia.Auxílio a tomada de decisão para ambientes na nuvem. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+17.
+ARAÚJO, D. R. B.; ARAUJO, C. J. M.; SOUSA, E. T. G.. Participação em banca de Jorge Candeias do Nascimento.Projeto integrado de redes ópticas de longa distância e metropolitanas usando algoritmos de inteligência computacional: estudo de caso para o estado de Pernambuco.. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+18.
+SILVA, M. G.; LINS, F. A. A.; ARAÚJO, D. R. B.. Participação em banca de Waleska Dias de Souza.Segurança para redes de transporte ópticas considerando criptografia na camada física e requisitos de latência. 2017. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco.
+
+19.
+ARAÚJO, D. R. B.; NOBREGA, O. O.; LINS, F. A. A.. Participação em banca de LAURA ALICE DE LIMA FIDELIS NUNES.Proposta de diretrizes para a seleção de planos de Internet móvel por usuários domésticos: estudo de caso na região metropolitana do Recife. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+20.
+LINS, F. A. A.; MEDEIROS, R. W. A.; ARAÚJO, D. R. B.. Participação em banca de Diógenes José Carvalho da Silva.Detecção de Ameaças em Aplicativos Android Através de Análise Estática Automatizada. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+21.
+ARAÚJO, D. R. B.; CABRAL, G. G.; ARAUJO, C. J. M.. Participação em banca de Gustavo Henrique Pinto Soares de Barros.Proposta de um meta-modelo para avaliação de robustez de redes com base na combinação de métricas topológicas. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+22.
+ARAÚJO, D. R. B.; DOMINGUES, J. P. O.; LINS, F. A. A.. Participação em banca de Gleidson Araújo de Souza Campos.Avaliação de Agregação de Enlaces em Redes Móveis: Um Estudo de Caso com Operadoras que Atuam na Região Metropolitana do Recife. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+23.
+ARAÚJO, D. R. B.; PEREIRA, S. C.; SOTERO, T. C.. Participação em banca de Juliano Marcus Silva Gonçalves.Processo de Gerência de Configuração: Conceitos e Utilização do Sistema de Controle de versão distribuído GIT no Apoio ao Processo de Desenvolvimento de Software. 2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+24.
+ARCOVERDE NETO, E. N.; NEVES, R. F. P.; ARAÚJO, D. R. B.. Participação em banca de Roniérison Rodrigues Galdino Silva.PARALELIZAÇÃO DE ALGORÍTIMOS GENÉTICOS: um estudo de caso usando técnicas de paralelização da linguagem Java. 2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+25.
+BRAGA, M. M.; FRANCA NETO, L. R.; ARAÚJO, D. R. B.. Participação em banca de José Eduardo Montenegro Cavalcanti de Oliveira.ANÁLISE DE IMPLEMENTAÇÃO DE SOFTWARE PARA PESSOAS DISLÉXICAS: Identificação de Problemas e Potencialidades. 2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+26.
+NEVES, R. F. P.; ANDRADE, R. C.; ARAÚJO, D. R. B.. Participação em banca de Ítalo Rodrigo da Silva Arruda.ANÁLISE DE IMPLEMENTAÇÃO DE SOFTWARE PARA RECOMENDAÇÃO DE CARTEIRAS DE INVESTIMENTOS: Um estudo de caso na Bovespa. 2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+27.
+ARAÚJO, D. R. B.; LIMA, A. M.; BRAGA, M. M.. Participação em banca de Manoel Filipe Pereira Silva Cyreno.Implantando engenharia de testes em tutoriais de tecnologias móveis. 2011. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+28.
+BRAGA, M. M.; ARCOVERDE NETO, E. N.; ARAÚJO, D. R. B.. Participação em banca de Fernando Henrique de Albuquerque Alves.JOGOS E GAMIFICATION: Análise de Implementação. 2011. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+29.
+MIN, L. T.; GALVAO, W. C. M.; ARAÚJO, D. R. B.. Participação em banca de Davi Gomes dos Santos.Análise Multicritério para Programação WEB. 2011. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+30.
+FERRAZ, F. S.; CAVALCANTI JUNIOR, A. L. O.; ARAÚJO, D. R. B.. Participação em banca de Lenildo José de Morais Nogueira.Análise do Consumo de Serviços Web em Android com KSOAP2 e Tecnologia Nativa. 2011. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+31.
+FERRAZ, F. S.; FRANCA NETO, L. R.; ARAÚJO, D. R. B.. Participação em banca de Francisco Gilberto Casado Coelho.Impacto da Engenharia Social na Segurança da Informação. 2011. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Associação Educacional Boa Viagem.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+ARAÚJO, DANILO R. B.; ANDRADE, E. C.; ARAUJO, J. C. T.. Concurso Público de Provas e Títulos para professor do quadro permanente da UFRPE na área de Sistemas Distribuídos (Presidente). 2026. Universidade Federal Rural de Pernambuco.
+
+2.
+MARGI, C. B.; MORAES, R. M.; ARAÚJO, DANILO R. B.. Concurso Público para Professor do Departamento de Eletrônica e Sistemas da UFPE na área Telecomunicações / Redes e Sistemas Distribuídos (06/2023). 2023. Universidade Federal de Pernambuco.
+
+3.
+BARROS, A. C.; ARAÚJO, D. R. B.; LIMA, M. E.. Concurso Público de Provas e Títulos para professor do quadro permanente da UFRPE na área Arquitetura e Organização de Computadores/Tópicos Avançados em Arquitetura e Organização de Computadores. 2022. Universidade Federal Rural de Pernambuco.
+
+4.
+ARAUJO, DANILO R. B.; TEIXEIRA, J. M. X. N.; HIRAMATSU, R. K.. Concurso Público de Provas e Títulos para professor do quadro permanente da UFRPE na área Arquitetura e Organização de Computadores/Tópicos Avançados em Arquitetura e Organização de Computadores. 2017. Universidade Federal Rural de Pernambuco.
+
+5.
+ARAÚJO, D. R. B.; HIRAMATSU, R. K.; CAJUEIRO, J. P. C.. Concurso público professor do quadro permanente da UFRPE edital 06/2017. 2017. Universidade Federal Rural de Pernambuco.
+
+Outras participações
+
+1.
+ARAÚJO, D. R. B.; ENDO, P. T.; CONSERVA FILHO, M.. COMISSÃO AVALIADORA dos trabalhos na área de Ciências Exatas durante a 27ª Jornada de Iniciação Científica da FACEPE. 2023. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+2.
+ARAÚJO, DANILO R. B.; MIRANDA, P. B. C.; ALENCAR, A. L.. Participação como Avaliador de Relatório (Oral e Escrito) de PIBIC/PIC UFRPE 2022-2023. 2023. Universidade Federal Rural de Pernambuco.
+
+3.
+CARVALHO, R. V. B.; ALCANTARA, M. S. S.; ARAÚJO, D. R. B.. Banca Examinadora Especial do Processo de Equivalência Excepcional de Curso de Graduação do candidato PedroHenrique Marinho Nascimento. 2021. Universidade Federal Rural de Pernambuco.
+
+4.
+ARAÚJO, D. R. B.. Participação como Avaliador de Relatório (Oral e Escrito) de PIBIC/PIC 2020-2021. 2021. Universidade Federal Rural de Pernambuco.
+
+5.
+ARAÚJO, D. R. B.. Participação como Avaliador de Relatório (Oral e Escrito) de PIBIC/PIC 2019-2020. 2020. Universidade Federal Rural de Pernambuco.
+
+6.
+ARAÚJO, D. R. B.. Participação como Avaliador de Relatório (Oral e Escrito) de PIBIC/PIC 2018-2019. 2019. Universidade Federal Rural de Pernambuco.
+
+7.
+ARAÚJO, D. R. B.. Participação como Avaliador de Relatório (Oral e Escrito) de PIBIC/PIC 2017-2018. 2018. Universidade Federal Rural de Pernambuco.
+
+8.
+ARAÚJO, D. R. B.. Participação como Avaliador de Relatório Parcial (Escrito) de PIBIC/PIC 2015-2016. 2016. Universidade Federal Rural de Pernambuco.
+
+9.
+NEVES, R. F. P.; ARAÚJO, D. R. B.; OLIVEIRA, S. I. F.. Seleção para professor assistente do curso de Ciência da Computação, sub-área Engenharia de Software.. 2013. Faculdade Boa Viagem.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+1st IEEE Latin American Conference on Internet of Things. Short-Term Rainfall Forecasting Aided by IoT and Deep Learning. 2025. (Congresso).
+
+2.
+International Symposium on the Internet of Things (SIoT 2024). 2024. (Simpósio).
+
+3.
+XIV Symposium on Computing Systems Engineering (SBESC 2024). 2024. (Simpósio).
+
+4.
+XXV Congresso Brasileiro de Automática (CBA 2024). Predição do Consumo Energético de Dispositivos LoRa usando Aprendizagem de Máquina. 2024. (Congresso).
+
+5.
+XI Simpósiio Brasileiro de Tecnologia da Informação e Comunicação. 2022. (Simpósio).
+
+6.
+III Encontro de Inovação e Empreendedorismo em Turismo. 2021. (Encontro).
+
+7.
+19o SBMO ? Simpósio Brasileiro de Micro-ondas e Optoeletrônica.Estimativa de Probabilidade de Bloqueio de Redes Ópticas Elásticas Usando Redes Neurais Artificiais. 2020. (Simpósio).
+
+8.
+2020 Conference on Lasers and Electro?Optics. 2020. (Congresso).
+
+9.
+9th Brazilian Conference on Intelligent Systems (BRACIS). 2020. (Congresso).
+
+10.
+V Congresso sobre Tecnologias na Educação - Ctrl+E 2020. 2020. (Congresso).
+
+11.
+XVI Encontro Nacional de Inteligência Artificial e Computacional (ENIAC). 2020. (Encontro).
+
+12.
+8th Brazilian Conference on Intelligent Systems (BRACIS). 2019. (Congresso).
+
+13.
+XVI Encontro Nacional de Inteligência Artificial e Computacional.Artificial Neural Networks to Assess Fault Tolerance of Optical Networks. 2019. (Encontro).
+
+14.
+2017 IEEE 18th International Conference on High Performance Switching and Routing. Robustness of Physical Topologies of Optical Networks Created by Variants of Gabriel Graphs. 2017. (Congresso).
+
+15.
+2016 5th Brazilian Conference on Intelligent Systems. 2016. (Congresso).
+
+16.
+17th International Conference on Transparent Optical Networks. Artificial Neural Networks to Estimate Blocking Probability of Transparent Optical Networks: A Robustness Study for Different Networks. 2015. (Congresso).
+
+17.
+2o LA-CCI (Latin American) and 12o CBIC (Brazilian) Congress on Computational Intelligence. Aprendizagem Não-Supervisionada para Avaliaçãode Métricas Topológicas de Redes Ópticas. 2015. (Congresso).
+
+18.
+IV International Workshop on Trends in Optical Technologies. 2015. (Oficina).
+
+19.
+SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference. Analyzing Surrogate Models to Assess BlockingProbability of Optical Networks. 2015. (Congresso).
+
+20.
+5th Workshop on Complex Networks - Complenet 2014.Using the Entropy of the DFT of the Laplacian Eigenvalues to Assess Networks. 2014. (Oficina).
+
+21.
+ENCOM 2014 - Encontro Anual do Iecom em Comunicação, Redes e Criptografia.Métricas de Redes Complexas para Análise de Redes Ópticas. 2014. (Encontro).
+
+22.
+Semana Acadêmica da Computação.Comunicação por fibra óptica. 2014. (Encontro).
+
+23.
+ENCOM 2013 - Encontro Anual do IECOM em Comunicações, Redes e Criptografia. 2013. (Encontro).
+
+24.
+IV Mostra de Pesquisa em Ciência e Tecnologia DeVry.Proposta de um Sistema de Gestão de Matrículas com o Auxílio de Técnicas de Inteligência Computacional. 2013. (Encontro).
+
+25.
+XXXI Simpósio Brasileiro de Telecomunicações.Towards Using DFT to Characterize Complex Networks. 2013. (Simpósio).
+
+26.
+I Workshop on Electron Devices and Solid-State Circuits. 2012. (Oficina).
+
+27.
+MOMAG 2012 - 15 SBMO Simpósio Brasileiro de Microondas e Optoeletrônica e 10 CBMag Congresso Brasileiro de Eletromagnetismo. 2012. (Congresso).
+
+28.
+II WSRO - Workshop de Simulação de Redes Ópticas. 2011. (Oficina).
+
+29.
+IV Encontro de Pós-Graduação e Pesquisa da Universidade de Pernambuco.Uma Comparação de Desempenho de Algoritmos Evolucionários Multi-objetivos para Projeto de Redes Opticas. 2010. (Encontro).
+
+30.
+IV Jornada de Iniciação Científica da Unicap.Modelo de Organização da Gestão dos Recursos de Tecnologia da Informação (TI) Orientada para Qualidade com Produtividade. 2002. (Encontro).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+ARAÚJO, DANILO R. B.. Coordenador da sessão "Resiliência de Sistemas a Eventos Discretos" do CBA24 (chair de sessão). 2024. (Congresso).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+
+1.
+Kaíque Gomes Machado. Avaliação dos fatores determinantes para a instalação de usinas fotovoltaicas no Brasil utilizando Inteligência Artificial Explicável. Início: 2026. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS DE ENERGIA) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+Kennedy Bezerra da Silva Lins. Predição de Condições Hidrometeorológicas Usando Aprendizagem Profunda Sobre Imagens Atmosféricas. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+Henrique Pablo Pinheiro dos Santos Pimentel. Proposta de Digital Twins para Representação de Produtos e Processos Complexos com Apoio de IA Generativa. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).
+
+4.
+Hilton de Aquino Viana. Proposta de uma Solução Baseada em Internet das Coisas e Inteligência Artificial para Apoiar o Turismo 4.0. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+5.
+Beatriz Silva. Mitigação de Desastres Decorrentes de Precipitações Intensas com Apoio de IoT e IA com foco em Previsões de Curto Prazo para Áreas Urbanas. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+6.
+Obidiel Martins. Modelagem e Análise de Desempenho de Infraestruturas para Monitoramento Hidrometeorológico. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+7.
+Matheus Lins Santos. Mitigação de Desastres Decorrentes de Precipitações Intensas com Apoio de Visão Computacional. Início: 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+8.
+Clariele de Almeida Pereira. Investigação sobre o Impacto no Consumo Energético de Sistemas Impactados por Diferentes Algoritmos de Aprendizagem de Máquina. Início: 2024. Dissertação (Mestrado em Engenharia de Sistemas de Energia) - Universidade Federal Rural de Pernambuco. (Coorientador).
+
+9.
+Caio Bezerra Viana. Gestão de Identidade de Dispositivos IoT Apoiada por Técnicas de PUF e Aprendizagem de Máquina. Início: 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Luiz Filipe Albuquerque Gomes. Modelo Topológico Otimizado para Expansão da Rede de Fibra Óptica em Áreas Rurais Brasileiras. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+Adriano Severiano de Albuquerque. Predição do Volume de Chuvas no Curto Prazo Usando Aprendizagem Profunda. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Danilo Ricardo Barbosa de Araújo.
+
+2.
+Edson Moura Silva. Modelagem e Análise de Desempenho para Produção Têxtil. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Coorientador: Danilo Ricardo Barbosa de Araújo.
+
+3.
+Victor Matheus Falcão Fonseca. Sistema para Aeração na Aquicultura 4.0 Baseado em IoT com Ênfase em Eficiência Energética. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Danilo Ricardo Barbosa de Araújo.
+
+4.
+Jorge Candeias do Nascimento. Projeto de Redes Ópticas de Longa Distância Apoiado por Algoritmos Meméticos que Consideram Vários Objetivos Conflitantes. 2021. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Danilo Ricardo Barbosa de Araújo.
+
+5.
+Matheus Lôbo dos Santos. Abordagens para Atribuição de Espectro em Redes Ópticas Elásticas Baseadas em Perda de Capacidade Sob Múltiplas Rotas. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Pernambuco, . Coorientador: Danilo Ricardo Barbosa de Araújo.
+
+6.
+Vital Dupleix. Projeto de Redes de Fibras Ópticas de Alta Capacidade para a República do Haíti Usando uma Abordagem Evolutiva Multiobjetiva. 2016. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS) - Universidade de Pernambuco, . Coorientador: Danilo Ricardo Barbosa de Araújo.
+
+7.
+Nadja Juliana da Silva Lima. Utilização de Operadores Booleanos em Grafos para Gerar Novas Topologias de Redes em Projetos de Redes Ópticas. 2014. Dissertação (Mestrado em ENGENHARIA DE SISTEMAS) - Universidade de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Coorientador: Danilo Ricardo Barbosa de Araújo.
+
+Tese de doutorado
+
+1.
+Sergio Amaral da Silva. Estratégias para Alocação de Recursos em Redes Ópticas Elásticas Considerando as Penalidades da Camada Física. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Pernambuco, . Coorientador: Danilo Ricardo Barbosa de Araújo.
+
+Monografia de conclusão de curso de aperfeiçoamento/especialização
+
+1.
+Paulo Roberto Branco. SuMCET: Support Machines on Clustered Electric Transformers. 2019. Monografia. (Aperfeiçoamento/Especialização em Residência tecnológica em Inteligência Artificial da UPE/SECTI/FACEPE/FITec) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+2.
+Rodrigo Silva. Um Sistema para Predição de Risco de Acidentes em Rodovias de Pernambuco. 2019. Monografia. (Aperfeiçoamento/Especialização em Residência tecnológica em Inteligência Artificial da UPE/SECTI/FACEPE/FITec) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+3.
+Raniel Gomes. Proposta de um sistema de apoio à doação sanguínea baseado em gamificação. 2016. Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+4.
+Jean R. Nascimento. Comparação entre Servidores de Banco de Dados Tradicionais e Sistemas Baseados em Infraestrutura Dedicada. 2016. Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+5.
+Cássio Silva de Carvalho. Proposta de sistema para busca de animais domésticos desaparecidos com utilização de tecnologia da informação e comunicação. 2016. Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+6.
+André Luiz Ximenes Gonçalves da Luz. Plataforma colaborativa para auxílio na identificação de casos suspeitos de doenças da Tríplice epidemia e focos do mosquito Aedes Aegypit. 2016. Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+7.
+Yves Mendes Galvão. Desenvolvendo Sítios Adaptáveis para Dispositivos Móveis e Computadores Pessoais: Um Estudo de Caso Utilizando Frameworks de Design Responsivo. 2015. Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+8.
+Roger Steve de Souza. Análise sobre o Desempenho dos Protocolos SOAP e REST para o Uso em Aplicações Mobile Consumidoras de Web Services. 2015. Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+9.
+João Gustavo Guedes Leite. Análise de Software para Suporte à Manutenção Industrial. 2015. Monografia. (Aperfeiçoamento/Especialização em Curso de Especialização em Engenharia de Software) - Universidade de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Ingo P. P. Montarroyos. Otimização de Redes de Transporte Público Considerando a Variação na Posição das Estações. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+2.
+Marco Antônio. Redes Ópticas de Acesso: uma Análise Comparativa entre EPON e SuperPON. 2024. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+3.
+Henrique P. P. dos S. Pimentel. Predição do Consumo Energético de Dispositivos LoRa usando Aprendizagem de Máquina. 2024. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+4.
+Jonas Freire de Alcantara Marques de Barros. Uso de Técnicas de Detecção de Comunidades para Análise de Redes Ópticas. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+5.
+Eder Lucena Andrade da Fonsêca. Proposta de um Aplicativo Android para Monitoramento Remoto de Pontos Turísticos. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+6.
+Caio Bruno Bezerra de Souza. Alocação Dinâmica de Recursos para URLLC em Redes 5G NFV-MEC. 2020. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+7.
+Waleska Dias de Souza. Segurança para Redes de Transporte Ópticas Considerando Criptografia na Camada Física e Requisitos de Latência. 2017. Trabalho de Conclusão de Curso. (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+8.
+Gustavo Henrique Pinto Soares de Barros. Proposta de um meta-modelo para avaliação de robustez de redes com base na combinação de métricas topológicas. 2017. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+9.
+Laura Alice de Lima Fidelis Nunes. Proposta de diretrizes para seleção de planos de Internet móvel por usuários domésticos: estudo de caso na região metropolitana do Recife. 2017. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+10.
+Jorge Candeias do Nascimento. Projeto integrado de redes ópticas de longa distância e metropolitanas usando algoritmos de inteligência computacional: estudo de caso para o estado de Pernambuco.. 2017. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+11.
+Gleidson Araújo de Souza Campos. Avaliação de Agregação de Enlaces em Redes Móveis: Um Estudo de Caso com Operadoras que Atuam na Região Metropolitana do Recife. 2016. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+12.
+José Eduardo Montenegro Cavalcanti de Oliveira. ANÁLISE DE IMPLEMENTAÇÃO DE SOFTWARE PARA PESSOAS DISLÉXICAS: Identificação de Problemas e Potencialidades. 2012. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+13.
+Roniérison Rodrigues Galdino Silva. PARALELIZAÇÃO DE ALGORÍTIMOS GENÉTICOS: um estudo de caso usando técnicas de paralelização da linguagem Java. 2012. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+14.
+Ítalo Rodrigo da Silva Arruda. ANÁLISE DE IMPLEMENTAÇÃO DE SOFTWARE PARA RECOMENDAÇÃO DE CARTEIRAS DE INVESTIMENTOS: Um estudo de caso na Bovespa. 2012. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+15.
+Davi Gomes dos Santos. Análise Multicritério para Programação WEB. 2011. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+16.
+Fernando Henrique de Albuquerque Alves. JOGOS E GAMIFICATION: Análise de Implementação. 2011. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Associação Educacional Boa Viagem. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+Iniciação científica
+
+1.
+Henrique Pablo Pinheiro dos Santos Pimentel. Proposta de Infraestrutura de Comunicação para Sistemas de Apoio à Aquicultura 4.0 com Enfoque em LoRaWAN. 2024. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+2.
+Vinicius Gabriel Pereira Lima. Modelagem e Análise de Infraestruturas para Monitoramento Hidrometeorológico. 2024. Iniciação Científica. (Graduando em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+3.
+Henrique Pablo Pinheiro dos Santos Pimentel. Proposta de Infraestruturas de Comunicação para Sistemas de Apoio à Aquicultura 4.0. 2023. Iniciação Científica. (Graduando em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+4.
+Henrique Pablo Pinheiro dos Santos Pimentel. Aplicações de Técnicas de Inteligência Artificial para Auxílio à Tomada de Decisão em Empresas de Confecção Considerando a Infraestrutura Disponível e o Histórico de Vendas. 2021. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+5.
+Marcos Antônio da Silva. Avaliação da Viabilidade de Redes de Acesso Ópticas Passivas de Próxima Geração Auxiliadas por Técnicas de Inteligência Artificial. 2021. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+6.
+Guilherme Silva Duarte. Proposta de meta-modelos baseados em Inteligência Artificial para predição de métricas de desempenho de infraestruturas de redes 5G em ambientes fabris. 2020. Iniciação Científica. (Graduando em Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+7.
+Jonas Freire de Alcantara Marques de Barros. Proposta de um meta-modelo para avaliação de desempenho de redes ópticas elásticas. 2019. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+8.
+ADRIELLE TATIANE DA COSTA SOUSA. Proposta de um novo simulador de eventos discretos para modelagem de redes de transporte público. 2019. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+9.
+Ingo Porfírio Pastl Montarroyos. Otimização de Redes de Transporte Público Considerando Posições Alternativas dos Terminais da Rede. 2018. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+10.
+Jorge Candeias do Nascimento. Proposta de Diferentes Operadores de Busca Local em Algoritmos Meméticos para Otimização de Projetos de Redes Ópticas. 2018. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+11.
+Nycolas Lacerda de Oliveira. Proposta de Modelos para Avaliação de Dempenho com Base em Regressão Simbólica. 2016. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+12.
+Ewerton Cleyton Silva de Queiroz. Avaliação de Modelos Sintéticos Inspirados em Grafos de Gabriel para Planejamento de Redes Ópticas. 2016. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+13.
+Marcos Antônio Oliveira da Penha. Sistema Inteligente para Gestão de Matrículas: uma proposta de otimização de matrículas usando técnicas de busca multiobjetiva bioinspirada. 2012. Iniciação Científica. (Graduando em Ciência da Computação) - Associação Educacional Boa Viagem. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+14.
+Luciano José Firmino Júnior. Sistema Inteligente para Gestão de Matrículas: uma proposta de agrupamento por afinidade de alunos baseada em mapas de Kohonen. 2012. Iniciação Científica. (Graduando em Ciência da Computação) - Associação Educacional Boa Viagem. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+Orientações de outra natureza
+
+1.
+Tarcio Francisco Passos Silva. Uma Proposta Baseada em Agregação de Tráfego de Redes Celulares para Provimento de Internet de Alta Capacidade em Regiões de Difícil Acesso no Estado de Pernambuco. 2016. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+2.
+Carlos Magnum Matias Bezerra. Recrutamento e Capacitação de Voluntários no Estado de Pernambuco Usando Tecnologia da Informação e Comunicação. 2016. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+3.
+Allan Monteiro de Lima. Uso da Tecnologia da Informação e Comunicação para o Fortalecimento do Trabalho Voluntário no Estado de Pernambuco. 2015. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Danilo Ricardo Barbosa de Araújo.
+
+
+
+Inovação
+
+Programa de computador sem registro
+1.
+MARTINS-FILHO, J. F. ; BASTOS-FILHO, C. J. A. ; ARAÚJO, D. R. B. ; CHAVES, D. A. R. ; ALMEIDA JUNIOR, R. C. ; PEREIRA, H. A. ; XAVIER, A. V. S. . Ferramenta de Planejamento de Redes Ópticas. 2013.
+
+
+Projetos de pesquisa
+2022 - 2025
+Mitigação de Eventos Críticos Decorrentes de Precipitações Intensas com Apoio de Internet das Coisas e Inteligência Artificial: um Enfoque em Previsões Sobre o Nível da Água em Áreas Urbanas
+Descrição: Devido às mudanças climáticas, a frequência, intensidade e duração de eventosextremos tem aumentado nos últimos anos, incluindo inundações, secas, tempestadese temperaturas extremas. Esses eventos críticos muitas vezes culminam em perda depropriedades, custos financeiros e até vidas, especialmente em países pobres e emdesenvolvimento, nos quais não há ou há má gestão de desastres por dificuldadessociais e financeiras ou por falta de sinergia entre as ações de mitigação realizadas. NoBrasil, de 1994 a 2015 a estimativa de perdas causadas por desastres relacionados àágua foram R$ 182,7 bilhões. Inundações e deslizamentos de terra correspondem a40 desse montante e 39 dos desastres registrados. Neste sentido, estudoscientíficos e avanços tecnológicos que possam mitigar desastres decorrentes deprecipitações intensas são fundamentais na medida em que evitam perdas financeiras epromovem a preservação da vida. O fluxo e nível de água de um rio ou canal envolveuma modelagem hidrológica e hidrodinâmica e os estudos anteriores usamprincipalmente o processo de chuva observado pelo pluviômetro como condições decontorno para conduzir o modelo hidrológico/hidrodinâmico e simular o nível e vazão deágua. Em grandes bacias hidrográficas e áreas naturais, os modelos oferecem relativaprecisão quando a previsão pretendida envolve um grande espaço temporal. Em áreasurbanas, há desafios específicos que dificulta o uso com precisão de modelostradicionais, como: pequena área de captação; curta distância de confluência;construções decorrentes da urbanização e dutos subterrâneos que aceleram oescoamento das águas pluviais. Estes aspectos resultam em um curto tempo deresposta da água dos rios urbanos às precipitações e inviabilizam as abordagens demodelagem que exigem um tempo maior de resposta. Portanto, uma tendência nosestudos recentes é aplicar um modelo de previsão de precipitações, usando aprecipitação prevista como a condição de contorno para conduzir os cálculos do modelohidrológico/hidrodinâmico, o que melhora significativamente a período de previsão dosresultados. Este projeto de pesquisa pretende investigar e propor novas abordagenspara monitoramento e previsão do nível da água em áreas urbanas e com alertasemitidos para um curto espaço temporal, com potencial de antecipar desastres eoferecer à população e às autoridades responsáveis um tipo de informação queatualmente não está disponível. A proposta considera o uso combinado de sensores IoTde baixo custo, técnicas recentes de Inteligência Artificial e dados obtidos a partir depluviômetros, radar e sensores específicos, usando os modeloshidrográficos/hidrodinâmicos alimentados com dados preditivos para antecipação doseventos. Além disso, será considerada a instalação de pontos de monitoramentohidrometeorológicos na Região Metropolitana do Recife e parceria com as autoridadesde água locais, de modo a validar as abordagens propostas na pesquisa..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (2) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Carmelo José Albanez Bastos Filho - Integrante / Carlos Julian Menezes Araújo - Integrante / Ermeson C. de Andrade - Integrante / Kellyton Brito - Integrante / Francisco Paulo - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2018 - 2018
+Planejamento de redes ópticas elásticas apoiado por otimização robusta para muitos objetivos
+Descrição: O crescente aumento de demanda por taxa de transmissão, relacionado em sua maior parte pelo crescimento contínuo de tráfego de Internet, tem sido suprido nos últimos anos principalmente por comunicações por fibra óptica. Considerando as recentes investigações sobre eficiência espectral, percebe-se que há um crescente interesse em novas arquiteturas de redes ópticas, como por exemplo a denominada de arquitetura elástica ou gridless, que não possui uma grade fixa e uniformemente espaçada de comprimentos de onda. Diversas soluções já foram propostas para análise e planejamento de redes ópticas DWDM. Entretanto, diferente das ferramentas de análise e projeto de redes DWDM, pouco tem sido feito no sentido do desenvolvimento de ferramentas próprias para auxiliar o projeto de redes elásticas que considere a otimização de vários objetivos conflitantes simultaneamente. O problema de projeto de redes é classificado na categoria NP-Difícil e por este motivo é comum o uso de meta-heurísticas de otimização para obtenção de soluções subótimas em um baixo tempo de execução. Por outro lado, a avaliação da qualidade de soluções para projetos de redes ópticas geralmente é feita usando simuladores de redes, o que torna a tarefa de otimização computacionalmente custosa. Este projeto propõe uma nova abordagem para otimização de redes elásticas que considere diversos objetivos conflitantes usando modelos substitutos para acelerar o processo de busca. Os modelos substitutos serão incorporados ao processo de otimização usando técnicas de otimização robusta, incluindo a análise de incerteza no uso dos meta-modelos. A nova abordagem será comparada com soluções existentes em termos de capacidade convergência, diversidade de soluções e tempo de execução. A abordagem proposta será ainda usada para simular o cenário de construção de uma rede de fibra óptica com arquitetura gridless para o Estado de Pernambuco, de modo a evidenciar as vantagens dessa nova proposta em um cenário prático local..
+Situação: Desativado; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2017 - 2020
+PLANEJAMENTO DE REDES ÓPTICAS ELÁSTICAS PARA OBTENÇÃO DE PROJETOS RESILIENTES, DE BAIXO CUSTO E DE ALTO DESEMPENHO
+Descrição: Alguns estudos já investigaram técnicas para planejamento de topologia física de redes WDM e DWDM. Contudo,há uma carência sobre ferramentas automáticas para projeto de redes ópticas elásticas, que é uma área de investigação recente. Este projeto pretende contribuir para o preenchimento desta lacuna. Este projeto de pesquisa pretende investigar novas técnicas para planejamento físico de redes ópticas elásticas. A modelagem do projeto usa como dados de entrada: a posição geográfica dos nós, um algoritmo de roteamento e atribuição de espectro (Routing and. Spectrum Assignment - RSA) e uma demanda de tráfego. A proposta de planejamento de rede retornada pela ferramenta de otimização deverá informar quais enlaces serão usados na rede, a configuração dos slots de frequência e os modelos de dispositivos ópticos empregados (como amplificador óptico e WSS - Wavelength Selective Switching). É imposta a restrição de que a topologia física encontrada seja um grafo conectado e a resiliência da rede será avaliada por meio de métricas topológicas e por simulações de falha simples e duplas..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (1) / Doutorado: (1) .
+
+Integrantes: Danilo Ricardo Barbosa de Araújo - Coordenador / Carmelo José Albanez Bastos Filho - Integrante / Joaquim Ferreira Martins Filho - Integrante / Raul Camelo de Almeida Junior - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+
+
+
+Outras informações relevantes
+Foi revisor ad hoc e membro de TPC de eventos nacionais e internacionais. Nos últimos 5 anos, revisou artigos para o "ICSI2020 (The Eleventh International Conference on Swarm Intelligence)", "XV Brazilian Congress on Computational Intelligence" e "19th SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC)", "Congresso Brasileiro de Automática 2022 (CBA 2022)", "XVI Congresso Brasileiro de Inteligência Computacional (CBIC) 2023", "Congresso Brasileiro de Automática 2022 (CBA 2024)", "SBRT 2024 (Simpósio Brasileiro de Redes e Telecomunicações", "26th Annual International Conference on Digital Government Research (dg.o 2025)" e "XVII Simpósio Brasileiro de Automação Inteligente - SBAI 2025", Google citations: http://scholar.google.com/citations?user=o6eUGfAAAAAJ. Research gate: http://www.researchgate.net/profile/Danilo_Araujo.
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 13:45:07
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo

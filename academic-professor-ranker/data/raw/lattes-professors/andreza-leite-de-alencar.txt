@@ -1,0 +1,1267 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+Dados gerais Formação Atuação Projetos Produções Patentes e Registros Inovação Educação e Popularização de C & T Eventos Orientações Bancas +
+
+Andrêza Leite de Alencar
+Endereço para acessar este CV: http://lattes.cnpq.br/6060587704569605
+ID Lattes: 6060587704569605
+Última atualização do currículo em 21/01/2026
+
+Doutorado em Ciência da Computação pela Universidade Federal de Pernambuco. Mestrado em Ciência da Computação pela Universidade Federal de Pernambuco (UFPE). Graduação em Sistemas de Informação pela Universidade Federal do Pará (UFPA). Atua como Professor na Universidade Federal Rural de Pernambuco(UFRPE). É uma das coordenadoras do Laboratório IDEA (Inclusão, Diversidade Equidade e Acessibilidade). É Líder do grupo de pesquisa CIDA (Ciência de Dados Aplicada) do CNPQ, com projetos aplicados a Saúde, Sociedade e Educação. Atua também como Pesquisador no IGM-Fiocruz Bah, com projetos de Ciência de Dados e IA aplicado a Saúde.Coordenou o desenvolvimento da Plataforma UNA, em parceria com a Womanity Foundation e ONU Mulheres, um mapa interativo destacando iniciativas para igualdade de gênero em todo o Brasil. Coordenou o time de Engenharia de Dados da plataforma Conecta PNE, apoiando o monitoramento do Plano Nacional de Educação do Ministério da Educação (MEC). Foi Diretora do Women Who Code Recife, organização sem fins lucrativos voltada para o empoderamento da mulher em tecnologia, presente em mais de 20 países. Também foi fundadora do Pyladies Recife e FemininoLivre, e Embaixadora do Technovation Challenge Brasil. Atua como professor na especialização em Ciência de Dados e Analytics da Universidade de Pernambuco (UPE) e nas Residências em Visão Computacional e Engenharia e Ciência de Dados no CIn/UFPE. Já palestrou em eventos de Tecnologia e Empreendedorismo como Campus Party, FISL, CSBC, Consoline, InterCon, TechWoman entre outros. Em resumo, tem experiência na área de Ciência da Computação, com interesse principalmente nos temas: Ciência de Dados; Bancos de Dados não Convencionais; Sistemas Distribuídos e Computação aplicada a Saúde, Educação e Sociedade. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Andrêza Leite de AlencarDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+ALENCAR, A. L.;ALENCAR, ANDREZA;ALENCAR, ANDRÊZA LEITE DE;ALENCAR, ANDRÊZA L
+Lattes iD
+http://lattes.cnpq.br/6060587704569605
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+Universidade Federal Rural de Pernambuco
+Dois Irmãos
+52171900 - Recife, PE - Brasil
+Telefone: (81) 33206491
+URL da Homepage: http://www.ufrpe.br/br
+
+
+Formação acadêmica/titulação
+2013 - 2018
+Doutorado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Um Meta-modelo para Representação de Dados Biológicos Moleculares e Suporte ao Processo de Anotação de Variantes Genéticas , Ano de obtenção: 2018.
+Orientador: Vinicius Cardoso Garcia.
+Coorientador: Vanilson André de Arruda Burégio.
+Palavras-chave: Gerenciamento de Dados em Nuvem; Big Data; Dados Biológicos Moleculares; Anotação de Variantes; Metamodelo; MDE.
+Grande área: Ciências Exatas e da Terra
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas Distribuídos.
+2010 - 2012
+Mestrado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: VisualSPEED: Uma Interface de Interação com o Usuário para PDMS Baseados em Ontologia, Ano de Obtenção: 2012.
+Orientador: Ana Carolina Salgado.
+Bolsista do(a): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco, FACEPE, Brasil.
+Palavras-chave: Banco de Dados; Peer Data Management Systems; Interface Humano-Computador.
+2005 - 2009
+Graduação em Bacharelado em Sistemas de Informação.
+Universidade Federal do Pará, UFPA, Brasil.
+Título: Estudo e Implementação de Protocolos de Controle da Qualidade de Dados Micrometeorológicos.
+Orientador: José Laurindo Campos dos Santos.
+2000 - 2002
+Ensino Médio (2º grau).
+Colégio Dom Amando, CDA, Brasil.
+1996 - 1999
+Ensino Fundamental (1º grau).
+Esola Estadual Almirante Soares Dutra, EEASD, Brasil.
+
+
+
+
+Formação Complementar
+2014 - 2014
+PROCESSAMENTO INTENSIVO DE DADOS. (Carga horária: 6h).
+Universidade Federal do Rio de Janeiro, UFRJ, Brasil.
+2014 - 2014
+MICROSOFT AZURE FOR RESEARCH TRAINING. (Carga horária: 8h).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+2009 - 2009
+Uma Introdução à Programação em Lua. (Carga horária: 12h).
+Sociedade Brasileira de Computação - Porto Alegre, SBC, Brasil.
+2008 - 2008
+Técnicas de Determinação de Fluxos Turbulentos. (Carga horária: 8h).
+Instituto Esperança de Ensino Superior, IESPES, Brasil.
+2008 - 2008
+Oficina Rede de Fluxos do LBA. (Carga horária: 30h).
+Experimento de Grande Escala da Biosfera/Atmosfera na Amazônia, LBA, Brasil.
+2007 - 2007
+Desenvolvimento de aplicativos para o ambiente WEB. (Carga horária: 60h).
+Experimento de Grande Escala da Biosfera/Atmosfera na Amazônia, LBA, Brasil.
+2006 - 2006
+Padrões de Projetos orientados a objetos. (Carga horária: 3h).
+Universidade Luterana do Brasil, ULBRA, Brasil.
+2006 - 2006
+Automação Comercial/Programação-Impressora Fiscal. (Carga horária: 3h).
+Universidade Luterana do Brasil, ULBRA, Brasil.
+2005 - 2005
+Desenvolvimento de WEB com Software Livre. (Carga horária: 10h).
+Universidade Luterana do Brasil, ULBRA, Brasil.
+2005 - 2005
+SGBD PostgreSQL. (Carga horária: 10h).
+Universidade Luterana do Brasil, ULBRA, Brasil.
+2005 - 2005
+HTML Básico. (Carga horária: 20h).
+Universidade Federal do Pará, UFPA, Brasil.
+
+
+Atuação Profissional
+
+Universidade Federal de Alagoas, UFAL, Brasil.
+Vínculo institucional
+
+2022 - Atual
+Vínculo: , Enquadramento Funcional:
+
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Associado, Carga horária: 40
+Outras informações
+Atividades Docente:2013.1 -Banco de Dados S(14088);Banco de Dados I (06215);Introdução a Informática (06262);2013.2-Banco de Dados S(14088);Banco de Dados I (06215);Prática de Ensino de Banco de Dados (06248);2014.1 - Tópicos Avançados em Banco de Dados(14098);Banco de Dados I (06215);Prática de Ensino de Banco de Dados (06248);2014.2 - Tópicos Avançados em Banco de Dados(14098);Banco de Dados I (06215);Introdução à Microinformática(06211);2015.1 - Prática de Ensino de Banco de Dados (06248);Banco de Dados I (06215);Atividades Administrativas - 24/07/2013 - Membro da Comissão de Avaliação de Perfil do concurso referente ao Edital 36/2013, Matéria: Banco de Dados;25/10/2013 - atual: Membro do Colegiado de Coordenação Didática do Curso de Licenciatura em Educação Física;24/01/2014 - atual: Membro da Comissão de Reestruturação das Disciplinas Externas da Área de Informática;30/06/2014 - atual: Membro do Colegiado de Coordenação Didática do Curso de Licenciatura Plena em Computação;02/07/2014 - Membro da Comissão de Extensão;26/01/2015 - Membro da Comissão do Concurso da Área de ENSISO - Edital 08-2014;
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Professor Executor, Enquadramento Funcional: Professor Executor
+Outras informações
+Professor Executor à Distância das disciplinas: - Inclusão Digital
+
+Vínculo institucional
+
+2011 - 2012
+Vínculo: Professor Auxiliar(Substituto), Enquadramento Funcional: Professor Temporário
+Outras informações
+Disciplinas: - Análise e Projeto de Sistemas de Informação; - Projeto de Sistemas Distribuídos; - Tópicos em Engenharia de Software
+
+Vínculo institucional
+
+2010 - 2012
+Vínculo: Professor, Enquadramento Funcional: Professor Auxiliar (Tutor)
+Outras informações
+Tutoria sob as disciplinas: - Banco de dados - PCCC: Projeto de banco de dados - AACC: Oficina HTML e CSS - Algoritmos e Estrutura de Dados - Gerência de Projetos - Produção de Mídias
+
+Atividades
+
+01/2012 - Atual
+Extensão universitária , Conselho de Ensino a Pesquisa e Extensão.
+
+Atividade de extensão realizada
+Informática e Software Livre como Instrumento de Inclusão Social.
+
+Fundação Oswaldo Cruz, FIOCRUZ, Brasil.
+Vínculo institucional
+
+2021 - Atual
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisador, Carga horária: 2
+Outras informações
+Pesquisador no projeto "Implementação do Núcleo de Gestão de Dados em Pesquisa Biomédica (NGD_PBio) no IGM-FIocruz Bahia" aprovado no edital Inova Gestão Fiocruz 05/2020. Desde 07/2021 Pesquisador no projeto "Fortalecimento e Inovação da Rede de Vigilância, Alerta e Resposta do Sistema Único de Saúde Rede Vigiar-SUS para o Enfrentamento do COVID-19: Sistema Integrado de Vigilância Digital (SIVS-d)". Desde 02/2022
+
+
+Universidade de Pernambuco, UPE, Brasil.
+Vínculo institucional
+
+2016 - Atual
+Vínculo: Professor, Enquadramento Funcional: Professor de Especialização
+Outras informações
+Especialização em "Ciência de Dados e Analytics". Disciplina "Banco de Dados Não Convencionais"
+
+Atividades
+
+01/2016 - Atual
+Ensino, Ciência de Dados e Analytics, Nível: Especialização
+
+Disciplinas ministradas
+Bancos de Dados Não Convencionais
+
+Fundação Apolônio Salles de Desenvolvimento Educacional, FADURPE, Brasil.
+Vínculo institucional
+
+2017 - 2018
+Vínculo: , Enquadramento Funcional:
+
+
+Women Who Code, WWC, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: CO-FOUNDER, Enquadramento Funcional: Diretor
+
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2022 - Atual
+Vínculo: Colaborador, Enquadramento Funcional: Professor de Especialização
+Outras informações
+Professor na Residências em Visão Computacional e Engenharia e Ciência de Dados com a disciplina Gerenciamento de Dados para Big Data
+
+Vínculo institucional
+
+2010 - 2010
+Vínculo: Estágio de Docência, Enquadramento Funcional: Estágiário, Carga horária: 4
+Outras informações
+Estágio de docência na disciplina "Integração de dados e Warehousing"
+
+
+Universidade Federal do Vale do São Francisco, UNIVASF, Brasil.
+Vínculo institucional
+
+2012 - 2013
+Vínculo: Servidor Público, Enquadramento Funcional: Profesor Assistente, Carga horária: 40, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas: - Sistemas Disribuídos - Sistemas Operacionais
+
+
+Faculdade Joaquim Nabuco, FJN, Brasil.
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Professor, Enquadramento Funcional: Professor, Carga horária: 9
+
+
+Instituto Nacional de Pesquisas da Amazônia, INPA, Brasil.
+Vínculo institucional
+
+2007 - 2010
+Vínculo: Bolsista, Enquadramento Funcional: Equipe de desenvolvimento e pesquisa, Carga horária: 20
+
+
+Experimento de Grande Escala da Biosfera/Atmosfera na Amazônia, LBA, Brasil.
+Vínculo institucional
+
+2007 - 2010
+Vínculo: Estagiario, Enquadramento Funcional: Estagiario, Carga horária: 20
+
+
+Secretaria Municipal do Trabalho e Assistencia Social de Santarém, SECTAS, Brasil.
+Vínculo institucional
+
+2006 - 2006
+Vínculo: Estagiario, Enquadramento Funcional: Gerenciamento da Base de Dados, Carga horária: 30
+
+
+
+Projetos de pesquisa
+2023 - Atual
+CIDA - Centro de Inovação em ciência de Dados Aplicada
+Descrição: Grupo de pesquisa CNPQhttp://dgp.cnpq.br/dgp/espelhogrupo/798371.
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (6) / Especialização: (4) / Mestrado acadêmico: (1) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador.
+
+Número de produções C, T & A: 14
+2023 - Atual
+AESOP - Alert-Early System of Outbreaks with Pandemic Potential
+Descrição: O SOP é um projeto que visa desenvolver um Sistema de Alerta Antecipado de Surtos com Potencial Pandêmico, chamado Alert-Early System of Outbreaks with Pandemic Potential. Para isso, são estabelecidas três bases importantes: inovação, otimização e antecipação.
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / Antonio Ricardo Khouri Cunha - Integrante / Manoel Barral Netto - Coordenador / Juliane F. Oliveira - Integrante / Pablo Ivan P. Ramos - Integrante.
+Financiador(es): Rockefeller Foundation - Auxílio financeiro.
+Número de produções C, T & A: 6 / Número de orientações: 1
+2022 - Atual
+Fortalecimento e Inovação da Rede de Vigilância, Alerta e Resposta do Sistema Único de Saúde Rede Vigiar-SUS para o Enfrentamento do COVID-19: Sistema Integrado de Vigilância Digital (SIVS-d)
+Descrição: Coordenado pelo Dr. Manoel Barral Netto e Dr. Antonio Ricardo Khouri Cunha. Este projeto visa criar um núcleo especializado para gerenciar e analisar os conjuntos de dados gerados nas pesquisas de vigilância do SARS-CoV-2 do Instituto Gonçalo Moniz (IGM/FIOCRUZ-BA)..
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / Antonio Ricardo Khouri Cunha - Integrante / Manoel Barral Netto - Coordenador.
+
+Número de produções C, T & A: 4 / Número de orientações: 1
+2022 - Atual
+Plataforma +PNE e TC Educa: Integrando Dados Conectados, Inteligência Artificial e Análise de Dados
+Descrição: Planejamento, concepção, implementação e avaliação dos processos que subsidiam a manutenção, atualização e integração dos processos e sistemas necessários para o ecossistema computacional dos escopos vinculados à Plataforma Nacional de Planos de Educação +PNE e TC Educa: (1) apoiar o processo de elaboração e adequação dos Planos Subnacionais de Educação, em nível municipal, estadual e federal.; (2) apoiar a avaliação contínua, por meio de utilização de dados, a fim de assegurar o suporte ao processo de tomada de decisão baseada em evidência dos stakeholders envolvidos no processo. Além destes objetivos, também haverá capacitação dos usuários, capacitação da equipe técnica para implantação dos sistemas desenvolvidos e disponibilização do código fonte e documentação dos sistemas desenvolvidos ao MEC..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (3) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Vanilson Buregio - Integrante / Taciana Pontual da Rocha Falcão - Integrante / Ana Paula Carvalho Cavalcanti Furtado - Integrante / Ibsen Mateus Bittencourt Santana Pinto - Integrante / Rafael Ferreira Leite de Mello: - Integrante.
+2021 - Atual
+Gestão de Dados em Pesquisa Biomédica
+Descrição: O avanço tecnológico na área das pesquisas biomédicas observado nas últimas décadas resultou em uma realidade na qual os estudos científicos agora geram uma grande quantidade de dados. A pesquisa clínica coleta resultados de experimentos laboratoriais nas áreas de imunologia, microbiologia, genética, metabolismo e biologia molecular, com o objetivo de um melhor entendimento sobre sistemas biológicos associados às diversas doenças de grande impacto na saúde pública brasileira. Este avanço decorre não somente da evolução tecnológica como também da redução de custo dos diferentes ensaios e procedimentos. Este grande desenvolvimento científico trouxe um imenso desafio para os diversos grupos e instituições de pesquisa, o qual diz respeito à necessidade de padronizar e gerenciar a coleta, o armazenamento e o uso destes dados obtidos em diferentes experimentos, por meio de técnicas distintas.Diante do exposto, há uma demanda de soluções capazes de otimizar os diversos processos envolvidos na gestão dos dados científicos gerados em projetos de pesquisa biomédica. Assim, o presente projeto visa criar um núcleo especializado para criar soluções que apoiem o gerenciamento destes conjuntos de dados, a fim de otimizar os procedimentos que sustentam a Ciência Aberta. Esta iniciativa transformará como o conhecimento científico é produzido, compartilhado e comunicado, possibilitando um ambiente ainda mais colaborativo, transparente e sustentável..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Especialização: (3) / Mestrado acadêmico: (2) / Doutorado: (1) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / Kellyton dos Santos Brito - Integrante / Péricles Barbosa Cunha de Miranda - Integrante.
+
+Número de produções C, T & A: 7 / Número de orientações: 1
+2021 - Atual
+?Implementação do Núcleo de Gestão de Dados em Pesquisa Biomédica (NGD_PBio) no IGM-FIocruz Bahia?,
+Descrição: Coordenado pelo Dr. Antonio Ricardo Khouri Cunha. Este projeto que visa criar um núcleo especializado para gerenciar os conjuntos de dados gerados nas pesquisas biomédicas do Instituto Gonçalo Moniz (IGM/FIOCRUZ-BA), a fim de otimizar os procedimentos que sustentam a Ciência Aberta. Esta iniciativa transformará como o conhecimento científico é produzido, compartilhado e comunicado, possibilitando um ambiente ainda mais colaborativo, transparente e sustentável..
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Vinícius Cardoso Garcia - Integrante / Antonio Ricardo Khouri Cunha - Integrante.
+2010 - 2012
+SPEED-Uma Abordagem Semântica para Gerenciamento de Dados em Ambientes Peer-to-Peer (P2P)
+Descrição: O desenvolvimento de aplicações na Web fez crescer a necessidade por novas arquiteturas de sistemas distribuídos e de alto desempenho de processamento. Uma destas arquiteturas é a arquitetura Peer-to-Peer (P2P) que vem sendo bastante utilizada para trocas de informações, especialmente arquivos, na Web. Nosso interesse se concentra no problema de gerenciamento de dados, acessados a partir de fontes de dados distribuídas, e a integração dos mesmos para responder às consultas efetuadas nos diversos pontos que compõem um sistema P2P. Os sistemas de gerenciamento de dados P2P representam uma evolução dos tradicionais sistemas de integração de dados. Neste sentido, propomos a criação de um sistema utilizando uma arquitetura de super-peers baseada em uma abordagem semântica. Na arquitetura proposta, os pontos são agrupados de acordo com seu domínio semântico formando o que chamamos de clusters semânticos. Os clusters semânticos de um mesmo domínio formam uma comunidade semântica que agrega informações relevantes para o domínio como, por exemplo, uma ontologia de termos do domínio para facilitar o mapeamento entre os esquemas. Os principais pontos a serem considerados no desenvolvimento do sistema são: gerenciamento das conexões entre os pontos, geração e manutenção de mapeamentos semânticos, execução de consultas distribuídas, definição, e avaliação de critérios de qualidade de dados e informações. O projeto tem por objetivo a geração de um protótipo, implementando as soluções propostas em cada um dos pontos indicados, assim como a formação de recursos humanos especializados na área..
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / Ana Carolina Brandão Salgado - Coordenador.
+2010 - Atual
+ASSERT: Advanced System and Software Engineering Research Technologies Lab
+
+Projeto certificado pela empresa UstoRe em 18/08/2014.
+Descrição: Advanced System and Software Engineering Research Technologies Lab.
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / Vinícius Cardoso Garcia - Coordenador / Sílvio Romero Lemos Meira - Integrante.
+
+Número de produções C, T & A: 3
+2008 - 2009
+Aplicações de Telemática a Projetos Científicos de Longa Duração na Amazônia
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / José Laurindo - Coordenador.
+Financiador(es): Fundação de Amparo a Pesquisa do Estado do Amazonas - Auxílio financeiro.
+
+
+Projetos de extensão
+2021 - 2022
+?Formação de talentos para inclusão social e desenvolvimento de carreira no setor tecnológico no âmbito dos programas Academy de organizações parceiras?
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (3) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador.
+2016 - 2017
+Plataforma para Mapeamento do Ecossistema de apoio ao Empoderamento da Mulher
+Descrição: Esta proposta consiste de uma plataforma para mapeamento de iniciativas de empoderamento da mulher no Brasil e caracterização do ecossistema formado por elas, por meio da análise plural, coletiva e contínua das informações levantadas..
+Situação: Concluído; Natureza: Extensão.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Vinícius Cardoso Garcia - Integrante / Karina dos Santos Machado - Integrante / Jean Macena - Integrante / Saulo Gomes - Integrante / Willany Silva - Integrante / Marcela Domingues - Integrante.
+2015 - 2015
+Desenvolvimento de Aplicativos e Games Educativos para o Parque Dois Irmãos
+Descrição: O Parque Dois Irmãos é considerado uma das maiores áreas de Mata Atlântica de Pernambuco e proporciona aos visitantes conhecer o ecossistema, suas plantas e seus animais nativos, como preguiças, saguis, quatis, capivaras, além de uma enorme variedade de pássaros. No zoológico também vivem cerca de 600 animais entre aves, répteis e mamíferos distribuídos em 120 espécies, tanto nativas do Brasil quanto exóticas. Zoológicos alcançam milhões de pessoas em todo o mundo, a maioria delas vivendo em áreas urbanas e tendo pouco ou nenhum contato com a natureza. Essas pessoas vêm para o zoológico por ter interesse em animais. O zoológico, por sua vez, tem o papel de melhorar o entendimento do público acerca dos animais e sua conservação. Jogos educativos e aplicativos móveis podem prover uma maneira divertida e envolvente de atrair e reter visitantes para o zoológico. Além disso, o uso da internet e de aplicativos móveis está cada vez mais presente do cotidiano das pessoas. Cada vez mais aplicações na web e aplicativos móveis são usados como uma ferramenta de suporte ao ensino na medida em que se tornam elementos facilitadores na prática de ensino. O objetivo do projeto é explorar o uso da web e de aplicativos móveis para investigar novas formas de ensino e divulgação sobre os animais do Parque. Na universidade, este projeto tem como meta a articulação entre o DEINFO e o Departamento de Biologia. O projeto também é uma parceria entre a UFRPE e o Parque Dois Irmãos..
+Situação: Concluído; Natureza: Extensão.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Betânia Cristina Guilherme - Integrante / Ednilza Maranhão dos Santos - Integrante / Gilberto Amado de Azevedo Cysneiros Filho - Integrante / Marcelo Luiz Monteiro Marinho - Integrante / Marcelo Mendonça Teixeira - Integrante / Taciana Pontual da Rocha Falcão - Integrante / Carmen Roselaine de Oliveira Farias - Integrante.
+2015 - 2015
+Promovendo a inclusão social com o desenvolvimento de soluções inovadoras
+Descrição: As soluções computacionais surgem nas diversas áreas do conhecimento, e, cada vez mais, figuram no cotidiano de nossa sociedade. Recentemente, além de dispositivos computacionais tradicionais, observa-se a disseminação dos dispositivos móveis, como tablets e smartphones, ampliando as possibilidades de utilização de estratégias de ensino-aprendizagem. Neste contexto, esta proposta é aplicada à ciência da computação baseado em um currículo de empreendedorismo e inovação que reforça a representação digital, o pensamento de algoritmos e programação, bem como o impacto na sociedade e na tecnologia da informação. O projeto consiste em incentivar crianças e adolescentes do ensino fundamental e médio a identificar um problema em suas comunidades locais, desenvolver uma estratégia e criar um aplicativo para resolvê-lo como instrumento de inclusão social criando ao bolsista uma oportunidade de replicar o conhecimento adquirido na universidade. O foco principal é fazer com que os alunos aprendam a programar o aplicativo e obtenham o conhecimento necessário para que estes possam vir a ser lançados no mercado para uso da sociedade. Além disso, o projeto também possibilita que os alunos desenvolvam conhecimentos e habilidades que possibilitam um posicionamento pró-ativo e holístico em seu dia-a-dia com base em situações reais importantes para elas. O projeto possibilita a experimentação e uso de ferramentas de prototipação e programação para teste e validação dos aplicativos idealizados como soluções aos problemas das comunidades..
+Situação: Concluído; Natureza: Extensão.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Ingrid Danielle Vilela Costa - Integrante.
+2015 - 2015
+SocialInov: Desenvolvendo Soluções Móveis Inovadoras para Problemas da Sociedade
+Descrição: O projeto consiste em incentivar crianças e adolescentes do ensino fundamental e médio a identificar um problema em suas comunidades locais, desenvolver uma estratégia e criar um aplicativo para resolvê-lo. Um dos focos principais é possibilitar aos adolescentes e jovens aprender a programar aplicativos e obter o conhecimento necessário para que estes possam vir a ser lançados no mercado para uso da sociedade. Além disso, o projeto também possibilita que eles desenvolvam conhecimentos e habilidades que possibilitam um posicionamento pró-ativo e holístico em seu dia-a-dia com base em situações reais importantes para eles. O projeto possibilita a experimentação e uso de ferramentas de prototipação, programação para teste e validação dos aplicativos idealizados como soluções aos problemas das comunidades..
+Situação: Concluído; Natureza: Extensão.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / GOMES, TANCICLEIDE - Integrante.
+2012 - 2013
+Informática e Software Livre como Instrumento de Inclusão Social
+Descrição: O presente projeto visa oferecer cursos de informática básica à comunidade como instrumento de inclusão social criando ao bolsista uma oportunidade de replicar o conhecimento adquirido na universidade. Ao final do curso os alunos com melhor desempenho serão premiados. Os prêmios serão computadores instalados com softwares livres, sendo estes montados com o reaproveitamento de peças e máquinas obsoletas arrecadadas por meio de campanhas de doação..
+Situação: Em andamento; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Fabiana Franco de Almeida - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Auxílio financeiro / Universidade Federal Rural de Pernambuco - Bolsa.
+
+
+Projetos de ensino
+2020 - Atual
+Residência Tecnológica em Ciência de Dados para o Setor Automotivo
+Descrição: Projeto de formação em parceria com a FCA - UPE - FACEPE com foco no desenvolvimento de projetos utilizando dados da planta da Jeep em Goiana.
+Situação: Em andamento; Natureza: Ensino.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Alexandre Magno Andrade Maciel - Integrante / Roberta Andrade de Araújo Fagundes - Integrante / Byron Leite Dantas Bezerra - Integrante / Bruno José Torres Fernandes - Integrante / Carmelo Jose Albanez Bastos Filho - Integrante / Kiev Santos da Gama - Integrante / Jorge Cavalcanti Barbosa Fonseca - Integrante / Mailson Melo dos Santos Filho - Integrante / Leandro Maciel Almeida - Integrante / Jairson Barbosa Rodrigues - Integrante / Rômulo César Dias de Andrade - Integrante / Filipe Avilla Castro - Integrante.
+
+
+Projetos de desenvolvimento
+2017 - 2018
+Plataforma para Mapeamento do Ecossistema de apoio ao Empoderamento da Mulher
+Descrição: Este projeto tem como objetivo desenvolver uma plataforma de software que seja dinâmica e interativa para mapear o ecossistema de projetos, programas sociais, estudos corporativos e governamentais, cujo foco seja a promoção da igualdade de gêneros, dos direitos e empoderamento socioeconômico da Mulher no Brasil..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (0) Graduação: (3) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Vinícius Cardoso Garcia - Integrante / Jean Macena - Integrante / Saulo Gomes - Integrante / Willany Silva - Integrante / Marcela Domingues - Integrante.
+
+
+Outros Projetos
+2013 - 2014
+Media Center - Proinfo Integrado
+
+Projeto certificado pelo(a) coordenador(a) Rodrigo Elia Assad em 26/01/2017.
+Situação: Concluído; Natureza: Outra.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / Rodrigo Elia Assad - Coordenador.
+
+
+Revisor de periódico
+2013 - Atual
+Periódico: Journal of Information and Data Management - JIDM
+2013 - Atual
+Periódico: iSys - Revista Brasileira de Sistemas de Informação
+
+
+Revisor de projeto de fomento
+2013 - Atual
+Agência de fomento: Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Metodologia e Técnicas da Computação/Especialidade: Banco de Dados.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas Distribuídos.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+
+
+Prêmios e títulos
+2013
+Aprovação em Concurso Público, Universidade Federal Rural de Pernambuco.
+2013
+Best Paper(Melhor Artigo Completo - Trilha Regular), Simpósio Brasileiro de Sistemas de Informação.
+2012
+Aprovação em Concurso Público, Universidade Federal do Vale do São Francisco - UNIVASF.
+2011
+Aprovação em Concurso Público, Universidade Federal Rural de Pernambuco - UFRPE.
+
+
+Produções
+
+Produção bibliográfica
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+ OLIVEIRA, JULIANE FONSECA ; VASCONCELOS, ADRIANO O ; ALENCAR, ANDRÊZA L ; CUNHA, MARIA CÉLIA S L ; MARCILIO, IZABEL ; BARRAL-NETTO, MANOEL ; P RAMOS, PABLO IVAN . Balancing Human Mobility and Health Care Coverage in Sentinel Surveillance of Brazilian Indigenous Areas: Mathematical Optimization Approach. JMIR PUBLIC HEALTH AND SURVEILLANCE, v. 11, p. e69048-e69048, 2025.
+
+2.
+ OLIVEIRA, MARIAMA C. S. DE ; SALES, LUCAS HENRIQUE GONZAGA DE ; ALENCAR, A. L. ; OLIVEIRA, NATALIA TATIELE S. DE ; CUNHA, A. R. K. ; RAMOS, P. I. P. . Applying Graph Databases and Human Mobility Data to Track Infectious Disease Spread in Brazil. JOURNAL OF INFORMATION AND DATA MANAGEMENT, v. 16, p. 127-135, 2025.
+
+3.
+BARROS, A. N. ; ALBUQUERQUE, A. F. ; ALENCAR, A. L. ; NASCIMENTO, A. C. A. ; BITTENCOURT, IBSEN MATEUS ; MELLO, R. F. L. . Workflow for the acquisition, processing, and dissemination ofBrazilian public data focused on education. Journal of Information and Data Management - JIDM, v. 15, p. 224-233, 2024.
+
+4.
+ OLIVEIRA, JULIANE F ; ALENCAR, ANDRÊZA L ; CUNHA, MARIA CÉLIA L S ; VASCONCELOS, ADRIANO O ; CUNHA, GERSON G ; MIRANDA, RAY B ; FILHO, FÁBIO M H S ; SILVA, CORBINIANO ; GUSTANI-BUSS, EMANUELE ; KHOURI, RICARDO ; CERQUEIRA-SILVA, THIAGO ; LANDAU, LUIZ ; BARRAL-NETTO, MANOEL ; RAMOS, PABLO IVAN P . Human mobility patterns in Brazil to inform sampling sites for early pathogen detection and routes of spread: a network modelling and validation study. Lancet Digital Health, v. 6, p. e570-e579, 2024. Citações:10|4
+
+5.
+MELO, F. F. L. ; GOUVEIA, R. M. M. ; ALENCAR, A. L. ; BATISTA, M. C. M. ; B NETO, A. S. ; FERREIRA, T. A. E. . Performance Analysis of NoSQL Databases with Large Volumes of Open Educational Data. INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS, v. 174, p. 9-17, 2021.
+
+6.
+SANTOS, K. L. ; ALENCAR, A. L. . Aplicabilidade da Persistência Poliglota em Sistemas Potencialmente Escaláveis. Revista de Engenharia e Pesquisa Aplicada, v. 5, p. 1, 2020.
+
+7.
+SANTOS, LUCIENE MARIA ; ALENCAR, ANDRÊZA LEITE DE . Uma Proposta de um Framework para Gerir o Dado como Ativo de Valor nas Empresas de Trânsito. Revista de Engenharia e Pesquisa Aplicada, v. 3, p. 1, 2018.
+
+8.
+ALENCAR, A. L.; BUREGIO, V. ; FREITAS, J. ; CARACIOLO, M. ; GARCIA, V. C. . A CENTRALIZED PLATFORM ON HUMAN GENOME FOR SUPPORTING CLINICAL DECISIONS. Journal of Health Informatics, v. 8, p. 569-578, 2016.
+
+9.
+ ALENCAR, A. L.; SALGADO, A. C. B. . Improving User Interaction on Ontology-based Peer Data Management Systems. iSys: Revista Brasileira de Sistemas de Informação, v. 7, p. 67-85, 2014.
+
+Capítulos de livros publicados
+
+1.
+RODRIGUES NETO, J. ; GARCIA, V. C. ; ALENCAR, A. L. ; DAMASCENO, J. C. ; ASSAD, R. E. ; TRINTA, F. . Software as a Service: Desenvolvendo Aplicações Multi-tenancy com Alto Grau de Reuso. In: G. Bressan; R.M. Silveira. (Org.). Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia). 1ed.São Paulo: Sociedade Brasileira de Computação, 2012, 2012, v. , p. 35-73.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+BARROS, A. N. ; ALENCAR, ANDRÊZA L ; ALBUQUERQUE, A. F. ; BITTENCOURT, I. M. ; MELLO:, R. F. L. . Criação de um pipeline de dados abertos conectados para indicadores educacionais do PNE. In: Latin American Symposium on Digital Government (LASDiGov), 2025, Maceió/AL. Anais do Latin American Symposium on Digital Government (LASDiGov). Porto Alegre: Sociedade Brasileira de Computação, 2025. v. 12. p. 333-340.
+
+2.
+BARROS, ABÍLIO NOGUEIRA ; ALBUQUERQUE, ALDÉRYCK FÉLIX DE ; ALENCAR, ANDREZA ; MELLO, RAFAEL FERREIRA ; ALVES, GABRIEL ; BITTENCOURT, IBSEN MATEUS . Arquitetura de Dados Educacionais como Plataforma para Governo Inteligente - Utilizando dados abertos para apoio à gestão educacional baseada em evidências. In: Workshop de Computação Aplicada em Governo Eletrônico, 2023, Brasil. Anais do XI Workshop de Computação Aplicada em Governo Eletrônico (WCGE 2023). p. 130.
+
+3.
+OLIVEIRA, JONICE ; ALENCAR, ANDRÊZA LEITE DE ; XAVIER, CAROLINA RIBEIRO ; VIANA, DAVI ; ARAÚJO, ERIC FERNANDES DE MELLO ; LOBATO, FÁBIO MANOEL FRANÇA ; LOPES, GISELI RABELLO ; DIGIAMPIETRI, LUCIANO ANTÔNIO ; SILVA, MARCOS ARRAIS ; BRANDÃO, MICHELE AMARAL ; MORO, MIRELLA M. ; MOURA, RAIMUNDO SANTOS ; SANTOS, RODRIGO PEREIRA DOS . GIMARS: Grupo de Interesse em Mineração e Análise de Redes Sociais. In: Brazilian Workshop on Social Network Analysis and Mining, 2023, Brasil. Anais do XII Brazilian Workshop on Social Network Analysis and Mining (BraSNAM 2023). p. 13.
+
+4.
+OLIVEIRA, MARIAMA C. S. DE ; ALENCAR, ANDRÊZA LEITE DE ; OLIVEIRA, NATALIA TATIELE S. DE ; SALES, LUCAS HENRIQUE GONZAGA DE ; CUNHA, ANTÔNIO RICARDO KHOURI ; RAMOS, PABLO IVAN PEREIRA . Epiflow: a hybrid approach to track infectious disease spread in Brazil based on travel data and graph databases. In: Simpósio Brasileiro de Banco de Dados, 2023, Brasil. Anais do XXXVIII Simpósio Brasileiro de Banco de Dados (SBBD 2023). p. 218.
+
+5.
+MARQUES, E. ; ALBUQUERQUE JUNIOR, G. A. ; ALENCAR, A. L. ; MELLO, R. F. L. ; BITTENCOURT, I. M. . Combinando Diferentes Formas de Cálculo de Indicadores do PNE e Agrupamento para o Apoio à Decisão. In: XXXIV Simpósio Brasileiro de Informática na Educação, 2023, Passo Fundo. Anais do XXXIV Simpósio Brasileiro de Informática na Educação, 2023. p. 1454-1464.
+
+6.
+ALBUQUERQUE, ALDÉRYCK FÉLIX DE ; BARROS, ABÍLIO NOGUEIRA ; ALENCAR, ANDREZA ; NASCIMENTO, ANDRÉ ; BITTENCOURT, IBSEN MATEUS ; MELLO, RAFAEL FERREIRA . Dataset de Estimativas populacionais desagregada por município e idade 2014-2020. In: Dataset Showcase Workshop, 2022, Brasil. Anais do IV Dataset Showcase Workshop (DSW 2022). v. 37. p. 25.
+
+7.
+BARROS, ABÍLIO NOGUEIRA ; ALENCAR, ANDREZA ; NASCIMENTO, ANDRÉ ; ALBUQUERQUE, ALDÉRYCK FÉLIX DE ; MELLO, RAFAEL FERREIRA . Elaboração do conjunto de dados agregados do censo da educação básica. In: Dataset Showcase Workshop, 2022, Brasil. Anais do IV Dataset Showcase Workshop (DSW 2022). v. 37. p. 35.
+
+8.
+ALENCAR, A. L.; MACHADO, K. S. . Estimulando mulheres a se desenvolverem em carreias do setor tecnológico: um relato de experiência. In: Congreso de la Mujer Latinoamericana en Computación (LAWCC-CLEI) - JAIIO 46, 2017, Córdoba. 46 Jornadas Argentinas de Informática e Investigación Operativa (JAIIO)-43 Conferencia Latinoamericana de Informática (CLEI), 2017. v. 46. p. 84.
+
+9.
+ALENCAR, A. L.; BUREGIO, V. ; FREITAS, J. ; CARACIOLO, M. ; GARCIA, V. C. . A CENTRALIZED PLATFORM ON HUMAN GENOME FOR SUPPORTING CLINICAL DECISIONS. In: XV Congresso Brasileiro de Informática em Saúde, 2016, Goiânia - GO. Anais da Sociedade Brasileira de Informática em Saúde SBIS, 2016. v. 1. p. 569-577.
+
+10.
+GOMES, TANCICLEIDE ; ALENCAR, ANDREZA . Análise Empírica de Jogos Educativos para Dispositivos Móveis voltados a Disseminação do Pensamento Computacional na Educação Básica. In: III Workshop sobre Tecnologias Móveis na Educação, 2015, Maceió, 2015. p. 731.
+
+11.
+ ALENCAR, A. L.; SALGADO, A. C. B. . A Visual Query Interface for Ontology-based Peer Data Management Systems (PDMS). In: Simpósio Brasileiro de Sistemas de Informação, 2013, João Pessoa. Anais do IX Simpósio Brasileiro de Sistemas de Informação, 2013.
+
+12.
+ ALENCAR, A. L.; Campos dos Santos, J. L. . Protocolos e Métodos para Tratamento Automático de Dados Micrometeorológicos. In: XXIX Congresso da Sociedade Brasileira de Computação (CSBC) - I Workshop de Computação Aplicada à Gestão do Meio Ambiente (WCAMA), 2009, Bento Gonçalves - RS. XXX Congresso da Sociedade Brasileira de Computação, 2009. v. I.
+
+13.
+ALENCAR, A. L.; SANTOS, J. L. C. . Um Ambiente para Tratamento Automático de Dados Micrometeorológicos do Projeto LBA. In: I Escola Regional de Informática - ERIN, 2009, Manaus-AM. Anais da I Escola Regional de Informática - ERIN, 2009.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+BARROS, A. N. ; ALENCAR, A. L. . Criação de um panorama da Taxa de distorção idade-série com base nos dados abertos do INEP. In: CTRL+E 2023 CONGRESSO SOBRE TECNOLOGIAS NA EDUCAÇÃO, 2023, Santarém. Anais do CTRL+E 2023 CONGRESSO SOBRE TECNOLOGIAS NA EDUCAÇÃO, 2023.
+
+2.
+LEIJDEN, ERONITA MARIA LUIZINES VAN ; ALENCAR, ANDRÊZA LEITE DE ; MACIEL, ALEXANDRE MAGNO ANDRADE . Development of a Domain Specific Modeling Language for Educational Data Mining. In: The 34th International Conference on Software Engineering and Knowledge Engineering, 2022. org.crossref.xschema._1.Title@5df698e1. p. 35.
+
+3.
+RODRIGUES NETO, J. ; ALENCAR, A. L. ; DAMASCENO, J. C. ; Silveira, P. ; GARCIA, V. C. ; Meira, S. R. L. . Uma Abordagem para Desenvolvimento de SaaS Multi-Tenancy Utilizando Metaprogramação. In: Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia), 2012, São Paulo. Anais do Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia), 2012.
+
+4.
+ALENCAR, A. L.; SANTOS, J. L. C. . Estudo e implementação de protocolos de controle de qualidade de dados micrometeorológicos. In: II Escola Regional de Informática - ERIN2010, 2010, Manaus. II Escola Regional de Informática - ERIN2010. Manaus - AM: Universidade Federal do Amazonas, 2010.
+
+5.
+ALENCAR, A. L.; SANTOS, J. L. C. ; MAIA, J. M. F. . Uma Prototipação de Sistema para Data Cleaning Automático de Dados Micrometeorológicos do LBA. In: V Semana de Informática, II Semana de geotecnologias e II Encontro de Software Livre (SIGES), 2008, Santarém. ANAIS SIGES 2008. Belém: Editora universitária da UFPA, 2008.
+
+6.
+ALENCAR, A. L.; SANTOS, J. L. C. ; MAIA, J. M. F. . Aplicação de Métodos para Validação e Correção em Bancos de Dados Complexos. In: 59 Reunião Anual da Sociedade Brasileira para o Progresso da Ciência(SBPC), 2007, Belém-Pa. Anais/Resumos da 59 Reunião Anual da SBPC: publicação eletrônica. São Paulo: Sociedade Brasileira para o Progresso da Ciência, 2007.
+
+7.
+MAIA, J. M. F. ; SA, M. O. ; SILVA, P. R. T. ; PEREIRA, Q. C. C. ; AGUIAR, M. J. F. R. ; Randow, C. V. ; Campos dos Santos, J. L. ; SILVA, J. T. ; MANZI, A. O. ; ARAUJO, A. C. ; ALENCAR, A. L. . Implementação de Protocolos de Controle da Qualidade de Dados Micrometereológicos. In: SIGE 2007, 2007, Santarém. Anais da IV Semana de Informática, II de Geotecnologias e I Escola de Software Livre. Belém: Editora Universitária UFPA, 2007.
+
+Resumos publicados em anais de congressos
+
+1.
+ALENCAR, A. L.; BUREGIO, V. ; FREITAS, J. ; CARACIOLO, M. ; GARCIA, V. C. . A centralized platform for access of heterogeneous data on human genome repositories for supporting clinical decisions. In: Brazilian Symposium on Databases, 2016, Salvador - BA. Proceedings of Satellite Events of the 31 st of the Brazilian Symposium on Databases, 2016. v. 1. p. 106-106.
+
+2.
+ALENCAR, A. L.; SANTOS, J. L. C. . Strategy for an Automatic Micrometeorological Data Cleaning. In: Conferência Científica Internaional do LBA GEOMA e PPBio, 2008, Manaus-AM. Anais daConferência Científica Internacional do LBA GEOMA e PPBio, 2008.
+
+Apresentações de Trabalho
+
+1.
+BARROS, A. N. ; ALENCAR, A. L. ; ALBUQUERQUE, A. F. ; BITTENCOURT, I. M. ; MELLO, R. F. . Criação de um pipeline de dados abertos conectados para indicadores educacionais do PNE. 2025. (Apresentação de Trabalho/Congresso).
+
+2.
+ALENCAR, A. L.; BARROS, ABÍLIO NOGUEIRA . Arquitetura de Dados Educacionais como Plataforma para Governo Inteligente - Utilizando dados abertos para apoio à gestão educacional baseada em evidências. 2023. (Apresentação de Trabalho/Congresso).
+
+3.
+ALENCAR, A. L.. Epiflow: a hybrid approach to track infectious disease spread in Brazil based on travel data and graph databases. 2023. (Apresentação de Trabalho/Congresso).
+
+4.
+ALENCAR, A. L.. Elaboração do Conjunto de Dados Agregados do Censo da Educação Básica. 2022. (Apresentação de Trabalho/Simpósio).
+
+5.
+ALENCAR, A. L.. Dataset de Estimativas Populacionais Desagregada por Municípios Brasileiros e Idade 2014-2020. 2022. (Apresentação de Trabalho/Simpósio).
+
+6.
+ALENCAR, A. L.. Empreendedorismo Feminino. 2020. (Apresentação de Trabalho/Conferência ou palestra).
+
+7.
+ALENCAR, A. L.. Use MDD e faça as máquinas trabalharem para você. 2019. (Apresentação de Trabalho/Conferência ou palestra).
+
+8.
+ALENCAR, A. L.. Corrida Tecnológica. 2019. (Apresentação de Trabalho/Conferência ou palestra).
+
+9.
+ALENCAR, A. L.. Use MDD e faça as máquinas trabalharem para você. 2019. (Apresentação de Trabalho/Conferência ou palestra).
+
+10.
+ALENCAR, A. L.. Use MDD e faça as máquinas trabalharem para você. 2018. (Apresentação de Trabalho/Conferência ou palestra).
+
+11.
+ALENCAR, A. L.. Estimulando mulheres a se desenvolverem em carreias do setor tecnológico: : um relato de experiência. 2017. (Apresentação de Trabalho/Congresso).
+
+12.
+ALENCAR, A. L.. Aumentando o sucesso da aplicação com Persistência Poliglota. 2017. (Apresentação de Trabalho/Conferência ou palestra).
+
+13.
+ALENCAR, A. L.. A centralized platform for access of heterogeneous data on human genome repositories for supporting clinical decisions. 2016. (Apresentação de Trabalho/Simpósio).
+
+14.
+ALENCAR, A. L.. Mudando o mundo com Empreendedorismo e Tecnologia. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+15.
+ALENCAR, A. L.. Mudando o mundo com Empreendedorismo e Tecnologia: do batom aos bytes e bits. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+16.
+ALENCAR, A. L.. Programável Mundo Novo. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+17.
+ALENCAR, A. L.. Inovação, Empreendedorismo e Tecnologia. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+18.
+ALENCAR, A. L.. Empreendedorismo e Tecnologia: do batom aos bytes e bits. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+19.
+ALENCAR, A. L.. Ferramentas Livres para Cloud Computing: Infraestrutura. Plataforma, Software e Banco de Dados. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+20.
+ALENCAR, A. L.. Cloud Computing. 2012. (Apresentação de Trabalho/Conferência ou palestra).
+
+21.
+ALENCAR, A. L.. Computação nas Nuvens. 2012. (Apresentação de Trabalho/Conferência ou palestra).
+
+22.
+ALENCAR, A. L.. Ferramentas Livres para Cloud Computing. 2011. (Apresentação de Trabalho/Conferência ou palestra).
+
+23.
+ALENCAR, A. L.; SANTOS, J. L. C. . Estudo e implementação de protocolos de controle de qualidade de dados micrometeorológicos. 2010. (Apresentação de Trabalho/Outra).
+
+24.
+ALENCAR, A. L.. Sistemas de Gerenciamento de Banco de Dados XML Open Source. 2010. (Apresentação de Trabalho/Conferência ou palestra).
+
+25.
+ALENCAR, A. L.; SANTOS, J. L. C. . Um Ambiente para Tratamento Automático de Dados Micrometeorológicos do Projeto LBA. 2009. (Apresentação de Trabalho/Congresso).
+
+26.
+ALENCAR, A. L.; Campos dos Santos, J. L. . Protocolos e Métodos para Tratamento Automático de Dados Micrometeorológicos. 2009. (Apresentação de Trabalho/Congresso).
+
+27.
+ALENCAR, A. L.; SANTOS, J. L. C. ; MAIA, J. M. F. ; SILVA, R. . Strategy for an Automatic Micrometeorological Data Cleaning. 2008. (Apresentação de Trabalho/Conferência ou palestra).
+
+28.
+ALENCAR, A. L.; SANTOS, J. L. C. ; MAIA, J. M. F. . Uma Prototipação de Sistema para Data Cleaning Automático de Dados Micrometeorológicos do LBA. 2008. (Apresentação de Trabalho/Seminário).
+
+29.
+ALENCAR, A. L.; SANTOS, J. L. C. ; MAIA, J. M. F. . Aplicação de Métodos para Validação e Correção em Bancos de Dados Complexos. 2007. (Apresentação de Trabalho/Congresso).
+
+30.
+MAIA, J. M. F. ; SA, M. O. ; SILVA, P. R. T. ; PEREIRA, Q. C. C. ; AGUIAR, M. J. F. R. ; Randow, C. V. ; SANTOS, J. L. C. ; SILVA, J. T. ; MANZI, A. O. ; ARAUJO, A. C. ; ALENCAR, A. L. . Implementação de Protocolos de Controle de Qualidade de Dados Micrometeorológicos. 2007. (Apresentação de Trabalho/Conferência ou palestra).
+
+Outras produções bibliográficas
+
+1.
+ALENCAR, A. L.; CUNHA, M. C. L. S. ; OLIVEIRA, J. F. ; VASCONCELOS, A. O. ; CUNHA, G. G. ; MIRANDA, R. B. ; S. FILHO, F. M. H. ; SILVA, C. ; CUNHA, A. R. K. ; CERQUEIRA-SILVA, T. ; LANDAU, L. ; BARRAL-NETTO, M. ; RAMOS, P. I. P. . Human mobility patterns to inform sampling sites for early pathogen detection and routes of spread: a network modeling and validation study 2024 (Artigp).
+
+
+Produção técnica
+Programas de computador sem registro
+
+1.
+ALENCAR, A. L.; LINS, T. V. ; GOMES, S. ; MACENA, J. ; MACHADO, K. S. ; SILVA, W. ; GARCIA, V. C. ; DOMINGUES, M. . Plataforma UNA. 2018.
+
+2.
+ALENCAR, A. L.. Site da Semana de Informática, Geotecnologias e Software Livre de Santarém. 2009.
+
+3.
+ALENCAR, A. L.. Site da Semana de Informática, Geotecnologias e Software Livre de Santarém. 2008.
+
+4.
+ALENCAR, A. L.. Site da Semana de Informática, Geotecnologias e Software Livre de Santarém. 2007.
+
+Trabalhos técnicos
+
+1.
+ALENCAR, A. L.. Women Who Code. 2014.
+
+Entrevistas, mesas redondas, programas e comentários na mídia
+
+1.
+ALENCAR, A. L.. Women Tech Makers: Mulheres na Tecnologia. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+2.
+ALENCAR, A. L.. Linguagens de programação livres: qual escolher?. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+3.
+ALENCAR, A. L.. Mulheres na Computação. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+4.
+ALENCAR, A. L.. Secretaria da Mulher e direitos Humanos. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+5.
+ALENCAR, A. L.. Garotas na Tecnologia. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+Demais tipos de produção técnica
+
+1.
+ALENCAR, A. L.; LOBATO, FÁBIO MANOEL FRANÇA . iSys - Brazilian Journal of Information Systems. 2024. (Editoração/Periódico).
+
+2.
+ALENCAR, A. L.. Journal of Information and Data Management. 2024. (Revisor).
+
+3.
+ALENCAR, A. L.. Workshop de Inovação, Empreendedorismo e Tecnologia. 2015. (Curso de curta duração ministrado/Outra).
+
+4.
+ALENCAR, A. L.. Aplicativos BrOffice: Escritório Eletrônico Livre. 2009. (Curso de curta duração ministrado/Outra).
+
+5.
+ALENCAR, A. L.; SANTOS, U. C. ; FONSECA, I. J. M. . Informática Básica. 2009. (Curso de curta duração ministrado/Outra).
+
+
+
+Patentes e registros
+
+Programa de computador
+1.
+ALENCAR, A. L.; GARCIA, V. C. ; MACENA, J. ; GOMES, S. ; MACHADO, K. S. ; SILVA, W. . Plataforma UNA - Ecossistema de iniciativas para equidade de gênero e empoderamento da mulher. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001762-5, data de registro: 03/08/2021, título: "Plataforma UNA - Ecossistema de iniciativas para equidade de gênero e empoderamento da mulher" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+ALENCAR, A. L.; BARBOSA, L.. Participação em banca de Mateus Nunes de Barros Magalhães. Uma Avaliação da Redundânciae do Particionamento de Dados Convencionais e Geoespaciais em Data Warehouses Orientados a Colunas. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+2.
+ALENCAR, A. L.. Participação em banca de Cláudia Letícia Ferraz Dutra. Participação feminina em game jams: um estudo de caso sobre questões de gênero em maratonas de desenvolvimento de jogos. 2019. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Teses de doutorado
+
+1.
+SOUZA, F. F.; OLIVEIRA, M. I. S.; PESSOA, D. E. R.; NASCIMENTO FILHO, D. C.; ALENCAR, A. L.. Participação em banca de Natacha Targino Rodrigues Simões Brasileiro. Uso de Dados de Proveniência em Pipelines de Aprendizado de Máquina: Um Caso de Uso com Seleção de Atributos. 2025. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+2.
+TAVARES, E. A. G.; BARBOSA, L. A.; GARCIA, V. C.; ALENCAR, A. L.; MELLO, R. S.. Participação em banca de Fred Eduardo Revoredo Rabelo Ferreira. Evaluating the impact of data denormalization on OLAP and HTAP architectures: guidelines for efficient Data Warehouse as a Service design. 2024. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+ALENCAR, A. L.. Participação em banca de Diversos.Programa Institucional de Bolsas de Iniciação Científica (PIBIC 2022-2023) e Programa de Iniciação Científica Voluntária (PIC 2022-2023). 2023.
+
+2.
+ALENCAR, A. L.. Participação em banca de Elizangela de Lima Lucena.Análise comparativa entre frameworks de interfaces ricas para javaserver faces. 2014. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+ALENCAR, A. L.; Boratto, M.; Pontes, M.. Concurso Público para cargo de Professor Efetivo. 2013. Universidade Federal do Vale do São Francisco.
+
+2.
+ALENCAR, A. L.; CYSNEIROS FILHO, G.. Concurso Público para cargo de Professor Efetivo(Análise de Perfil). 2013. Universidade Federal Rural de Pernambuco.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+LASDiGov Latin American Symposium on Digital Government | 45º CONGRESSO DA SOCIEDADE BRASILEIRA DE COMPUTAÇÃO. Criação de um pipeline de dados abertos conectados para indicadores educacionais do PNE. 2025. (Congresso).
+
+2.
+Simpósio Brasileiro de Banco de Dados (SBBD).Comitê de Programa. 2024. (Simpósio).
+
+3.
+XXXV Simpósio Brasileiro de Informática na Educação (SBIE).Comitê de Programa. 2024. (Simpósio).
+
+4.
+Encontro WWCode Recife.Como iniciar minha carreira em TI?. 2023. (Seminário).
+
+5.
+Simposio Brasileiro de Banco de Dados (SBBD).Comitê de Programa. 2023. (Simpósio).
+
+6.
+Simpósio Brasileiro de Informática na Educação (SBIE).Comitê de Programa. 2023. (Simpósio).
+
+7.
+TechWoman. Quais conhecimentos básicos importantes devo ter para entrar na área?. 2023. (Congresso).
+
+8.
+InterCon 2018. Use MDD e faça as máquinas trabalharem para você. 2018. (Congresso).
+
+9.
+Encontro LocaWeb.Aumentando o sucesso da aplicação com Persistência Poliglota. 2017. (Encontro).
+
+10.
+VI Simpósio Brasileiro de Tecnologia da Informação (SBTI).Comitê de Programa. 2017. (Simpósio).
+
+11.
+VI Simpósio Brasileiro de Tecnologia da Informação (SBTI).Comitê de Programa. 2015. (Simpósio).
+
+12.
+A Semana Acadêmica de Computação da UFRPE.Mining the Social Web. 2014. (Simpósio).
+
+13.
+III Simpósio Brasileiro de Tecnologia da Informação - SBTI.Membro do Comitê Científico do Programa. 2014. (Simpósio).
+
+14.
+Semana Acadêmica de Computação da UFRPE.Minicurso Prototipando com AppInventor. 2014. (Seminário).
+
+15.
+VI Simpósio Brasileiro de Tecnologia da Informação (SBTI).Comitê de Programa. 2014. (Simpósio).
+
+16.
+28 Simpósio Brasileiro de Banco de Dados. 2013. (Simpósio).
+
+17.
+Campus Party.Ferramentas Livres para Cloud Computing: Infraestrutura, Plataforma, Software e Banco de dados. 2013. (Encontro).
+
+18.
+II Simpósio Brasileiro de Tecnologia da Informação(SBTI).Avaliador de Artigos. 2013. (Simpósio).
+
+19.
+XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE (JEPEX 2013).PROCESSAMENTO DE DADOS EM NUVEM. 2013. (Simpósio).
+
+20.
+Lançamento do Ubuntu 12.04.Cloud Computing. 2012. (Outra).
+
+21.
+Fórum Internacional de Software Livre - FISL.Ferramentas Livres para Cloud Computing. 2011. (Outra).
+
+22.
+Encontro de Ciencia da Compuatção da Faculdade Pernambucana.Sistemas de Gerenciamento de Banco de Dados XML Open Source. 2010. (Encontro).
+
+23.
+Encontro Integrado de Ciência da Computação.Sistemas de Gerenciamento de Bancos de Dados XML Open Source. 2010. (Encontro).
+
+24.
+IV Encontro Nordestino de Software Livre. 2010. (Encontro).
+
+25.
+Escola Regional de Informática - Regional Norte 1 SBC. Um Ambiente para Tratamento Automático de Dados Micrometeorológicos do Projeto LBA. 2009. (Congresso).
+
+26.
+I Encontro de Informática para Inclusão Digital de São Sebastião do Uatumã.Aplicativos BrOffice: Escritório Eletrônico Livre. 2009. (Encontro).
+
+27.
+XXIX Congresso da Sociedade Brasileira de Computação - I Workshop de Computação Aplicada à Gestão do Meio Ambiente. Protocolos e Métodos para Tratamento Automático de Dados Micrometeorológicos. 2009. (Congresso).
+
+28.
+Conferência Científica Internaional do LBA GEOMA e PPBio. Strategy for an Automatic Micrometeorological Data Cleaning. 2008. (Congresso).
+
+29.
+V Semana de Informática, II Semana de geotecnologias e II Encontro de Software Livre (SIGES). Uma Prototipação de Sistema para Data Cleaning Automático de Dados Micrometeorológicos do LBA. 2008. (Congresso).
+
+30.
+25o Simpósio Brasileiro de Redes de Computadores. 2007. (Simpósio).
+
+31.
+59a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência(SBPC).Aplicação de Métodos para Validação e Correção em Bancos de Dados Complexos. 2007. (Outra).
+
+32.
+IV Encontro de Software Livre do Amazonas. 2007. (Encontro).
+
+33.
+III Semana de Informática. 2006. (Outra).
+
+34.
+I Semana de Geotecnologias em Santarém. 2006. (Outra).
+
+35.
+VI Semana de Informática do curso de Sistemas de Informação da ULBRA. 2006. (Outra).
+
+36.
+III Encontro de Software Livre do Amazonas. 2005. (Encontro).
+
+37.
+II Semana de Informática. 2005. (Outra).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+VALENCA, G. ; ALENCAR, A. L. ; ARAUJO, A. A. ; CUNHA, M. X. C. ; MACIEL, R. S. P. ; VIANA, D. ; SANTOS, R. S. . XXI Simpósio Brasileiro de Sistemas de Informação (SBSI 2025). 2025. (Congresso).
+
+2.
+LEITAO, M. R. F. A. ; ARAUJO, C. N. F. ; ALENCAR, A. L. . SBPC Mulher | 77 Reunião Anual da SBPC. 2025. (Congresso).
+
+3.
+ALENCAR, A. L.; XAVIER, L. . Techwoman. 2025. (Outro).
+
+4.
+ALENCAR, A. L.; MACHADO, K. S. ; CELESTINO, C. . IWD Recife. 2024. (Outro).
+
+5.
+XAVIER, L. ; ALENCAR, A. L. . Techwoman. 2024. (Outro).
+
+6.
+ALENCAR, A. L.; LOBATO, FÁBIO MANOEL FRANÇA . XII Workshop Brasileiro de Análise de Redes Sociais e Mineração (BraSNAM 2023). 2023. (Congresso).
+
+7.
+XAVIER, L. ; ALENCAR, A. L. ; FALCAO, T. P. R. . Techwoman. 2023. (Outro).
+
+8.
+ALENCAR, A. L.. Technovation Challenge. 2015. (Outro).
+
+9.
+ALENCAR, A. L.. Roadshow Microsoft. 2015. (Outro).
+
+10.
+ALENCAR, A. L.. RackFest Windows 10. 2015. (Outro).
+
+11.
+ALENCAR, A. L.. Technovation Challenge. 2014. (Outro).
+
+12.
+ALENCAR, A. L.. Semana Acadêmica da Computação da UFRPE. 2014. (Outro).
+
+13.
+ALENCAR, A. L.. InfraSec Day. 2014. (Outro).
+
+14.
+ALENCAR, A. L.. VI Semana de Informática, III Semana de geotecnologias e II Encontro de Software Livre. 2009. (Outro).
+
+15.
+ALENCAR, A. L.. V Semana de Informática, III Semana de Geotecnologias e II Encontro de Software Livre (SIGES). 2008. (Outro).
+
+16.
+ALENCAR, A. L.. IV Semana de Informática, II de Geotecnologias e I Escola de Software Livre(SIGE). 2007. (Outro).
+
+17.
+ALENCAR, A. L.; SANTOS, H. T. ; SALGADO, I. ; PEREIRA, M. . II Feira de Cultura Anglo e Latino Americana CCAA. 2006. (Outro).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Trabalho de conclusão de curso de graduação
+
+1.
+Wictor Lopes Tavares. Definição de algoritmos classificadores para suporte à decisão na interpretação de resultados em diagnósticos de biologia molecular do novo Coronavírus (SARS-CoV-2).. Início: 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Iniciação científica
+
+1.
+JACQUELINE NAVARRO DA SILVA. Integração de fatores socioeconômicos a modelos epidemiológicos de metapopulação.. Início: 2024. Iniciação científica (Graduando em Licenciatura em Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+VINÍCIUS SOUZA PEREIRA DE LIMA. Integração de fatores climatológicos a modelos epidemiológicos de metapopulação. Início: 2024. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+VINICIUS BARBOSA DOS SANTOS. Engenharia de dados para integração de fatores climáticos na construção de rede sentinela. Início: 2024. Iniciação científica (Graduando em Licenciatura em Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+4.
+ARTUR DANTAS GUIMARÃES. Engenharia de dados para integração de fatores socioeconômicos na construção de rede sentinela.. Início: 2024. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+ERONITA MARIA LUIZINES VAN LEIJDEN. Desenvolvimento de uma Linguagem Específica de Domínio para consumo de Dados Educacionais. 2020. Dissertação (Mestrado em Engenharia da Computação) - Universidade de Pernambuco, . Coorientador: Andrêza Leite de Alencar.
+
+Monografia de conclusão de curso de aperfeiçoamento/especialização
+
+1.
+Marian Oleques Pires. Exploração de abordagens na predição de aposentadoria de aeronaves. 2023. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+2.
+Bruna Reis Lyra. Previsao de frota em serviço na aviação comercial. 2023. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+3.
+Felipe de Morais Soares. Exploração de abordagens na predição de aposentadoria de aeronaves. 2023. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+4.
+Ramon Lelis Saraiva. Exploração de abordagens na predição de aposentadoria de aeronaves. 2023. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+5.
+Lucas Olini. Exploração de abordagens na predição de aposentadoria de aeronaves. 2023. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+6.
+Mariama Celi Serafim de Oliveira. Sistemas de Recomendação para suporte ao Sistema Avançado ide Detecção Molecular. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco, Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+7.
+Natalia Taliele Silva de Oliveira. Visualização de dados para suporte ao Sistema Avançado de Detecção Molecular. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco, Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+8.
+Mariama C. S. de Oliveira. Epiflow: a hybrid approach to track infectious disease spread in Brazil based on travel probabilities and graph structure. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+9.
+Natália Tatiele S. de Oliveira. Epiflow: uma ferramenta para visualização de dados de possíveis trajetórias de propagação de doenças infecciosas no Brasil. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+10.
+Dienert Vieira. Papers Explorer: Visualizing Advances in Science. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+11.
+Maria Tassiane Barros de Lima. Predição do preços do café brasileiro no mercado interno e externo (commodity). 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+12.
+Allan Fernando Oliveira de Mattos. Analise de modelos classicos, rasos e profundos para previsão de degradação de componentes aeronáuticos. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+13.
+Bernardo Magalhaes Morales. Analise de modelos classicos, rasos e profundos para previsão de degradação de componentes aeronáuticos. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+14.
+Lucas Ferreira Paiva. Analise de modelos classicos, rasos e profundos para previsão de degradação de componentes aeronáuticos. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+15.
+Karollyne da Silva Metzker. Analise de modelos classicos, rasos e profundos para previsão de degradação de componentes aeronáuticos. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+16.
+Raul Renner Martins de Sa. Analise de modelos classicos, rasos e profundos para previsão de degradação de componentes aeronáuticos. 2022. Monografia. (Aperfeiçoamento/Especialização em Residências em Visão Computacional e Engenharia e Ciência de Dados) - Universidade Federal de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+17.
+Keven Leone dos Santos. Aplicabilidade da Persistência Poliglota em Sistemas Potencialmente Escaláveis. 2019. Monografia. (Aperfeiçoamento/Especialização em Ciência de Dados e Analytics) - Universidade de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+18.
+Luciene Maria dos Santos. Uma Proposta de um Framework para Gerir o Dado como Ativo de Valor nas Empresas de Trânsito. 2018. Monografia. (Aperfeiçoamento/Especialização em Ciência de Dados e Analytics) - Universidade de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+19.
+Rubens Pinheiro Lima. Análise de Dados de Casos de Violência de Gênero: Busca de Padrão de Comportamento. 2018. Monografia. (Aperfeiçoamento/Especialização em Ciência de Dados e Analytics) - Universidade de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Jessica Albuquerque de Oliveira. Violência doméstica contra a mulher: um panorama do período pré, durante e pós-pandemia baseado em dados de saúde e segurança. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+2.
+Tarcísio Barbosa da Costa. Sistema de Suporte à Criação de Modelos de Classificação para a Previsão de Evasão no Ensino Superior. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+3.
+Giuliane Benjamim de Oliveira Ramos. Analisando a presença feminina no Ensino Superior de TI nos últimos 10 anos. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+4.
+Felipe Fernandes de Lima Melo. Análise de desempenho de banco de dados não relacionais no cenário de dados abertos educacionais. 2016. Trabalho de Conclusão de Curso. (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+Iniciação científica
+
+1.
+Lucas Henrique Gonzaga de Sales. Definição de algoritmos de recomendação para suporte à decisão na adoção de melhores estratégias de abordagem para amostragem, processamento e análise de dados em um Sistema Avançado de Detecção Molecular para o estado de Pernambuco.. 2023. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+2.
+Lucas Henrique Gonzaga de Sales. Definição de algoritmos de recomendação para suporte à decisão na adoção de melhores estratégias de abordagem para amostragem, processamento e análise de dados em um Sistema Avançado de Detecção Molecular para o estado de Pernambuco.. 2022. Iniciação Científica - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+Orientações de outra natureza
+
+1.
+diversos. Estagio supervisionado Obrigatório I 2023-1. 2023. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+2.
+diversos. Estagio Supervisionado Obrigatório II 2023-1. 2023. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+3.
+diversos. Estágio Supervisionado Obrigatório II 2022-2. 2023. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+4.
+diversos. Estágio Supervisionado Obrigatório II 2021-1. 2022. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+5.
+diversos. Estágio Supervisionado Obrigatório II 2022-1. 2022. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+6.
+diversos. Estágio Supervisionado Obrigatório II 2020-2. 2021. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+7.
+Saulo Gomes da Silva. Estágio Supervisionado no Projeto Plataforma para mapeamento do Ecossistema de Apoio ao Empoderamento da Mulher. 2018. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco, Fundação Apolônio Salles de Desenvolvimento Educacional. Orientador: Andrêza Leite de Alencar.
+
+8.
+Ricardo Santos de França. DIAGNÓSTICO DO USO DE TECNOLOGIAS NO PROCESSO ENSINO-APRENDIZAGEM EM ESCOLA DE REFERÊNCIA DA REGIÃO METROPOLITANA DO RECIFE-PE. 2014. Orientação de outra natureza. (Licenciatura em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Andrêza Leite de Alencar.
+
+
+
+Inovação
+
+Programa de computador registrado
+1.
+ALENCAR, A. L.; GARCIA, V. C. ; MACENA, J. ; GOMES, S. ; MACHADO, K. S. ; SILVA, W. . Plataforma UNA - Ecossistema de iniciativas para equidade de gênero e empoderamento da mulher. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001762-5, data de registro: 03/08/2021, título: "Plataforma UNA - Ecossistema de iniciativas para equidade de gênero e empoderamento da mulher" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+Programa de computador sem registro
+1.
+ALENCAR, A. L.; LINS, T. V. ; GOMES, S. ; MACENA, J. ; MACHADO, K. S. ; SILVA, W. ; GARCIA, V. C. ; DOMINGUES, M. . Plataforma UNA. 2018.
+
+
+Projetos de pesquisa
+2023 - Atual
+CIDA - Centro de Inovação em ciência de Dados Aplicada
+Descrição: Grupo de pesquisa CNPQhttp://dgp.cnpq.br/dgp/espelhogrupo/798371.
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (6) / Especialização: (4) / Mestrado acadêmico: (1) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador.
+
+Número de produções C, T & A: 14
+2023 - Atual
+AESOP - Alert-Early System of Outbreaks with Pandemic Potential
+Descrição: O SOP é um projeto que visa desenvolver um Sistema de Alerta Antecipado de Surtos com Potencial Pandêmico, chamado Alert-Early System of Outbreaks with Pandemic Potential. Para isso, são estabelecidas três bases importantes: inovação, otimização e antecipação.
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / Antonio Ricardo Khouri Cunha - Integrante / Manoel Barral Netto - Coordenador / Juliane F. Oliveira - Integrante / Pablo Ivan P. Ramos - Integrante.
+Financiador(es): Rockefeller Foundation - Auxílio financeiro.
+Número de produções C, T & A: 6 / Número de orientações: 1
+2022 - Atual
+Fortalecimento e Inovação da Rede de Vigilância, Alerta e Resposta do Sistema Único de Saúde Rede Vigiar-SUS para o Enfrentamento do COVID-19: Sistema Integrado de Vigilância Digital (SIVS-d)
+Descrição: Coordenado pelo Dr. Manoel Barral Netto e Dr. Antonio Ricardo Khouri Cunha. Este projeto visa criar um núcleo especializado para gerenciar e analisar os conjuntos de dados gerados nas pesquisas de vigilância do SARS-CoV-2 do Instituto Gonçalo Moniz (IGM/FIOCRUZ-BA)..
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / Antonio Ricardo Khouri Cunha - Integrante / Manoel Barral Netto - Coordenador.
+
+Número de produções C, T & A: 4 / Número de orientações: 1
+2021 - Atual
+Gestão de Dados em Pesquisa Biomédica
+Descrição: O avanço tecnológico na área das pesquisas biomédicas observado nas últimas décadas resultou em uma realidade na qual os estudos científicos agora geram uma grande quantidade de dados. A pesquisa clínica coleta resultados de experimentos laboratoriais nas áreas de imunologia, microbiologia, genética, metabolismo e biologia molecular, com o objetivo de um melhor entendimento sobre sistemas biológicos associados às diversas doenças de grande impacto na saúde pública brasileira. Este avanço decorre não somente da evolução tecnológica como também da redução de custo dos diferentes ensaios e procedimentos. Este grande desenvolvimento científico trouxe um imenso desafio para os diversos grupos e instituições de pesquisa, o qual diz respeito à necessidade de padronizar e gerenciar a coleta, o armazenamento e o uso destes dados obtidos em diferentes experimentos, por meio de técnicas distintas.Diante do exposto, há uma demanda de soluções capazes de otimizar os diversos processos envolvidos na gestão dos dados científicos gerados em projetos de pesquisa biomédica. Assim, o presente projeto visa criar um núcleo especializado para criar soluções que apoiem o gerenciamento destes conjuntos de dados, a fim de otimizar os procedimentos que sustentam a Ciência Aberta. Esta iniciativa transformará como o conhecimento científico é produzido, compartilhado e comunicado, possibilitando um ambiente ainda mais colaborativo, transparente e sustentável..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Especialização: (3) / Mestrado acadêmico: (2) / Doutorado: (1) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / Kellyton dos Santos Brito - Integrante / Péricles Barbosa Cunha de Miranda - Integrante.
+
+Número de produções C, T & A: 7 / Número de orientações: 1
+2021 - Atual
+?Implementação do Núcleo de Gestão de Dados em Pesquisa Biomédica (NGD_PBio) no IGM-FIocruz Bahia?,
+Descrição: Coordenado pelo Dr. Antonio Ricardo Khouri Cunha. Este projeto que visa criar um núcleo especializado para gerenciar os conjuntos de dados gerados nas pesquisas biomédicas do Instituto Gonçalo Moniz (IGM/FIOCRUZ-BA), a fim de otimizar os procedimentos que sustentam a Ciência Aberta. Esta iniciativa transformará como o conhecimento científico é produzido, compartilhado e comunicado, possibilitando um ambiente ainda mais colaborativo, transparente e sustentável..
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Vinícius Cardoso Garcia - Integrante / Antonio Ricardo Khouri Cunha - Integrante.
+2010 - Atual
+ASSERT: Advanced System and Software Engineering Research Technologies Lab
+
+Projeto certificado pela empresa UstoRe em 18/08/2014.
+Descrição: Advanced System and Software Engineering Research Technologies Lab.
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Andrêza Leite de Alencar - Integrante / Vinícius Cardoso Garcia - Coordenador / Sílvio Romero Lemos Meira - Integrante.
+
+Número de produções C, T & A: 3
+
+
+Projeto de desenvolvimento tecnológico
+2017 - 2018
+Plataforma para Mapeamento do Ecossistema de apoio ao Empoderamento da Mulher
+Descrição: Este projeto tem como objetivo desenvolver uma plataforma de software que seja dinâmica e interativa para mapear o ecossistema de projetos, programas sociais, estudos corporativos e governamentais, cujo foco seja a promoção da igualdade de gêneros, dos direitos e empoderamento socioeconômico da Mulher no Brasil..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (0) Graduação: (3) / Especialização: (0) / Mestrado acadêmico: (0) / Mestrado profissional: (0) / Doutorado: (0) .
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Vinícius Cardoso Garcia - Integrante / Jean Macena - Integrante / Saulo Gomes - Integrante / Willany Silva - Integrante / Marcela Domingues - Integrante.
+
+
+Projeto de extensão
+2015 - 2015
+Desenvolvimento de Aplicativos e Games Educativos para o Parque Dois Irmãos
+Descrição: O Parque Dois Irmãos é considerado uma das maiores áreas de Mata Atlântica de Pernambuco e proporciona aos visitantes conhecer o ecossistema, suas plantas e seus animais nativos, como preguiças, saguis, quatis, capivaras, além de uma enorme variedade de pássaros. No zoológico também vivem cerca de 600 animais entre aves, répteis e mamíferos distribuídos em 120 espécies, tanto nativas do Brasil quanto exóticas. Zoológicos alcançam milhões de pessoas em todo o mundo, a maioria delas vivendo em áreas urbanas e tendo pouco ou nenhum contato com a natureza. Essas pessoas vêm para o zoológico por ter interesse em animais. O zoológico, por sua vez, tem o papel de melhorar o entendimento do público acerca dos animais e sua conservação. Jogos educativos e aplicativos móveis podem prover uma maneira divertida e envolvente de atrair e reter visitantes para o zoológico. Além disso, o uso da internet e de aplicativos móveis está cada vez mais presente do cotidiano das pessoas. Cada vez mais aplicações na web e aplicativos móveis são usados como uma ferramenta de suporte ao ensino na medida em que se tornam elementos facilitadores na prática de ensino. O objetivo do projeto é explorar o uso da web e de aplicativos móveis para investigar novas formas de ensino e divulgação sobre os animais do Parque. Na universidade, este projeto tem como meta a articulação entre o DEINFO e o Departamento de Biologia. O projeto também é uma parceria entre a UFRPE e o Parque Dois Irmãos..
+Situação: Concluído; Natureza: Extensão.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Betânia Cristina Guilherme - Integrante / Ednilza Maranhão dos Santos - Integrante / Gilberto Amado de Azevedo Cysneiros Filho - Integrante / Marcelo Luiz Monteiro Marinho - Integrante / Marcelo Mendonça Teixeira - Integrante / Taciana Pontual da Rocha Falcão - Integrante / Carmen Roselaine de Oliveira Farias - Integrante.
+
+
+Projeto de ensino
+2020 - Atual
+Residência Tecnológica em Ciência de Dados para o Setor Automotivo
+Descrição: Projeto de formação em parceria com a FCA - UPE - FACEPE com foco no desenvolvimento de projetos utilizando dados da planta da Jeep em Goiana.
+Situação: Em andamento; Natureza: Ensino.
+
+Integrantes: Andrêza Leite de Alencar - Coordenador / Alexandre Magno Andrade Maciel - Integrante / Roberta Andrade de Araújo Fagundes - Integrante / Byron Leite Dantas Bezerra - Integrante / Bruno José Torres Fernandes - Integrante / Carmelo Jose Albanez Bastos Filho - Integrante / Kiev Santos da Gama - Integrante / Jorge Cavalcanti Barbosa Fonseca - Integrante / Mailson Melo dos Santos Filho - Integrante / Leandro Maciel Almeida - Integrante / Jairson Barbosa Rodrigues - Integrante / Rômulo César Dias de Andrade - Integrante / Filipe Avilla Castro - Integrante.
+
+
+
+Educação e Popularização de C & T
+
+Artigos
+Artigos completos publicados em periódicos
+
+1.
+ALENCAR, A. L.; BUREGIO, V. ; FREITAS, J. ; CARACIOLO, M. ; GARCIA, V. C. . A CENTRALIZED PLATFORM ON HUMAN GENOME FOR SUPPORTING CLINICAL DECISIONS. Journal of Health Informatics, v. 8, p. 569-578, 2016.
+
+2.
+MELO, F. F. L. ; GOUVEIA, R. M. M. ; ALENCAR, A. L. ; BATISTA, M. C. M. ; B NETO, A. S. ; FERREIRA, T. A. E. . Performance Analysis of NoSQL Databases with Large Volumes of Open Educational Data. INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS, v. 174, p. 9-17, 2021.
+
+
+Livros e capítulos
+1.
+RODRIGUES NETO, J. ; GARCIA, V. C. ; ALENCAR, A. L. ; DAMASCENO, J. C. ; ASSAD, R. E. ; TRINTA, F. . Software as a Service: Desenvolvendo Aplicações Multi-tenancy com Alto Grau de Reuso. In: G. Bressan; R.M. Silveira. (Org.). Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia). 1ed.São Paulo: Sociedade Brasileira de Computação, 2012, 2012, v. , p. 35-73.
+
+
+Apresentações de Trabalho
+1.
+ALENCAR, A. L.; SANTOS, J. L. C. ; MAIA, J. M. F. . Aplicação de Métodos para Validação e Correção em Bancos de Dados Complexos. 2007. (Apresentação de Trabalho/Congresso).
+
+2.
+MAIA, J. M. F. ; SA, M. O. ; SILVA, P. R. T. ; PEREIRA, Q. C. C. ; AGUIAR, M. J. F. R. ; Randow, C. V. ; SANTOS, J. L. C. ; SILVA, J. T. ; MANZI, A. O. ; ARAUJO, A. C. ; ALENCAR, A. L. . Implementação de Protocolos de Controle de Qualidade de Dados Micrometeorológicos. 2007. (Apresentação de Trabalho/Conferência ou palestra).
+
+3.
+ALENCAR, A. L.; SANTOS, J. L. C. ; MAIA, J. M. F. ; SILVA, R. . Strategy for an Automatic Micrometeorological Data Cleaning. 2008. (Apresentação de Trabalho/Conferência ou palestra).
+
+4.
+ALENCAR, A. L.; SANTOS, J. L. C. ; MAIA, J. M. F. . Uma Prototipação de Sistema para Data Cleaning Automático de Dados Micrometeorológicos do LBA. 2008. (Apresentação de Trabalho/Seminário).
+
+5.
+ALENCAR, A. L.; SANTOS, J. L. C. . Um Ambiente para Tratamento Automático de Dados Micrometeorológicos do Projeto LBA. 2009. (Apresentação de Trabalho/Congresso).
+
+6.
+ALENCAR, A. L.; Campos dos Santos, J. L. . Protocolos e Métodos para Tratamento Automático de Dados Micrometeorológicos. 2009. (Apresentação de Trabalho/Congresso).
+
+7.
+ALENCAR, A. L.; SANTOS, J. L. C. . Estudo e implementação de protocolos de controle de qualidade de dados micrometeorológicos. 2010. (Apresentação de Trabalho/Outra).
+
+8.
+ALENCAR, A. L.. Sistemas de Gerenciamento de Banco de Dados XML Open Source. 2010. (Apresentação de Trabalho/Conferência ou palestra).
+
+9.
+ALENCAR, A. L.. Ferramentas Livres para Cloud Computing. 2011. (Apresentação de Trabalho/Conferência ou palestra).
+
+10.
+ALENCAR, A. L.. Cloud Computing. 2012. (Apresentação de Trabalho/Conferência ou palestra).
+
+11.
+ALENCAR, A. L.. Computação nas Nuvens. 2012. (Apresentação de Trabalho/Conferência ou palestra).
+
+12.
+ALENCAR, A. L.. Ferramentas Livres para Cloud Computing: Infraestrutura. Plataforma, Software e Banco de Dados. 2013. (Apresentação de Trabalho/Conferência ou palestra).
+
+13.
+ALENCAR, A. L.. Mudando o mundo com Empreendedorismo e Tecnologia: do batom aos bytes e bits. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+14.
+ALENCAR, A. L.. Programável Mundo Novo. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+15.
+ALENCAR, A. L.. Inovação, Empreendedorismo e Tecnologia. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+16.
+ALENCAR, A. L.. Empreendedorismo e Tecnologia: do batom aos bytes e bits. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+17.
+ALENCAR, A. L.. A centralized platform for access of heterogeneous data on human genome repositories for supporting clinical decisions. 2016. (Apresentação de Trabalho/Simpósio).
+
+
+Cursos de curta duração ministrados
+1.
+ALENCAR, A. L.. Workshop de Inovação, Empreendedorismo e Tecnologia. 2015. (Curso de curta duração ministrado/Outra).
+
+
+Entrevistas, mesas redondas, programas e comentários na mídia
+1.
+ALENCAR, A. L.. Women Tech Makers: Mulheres na Tecnologia. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+2.
+ALENCAR, A. L.. Linguagens de programação livres: qual escolher?. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+3.
+ALENCAR, A. L.. Mulheres na Computação. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+4.
+ALENCAR, A. L.. Secretaria da Mulher e direitos Humanos. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+5.
+ALENCAR, A. L.. Garotas na Tecnologia. 2015. (Programa de rádio ou TV/Mesa redonda). 
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+ALENCAR, A. L.. IV Semana de Informática, II de Geotecnologias e I Escola de Software Livre(SIGE). 2007. (Outro).
+
+2.
+ALENCAR, A. L.. V Semana de Informática, III Semana de Geotecnologias e II Encontro de Software Livre (SIGES). 2008. (Outro).
+
+3.
+ALENCAR, A. L.. VI Semana de Informática, III Semana de geotecnologias e II Encontro de Software Livre. 2009. (Outro).
+
+4.
+ALENCAR, A. L.. Technovation Challenge. 2014. (Outro).
+
+5.
+ALENCAR, A. L.. Semana Acadêmica da Computação da UFRPE. 2014. (Outro).
+
+6.
+ALENCAR, A. L.. InfraSec Day. 2014. (Outro).
+
+7.
+ALENCAR, A. L.. Technovation Challenge. 2015. (Outro).
+
+8.
+ALENCAR, A. L.. Roadshow Microsoft. 2015. (Outro).
+
+9.
+ALENCAR, A. L.. RackFest Windows 10. 2015. (Outro).
+
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 13:44:17
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo

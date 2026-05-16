@@ -1,0 +1,1105 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+English
+Dados gerais Formação Atuação Projetos Produções Patentes e Registros Inovação Eventos Orientações Bancas Citações +
+
+Filipe Rolim Cordeiro
+Bolsista de Produtividade em Pesquisa do CNPq - Nível C
+Endereço para acessar este CV: http://lattes.cnpq.br/4807739914511076
+ID Lattes: 4807739914511076
+Última atualização do currículo em 09/05/2026
+
+Atualmente é bolsista de produtividade em pesquisa do CNPq. Possui graduação em Engenharia da Computação pela Escola Politécnica de Pernambuco (2008). Mestrado em Ciência da Computação pela UFPE. Doutorado em Ciência da Computação pela UFPE e pós doutorado pela University of Adelaide, na Austrália. É professor efetivo do Departamento de Computação da UFRPE. Tem experiência na área de Ciência da Computação, com ênfase em Deep Learning, Visão Computacional para diagnóstico médico e Inteligência Artificial. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Filipe Rolim CordeiroDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+CORDEIRO, F. R.;Cordeiro, Filipe R.;ROLIM CORDEIRO, FILIPE;Filipe Rolim Cordeiro;CORDEIRO, FILIPE ROLIM
+Lattes iD
+http://lattes.cnpq.br/4807739914511076
+Orcid iD
+? https://orcid.org/0000-0001-5582-8436
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco, Departamento de Computação.
+Rua Dom Manoel de Medeiros, s/n
+Dois Irmãos
+52171900 - Recife, PE - Brasil
+Telefone: (81) 33206491
+
+
+Formação acadêmica/titulação
+2011 - 2015
+Doutorado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Desenvolvimento de um Algoritmo Semi-Supervisionado para Segmentação de Lesões em Imagens de Mamografia Digital, Ano de obtenção: 2015.
+Orientador: Abel Guilhermino da Silva-Filho.
+Coorientador: Wellington Pinheiro dos Santos.
+Bolsista do(a): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco, FACEPE, Brasil.
+Palavras-chave: processamento de imagem; tumor; detecção; classificação.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Processamento de Imagem.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação / Especialidade: Inteligência Artificial.
+2009 - 2011
+Mestrado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Análise de Técnicas de Otimização Multi-Objetiva Para Ajustar Hierarquia de Memória Visando Economia de Consumo de Energia e Desempenho , Ano de Obtenção: 2011.
+Orientador: Abel Guilhermino da Silva-Filho.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+Palavras-chave: consumo de energia; Memória Cache; algoritmo multi-objetivo; sistemas embarcados.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Teoria da Computação / Especialidade: Inteligência Artificial.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação / Especialidade: Sistema Embarcados.
+2004 - 2008
+Graduação em Engenharia da Computação.
+Escola Politécnica de Pernambuco, UPE, Brasil.
+Título: UMA FERRAMENTA DE SIMULAÇÃO PARA OTIMIZAÇÃO MULTI-OBJETIVA EVOLUCIONÁRIA.
+Orientador: Abel Guilhermino da Silva-Filho.
+
+
+Pós-doutorado
+2019 - 2020
+Pós-Doutorado.
+University of Adelaide, U.ADELAIDE, Austrália.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Machine Learning.
+
+
+Formação Complementar
+2021 - 2021
+Extensão universitária em Noções Básicas em Libras. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2021 - 2021
+Extensão universitária em Excel Intermediário. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2021 - 2021
+AI for Medical Diagnosis. (Carga horária: 20h).
+DeepLearning.AI, COURSERA, Estados Unidos.
+2020 - 2020
+Curso de Introdução ao Google Sala de Aula. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2019 - 2019
+Advanced English. (Carga horária: 100h).
+South Australian Certificate of Education, SACE, Austrália.
+2019 - 2019
+Desenvolvimento de habilidades em comunicação científica. (Carga horária: 24h).
+CRCN/NE, CRCN, Brasil.
+2018 - 2019
+Deep Learning - Nanodegree Program. (Carga horária: 192h).
+UDACITY, UDACITY, Estados Unidos.
+2018 - 2018
+Intensive English. (Carga horária: 120h).
+Canadian College of English Language, CCEL, Canadá.
+2017 - 2017
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and O. (Carga horária: 20h).
+Standford University, SU, Estados Unidos.
+2017 - 2017
+Structuring Machine Learning Projects. (Carga horária: 20h).
+Standford University, SU, Estados Unidos.
+2017 - 2017
+Introduction to Computer Vision | Master OpenCV 3 in Python. (Carga horária: 6h).
+Udemy, UDEMY, Estados Unidos.
+2017 - 2017
+Neural Networks and Deep Learning. (Carga horária: 20h).
+Standford University, SU, Estados Unidos.
+2017 - 2017
+Convolutional Neural Networks.
+Standford University, SU, Estados Unidos.
+2016 - 2016
+Escola de Comunicação. (Carga horária: 60h).
+Clube do Universitário, C, Brasil.
+2016 - 2016
+Clasificación de imágenes: ¿cómo reconocer el contenido de una imagen?.
+Universitat Autònoma de Barcelona - UAB, UAB, Espanha.
+2015 - 2015
+Detección de objetos.
+Universitat Autònoma de Barcelona - UAB, UAB, Espanha.
+2015 - 2015
+Dale Carnegie Course. (Carga horária: 48h).
+Dale Carnegie Training, DCT, Brasil.
+2014 - 2014
+Arduino. (Carga horária: 20h).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+2014 - 2014
+Programação em CUDA. (Carga horária: 20h).
+Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.
+2013 - 2013
+Gamification.
+University of Pennsylvania, UPENN, Estados Unidos.
+2013 - 2013
+Machine Learning. (Carga horária: 56h).
+Standford University, SU, Estados Unidos.
+2012 - 2012
+Oratória. (Carga horária: 16h).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+2012 - 2012
+Como Elaborar Palestras e Apresentações (CEPA). (Carga horária: 10h).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+2012 - 2012
+Python na Web com Django. (Carga horária: 30h).
+PyCursos, PYCURSOS, Brasil.
+2011 - 2011
+Python. (Carga horária: 40h).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+2010 - 2010
+Java Web. (Carga horária: 40h).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+2009 - 2009
+Action Script 3.0. (Carga horária: 40h).
+Universidade de Pernambuco, UPE, Brasil.
+2009 - 2009
+Introdução a J2ME. (Carga horária: 30h).
+Universidade de Pernambuco, UPE, Brasil.
+2007 - 2007
+PHP e MySQL. (Carga horária: 20h).
+Universidade de Pernambuco, UPE, Brasil.
+2007 - 2007
+Linux Intermediário. (Carga horária: 30h).
+Universidade de Pernambuco, UPE, Brasil.
+2007 - 2007
+C#. (Carga horária: 40h).
+Universidade de Pernambuco, UPE, Brasil.
+2004 - 2004
+Montagem e Manutenção de Micros. (Carga horária: 20h).
+Universidade de Pernambuco, UPE, Brasil.
+
+
+Atuação Profissional
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor Adjunto, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2011 - 2013
+Vínculo: , Enquadramento Funcional: Professor Temporário, Carga horária: 40
+Outras informações
+Disciplinas ministradas: Introdução à Programação, Matemática Discreta, Introdução à Teoria da Computação, Projeto de Banco de Dados, Análise e Projeto de Sistemas de Informação, Infra-Estrutura de Hardware e Laboratório de Informática.
+
+Atividades
+
+10/2017 - Atual
+Ensino, Bacharelado em Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Matemática Discreta I (BCC)
+Matemática Discreta (LC)
+08/2017 - Atual
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Visão Computacional
+Tópicos Avançados
+03/2015 - Atual
+Direção e administração, UNIVERSIDADE FEDREAL RURAL DE PERNAMBUCO.
+
+Cargo ou função
+Substituto Eventual do Supervisor da Área de Fundamentos da Computação.
+03/2017 - 09/2017
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Matemática Discreta
+Matemática Discreta I
+03/2017 - 07/2017
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Fundamentos de Programação Aplicada
+08/2016 - 02/2017
+Ensino, Bacharelado em Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Matemática Discreta
+Matemática Discreta I
+08/2016 - 12/2016
+Ensino, Informática Aplicada, Nível: Pós-Graduação
+
+Disciplinas ministradas
+Processamento de Imagens
+03/2016 - 06/2016
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Computação Evolutiva
+Matémática Discreta
+08/2015 - 12/2015
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Matemática Discreta I
+Matemática Discreta
+Reconhecimento de Padrões
+03/2015 - 07/2015
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Matemática Discreta I
+Matemática Discreta
+08/2014 - 12/2014
+Ensino, Química, Nível: Graduação
+
+Disciplinas ministradas
+Introdução a Programação
+02/2014 - 06/2014
+Ensino, Letras, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Microinformática
+02/2014 - 06/2014
+Ensino, Física, Nível: Graduação
+
+Disciplinas ministradas
+Introdução a Programação
+01/2014 - 02/2014
+Ensino, Bacharelado em Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Reconhecimento de Padrões
+05/2013 - 09/2013
+Ensino, Sistema de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Programação
+Análise e Projeto de Sistemas de Informação
+Laboratório de Informática
+12/2012 - 04/2013
+Ensino, Sistema de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Programação, Laboratório de Informática, Infra-Estrutura de Hardware
+03/2012 - 06/2012
+Ensino, Sistema de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Projeto de Banco de Dados
+Matemática Discreta
+Introdução à Teoria da Computação
+Introdução à Programação
+09/2011 - 12/2011
+Ensino, Sistema de Informação, Nível: Graduação
+
+Disciplinas ministradas
+Introdução à Programação
+Introdução à Teoria da Computação
+Matemática Discreta
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2011 - 2013
+Vínculo: Doutorado, Enquadramento Funcional: Bolsista de Doutorado, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2009 - 2011
+Vínculo: Mestrado, Enquadramento Funcional: Bolsista do Mestrado, Regime: Dedicação exclusiva.
+
+
+Serttel, SERTTEL, Brasil.
+Vínculo institucional
+
+2008 - 2008
+Vínculo: Estágio, Enquadramento Funcional: Estagiário, Carga horária: 30
+
+Atividades
+
+05/2008 - 12/2008
+Estágios , Serttel TI.
+
+Estágio realizado
+Desenvolvedor .NET.
+
+Universidade de Pernambuco, UPE, Brasil.
+Vínculo institucional
+
+2007 - 2008
+Vínculo: Estágio, Enquadramento Funcional: Estagiário
+
+Atividades
+
+10/2007 - 03/2008
+Estágios , POLI.
+
+Estágio realizado
+Desenvolvimento e manutenção do site da posgraduação, utilizando linguagem PHP e banco de dados MySQL.
+
+
+Projetos de pesquisa
+2025 - Atual
+(Bolsa Produtividade 2025-2028) Melhoria de Modelos de Inteligência Artificial Treinados com Anotações Ruidosas
+Descrição: Bolsa de Produtividade CNPq.
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Filipe Rolim Cordeiro - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2024 - Atual
+Treinamento de Modelos de Inteligência Artificial em Bases de Dados com Anotações Incorretas e Aplicações em Imagens Médicas
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Filipe Rolim Cordeiro - Coordenador / Gustavo Carneiro - Integrante / Daniel Carneiro Rosa - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2021 - 2024
+Treinamento de Modelos de Deep Learning Robusto a Anotações Incorretas
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Filipe Rolim Cordeiro - Coordenador / Emeson José Santana Pereira - Integrante.
+2021 - 2023
+Segmentac#807;a#771;o de Leso#771;es em Imagens de Mamografia Digital utilizando Aprendizagem Fracamente Supervisionada
+Descrição: O ca#770;ncer de mama e#769; a principal causa de morte entre mulheres no mundo todo, sendo o tratamento precoce com o uso da mamografia digital a principal forma de combate para a reduc#807;a#771;o do nu#769;mero de mortes. A tarefa de identificac#807;a#771;o de leso#771;es nas imagens de mamografia e#769; desafiadora ate#769; mesmo entre especialistas, sendo fundamental o uso de ferramentas computacionais de auxi#769;lio ao diagno#769;stico de ca#770;ncer de mama. Modelos computacionais, baseados em aprendizagem profunda requerem grandes bases de treinamento com anotac#807;o#771;es precisas para obter um bom desempenho. No entanto, adquirir grandes bases com anotac#807;o#771;es precisas de localizac#807;a#771;o das leso#771;es e#769; muito custoso e requer conhecimento especialista para construir essas bases. Me#769;todos de segmentac#807;a#771;o utilizando aprendizagem fracamente supervisionada te#770;m sido propostos para treinar modelos sem a necessidade de anotac#807;o#771;es quanto a#768; localizac#807;a#771;o da lesa#771;o, contendo apenas informac#807;a#771;o sobre a classe do tumor: benigno ou maligno. Pore#769;m, esse ainda e#769; um problema em aberto na a#769;rea de visa#771;o computacional e que tem um grande impacto no processo de treinamento de modelos para segmentac#807;a#771;o, pois reduz o custo de aquisic#807;a#771;o da base e permite um treinamento com mais imagens, pois imagens com menos anotac#807;o#771;es sa#771;o mais fa#769;ceis e baratas de se adquirir. Esse projeto se propo#771;e a estudar e desenvolver novos me#769;todos de segmentac#807;a#771;o de imagens utilizando aprendizagem fracamente supervisionada, aplicado para segmentac#807;a#771;o e classificac#807;a#771;o de leso#771;es em imagens de mamografia digital, a fim de fornecer uma ferramenta de auxi#769;lio ao diagno#769;stico me#769;dico para combate ao ca#770;ncer de mama. O projeto tem como objetivo melhorar o estado na arte nessa a#769;rea, aproximando os resultados de segmentac#807;a#771;o aos obtidos pela aprendizagem fortemente supervisionada. Com isso, espera-se que seja possi#769;vel treinar novos modelos sem a necessidade da anotac#807;a#771;o me#769;dica quanto a#768; localizac#807;a#771;o da lesa#771;o, contendo apenas informac#807;a#771;o da classe..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Filipe Rolim Cordeiro - Coordenador / Valmir Macario Filho - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2017 - 2020
+Desenvolvimento de um Algoritmo para Contagem Automática de Cromossomos
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Filipe Rolim Cordeiro - Coordenador / Maria F. S. Andrade - Integrante / Angélica Lopes de Jesus - Integrante / MACARIO, VALMIR - Integrante.
+2016 - 2019
+Desenvolvimento de um Algoritmo de Segmentação de Lesões em Imagens de Mamografia Digital
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Filipe Rolim Cordeiro - Coordenador / Abel Guilhermino da Silva-Filho - Integrante / Wellington Pinheiro dos Santos - Integrante / Rafael Ferreira Leite de Mello - Integrante / Valmir Macário Filho - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2015 - 2019
+Monitoramento automático de banhistas na faixa segura da praia
+Descrição: o projeto aprovado​ tem o objetivo de desenvolver o protótipo de um sistema para rastreamento automático de objetos a partir de imagens de câmeras com aplicação ao reconhecimento e rastreamento de banhistas nas praias da Região Metropolitana do Recife. A utilização desse sistema permitirá que um alerta seja emitido caso algum banhista ultrapasse um perímetro considerado seguro..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Filipe Rolim Cordeiro - Integrante / Valmir Macario - Coordenador / João Paulo - Integrante / André Camara - Integrante / Rafael Melo - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2011 - 2015
+DESENVOLVIMENTO DE UM MECANISMO AUTOMÁTICO HARDWARE/SOFTWARE DE DETECÇÃO E CLASSIFICAÇÃO DE TUMORES
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Doutorado: (2) .
+
+Integrantes: Filipe Rolim Cordeiro - Integrante / Abel Guilhermino da Silva-Filho - Coordenador / Sidney Marlon Lopes de Lima - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Bolsa.
+2006 - 2007
+IMPLEMENTAÇÃO DE UM MÓDULO DE ESTIMATIVA DE CONSUMO DE ENERGIA EM MEMÓRIA CACHE PARA O PDESIGNER FRAMEWORK
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Doutorado: (1) .
+
+Integrantes: Filipe Rolim Cordeiro - Integrante / Abel Guilhermino Silva-filho - Coordenador.
+Financiador(es): PIBIC (POLI) - Bolsa.
+2005 - 2006
+DESENVOLVIMENTO DE UM MECANISMO AUTOMÁTICO DE EXPLORAÇÃO DE ARQUITETURA BASEADO EM UMA LINGUAGEM DE DESCRIÇÃO DE ARQUITETURA
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Doutorado: (1) .
+
+Integrantes: Filipe Rolim Cordeiro - Integrante / Abel Guilhermino Silva-filho - Coordenador.
+Financiador(es): PIBIC (POLI) - Bolsa.
+
+
+Revisor de periódico
+2021 - Atual
+Periódico: Computer Methods in Biomechanics and Biomedical Engineering
+2017 - 2017
+Periódico: Expert Systems with Applications
+2017 - 2017
+Periódico: Biomedical Signal Processing and Control (Print)
+2016 - 2016
+Periódico: SAGE Open Medicine
+2016 - 2017
+Periódico: Computers in Biology and Medicine
+2016 - 2016
+Periódico: Informatics in Medicine Unlocked
+
+
+Revisor de projeto de fomento
+2016 - Atual
+Agência de fomento: PIBIC -UFRPE
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Deep Learning.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Visão Computacional.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Machine Learning.
+4.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Otimização Multi-objetivo.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Espanhol
+Compreende Bem, Fala Bem, Lê Bem, Escreve Razoavelmente.
+
+
+Prêmios e títulos
+2023
+Menção Honrosa na 27 Jornada de Iniciação Científica, FACEPE.
+2022
+Terceiro Melhor Artigo da Undergraduate Track do XIX Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2022), BRACIS.
+2020
+Menção Honrosa de melhores artigos de estudantes de graduação, Encontro Nacional de Inteligência Artifiicial e Computacional (ENIAC).
+2018
+Melhor Artigo Trilha de Graduação - 2 Lugar, XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC).
+2017
+Menção Honrosa pelo Trabalho de Iniciação Científica (PIBIC-UFRPE), XVII Jornada de Ensino, Pesquisa e Extensão (JEPEX), UFRPE.
+2016
+Finalista da IV Competição Intel de Sistemas Embarcados, VI Brazilian Symposium on Computing Systems Engineering (SBESC).
+2013
+1 Lugar no Concurso para Professor Assistente na UFRPE, Universidade Federal Rural de Pernambuco, Campus Dois Irmãos.
+2012
+Terceiro Lugar no Concurso de Teses e Dissertações WSCAD-CTD 2012, WSCAD-CTD 2012.
+2011
+CAE - Certificate in Advanced English, Grade C1, University of Cambridge, Reino Unido.
+
+
+Produções
+
+Produção bibliográfica
+Citações
+
+SCOPUS
+Total de trabalhos: 1Total de citações: 1Data: 07/03/2014
+Cordeiro F. R.
+
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+KAMASSURY, J. K. S. ; PICKLER, H. ; Cordeiro, Filipe R. ; SILVA, D. . CCT: A Cyclic Co-Teaching Approach to Train Deep Neural Networks with Noisy Labels. IEEE Access, v. 11, p. 1-1, 2025. Citações:1
+
+2.
+SILVA, RODES ANGELO BATISTA DA ; PANDORFI, HÉLITON ; CORDEIRO, FILIPE ROLIM ; SOARES, RODRIGO GABRIEL FERREIRA ; MEDEIROS, VICTOR WANDERLEY COSTA DE ; ALMEIDA, GLEDSON LUIZ PONTES DE ; BARBOSA FILHO, JOSÉ ANTONIO DELFINO ; MARINHO, GABRIEL THALES BARBOZA ; SILVA, MARCOS VINÍCIUS DA . A New Way to Identify Mastitis in Cows Using Artificial Intelligence. Agriengineering, v. 6, p. 4220-4232, 2024. Citações:2
+
+3.
+ZHANG, Q. ; ZHU, Y. ; Filipe Rolim Cordeiro ; CHEN, Q. . PSSCL: A Progressive Sample Selection Framework with Contrastive Loss Designed for Noisy Labels. PATTERN RECOGNITION, v. 1, p. 111284, 2024. Citações:52
+
+4.
+Cordeiro, Filipe R.; Carneiro, Gustavo . ANNE: Adaptive Nearest Neighbors and Eigenvector-based sample selection for robust learning with noisy labels. PATTERN RECOGNITION, v. 1, p. 111132, 2024. Citações:8
+
+5.
+SACHDEVA, R. ; CORDEIRO, F. R. ; BELAGIANNIS, V. ; REID, I. ; Carneiro, Gustavo . ScanMix: Learning from Severe Label Noise via Semantic Clustering and Semi-Supervised Learning. PATTERN RECOGNITION, v. 134, p. 109121, 2023. Citações:32|18
+
+6.
+VASCONCELLOS, E. M. M. ; FERREIRA, B. G. ; LEANDRO, J. S. ; S. NETO, B. F. ; CORDEIRO, F. R. ; CESTARI, I. A. ; GUTIERREZ, M. A. ; SOBRINHO, A. ; CORDEIRO, T. D. . Siamese Convolutional Neural Network for Heartbeat Classification Using Limited 12-Lead ECG Datasets. IEEE Access, v. 11, p. 5365-5376, 2023. Citações:18|20
+
+7.
+Cordeiro, Filipe R.; SACHDEVA, R. ; BELAGIANNIS, V. ; REID, I. ; CARNEIRO, G. . LongReMix: Robust Learning with High Confidence Samples in a Noisy Label Environment. PATTERN RECOGNITION, v. 133, p. 109013, 2022. Citações:82|85
+
+8.
+DA SILVA, CLEBER A.C.F ; ROSA, D. C. ; MIRANDA, P. B. C. ; Cordeiro, Filipe R. ; SI, T. ; NASCIMENTO, A. C. A. ; MELLO, R. F. L. ; MATTOS NETO, P. S. G. . A novel multi-objective grammar-based framework for the generation of Convolutional Neural Networks. EXPERT SYSTEMS WITH APPLICATIONS, v. 212, p. 118670, 2022. Citações:3|2
+
+9.
+DIAS, L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; Cordeiro, Filipe R. ; MELLO, R. F. L. ; PRUDENCIO, R. . ImageDataset2Vec: An Image Dataset Embedding for Algorithm Selection. EXPERT SYSTEMS WITH APPLICATIONS, v. 180, p. 1, 2021.
+
+10.
+ANDRADE, M. F. S. ; VALENTIM, L. ; Macario V. ; LIMA, F. F. ; HWANG, S. F. ; SILVA, J. C. G. ; CORDEIRO, F. R. . A Study of Deep Learning Approaches for Chromosomes Classification and Detection in Metaphase Images. MACHINE VISION AND APPLICATIONS (INTERNET), v. 1, p. 1, 2020. Citações:13|14
+
+11.
+CHEVTCHENKO, SÉRGIO F. ; VALE, RAFAELLA F. ; MACARIO, VALMIR ; Cordeiro, Filipe R. . A convolutional neural network with feature fusion for real-time hand posture recognition. APPLIED SOFT COMPUTING, v. 73, p. 748-766, 2018. Citações:72|97
+
+12.
+CORDEIRO, F. R.; SANTOS, W. P. ; SILVA-FILHO, A. G. . Analysis of supervised and semi-supervised GrowCut applied to segmentation of masses in mammography images. Computer Methods in Biomechanics and Biomedical Engineering, v. 1, p. 1-19, 2017. Citações:8|26
+
+13.
+CORDEIRO, F. R.; SILVA-FILHO, A. G. ; SANTOS, W. P. . A Semi-Supervised Fuzzy GrowCut Algorithm to Segment and Classify Regions of Interest of Mammographic Images. Expert Systems with Applications, v. 65, p. 116-126, 2016. Citações:40
+
+14.
+CORDEIRO, F. R.; SILVA-FILHO, A. G. . Multi-objective optimization applied to unified second level cache memory hierarchy tuning aiming at energy and performance optimization. Applied Soft Computing (Print), v. 49, p. 603-610, 2016. Citações:3|4
+
+15.
+Cordeiro, Filipe R.; SANTOS, WELLINGTON P. ; Silva-Filho, Abel G. . An adaptive semi-supervised Fuzzy GrowCut algorithm to segment masses of regions of interest of mammographic images. APPLIED SOFT COMPUTING, v. 46, p. 613-628, 2016. Citações:15|30
+
+16.
+ CORDEIRO, F. R.; Santos, W. P. ; SILVA-FILHO, A. G. . Segmentation of Mammography by Applying GrowCut for Mass Detection. Studies in Health Technology and Informatics, v. 192, p. 87-91, 2013. Citações:20
+
+17.
+ Silva-Filho, Abel Guilhermino ; CORDEIRO, F. R. . A Combined Optimization Method for Tuning Two-Level Memory Hierarchy Considering Energy Consumption. EURASIP Journal on Embedded Systems, v. 2011, p. 1-12, 2011. Citações:3
+
+18.
+ Silva-Filho, Abel G. ; CORDEIRO, F. R. ; Araújo, Cristiano C. ; Sarmento, Adriano ; Gomes, Millena ; Barros, Edna ; Lima, Manoel E. . An ESL Approach for Energy Consumption Analysis of Cache Memories in SoC Platforms. International Journal of Reconfigurable Computing (Print), v. 2011, p. 1-12, 2011. Citações:11
+
+Capítulos de livros publicados
+
+1.
+Liu, Fengbei ; Tian, Yu ; Cordeiro, Filipe R. ; Belagiannis, Vasileios ; Reid, Ian ; Carneiro, Gustavo . Self-supervised Mean Teacher for Semi-supervised Chest X-Ray Classification. Lecture Notes in Computer Science. 1ed.: Springer International Publishing, 2021, v. 12966, p. 426-436.
+
+2.
+Cordeiro, Filipe R.; SANTOS, WELLINGTON P. ; Silva-Filho, Abel G. . A semisupervised fuzzy GrowCut algorithm for segmenting masses of regions of interest of mammography images. Swarm Intelligence - Volume 3: Applications. 1ed.: Institution of Engineering and Technology, 2018, v. 3, p. 57-84.
+
+3.
+Lacerda, Henrique F. ; Feitosa, Allan R. S. ; Silva-Filho, Abel G. ; SANTOS, WELLINGTON P. ; Cordeiro, Filipe R. . SmartHome Energy Saving Using a Multi-objective Approach Based on Appliances Usage Profiles. Lecture Notes in Computer Science. 1ed.: Springer International Publishing, 2017, v. , p. 142-147.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+FALCAO, A. M. C. ; CORDEIRO, F. R. . Does Machine Unlearning Preserve Clinical Safety? A Risk Analysis for Medical Image Classification. In: Simpósio Brasileiro de Computação Aplicada à Saúde - SBCAS, 2026, Ouro Preto. Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2026.
+
+2.
+LIMA, J. L. A. ; CORDEIRO, F. R. . Aycromo: Uma Plataforma de Código Aberto para Detecção Automática de Cromossomos em Imagens de Metáfase Baseada em Deep Learning. In: Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2026, Ouro Preto. Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2026.
+
+3.
+PEREIRA, M. R. S. ; CORDEIRO, F. R. . Risk-Aware Robust Learning: Reducing Clinical Risk under Label Noise in Medical Image Classification. In: Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2026, Ouro Preto. Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2026.
+
+4.
+CORDEIRO, H. M. ; SILVA, L. M. ; HWANG, S. F. ; LIMA, F. F. ; Cordeiro, Filipe R. . Detecção de Cromossomos em Metáfases: Um Novo Dataset e Estudo de Caso com YOLOv11. In: 2, 2025, Porto Alegre. 25 Simpósio Brasileiro de Computação Aplicada a Saúde, 2025. v. 1.
+
+5.
+BARBOSA, C. A. ; LIMA, G. F. ; HWANG, S. F. ; LIMA, F. F. ; Cordeiro, Filipe R. . Detecção de Micronúcleos em Linfócitos: Um Novo Dataset e Estudo de Caso com YOLOv11. In: Simpósio Brasileiro de Computação Aplicada à Saúde, 2025, Porto Alegre. 25 Simpósio Brasileiro de Computação Aplicada a Saúde, 2025.
+
+6.
+FALCAO, A. M. C. ; Cordeiro, Filipe R. . Análise de Desaprendizado de Máquina em Modelos de Classificação de Imagens Médicas. In: Simpósio Brasileiro de Computação Aplicada à Saúde, 2025, Porto Alegre. 25 Simpósio Brasileiro de Computação Aplicada a Saúde, 2025.
+
+7.
+FALCAO, A. M. C. ; CORDEIRO, F. R. . Data Augmentation Improves Machine Unlearning. In: SIBGRAPI, 2025, Salvador. 28 Conference on Graphics, Patterns and Images, 2025.
+
+8.
+FALCAO, A. M. C. ; SANTOS, I. A. X. ; CORDEIRO, F. R. . Unraveling Neural Cellular Automata for Lightweight Image Compression. In: SIBGRAPI, 2025, Salvador. 28 Conference on Graphics, Patterns and Images, 2025.
+
+9.
+CHEVTCHENKO, S. ; CARVALHO, R. ; RODRIGUES, L. ; SOUZA, E. ; ROSA, D. ; CORDEIRO, F. R. ; PEREIRA, C. ; VIEIRA, T. ; MARINHO, M. ; DERMEVAL, D. ; BITTENCOURT, I. I. ; ISOTANI, S. ; Macario V. . An Optimization Approach for Elementary School Handwritten Mathematical Expression Recognition. In: 25th International Conference on Artificial Intelligence in Education (AIED), 2024, Recife. Communications in Computer and Information Science, 2024. v. 2151.
+
+10.
+SOUZA, E. ; SANTOS, E. L. ; RODRIGUES, L. ; ROSA, D. ; CORDEIRO, F. R. ; PEREIRA, C. ; CHEVTCHENKO, S. ; CARVALHO, R. ; VIEIRA, T. ; MARINHO, M. ; MATOS, D. ; BITTENCOURT, I. I. ; ISOTANI, S. ; Macario V. . Handwritten Equation Detection in Disconnected, Low-cost Mobile Devices. In: 25th International Conference on Artificial Intelligence in Education (AIED), 2024, Recife. Communications in Computer and Information Science, 2024. v. 2151.
+
+11.
+ROSA, D. ; CORDEIRO, F. R. ; CARVALHO, R. ; SOUZA, E. ; CHEVTCHENKO, S. ; RODRIGUES, L. ; MARINHO, M. ; VIEIRA, T. ; Macario V. . Recognizing Handwritten Mathematical Expressions of Vertical Addition and Subtraction. In: SIBGRAPI, 2023, Rio Grande. Recognizing Handwritten Mathematical Expressions of Vertical Addition and Subtraction, 2023.
+
+12.
+CHEVTCHENKO, S. ; RODRIGUES, L. ; ROSA, D. ; CORDEIRO, F. R. ; CARVALHO, R. ; SOUZA, E. ; VIEIRA, T. ; DERMEVAL, D. ; BITTENCOURT, I. I. ; ISOTANI, S. ; MARINHO, M. ; Macario V. . Algoritmos de Reconhecimento de Dígitos para Integração de Equações Manuscritas em Sistemas Tutores Inteligentes. In: SBIE, 2023. SBIE 2023, 2023.
+
+13.
+SAMPAIO, V. ; CORDEIRO, F. R. . Improving Mass Detection in Mammography Images: A Study of Weakly Supervised Learning and Class Activation Map Methods. In: SIBGRAPI, 2023, Rio Grande. SIBGRAPI 2023, 2023.
+
+14.
+SANTANA, E. P. ; CARNEIRO, G. ; Cordeiro, Filipe R. . A Study on the Impact of Data Augmentation for Training Convolutional Neural Networks in the Presence of Noisy Labels. In: SIBGRAPI, 2022, Natal. 35th Conference on Graphics, Patterns and Images, 2022.
+
+15.
+SAMPAIO, V. ; CORDEIRO, F. R. . A Study on Class Activation Map Methods to Detect Masses in Mammography Images using Weakly Supervised Learning. In: ENIAC 2022, 2022, Campinas. ENIAC 2022, 2022.
+
+16.
+ SACHDEVA, R. ; CORDEIRO, F. R. ; BELAGIANNIS, V. ; REID, I. ; CARNEIRO, G. . EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. In: WACV, 2021, Hawai. WACV 2021, 2021.
+
+17.
+SILVA, C. ; ROSA, D. ; MIRANDA, P. ; CORDEIRO, F. R. ; SI, T. ; NASCIMENTO, A. C. A. ; MELLO, R. F. L. ; MATTOS NETO, P. . A Multi-Objective Grammatical Evolution Framework to Generate Convolutional Neural Network Architectures. In: IEEE Congress on Evolutionary Computation, 2021, Kraków. IEEE CEC 2021, 2021.
+
+18.
+DA SILVA, CLEBER A.C.F ; MIRANDA, PERICLES B.C. ; Cordeiro, Filipe R. . A New Grammar for Creating Convolutional Neural Networks Applied to Medical Image Classification. In: 2021 34th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2021, Gramado. 2021 34th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2021. p. 97.
+
+19.
+MONTE, L. ; OLIVEIRA, E. ; CORDEIRO, F. R. ; MACARIO, VALMIR . Semantic Segmentation for People Detection on Beach Images. In: ENIAC, 2021, online. XVIII Encontro Nacional de Inteligência Artificial e Computacional, 2021.
+
+20.
+CORDEIRO, F. R.; BELAGIANNIS, V. ; REID, I. ; CARNEIRO, G. . PropMix: Hard Sample Filtering and Proportional MixUp for Learning with Noisy Labels. In: The 32nd British Machine Vision Conference, 2021, virtual. The 32nd British Machine Vision Conference, 2021.
+
+21.
+LIU, F. ; TIAN, Y. ; CORDEIRO, F. R. ; BELAGIANNIS, V. ; REID, I. ; CARNEIRO, G. . Self-supervised Mean Teacher for Semi-supervised Chest X-Ray Classification. In: Machine Learning in Medical Imaging (MLMI 2021), 2021. Lecture Notes in Computer Science, 2021. v. 12966. p. 426-436.
+
+22.
+NETO, G. ; MIRANDA, P. ; CAVALCANTI, G. ; SI, T. ; CORDEIRO, F. R. ; CASTRO, M. . Layers Sequence Optimizing for Deep Neural Networks using Multiples Objectives. In: CEC 2020 : IEEE Congress on Evolutionary Computation, 2020, Glasgow. IEEE World Congress on Computational Intelligence 2020, 2020.
+
+23.
+DIAS, L. ; NASCIMENTO, A. C. A. ; CORDEIRO, F. R. ; MELLO, R. F. L. ; PRUDENCIO, R. B. C. ; OLIVEIRA, R. D. . Meta-Characteristics Extraction from Image Datasets for Selection of Convolutional Neural Networks. In: 16h Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2020, Rio Grande. ENIAC 2020, 2020.
+
+24.
+CORDEIRO, F. R.; CARNEIRO, G. . A Survey on Deep Learning with Noisy Labels: How to train your model when you can not trust on the annotations?. In: 33rd Conference on Graphics, Patterns and Images (SIBGRAPI), 2020, Recife. 33rd Conference on Graphics, Patterns and Images (SIBGRAPI), 2020.
+
+25.
+FREITAS, C. N. C. ; Macario V. ; CORDEIRO, F. R. . MyFood: A Food Segmentation and Classification System to Aid Nutritional Monitoring. In: SIBGRAPI, 2020, Recife. SIBGRAPI 2020, 2020.
+
+26.
+CASTRO, M. ; FIORENTINO NETO, G. ; MIRANDA, P. B. C. ; CORDEIRO, F. R. ; PRUDENCIO, R. B. C. . Multi-Objective Optimization of Sequence of Layers in Deep Learning Architectures. In: Encontro Nacional de Inteligência Artificial (ENIAC), 2019, Salvador. ENIAC 2019, 2019.
+
+27.
+ANDRADE, M. F. S. ; CORDEIRO, F. R. ; FILHO, V. M. ; LIMA, F. F. ; HWANG, S. F. ; MENDONCA, J. C. G. . A Fuzzy-Adaptive approach to Segment Metaphase Chromosome Images. In: Brazilian Conference on Intelligent Systems, 2018, São Paulo. BRACIS 2018, 2018.
+
+28.
+CHEVTCHENKO, S. ; VALE, R. F. ; CORDEIRO, F. R. ; FILHO, V. M. . Deep Learning for People Detection on Beach Images. In: Brazilian Conference on Intelligent Systems, 2018, São Paulo. BRACIS 2018, 2018.
+
+29.
+OLIVEIRA, F. V. S. ; ALENCAR, G. A. ; CORDEIRO, F. R. . Analysis of Keypoint Detection Algorithms for Mass Candidates Selection in Mammography Images. In: XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2018, São Paulo. XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2018.
+
+30.
+DINIZ, J. B. ; CORDEIRO, F. R. ; MIRANDA, P. B. C. ; SILVA, L. A. T. . A Grammar-based Genetic Programming Approach to Optimize Convolutional Neural Network Architectures. In: XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2018, São Paulo. XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2018.
+
+31.
+FREITAS, C. N. C. ; CORDEIRO, F. R. ; SILVA, A. J. . Food Recognition System for Nutrition Monitoring. In: XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2018, São Paulo. XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2018.
+
+32.
+CORDEIRO, F. R.; ALBUQUERQUE, B. ; Macario V. . A Multi-Gaussian Fuzzy Membership Function to the Algorithm Fuzzy GrowCut Applied to Segment Lesions in Mammography Images. In: XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2018, São Paulo. XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2018.
+
+33.
+FEITOSA, A. R. S. ; Lacerda, Henrique F. ; SILVA-FILHO, A. G. ; SANTOS, W. P. ; CORDEIRO, F. R. . Using Binary Multi Objective Particle Swarm Optimization for energy-saving in Smart Home environments. In: 9th International Conference on Electronics, Computers and Artificial Intelligence ? ECAI?2017, 2017. 9th International Conference on Electronics, Computers and Artificial Intelligence ? ECAI?2017, 2017.
+
+34.
+CORDEIRO, F. R.; BEZERRA, K. F. P. ; SANTOS, W. P. . Random Walker with Fuzzy Initialization Applied to Segment Masses in Mammography Images. In: 30th IEEE International Symposium on Computer-Based Medical Systems - CBMS 2017, 2017, Thessaloniki. 30th IEEE International Symposium on Computer-Based Medical Systems - CBMS 2017, 2017.
+
+35.
+DINIZ, J. B. ; CORDEIRO, F. R. . Automatic Segmentation of Melanoma in Dermoscopy Images using Fuzzy Numbers. In: 30th IEEE International Symposium on Computer-Based Medical Systems - CBMS 2017, 2017, Thessaloniki. 30th IEEE International Symposium on Computer-Based Medical Systems - CBMS 2017, 2017.
+
+36.
+FRANCA, L. D. R. ; MIRANDA, P. B. C. ; CORDEIRO, F. R. . Um Estudo Experimental da Aplicação do Algoritmo de Neuroevolução com Crescimento Topológico em Imagens Médicas. In: ENIAC, 2017, Uberlândia. XIV Encontro Nacional de Inteligência Artificial e Computacional, 2017.
+
+37.
+ANDRADE, M. F. S. ; CORDEIRO, F. R. ; FILHO, V. M. ; LIMA, F. F. ; HWANG, S. F. ; MENDONCA, J. C. G. . Uma abordagem Fuzzy-Adaptativa para Segmentação de Imagens de Cromossomos. In: ENIAC, 2017, Uberlândia. XIV Encontro Nacional de Inteligência Artificial e Computacional, 2017.
+
+38.
+LUNA DA SILVA, RICARDO ; CHEVTCHENKO, SERGIO ; ALVES DE MOURA, ALLAN ; ROLIM CORDEIRO, FILIPE ; MACARIO, VALMIR . Detecting People from Beach Images. In: 2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI), 2017, Boston. 2017 IEEE 29th International Conference on Tools with Artificial Intelligence (ICTAI), 2017. p. 636.
+
+39.
+SILVA, R. L. ; CHEVTCHENKO, S. ; FILHO, V. M. ; CORDEIRO, F. R. . A Study of Swimmers Detection in Beach Images. In: XIII Workshop de Visão Computacional, 2017, Natal. XIII Workshop de Visão Computacional, 2017.
+
+40.
+JESUS, A. L. ; FILHO, V. M. ; CORDEIRO, F. R. ; LIMA, F. F. ; HWANG, S. F. ; MENDONCA, J. C. G. . Binarization Algorithms Applied to Chromosomes Image Segmentation. In: XIII Workshop de Visão Computacional (WCV), 2017, Natal. XIII Workshop de Visão Computacional, 2017.
+
+41.
+PINTO NETO, E. C. ; CARVALHO, D. ; CABRAL, G. G. ; CORDEIRO, F. R. ; MELLO, R. F. L. ; CALLOU, G. . Identifying Marijuana Users Using Text Mining Techniques. In: ENIAC, 2016, Recife. XIII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2016), 2016.
+
+42.
+LACERDA, H. F. ; FEITOSA, A. R. S. ; SILVA-FILHO, A. G. ; SANTOS, W. P. ; CORDEIRO, F. R. . Redução de Energia em Casas Inteligentes utilizando uma Abordagem Multiobjetivo baseada nos Perfis de Uso de Equipamentos. In: VI Brazilian Symposium on Computing Systems Engineering (SBESC), 2016, João Pessoa. VI Brazilian Symposium on Computing Systems Engineering, 2016. v. 1.
+
+43.
+AZEVEDO, WASHINGTON W. ; LIMA, SIDNEY M. L. ; FERNANDES, ISABELLA M. M. ; ROCHA, ARTHUR D. D. ; Cordeiro, Filipe R. ; DA SILVA-FILHO, ABEL G. ; DOS SANTOS, WELLINGTON P. . Fuzzy Morphological Extreme Learning Machines to detect and classify masses in mammograms. In: 2015 IEEE International Conference on Fuzzy Systems (FUZZIEEE), 2015, Istanbul. 2015 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2015. p. 1.
+
+44.
+AZEVEDO, WASHINGTON W. ; LIMA, SIDNEY M. L. ; FERNANDES, ISABELLA M. M. ; ROCHA, ARTHUR D. D. ; Cordeiro, Filipe R. ; DA SILVA-FILHO, ABEL G. ; DOS SANTOS, WELLINGTON P. . Morphological extreme learning machines applied to detect and classify masses in mammograms. In: 2015 International Joint Conference on Neural Networks (IJCNN), 2015, Killarney. 2015 International Joint Conference on Neural Networks (IJCNN), 2015. p. 1.
+
+45.
+Vitor Rolim ; CORDEIRO, F. R. ; Rafael Ferreira . Reconhecimento de Padrões Aplicados a Comentários de Fóruns Educacionais. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2014, São Carlos, SP. ENIAC 2014, 2014.
+
+46.
+CORDEIRO, F. R.; Lima, S. M. L. ; Silva-Filho,A.G. ; Santos, W. P. . Segmentation of Mammography by Applying Extreme Learning Machine in Tumor Detection. In: IDEAL 2012, 2012, Natal. Conferência Internacional em Engenharia Inteligente de Dados e Aprendizagem Automática (IDEAL), 2012.
+
+47.
+Cordeiro, Filipe R.; SILVA-FILHO, A. G. . Análise de Técnicas de Otimização Multiobjetivo para Ajustar Hierarquia de Memória visando Economia de Consumo de Energia e Desempenho. In: WSCAD-CTD 2012, 2012, Petrópolis. XIII Simpósio em Sistemas Computacionais - WSCAD 2012, 2012.
+
+48.
+Silva-Filho,A.G. ; CORDEIRO, F. R. . DoE applied to Two-Level Memory Hierarchies for Energy Consumption Reduction. In: IEEE International Conference on Systems, Man, and Cybernetics, 2011, Alaska. EEE International Conference on Systems, Man, and Cybernetics, 2011. p. 3084-3089.
+
+49.
+CORDEIRO, F. R.; SILVA-FILHO, A. G. ; ARAUJO, C. C. ; ALMEIDA, M. ; BARROS, E.N.S. ; LIMA, M. E. . An Environment for Energy Consumption Analysis of Cache Memories in SOC Platforms. In: Southern Programmable Logic Conference, 2010, Porto de Galinhas. VI Southern Programmable Logic Conference. Recife: Editora Universitária UFPE, 2010. v. 1. p. 35-40.
+
+50.
+CORDEIRO, F. R.; CARACIOLO, M. ; FERREIRA, L. P. ; SILVA-FILHO, A. G. . Ajuste de Hierarquia de Memória para Redução de Consumo de Energia com base em Otimização por Enxame de Partículas (PSO). In: Designer Forum 2010, 2010, Porto de Galinhas. Designer Forum 2010, 2010. v. 1. p. 69-74.
+
+51.
+CORDEIRO, F. R.; SILVA-FILHO, A. G. ; CARVALHO, G. R. . MOPSO applied to Architecture Tuning with Unified Second-Level Cache for Energy and Performance Optimization. In: SBAC-PAD 2010, 2010, Petrópolis, RJ. 22nd International Symposium on Computer Architecture And High Performance Computing, 2010.
+
+52.
+CORDEIRO, F. R.; SILVA-FILHO, A. G. . NSGAII Applied to Unified Second Level Cache Memory Hierarchy Tuning Aiming Energy and Performance Optimization. In: WSCAD-SSC 2010, 2010, Petrópolis, RJ. XI Simpósio em Sistemas Computacionais, 2010.
+
+53.
+CORDEIRO, F. R.; SILVA-FILHO, A. G. . A New Low Power Exploration Mechanism based on Design of Experiments (DOE) and Two-Level Hierarchies. In: SFORUM, 2009, Natal. 9th Microeletronics Students Forum, 2009.
+
+54.
+CARVALHO, G. R. ; ARAUJO, A.H.C.B.S. ; CORDEIRO, F. R. ; SILVA-FILHO, A. G. . Análise de Consumo de Energia para Hierarquias de Memória com 2 Níveis. In: WSCAD-WIC 2009, 2009, São Paulo. WSCAD, 2009.
+
+55.
+ SILVA-FILHO, A. G. ; BASTOS-FILHO, C. J. A. ; FALCAO, D. M. A. ; CORDEIRO, F. R. ; CASTRO, R.MC.S. . An Optimization Mechanism Intended for Two-Level Cache Hierarchy to Improve Energy and Performance using the NSGAII Algorithm. In: SBAC-PAD, 2008, Campo Grande. 20th International Symposium on Computer Architecture and High Performance Computing, 2008.
+
+56.
+GUILHERMINO, A. ; BASTOS-FILHO, C. J. A. ; LIMA, R. M. F. ; CORDEIRO, F. R. ; FALCAO, D. M. A. ; Lima,M.E. . An Intelligent Mechanism to Explore a Two-Level Cache Hierarchy Considering Energy Consumption and Time Performance.. In: SBAC-PAD 2007, 2007, Gramado. IEEE Computer Society, 2007. v. 1. p. 177-184.
+
+57.
+SILVA-FILHO, A. G. ; CORDEIRO, F. R. ; SANT'ANNA, R. E. ; LIMA, M. E. . Heuristic for Two-Level Cache Hierarchy Exploration Considering Energy Consumption and Performance. In: 16th International Workshop Power and Timing Modeling, Optimization and Simulation, 2006, Montpellier. Integrated Circuits and System Design Power and Timing Modeling, Optimization and Simulation. Berlin: Springer, 2006. v. 4148. p. 75-83.
+
+Apresentações de Trabalho
+
+1.
+CORDEIRO, F. R.; CARNEIRO, G. . Tutorial: How to train your model when you cannot trust on the annotations. 2020. (Apresentação de Trabalho/Conferência ou palestra).
+
+Demais tipos de produção técnica
+
+1.
+CORDEIRO, F. R.. Curso Prático de Deep Learning. 2019. (Curso de curta duração ministrado/Outra).
+
+2.
+CORDEIRO, F. R.. Curso Prático de Visão Computacional com Python e OpenCV: Reconhecendo Objetos, Pessoas e Pokemons. 2017. (Curso de curta duração ministrado/Outra).
+
+3.
+CORDEIRO, F. R.. Python Avançado. 2016. (Curso de curta duração ministrado/Outra).
+
+4.
+CORDEIRO, F. R.. Curso de Férias - Linguagem C. 2014. (Curso de curta duração ministrado/Outra).
+
+5.
+CORDEIRO, F. R.. Curso de Férias de Java. 2014. (Curso de curta duração ministrado/Outra).
+
+
+
+Patentes e registros
+
+Programa de computador
+1.
+PARDOFI, H. ; SILVA, R. A. B. ; ALMEIDA, G. L. P. ; CORDEIRO, F. R. ; BARBOSA FILHO, J. A. D. . Mastithermal. 2021.
+Patente: Programa de Computador. Número do registro: BR512022002597-3, data de registro: 01/11/2021, título: "Mastithermal" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+SILVA, D.; Cordeiro, Filipe R.. Participação em banca de Henrique Pickler da Silva. A Comprehensive Benchmark of Methods for Detection of Noisy Labels in Classification Dataset. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.
+
+2.
+SARMENTO, A. A. M.; Cordeiro, Filipe R.; VILELA, O. C.. Participação em banca de Matheus Casa Nova da Luz. Sunny Spots 3.0: Rede de Sistemas Embarcados para Sensoriamento e Predição de Produção de Energia Solar de Sistemas Fotovoltaicos Distribuídos. 2025. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+3.
+LIMA, J. P. S. M.; Cordeiro, Filipe R.; TEIXEIRA, J. M. X. N.. Participação em banca de KENEDY FELIPE DOS SANTOS DA SILVA. DETECÇÃO DE PRESENÇA DE PEDESTRES EM ÁREAS DE INTERESSE USANDO MÚLTIPLAS CÂMERAS. 2024. Dissertação (Mestrado em PPGIA) - Universidade Federal Rural de Pernambuco.
+
+4.
+Edna Barros; ZANCHETTIN, C.; CORDEIRO, F. R.. Participação em banca de Roberto Costa Fernandes. Embeeded Object Detection and Position Estimation for RoboCup Small Size League. 2023. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+5.
+GARROZI, C.; Cordeiro, Filipe R.; GOUVEA JUNIOR, M. M.. Participação em banca de GLEYDSON ALVES DE BRITO. VEHICLE PRIORITY-AWARE DYNAMIC TIMELINE ROUTING: UMA NOVA ABORDAGEM PARA RESOLUÇÃO DO PROBLEMA DE ROTEAMENTO DE VEÍCULOS. 2023. Dissertação (Mestrado em PPGIA) - Universidade Federal Rural de Pernambuco.
+
+6.
+CORDEIRO, F. R.; VIEIRA, R.; SANTOS, C. T.. Participação em banca de GUILHERME HENRIQUE SANTOS SOUSA. MÉTODOS BASEADOS EM DEEP LEARNING PARA MAPEAMENTO DE ONTOLOGIAS: ALINHAMENTO DE PROPRIEDADES E CLASSES. 2022.
+
+7.
+CORDEIRO, F. R.; CORDEIRO, T. D.; SANTOS NETO, B. F.. Participação em banca de Eduardo Moraes de Miranda Vasconcellos. Classificação de Batimentos Cardíacos a partir de Sinais de Eletrocardiograma usando uma Rede Neural Convolucional Siamesa. 2022 - Universidade Federal de Alagoas.
+
+8.
+CORDEIRO, F. R.; REN, T. I.; PRUDENCIO, R. B. C.. Participação em banca de Miguel Domingos de Santana Wanderley. Transferindo Conhecimento de Textos para Imagens Através da Aprendizagem das Características Semânticas. 2018. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+9.
+SANTOS, W. P.; SOUZA, R. E.; Cordeiro, Filipe R.. Participação em banca de Valter Augusto de Freitas Barbosa. Reconstrução de Imagens de Tomografia por Impedância Elétrica Utilizando Busca por Cardumes de Peixes e Evolução Diferencial. 2017. Dissertação (Mestrado em Engenharia Biomédica) - Universidade Federal de Pernambuco.
+
+10.
+Cordeiro, Filipe R.; SILVA-FILHO, A. G.; OLIVEIRA, A. L.. Participação em banca de Henrique Figueiroa Lacerda. RIER: Mecanismo de Recomendação Inteligente para Uso de Equipamentos Residenciais visando Redução do Consumo de Energia. 2016. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+11.
+SOUZA, R. N. P. M.; DINIZ, J. R. B.; SANTOS, M. S.; CORDEIRO, F. R.. Participação em banca de Robson Almeida Borges de Freitas. Ambientes Virtuais de aprendizagem com biometria facial. 2016. Dissertação (Mestrado em Tecnologia e Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+Teses de doutorado
+
+1.
+TOREZZAN, C.; BATISTA, E. L. O.; Cordeiro, Filipe R.. Participação em banca de Jorge Kysnney Santos Kamassury. ?Cyclic Co-Teaching and Optimized Baselines for Robust Deep Learning with Noisy Labels. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.
+
+2.
+PARDOFI, H.; PAULO J.; CORDEIRO, F. R.; BARBOSA FILHO, J. A. D.; ALMEIDA, G. L. P.. Participação em banca de Rodes Angelo Batista da Silva. Sistema Automático de Classificação de Imagens Térmicas para Detecção de Mastite Bovina. 2023. Tese (Doutorado em Engenharia Agrícola) - Universidade Federal Rural de Pernambuco.
+
+3.
+PRUDENCIO, R. B. C.; ALMEIDA, L. M.; QUEIROZ, S. R. M.; CORDEIRO, F. R.; GOMES, H. M.. Participação em banca de Washington Wagner Azevedo da Silva. Máquinas Morfológicas de Aprendizado Extremo Aplicadas à Detecção e Classificação de Lesões em Mamografias. 2017. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+4.
+CORDEIRO, F. R.. Participação em banca de Samuel Victor Medeiros de Macêdo. Estudo da Influência dos Métodos de Conversão em Escala de Cinza para Rastreamento Baseado em Descritores. 2017. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Qualificações de Doutorado
+
+1.
+BATISTA, E. L. O.; CORDEIRO, F. R.; SILVA, M. G.. Participação em banca de Jorge Kysnney Santos Kamussury. Contribuições ao treinamento robusto de redes neurais profundas com rótulos ruidosos. 2023. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.
+
+2.
+CORDEIRO, F. R.; PARDOFI, H.; PAULO J.; VIGODERIS, R. B.; ALMEIDA, G. L. P.. Participação em banca de Rodes Angelo Batista da Silva. Sistema Automático de Classificação de Imagens Térmicas para Detecção de Mastite Bovina. 2022 - Universidade Federal Rural de Pernambuco.
+
+3.
+VASCONCELOS, G. C.; CORDEIRO, F. R.; KOWERKO, D.. Participação em banca de André Luiz Buarque Vieira e Silva. Power line asset visual inspection: An end-to-end system and a benchmark. 2022.
+
+4.
+BARROS, E. N. S.; Santos, W. P.; CORDEIRO, F. R.. Participação em banca de Sidartha Azevedo Lobo de Carvalho. Gerenciamento Autônomo de Potência Energética usando Aprendizagem por Reforço. 2017. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Qualificações de Mestrado
+
+1.
+SANTOS, M. S.; CORDEIRO, F. R.; PEREIRA, R. N.. Participação em banca de Robson Almeida Borges de Freintas. Autenticação e autenticidade das atividades discentes nos ambientes e-learning: Protótipo de software para Biometria e Registro facial. 2016. Exame de qualificação (Mestrando em Gestão em Educação a Distância) - Universidade Federal Rural de Pernambuco.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+Macario V.; Cordeiro, Filipe R.. Participação em banca de Diego Rafael Ferreira de Souza.Comparative Analysis of Data Augmentation Techniques in Hand Gesture Recognition. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+2.
+LIMA, S.; Cordeiro, Filipe R.. Participação em banca de Vitor Mendes Carvalho.Uso de máquinas de aprendizado extremo com operadores morfológicos na detecção preventiva de ameaças installcore. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Pernambuco.
+
+3.
+CORDEIRO, F. R.; MELLO, R. F. L.. Participação em banca de Hyan Hugo Noá Batista.CLASSIFICAÇÃO MULTI-CLASSE PARA ANÁLISE DE QUALIDADE DE FEEDBACK. 2025 - Universidade Federal Rural de Pernambuco.
+
+4.
+Cordeiro, Filipe R.; Macario V.. Participação em banca de Lucam Valentim Dias.APLICAÇÃO DE RECONHECIMENTO DE TEXTO MANUSCRITO (HTR) PARA A DIGITALIZAÇÃO DE REDAÇÕES DO ENSINO MÉDIO EM PORTUGUÊS. 2025 - Universidade Federal Rural de Pernambuco.
+
+5.
+SILVA, D.; Cordeiro, Filipe R.; SEVERO, D. S.. Participação em banca de Vinicius Cin.Classificação de imagens de moda utilizando modelos de aprendizado profundo com pré-treinamento contrastivo multimodal. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Santa Catarina.
+
+6.
+CORDEIRO, F. R.. Participação em banca de Isabella Stefanny Fernandes de Andrade.Rastreamento de Pedestres 3D Multi-Câmera Usando Redes Neurais de Grafos. 2022.
+
+7.
+CORDEIRO, F. R.; GARROZI, C.. Participação em banca de Carlos Ivan Santos do Amaral.Avaliação de plataformas para o reconhecimento de placas veiculares brasileiras. 2021 - Universidade Federal Rural de Pernambuco.
+
+8.
+CORDEIRO, F. R.; Macario V.. Participação em banca de Leonardo de Araújo Monte.Semantic Segmentation for People Detection on Beach Images. 2021 - Universidade Federal Rural de Pernambuco.
+
+9.
+CORDEIRO, F. R.; MACARIO, VALMIR. Participação em banca de Jeremias Leite da Silva.Detecção de linhas que separam o mar da areia e o mar do céu em imagens de praia. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+10.
+CORDEIRO, F. R.; MACARIO, VALMIR. Participação em banca de Bruno Henrique Pereira.Avaliação de algoritmos baseados em Deep Learning para localizar placas veiculares brasileiras em ambientes complexos. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+11.
+SOARES, R. G. F.; GARROZI, C.; CORDEIRO, F. R.. Participação em banca de David Vasconcelos Leal.Evasão escolar via Aprendizado de Máquina. 2018. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Universidade Federal Rural de Pernambuco.
+
+12.
+Cordeiro, Filipe R.; FILHO, V. M.. Participação em banca de Paulo Henrique Guimarães de Menezes.Geração Procedural de Conteúdo para Jogos de Realidade Aumentada. 2018. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+13.
+Cordeiro, Filipe R.; NASCIMENTO, A. C. A.. Participação em banca de Francisco Carlos Lira.Aplicação de Agrupamento Semissupervisionado para Segmentação de Imagens Coloridas. 2018. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+14.
+CORDEIRO, F. R.; FILHO, V. M.. Participação em banca de Ricardo Luna da Silva.Classificação de banhistas na faixa segura de praia. 2018 - Universidade Federal Rural de Pernambuco.
+
+15.
+Cordeiro, Filipe R.; MACARIO FILHO, V.; TEIXEIRA, J. M. X. N.. Participação em banca de Jéssica Barbosa Diniz.Análise de Algoritmos de Segmentação de Melanoma em Imagens Dermatoscópicas. 2017. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+16.
+MACARIO FILHO, V.; Cordeiro, Filipe R.; TEIXEIRA, J. M. X. N.. Participação em banca de Alison de Andrade Carrera.Segmentação de multidões para um sistema de monitoramento de banhistas com foco no baixo custo computacional. 2017. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+17.
+CORDEIRO, F. R.; GUIMARAES, F. F. L.; TEIXEIRA, J. M. X. N.. Participação em banca de Angélica Lopes de Jesus.Segmentação de imagens de cromossomos aplicado na dosimetria biológica. 2017. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+18.
+FILHO, V. M.; CORDEIRO, F. R.; MIRANDA, P. B. C.. Participação em banca de Sérgio Chevtchenko.Multi-Objective Optimization for Real-Time Hand Posture Recognition. 2017. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+19.
+CORDEIRO, F. R.; MELLO, R. F. L.; CABRAL, G. G.. Participação em banca de Lucas de Holanda Vieira Rocha.Mineração de Texto Aplicada na Análise de Redações do ENEM. 2017. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+20.
+CORDEIRO, F. R.; FILHO, V. M.; MIRANDA, P. B. C.. Participação em banca de Thays Ferreira da Silva.Análise de Descritores de Imagem e Classificadores Aplicados para Detecção de Lesões em Imagens de Mamografia Digital. 2017. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+21.
+CORDEIRO, F. R.; MACARIO FILHO, V.. Participação em banca de Charles Nicollas Cavalcante Freitas.Sistema de reconhecimento de alimento para o monitoramento nutricional. 2017. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Universidade Federal Rural de Pernambuco.
+
+22.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.; Cordeiro, Filipe R.. Participação em banca de Vítor Belarmino Rolim.Identificação de dúvidas em postagens de fóruns educacionais. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+
+
+Participação em bancas de comissões julgadoras
+Outras participações
+
+1.
+CORDEIRO, F. R.. 21 Jornada de Iniciação Científica da FACEPE. 2017. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+2.
+CORDEIRO, F. R.. Comissão de Julgamento da Área de Ciências Exatas. 2017. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+3.
+Cordeiro, Filipe R.. Avaliador de Relatório Parcial. 2017. PIBIC - UFRPE.
+
+4.
+Cordeiro, Filipe R.. Avaliador de Relatório Final. 2017. PIBIC - UFRPE.
+
+5.
+Cordeiro, Filipe R.. Avaliador de Relatório Parcial. 2016. PIBIC - UFRPE.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+Simpósio Brasileiro de Computação Aplicado à Saúde.Análise de Desaprendizado de Máquina em Modelos de Classificação de Imagens Médicas. 2025. (Simpósio).
+
+2.
+SIBGRAPI. Recognizing Handwritten Mathematical Expressions of Vertical Addition and Subtraction. 2023. (Congresso).
+
+3.
+ENIAC 2022. A Study on Class Activation Map Methods to Detect Masses in Mammography Images using Weakly Supervised Learning. 2022. (Congresso).
+
+4.
+SIBGRAPI. A Study on the Impact of Data Augmentation for Training Convolutional Neural Networks in the Presence of Noisy Labels. 2022. (Congresso).
+
+5.
+SIBGRAPI. MyFood: A food segmentation and classification system to aid nutritional monitoring. 2020. (Congresso).
+
+6.
+Brazilian Conference on Intelligent Systems. A Fuzzy-Adaptive Approach to Segment Metaphase Chromosome Images. 2018. (Congresso).
+
+7.
+XV Encontro Nacional de Inteligência Artificial e Computacional (ENIAC). A Multi-Gaussian Fuzzy Membership Function to the Algorithm Fuzzy GrowCut Applied to Segment Lesions in Mammography Images. 2018. (Congresso).
+
+8.
+30th ΙΕΕΕ International Symposium on Computer-Based Medical Systems IEEE CBMS 2017. Automatic Segmentation of Melanoma in Dermoscopy Images using Fuzzy Numbers. 2017. (Congresso).
+
+9.
+VIBrazilian Symposium on Computing Systems Engineering (SBESC). 2016. (Congresso).
+
+10.
+Encontro Nacional de Inteligência Artificial e Computacional (ENIAC). Reconhecimento de Padrões Aplicados a Comentários de Fóruns Educacionais. 2014. (Congresso).
+
+11.
+MEDINFO 2013. Segmentation of Mammography by Applying GrowCut for Mass Detection. 2013. (Congresso).
+
+12.
+Oficina de Marketing Pessoal.Comunicação Oral e Escrita. 2012. (Oficina).
+
+13.
+Segmentation of Mammography by Applying Extreme Learning Machine in Tumor Detection. Conferência Internacional em Engenharia Inteligente de Dados e Aprendizagem Automática (IDEAL). 2012. (Congresso).
+
+14.
+WSCAD-CTD 2012. Análise de Técnicas de Otimização Multiobjetivo para Ajustar Hierarquia de Memória visando Economia de Consumo de Energia e Desempenho. 2012. (Congresso).
+
+15.
+22nd International Symposium on Computer Architecture And High Performance Computing. MOPSO applied to Architecture Tuning with Unified Second-Level Cache for Energy and Performance Optimization. 2010. (Congresso).
+
+16.
+Chip on the Dunes - SBCCI 2009.A New Low Power Exploration Mechanism Based on Design of Experiments (DOE) And Two-Level Hierarchies. 2009. (Simpósio).
+
+17.
+XII Seminário de Iniciação Científica FDPE.DESENVOLVIMENTO DE UM MECANISMO AUTOMÁTICO DE EXPLORAÇÃO DE ARQUITETURA BASEADO EM LINGUAGEM DE DESCRIÇÃO DE ARQUITETURA. 2006. (Seminário).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+CORDEIRO, F. R.. Semana da Computação 2017. 2017. (Outro).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+
+1.
+Claudiany Martins Pereira. Análise de Treinamento de Modelos de Detecção com Anotações Ruidosas Aplicados aplicados a Imagens Médicas. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+André Gustavo Leao da Silva. Compressão de Modelos de Deep Learning para Modelos Embarcados. Início: 2025. Dissertação (Mestrado em PPGIA) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+Jorge Lucas Alves de Lima. Uma Ferramenta para detecção automática de micronúcleo em imagens. Início: 2025. Dissertação (Mestrado em PPGIA) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+4.
+Daniel Carneiro Rosa. Desenvolvimento de um método de treinamento para noisy object detection. Início: 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Andreza Maria Coutinho Falcão. Does Machine Unlearning Preserve Clinical Safety? A Risk Analysis for Medical Image Classification. Início: 2026. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+Camile Alheiro Barbosa. MN-CRCN: A New Benchmark for Automatic Micronucleus Detection in Lymphocytes. Início: 2026. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+Higor Matheus da Costa Cordeiro. Chromo-CRCN: A New Dataset for Automatic Detection of Chromosome in Metaphases. Início: 2026. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+4.
+Maria Layane da Silva. Análise de Risco em Treinamento de Dados com Esquecimento Seletivo Aplicado a Imagens Médicas. Início: 2026. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Iniciação científica
+
+1.
+Ryan Harmes Eskinazi. Análise de modelos de treinamentos com anotações ruidosas aplicado a imagens médicas. Início: 2026. Iniciação científica (Graduando em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+Emeson José Santana Pereira. Treinamento de Modelos de Deep Learning Robusto a Anotações Incorretas. 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Filipe Rolim Cordeiro.
+
+2.
+Iury Adones Xavier. Desenvolvimento de um método de Meta-Learning para treinamento de modelos de Deep learning. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Filipe Rolim Cordeiro.
+
+3.
+Charles Nicollas. Desenvolvimento de um sistema automático de reconhecimento de alimentos para auxílio nutricional. 2020. Dissertação (Mestrado em PPGIA) - Universidade Federal Rural de Pernambuco, . Orientador: Filipe Rolim Cordeiro.
+
+4.
+Felipe Oliveira. Segmentação de Lesões em Imagens de Mamografia Digital utilizando Detecção de Pontos de Interesse. 2019. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+5.
+Jéssica Barbosa Diniz. Desenvolvimento de uma gramática para construção automática de arquiteturas de deep learning aplicado à classificação de imagens dermatoscópicas. 2019. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Filipe Rolim Cordeiro.
+
+6.
+Sergio Fernandovitch Chevtchenko. A Convolutional Neural Network with Feature Fusion for Real-Time Hand Posture Recognition. 2018. Dissertação (Mestrado em PPGIA) - Universidade Federal Rural de Pernambuco, . Orientador: Filipe Rolim Cordeiro.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+João Lucas Pinto de Santana. Análise de desaprendizado de máquina para melhoria de modelos treinados em anotações ruidosas. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+2.
+Daniel Carneiro Rosa. Recognizing Handwritten Mathematical Expressions of Vertical Addition and Subtraction. 2023. Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+3.
+Kallebe Felipe Pereira Bezerra. Desenvolvimento de um Algoritmo Baseado em Lógica Fuzzy para Segmentação e Classificação de Tumores em imagens de Mamografia Digital. 2019. Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+4.
+Luiz Daniel Ramos França. Neuroevolution of Augmenting Topologies Applied to the Detection of Cancer in Medical Images. 2018. Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+5.
+Jéssica Barbosa Diniz. Análise de Algoritmos de Segmentação de Melanoma em Imagens Dermatoscópicas. 2017. Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+6.
+Thays Silva. Análise de Descritores para Classificação de Tumor em Imagens de Mamografia Digital. 2017. Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+7.
+Charles Nicollas. GoNutri: Uma Ferramenta para Detecção de Alimentos e Auxílio Nutricional. 2017. Trabalho de Conclusão de Curso. (Graduação em Bacharelado em Sistemas de Informação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+Iniciação científica
+
+1.
+Higor Matheus da Costa Cordeiro. Análise de Algoritmos para Detecção de Cromossomos em Imagens. 2024. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+2.
+Camile Alheiro Barbosa. Análise de Algoritmos para Classificação de Imagens de Micronúcleo. 2024. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+3.
+Andreza Maria Coutinho Falcão. Análise de Métodos de Machine Unlearning em Modelos de Classificação de Imagens. 2024. Iniciação Científica - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+4.
+ANDREZA MARIA COUTINHO FALCAO. Um Estudo Sobre o Uso de Autômatos Celulares Neurais para Aprendizado Supervisionado e Compressão de Imagens. 2023. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+5.
+João Lucas Pinto de Santana. Treinamento de Redes Convolutivas Robustas à Presença de Anotações Ruidosas. 2023. Iniciação Científica. (Graduando em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+6.
+Vicente Gabriel Rocha Cortez Alencar Sampaio. Análise de Algoritmos Fracamente Supervisionados para Localização de Lesões em Imagens de Mamografia Digital. 2022. Iniciação Científica - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+7.
+Maria Fernanda de Souza Andrade. Análise de Algoritmos para Classificação de Cromossomos. 2018. Iniciação Científica. (Graduando em Bacharelado em Ciência da Computação) - PIBIC -UFRPE, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+8.
+Maria Fernanda Souza Andrade. Desenvolvimento de um Algoritmo para Segmentação de cromossomos. 2017. Iniciação Científica. (Graduando em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco, PIBIC - UFRPE. Orientador: Filipe Rolim Cordeiro.
+
+9.
+Raissa Camelo Salhab. Estudo de Algoritmos de Detecção de Nódulos em Pulmão usando Imagens de Tomografia Computadorizada. 2017. Iniciação Científica. (Graduando em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+10.
+Kallebe Felipe Pereira Bezerra. Desenvolvimento de um Algoritmo baseado em Lógica Fuzzy para Segmentação de Tumores em Imagens de Mamografia Digital. 2016. Iniciação Científica. (Graduando em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco, PIBIC -UFRPE. Orientador: Filipe Rolim Cordeiro.
+
+11.
+Beatriz Albuquerque Cordeiro Barbosa Santos. Análise de Funções de Pertinência Fuzzy para segmentação de tumores Circunscritos, Espiculados e Indistintos em imagens de Mamografia Digital. 2016. Iniciação Científica. (Graduando em Bacharelado em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Filipe Rolim Cordeiro.
+
+
+
+Inovação
+
+Programa de computador registrado
+1.
+PARDOFI, H. ; SILVA, R. A. B. ; ALMEIDA, G. L. P. ; CORDEIRO, F. R. ; BARBOSA FILHO, J. A. D. . Mastithermal. 2021.
+Patente: Programa de Computador. Número do registro: BR512022002597-3, data de registro: 01/11/2021, título: "Mastithermal" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 17:34:15
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo

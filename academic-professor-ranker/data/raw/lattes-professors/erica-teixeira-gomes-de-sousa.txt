@@ -1,0 +1,1633 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+English
+Dados gerais Formação Atuação Projetos Produções Eventos Orientações Bancas Citações +
+
+Erica Teixeira Gomes de Sousa
+Endereço para acessar este CV: http://lattes.cnpq.br/9899077867723655
+ID Lattes: 9899077867723655
+Última atualização do currículo em 05/05/2026
+
+Pós-doutora em Ciências da Computação (2019) pela Universidade de Coimbra. Doutora em Ciências da Computação (2015) e Mestre em Ciências da Computação pela Universidade Federal de Pernambuco (2009). Graduada em Engenharia Elétrica Eletrônica pela Universidade de Pernambuco (2004). Técnica em Telecomunicações pelo Centro Federal de Educação Tecnológica de Pernambuco (2002). Professora da Universidade Federal Rural de Pernambuco. Membro do programa de pós-graduação em informática aplica da UFRPE. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Erica Teixeira Gomes de SousaDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+SOUSA, E. T. G.;Sousa, Erica Teixeira Gomes de
+Lattes iD
+http://lattes.cnpq.br/9899077867723655
+Orcid iD
+? https://orcid.org/0000-0003-3786-3427
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco, Departamento de Computação.
+Rua Dom Manoel de Medeiros
+Dois Irmãos
+52171900 - Recife, PE - Brasil
+Telefone: (81) 8191325286
+URL da Homepage: http://www.ufrpe.br/br
+
+
+Formação acadêmica/titulação
+2010 - 2015
+Doutorado em Ciências da Computação.
+Centro de Informática da UFPE, CIN/UFPE, Brasil.
+Título: Modelagem de Desempenho, Dependabilidade e Custos para o Planejamento de Infraestruturas de Nuvens Privadas, Ano de obtenção: 2015.
+Orientador: Paulo Romero Martins Maciel.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+2007 - 2009
+Mestrado em Ciência da Computação.
+Centro de Informática da UFPE, CIN/UFPE, Brasil.
+Título: Avaliação do Impacto de uma Política de Manutenção na Performabilidade de Sistemas TEF, Ano de Obtenção: 2009.
+Orientador: Paulo Romero Martins Maciel.
+Palavras-chave: Dependability Model; Electronic Funds Transfer System; Expolinomial Stochastic Model; Performability Analysis; Performance Model.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+1998 - 2004
+Graduação em Engenharia Elétrica.
+Universidade de Pernambuco, UPE, Brasil.
+2000 - 2001
+Curso técnico/profissionalizante em telecomunicações.
+Instituto Federal de Educação Tecnológica, IFPE, Brasil.
+
+
+Pós-doutorado
+2019 - 2019
+Pós-Doutorado.
+Universidade de Coimbra, UC, Portugal.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Avaliação de dependabilidade.
+Grande Área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: injeção de falhas.
+
+
+Formação Complementar
+2021 - 2021
+CAPACITAÇÃO EM INTELIGÊNCIA ARTIFICIAL. (Carga horária: 60h).
+Instituto Federal de Alagoas, IFAL, Brasil.
+2021 - 2021
+Curso de Gravação e edição de aulas para EAD e outras formas digitais. (Carga horária: 20h).
+Universidade Federal do Agreste de Pernambuco, UFAPE, Brasil.
+2021 - 2021
+Curso Prático de Elaboração e Avaliação do PIT e RIT. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2021 - 2021
+INTRODUÇÃO ÀS FERRAMENTAS DO GOOGLE FOR EDUCATION. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2021 - 2021
+Curso Preparação para Instrutoria e Agentes de Capacitação EAD. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2021 - 2021
+Acessibilidade: Ferramentas e adaptações para o ensino remoto. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2021 - 2021
+Sala de aula invertida: dinamizando processos de ensino e aprendizagem por. (Carga horária: 12h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2021 - 2021
+INTRODUÇÃO AO AVA MOODLE. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2021 - 2021
+Oficina Formas de Interação para o Ensino Remoto. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2020 - 2020
+Enterprise Linux Technical Overview. (Carga horária: 10h).
+Red Hat, RH, Estados Unidos.
+2011 - 2013
+Língua Inglesa. (Carga horária: 420h).
+Cultura Inglesa, CULTURA INGLESA, Brasil.
+2012 - 2012
+Java Básico e Avançado. (Carga horária: 44h).
+Especializa, ESPECIALIZA, Brasil.
+2011 - 2012
+Curso de Atualização Didático Pedagógico. (Carga horária: 75h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2007 - 2007
+Java Básico. (Carga horária: 28h).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+2006 - 2006
+Expressão Verbal e Técnicas de Oratória. (Carga horária: 18h).
+INSTITUTO DE APERFEIÇOAMENTO PESSOAL, IAP, Brasil.
+2004 - 2005
+Programa Cisco Networking Academy. (Carga horária: 288h).
+Universidade de Pernambuco, UPE, Brasil.
+2004 - 2004
+Extensão universitária em Linux Básico. (Carga horária: 20h).
+Universidade de Pernambuco, UPE, Brasil.
+2003 - 2003
+Extensão universitária em Mini-curso de Automação - LOGO!.
+Universidade de Pernambuco, UPE, Brasil.
+2003 - 2003
+Extensão universitária em Java Básico. (Carga horária: 20h).
+Universidade Federal de Pernambuco, UFPE, Brasil.
+2003 - 2003
+Extensão universitária em Sistemas de Qualidade da TCA e da VPN.
+Universidade de Pernambuco, UPE, Brasil.
+2003 - 2003
+Extensão universitária em Mini-curso de TV Digital.
+Universidade de Pernambuco, UPE, Brasil.
+2003 - 2003
+Extensão universitária em Mini-curso de Telefonia Celular.
+Universidade de Pernambuco, UPE, Brasil.
+2002 - 2002
+Autocad 2000. (Carga horária: 40h).
+Instituto Federal de Pernambuco, IFPE, Brasil.
+2001 - 2001
+Extensão universitária em Automação Industrial.
+Universidade de Pernambuco, UPE, Brasil.
+
+
+Atuação Profissional
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2024 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da ComputaçãoDisciplinas:Metodologia Científica Aplicada a Computação Avaliação de desempenho de sistemas
+
+Vínculo institucional
+
+2024 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Comissão de Pesquisa do Departamento de Computação da UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Vínculo institucional
+
+2023 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Comissão de Coordenação Didática - CCD do PPGIA
+
+Vínculo institucional
+
+2023 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Comissão de Orientação e Acompanhamento Acadêmico - COAA
+
+Vínculo institucional
+
+2022 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Colegiado de Coordenação Didática (CCD) DO PROGRAMA DE PÓS-GRADUAÇÃO EM INFORMÁTICA APLICADA DA UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Vínculo institucional
+
+2023 - 2024
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da ComputaçãoDisciplinas:Metodologia Científica Aplicada a Computação Avaliação de desempenho de sistemas
+
+Vínculo institucional
+
+2022 - 2024
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Substituta Eventual da Coordenação do Curso de Bacharelado em Ciência da Computação
+
+Vínculo institucional
+
+2023 - 2023
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Presidente da Comissão para Seleção 2024.1 de novos alunos do PPGIA
+
+Vínculo institucional
+
+2023 - 2023
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da ComputaçãoDisciplinas:Metodologia Científica Aplicada a Computação Avaliação de desempenho de sistemas
+
+Vínculo institucional
+
+2021 - 2023
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Membro suplente do Colegiado de Coordenação Didática do Curso de Licenciatura emComputação, conforme Decisão n 096/2021 do CTA/DEP/COMPUTAÇÃO - CONSELHO TÉCNICO ADMINISTRATIVO DO DEPARTAMENTO DE COMPUTAÇÃO
+
+Vínculo institucional
+
+2022 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 8, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da Computação Disciplinas:Metodologia Científica Aplicada a Computação Projeto de Conclusão de Curso
+
+Vínculo institucional
+
+2022 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da Computação Disciplinas:Metodologia Científica Aplicada a Computação Projeto de Conclusão de Curso
+
+Vínculo institucional
+
+2022 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da ComputaçãoDisciplinas:Metodologia Científica Aplicada a Computação Projeto de Conclusão de Curso
+
+Vínculo institucional
+
+2022 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 20
+Outras informações
+Curso SIGAA - FUNCIONALIDADES DO PERFIL COORDENAÇÃO DOS CURSOS DE GRADUAÇÃO
+
+Vínculo institucional
+
+2022 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Comissão de Seleção para a turma 2023.1. .
+
+Vínculo institucional
+
+2021 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 2
+Outras informações
+Membro suplente do Colegiado de Coordenação Didática do Curso de Licenciatura em Computação, conforme Decisão nº 096/2021 do CTA/DEP/COMPUTAÇÃO - CONSELHO TÉCNICO ADMINISTRATIVO DO DEPARTAMENTO DE COMPUTAÇÃO
+
+Vínculo institucional
+
+2019 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 2
+Outras informações
+Núcleo Docente Estruturante do Curso de Bacharelado em Ciência da Computação
+
+Vínculo institucional
+
+2019 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 2
+Outras informações
+Núcleo Docente Estruturante do Curso de Bacharelado em Ciência da Computação
+
+Vínculo institucional
+
+2019 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Regime: Dedicação exclusiva.
+Outras informações
+Núcleo Docente Estruturante do Curso de Bacharelado em Ciência da Computação
+
+Vínculo institucional
+
+2019 - 2022
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 2
+Outras informações
+Núcleo Docente Estruturante do Curso de Bacharelado em Ciência da Computação
+
+Vínculo institucional
+
+2021 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 4, Regime: Dedicação exclusiva.
+Outras informações
+Curso Programa de Pós-Graduação em Informática Aplicada Metodologia de Estudo e de Pesquisa em Computação Aplicada
+
+Vínculo institucional
+
+2021 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 4, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da Computação Projeto de Conclusão de Curso Carga horária 12hs
+
+Vínculo institucional
+
+2021 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 60, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da Computação Disciplina PROJETO DE CONCLUSÃO DE CURSO 14048 BC3 12 GRADUAÇÃO METODOLOGIA CIENTÍFICA APLICADA A - COMPUTAÇÃO 141 12 BC3 60 GRADUAÇAO
+
+Vínculo institucional
+
+2021 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 40, Regime: Dedicação exclusiva.
+Outras informações
+Comissão de Seleção 2022.1. DO PROGRAMA DE PÓS-GRADUAÇÃO EM INFORMÁTICA APLICADA DA UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Vínculo institucional
+
+2021 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 2, Regime: Dedicação exclusiva.
+Outras informações
+Comissão de Seleção 2022.1 DO PROGRAMA DE PÓS-GRADUAÇÃO EM INFORMÁTICA APLICADA DA UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Vínculo institucional
+
+2021 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 2
+Outras informações
+Comissão de Seleção 2022.1 DO PROGRAMA DE PÓS-GRADUAÇÃO EM INFORMÁTICA APLICADA DA UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO
+
+Vínculo institucional
+
+2020 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 4, Regime: Dedicação exclusiva.
+Outras informações
+Disciplina de Trabalho Individual no Programa de Pós-graduação em Informática Aplicada
+
+Vínculo institucional
+
+2020 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 4, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Agronomia Introdução a Informática
+
+Vínculo institucional
+
+2018 - 2021
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Membro do CCD da pós-graduação de informática aplicada
+
+Vínculo institucional
+
+2020 - 2020
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da Computação Metodologia Científica Aplicada a Computação
+
+Vínculo institucional
+
+2020 - 2020
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 4
+Outras informações
+Curso Bacharelado em Agronomia 06262 - INTRODUÇÃO À INFORMÁTICA - turmas SA1 e SA3
+
+Vínculo institucional
+
+2020 - 2020
+Vínculo: Servidor público, Enquadramento Funcional: Professor titular, Carga horária: 4
+Outras informações
+Curso de Bacharelado em Ciências da Computação Disciplinas Computação em Nuvem Metodologia Científica
+
+Vínculo institucional
+
+2019 - 2020
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Membro da Comissão de Comunicação Paulo Anselmo da Mota Silveira Neto Sidney Carvalho Nogueira Erica Teixeira Gomes de Sousa
+
+Vínculo institucional
+
+2019 - 2019
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da Computação Metodologia Científica Aplicada a Computação
+
+Vínculo institucional
+
+2019 - 2019
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Curso Licenciatura em Computação Metodologia Científica Aplicada a Computação
+
+Vínculo institucional
+
+2019 - 2019
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplina de Trabalho Individual no Programa de Pós-graduação em Informática Aplicada
+
+Vínculo institucional
+
+2018 - 2019
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Membro da Comissão de Pesquisa do Departamento de Computação
+
+Vínculo institucional
+
+2018 - 2019
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Suplente na Comissão de Planejamento Estratégico do Departamento de Computação da UFRPE
+
+Vínculo institucional
+
+2018 - 2018
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplina de Trabalho Individual no Programa de Pós-graduação em Informática Aplicada
+
+Vínculo institucional
+
+2017 - 2018
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Presidente do Comitê de Segurança da Informação da UFRPE
+
+Vínculo institucional
+
+2017 - 2018
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 30, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de bacharelado em ciência biológicas da UFRPE: Elementos de informática
+
+Vínculo institucional
+
+2016 - 2018
+Vínculo: , Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Membro da Comissão de Pesquisa do Departamento de Estatística e Informática
+
+Vínculo institucional
+
+2017 - 2017
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Curso Bacharelado em Ciência da Computação Disciplina Projeto de Conclusão de Curso
+
+Vínculo institucional
+
+2016 - 2016
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 40, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas: no Curso Licenciatura em Química da UFRPE Elementos de Informática
+
+Vínculo institucional
+
+2015 - 2016
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 20, Regime: Dedicação exclusiva.
+Outras informações
+Membro do Programa de Pós-Graduação em Informática Aplicada Disciplinas ministradas: Sistemas Distribuídos Avaliação de desempenho de sistemas
+
+Vínculo institucional
+
+2015 - 2015
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 20
+Outras informações
+Disciplinas ministradas no curso de licenciatura em computação da EAD/UFRPE: Infraestrutura de Hardware.
+
+Vínculo institucional
+
+2014 - 2014
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Membro da comissão de incentivo à pesquisa do Departamento de Estatística e Informática da UFRPE
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de bacharelado em agronomia da UFRPE: Introdução à informática.
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de licenciatura em química da UFRPE: Elementos de informática
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de licenciatura em educação física da UFRPE: Elementos de informática
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de licenciatura em ciência biológicas da UFRPE: Elementos de informática
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de bacharelado em ciências agrícolas e ambientais da UFRPE: Introdução à microinformática.
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de licenciatura em física da UFRPE: Introdução à Computação.
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de bacharelado em engenharia florestal da UFRPE: Introdução à informática
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de licenciatura em computação da UFRPE: Elementos de Informática Aspectos Filosóficos e Sociológicos da Informática
+
+Vínculo institucional
+
+2012 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de bacharelado em ciência da computação da UFRPE: Análise de desempenho Introdução à Ciência da Computação.
+
+Vínculo institucional
+
+2010 - 2012
+Vínculo: , Enquadramento Funcional: Professor, Carga horária: 40, Regime: Dedicação exclusiva.
+Outras informações
+Disciplinas ministradas no curso de bacharelado em ciência da computação da UAG/UFRPE: Redes de computadores, Linguagem de programação, Laboratório de informática, Arquitetura de computadores, Sistemas Operacionais, Sistemas distribuídos, Tópicos Avançados em Redes de Computadores, Sistemas Distribuídos e Análise de desempenho.
+
+Vínculo institucional
+
+2010 - 2012
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 40, Regime: Dedicação exclusiva.
+Outras informações
+Membro do colegiado de coordenação didática do curso de ciência da computação da UAG/UFRPE. Membro do núcleo docente estruturante do curso da UAG/UFRPE.
+
+
+Centro de Informática/HP, CIN/HP, Brasil.
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Bolsista, Enquadramento Funcional: Bolsista, Carga horária: 30
+Outras informações
+Avaliação de dependabilidade e sustentabilidade da infraestrutura de centros de dados.
+
+
+Faculdade dos Guararapes, FG, Brasil.
+Vínculo institucional
+
+2010 - 2010
+Vínculo: Celetista formal, Enquadramento Funcional: Diretora Adjunta dos Cursos de TI, Carga horária: 15
+
+Vínculo institucional
+
+2009 - 2010
+Vínculo: Celetista formal, Enquadramento Funcional: Professor, Carga horária: 6
+Outras informações
+Disciplinas ministradas no curso de tecnológico de marketing : Informática aplicada, Sistemas de informação. Disciplinas ministradas no curso de bacharelado em ciências da computação : Redes 2, Arquitetura de computadores. Disciplinas ministradas no curso de tecnológico de redes de computadores : Administração de redes, Segurança de Redes I. Disciplinas ministradas no curso de tecnológico de gestão de tecnologia da informação : Software livre.
+
+
+Centro de Informática/Itautec, CIN/ITAUTEC, Brasil.
+Vínculo institucional
+
+2008 - 2008
+Vínculo: Bolsista, Enquadramento Funcional: Bolsista, Carga horária: 30
+Outras informações
+Avaliação de desempenho e planejamento de capacidade da infraestrutura de sistemas de transferência eletrônica de fundos.
+
+
+SECRETARIA DE DEFESA SOCIAL DE PERNAMBUCO, SDSPE, Brasil.
+Vínculo institucional
+
+2004 - 2007
+Vínculo: Servidor público, Enquadramento Funcional: Técnico, Carga horária: 40
+
+
+Universidade de Pernambuco, UPE, Brasil.
+Vínculo institucional
+
+2004 - 2004
+Vínculo: Monitoria, Enquadramento Funcional: Monitoria, Carga horária: 12
+Outras informações
+Monitoria das disciplinas de Telefonia 1, Telefonia 2 e Redes em Faixa Larga
+
+
+Centro de Informática/Motorola, CIN/MOTOROLA, Brasil.
+Vínculo institucional
+
+2003 - 2004
+Vínculo: Estágio, Enquadramento Funcional: Estágio, Carga horária: 30
+Outras informações
+Testes em softwares de celulares da Motorola com a tecnologia GSM. Atualização dos requisitos de testes de softwares de celulares da Motorola.
+
+
+Secretaria de Infraestrutura de Prazeres, SEINFRA, Brasil.
+Vínculo institucional
+
+2001 - 2001
+Vínculo: Bolsista, Enquadramento Funcional: Estagiário, Carga horária: 20
+
+
+
+Projetos de pesquisa
+2020 - Atual
+?Projeto, Implementação e Avaliação de Segurança em Sistemas Computacionais
+
+Projeto certificado pelo(a) coordenador(a) Fernando Antonio Aires Lins em 08/07/2022.
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Fernando Antonio Aires Lins - Coordenador / Robson Medeiros - Integrante.
+2020 - Atual
+Previsão de Falhas em Tempo de Execução na Computação em Nuvem
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / Fernando Antonio Aires Lins - Integrante / Robson Medeiros - Integrante.
+2019 - 2019
+Avaliação de Disponibilidade de Aplicações Big Data em Nuvens Privadas baseadas em Contêineres
+Descrição: Esse projeto tem o objetivo de desenvolver uma estratégia integrada composta por uma metodologia e modelos para a avaliação de disponibilidade de aplicações big data em nuvens privadas baseadas em contêineres. Esses modelos representarão o impacto da atribuição de mecanismos de redundância aos componentes da nuvem privada e o efeito de políticas de manutenção na infraestrutura da nuvem privada..
+Situação: Desativado; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / Adriano Felix - Integrante.
+2019 - Atual
+AVALIAÇÃO DE DISPONIBILIDADE DE APLICAÇÕES BIG DATA EM NUVENS PRIVADAS BASEADAS EM CONTÊINERES
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / ALEX CORDEIRO CUNHA - Integrante.
+2018 - Atual
+AVALIAÇÃO DE DESEMPENHO DE APLICAÇÕES BIG DATA EM NUVENS PRIVADAS
+Descrição: O objetivo principal deste projeto é o desenvolvimento de uma estratégia integrada composta por uma metodologia e modelos de representação baseados em redes de Petri estocásticas para a avaliação de aplicações big data em infraestruturas de nuvens privadas..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / TARCISIO JOSE ROLIM FILHO - Integrante.
+2017 - 2019
+PLANEJAMENTO DE CAPACIDADE DE NUVENS PRIVADAS
+Descrição: O foco principal deste projeto é o desenvolvimento de uma estratégia integrada composta por uma metodologia e modelos de representação para o planejamento e a seleção de infraestruturas de nuvens privadas de acordo com os requisitos de desempenho estabelecidos com os usuários. Um aspecto fundamental neste planejamento será a avaliação do número de máquinas virtuais que podem ser alocadas em determinada infraestrutura de nuvem privada para o atendimento de um serviço, considerando diferentes níveis de carga de trabalho. As métricas de desempenho que podem ser adotadas para o planejamento da nuvem computacional são o tempo de resposta, o tempo na fila e a utilização de recursos. O formalismo que será adotado neste trabalho para a modelagem dos sistemas configurados na nuvem privada são as redes de Petri estocásticas (Stochastic Petri Nets - SPN)..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / rajeev Yadav - Integrante.
+2016 - 2020
+Avaliação de Desempenho e Dependabilidade de Aplicações de Big Data em Infraestruturas de Nuvens
+Descrição: O objetivo central deste projeto é a proposição de uma estratégia de modelagem para avaliação de desempenho e de dependabilidade de aplicações Big Data configuradas em infraestruturas de nuvens. A estratégia de modelagem proposta combinará modelos combinatoriais (ex: RBD) e modelos baseados em espaço de estados (ex: SPN). Os modelos de desempenho concebidos proporcionarão o dimensionamento do quantitativo e da capacidade de processamento e armazenamento de máquinas virtuais, roteadores e switches que podem ser usados para aplicações Big Data. Os modelos de dependabilidade concebidos permitirão a avaliação do impacto da atribuição de mecanismos de redundância e políticas de manutenção nas aplicações Big Data configuradas em infraestruturas de nuvens. Além disso, este projeto tem o objetivo de desenvolver uma ferramenta para geração automática dos modelos de desempenho e dependabilidade..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / Paulo Romero Martins Maciel - Integrante / Eduardo Antônio Guimarães Tavares - Integrante / Fernando Antonio Aires Lins - Integrante.
+2015 - 2018
+Avaliação de Desempenho de Aplicações Móveis em Ambientes de Computação em Nuvem Móvel
+
+Projeto certificado pelo(a) coordenador(a) Fernando Antonio Aires Lins em 21/08/2016.
+Descrição: O projeto de pesquisa tem o objetivo de definir uma estratégia integrada (composta por modelos formais e por um ferramental de suporte) que permita a avaliação de desempenho de ambientes de suporte à Computação em Nuvem Móvel (Mobile Cloud Computing), que é um dos temas emergentes dentro da área de Sistemas Distribuídos e da própria Ciência da Computação atualmente..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Nelson Rosa - Integrante / Fernando Antonio Aires Lins - Coordenador / Júlio Damasceno - Integrante / Robson Medeiros - Integrante / NIELSON AVELINO DE SANTANA - Integrante / Gilberto Amado de Azevedo Cysneiros Filho - Integrante / Inês Alves de Lima Oliveira - Integrante.
+2014 - 2017
+Engenharia de Software Distribuído
+
+Projeto certificado pelo(a) coordenador(a) Fernando Antonio Aires Lins em 28/04/2016.
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Marcelo Marinho - Integrante / Fernando Antonio Aires Lins - Coordenador / Robson Medeiros - Integrante / Gilberto Cysneiros - Integrante.
+2014 - Atual
+Grupo de Modelagem e Otimização de Sistemas ­ GMOS
+Situação: Em andamento; Natureza: Pesquisa.
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Carlos Julain Menezes Araújo - Integrante / Bruno Silva - Integrante / Gustavo Rau de Almeida Callou - Coordenador / Gabriel Alves de Albuquerque Junior - Integrante / Ermeson Carneiro de Andrade - Integrante / Bruno Costa e Silva Nogueira - Integrante / Jean Carlos Teixeira de Araújo - Integrante / Kádna Maria Alves Camboim Vale - Integrante.
+2013 - 2017
+Modelagem Formal de Sistemas para Avaliação de Performabilidade
+Descrição: Este projeto propõe o desenvolvimento de técnicas, modelos e ferramentas que permitam a avaliação de dependabilidade e desempenho de forma conjunta para sistemas de eventos discretos (DES), viabilizando, assim, a avaliação de performabilidade. Utilizando os mecanismos a serem desenvolvidos, os projetistas terão uma melhor percepção das modificações a serem realizadas em um sistema existente ou mesmo na construção de um novo. O contexto do projeto englobará sistemas de tempo real, cloud computing, virtualização de redes de computadores e análise de riscos em projetos de desenvolvimento de softwares...
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (2) / Doutorado: (3) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Eduardo Antônio Guimarães Tavares - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2013 - 2016
+MAS-13 - Modelagem e Avaliação de Sistemas
+Descrição: A evolução dos sistemas computacionais, dos sistemas de comunicação e da tecnologia de sensoriamento têm proporcionado o desenvolvimento de sistemas dinâmicos de alta complexidade e valor agregado. Os exemplos estão em nosso entorno, ao nosso alcance e presentes no nosso cotidiano. A ubiquidade desses sistemas, portanto, é um fator que tem induzido a concepção e desenvolvimento de novas aplicações e serviços que permeiam o cotidiano das pessoas na sociedade moderna. As pessoas e as organizações dependem, deste modo, dos serviços proporcionados pela tecnologia da informação e critérios tais quais eficiência, disponibilidade, confiabilidade, consumo energético e custo são requisitos essenciais para o desenvolvimento adequado das atividades da sociedade atual. A computação em nuvem (cloud computing) concorre neste sentido, impulsionando a ampla difusão do uso e aplicação desses sistemas. Cloud computing é um modelo que propicia o uso dos recursos computacionais de forma muito mais próxima daquelas com as quais as pessoas normalmente estão acostumadas no seu dia-a-dia, tais quais uso de recursos como água e energia elétrica. Com esse modelo, é possível aos usuários pagarem apenas pelos recursos que efetivamente venham utilizar e que adequem a capacidade computacional necessária às suas demandas específicas do momento. Em função do extraordinário crescimento em número, dimensões e capacidade dos data centers, é também relevante salientar a tendência de crescimento dos custos associados à energia destes sistemas, assim como as preocupações ambientais relativas ao uso dos recursos energéticos. Aproximadamente metade da energia consumida por um data center é devida ao sistema energético e ao sistema de resfriamento, infra-estruturas essenciais para o funcionamento do sistema computacional. A outra parte da energia consumida é devida aos mecanismos de armazenamento, servidores e comunicação. Estudos revelam que 1,5% do consumo energético dos EUA é devido aos data centers e também demonstram que esses também são responsáveis por cerca de 2% da emissão de gás carbônico. Portanto, fica clara a importância da disponibilidade de mecanismos que permitam quantificar o impacto ambiental devido às diferentes matrizes energéticas as quais podem ser fontes de suprimento de energia para os data centers. Parte significativa das atividades dos sistemas computacionais é gerida por um conjunto de regras operacionais sujeitas a eventos discretos controlados - por exemplo, execução de um serviço de compra na web - ou não ? a ocorrência de uma falha em um serviço na cloud. Sistemas com estas características, integrantes da classe de sistemas dinâmicos, são classificados com Sistemas de Eventos Discretos (Discrete Event Systems - DES). O estudo dos DES é uma tarefa complexa que envolve conhecimento de controle; modelagem funcional, análise e verificação de propriedades qualitativas; desempenho e dependabilidade. Esta proposta de projeto de pesquisa trata sobre o estudo o desenvolvimento conhecimento, modelos, métodos e procedimentos para o estudo de aspectos relacionados ao desempenho, disponibilidade, confiabilidade e consumo energético dos sistemas computacionais e mais particularmente aqueles relacionados às infraestrutras computacionais que dão suporte aos serviços de cloud compunting..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (11) / Doutorado: (11) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Paulo Romero Martins Maciel - Coordenador / Carlos Julain Menezes Araújo - Integrante / Gustavo Rau de Almeida Callou - Integrante / Eduardo Antônio Guimarães Tavares - Integrante / Gabriel Alves de Albuquerque Junior - Integrante / Ermeson Carneiro de Andrade - Integrante / Nelson Rosa - Integrante / Armin Zimmermann - Integrante / Bruno Costa e Silva Nogueira - Integrante / Victor Lira - Integrante / Erico Medeiros - Integrante / Sérgio Mário Lins Galdino - Integrante / Almir Guimarães - Integrante / Stephen Worth - Integrante / Kishor Trivedi - Integrante / Jean Carlos Teixeira de Araújo - Integrante / Rivalino Matias Jr - Integrante / Dietmar Tutsch - Integrante / João Ferreira - Integrante / Antônio Dâmaso - Integrante / Matheus Melo - Integrante / Danilo Mendonça de Oliveira - Integrante.
+Financiador(es): Universidade Federal de Pernambuco - Outra.
+2009 - 2010
+Dependability Evaluation and Management of Sustainable Data Centers DESDAC
+Descrição: Durante os últimos anos, tem se observado um extraordinário crescimento do número, das dimensões e da capacidade dos data centers. É também relevante salientar as diversas características e aspectos que concorrem com a finalidade de se alcançar os altos níveis de disponibilidade nesses sistemas data centers, dentre estes são fundamentais os mecanismos de redundância, as políticas de manutenção e os meios que reduzam a probabilidade do provimento de serviços fora dos níveis de especificação definidos. Dentre estes meios, destacam-se os mecanismos de resfriamento do sistema computacional. Contudo, por outro lado, os sistemas de resfriamento são agentes significativos para o aumento do consumo de energia e conseqüentemente um aspecto relevante a ser considerado com relação à emissão de gás carbônico. Nesse contexto, o projeto DESDAC tem como objetivo o desenvolvimento de uma metodologia de modelagem e de avaliação de confiabilidade e disponibilidade de data centers. O projeto considera a concepção e desenvolvimento de um conjunto de modelos parametrizados que permitam a avaliação de métricas de disponibilidade e confiabilidade dos componentes e sub-sistemas que compreendem os sistemas data centers. Este projeto contempla os sistemas energéticos, o de resfriamento e o computacional (servidores, mecanismos de rede e armazenamento) e suas inter-relações, de maneira que se possam avaliar os efeitos das condições operacionais sobre a disponibilidade deste sistema integrado e dos custos financeiros e ambientais necessários associados..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Paulo Romero Martins Maciel - Coordenador / Carlos Julain Menezes Araújo - Integrante / Bruno Silva - Integrante / Gustavo Rau de Almeida Callou - Integrante / Eduardo Antônio Guimarães Tavares - Integrante.
+Financiador(es): Hewlett-Packard Brasil - Matriz - Cooperação.
+2008 - 2008
+Planejamento de Capacidade de Sistemas - PLACS
+Descrição: O planejamento de capacidade de Sistema Integrado de Automação Comercial é essencial para uma adequada configuração do hardware, software e conectividade do ambiente para possibilitar a realização dos serviços especificados e sua disponibilidade. Este projeto teve por objetivo o desenvolvimento de mecanismos que permitissem a escolha dos componentes de hardware, software e comunicação necessários à correta operação de ambientes de Automação Comercial. Especificamente, o objetivo foi produzir modelos que possibilitasse estimar o desempenho e dimensionamento de recursos destes sistemas..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (3) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Paulo Romero Martins Maciel - Coordenador / Carlos Julain Menezes Araújo - Integrante / Fábio César Medeiros Chicout - Integrante / Rodrigo Silva Campos - Integrante.
+Financiador(es): Lab. Performance CIn-Itautec - Cooperação.
+2008 - 2008
+Planejamento de Capacidade de Sistemas de Automação Comercial - PLACS
+Descrição: O planejamento de capacidade de Sistema Integrado de Automação Comercial é essencial para uma adequada configuração do hardware, software e conectividade do ambiente para possibilitar a realização dos serviços especificados e sua disponibilidade. Este projeto teve por objetivo o desenvolvimento de mecanismos que permitissem a escolha dos componentes de hardware, software e comunicação necessários à correta operação de ambientes de Automação Comercial. Especificamente, o objetivo foi produzir modelos que possibilitasse estimar o desempenho e dimensionamento de recursos destes sistemas..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (3) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Paulo Romero Martins Maciel - Coordenador / Carlos Julain Menezes Araújo - Integrante / Fábio César Medeiros Chicout - Integrante / Rodrigo Silva Campos - Integrante.
+Financiador(es): Centro de Informática/Itautec - Bolsa.
+
+
+Projetos de extensão
+2022 - 2022
+Semana de Computação_DC_2022
+Situação: Concluído; Natureza: Extensão.
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / Carlos Julain Menezes Araújo - Integrante / Robson Medeiros - Integrante / Jeane Cecília Bezerra de Melo - Integrante / Marcos José de Menezes Cardoso Junior - Integrante / Rodrigo Nonamor Pereira Mariano de Souza - Integrante.
+2014 - 2014
+Políticas de Segurança para Dispositivos Móveis
+
+Projeto certificado pelo(a) coordenador(a) Fernando Antonio Aires Lins em 09/08/2014.
+Descrição: Nos últimos anos, o uso de dispositivos móveis (especialmente smartphones) no cotidiano das pessoas é uma realidade. Agora bastante mais acessíveis, os smartphones estão com preços que permitem que uma parcela significativa da população possam o comprar/utilizar. Uma das questões relevantes relacionadas a esse uso é a segurança. Cada vez mais, usuários utilizam esses aparelhos para acessar portais de bancos, fazerem comprar/pagamentos e até armazenar arquivos/fotografia privadas e confidenciais. Desta forma, medidas preventivas devem ser tomadas de tal sorte a minimizar o risco de um furo de segurança. Uma das medidas mais eficazes neste sentido é a adoção de políticas de segurança, nas quais os usuários poderiam configurar não apenas os detalhes técnicos do aparelho, como também modificar a forma de utilização de forma a reduzir drasticamente a possibilidade de ocorrência de situações indesejadas. Este trabalho visa propor um conjunto de políticas de seguranças que poderão ser usadas por diversos públicos (funcionários de empresas, alunos, agentes governamentais, dentre outros) para reduzir a possibilidade de ocorrência de problemas de segurança e também para mitigar possíveis problemas que possam ocorrer em função de um furo de segurança..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Integrante / Fernando Antonio Aires Lins - Coordenador / Thaís Antunes Bione - Integrante.
+2014 - 2014
+DigiBiologia
+Descrição: A Universidade Federal Rural de Pernambuco ? UFRPE propõe o projeto DigiBiologia. Este projeto busca a inclusão digital através da proposição de jogos educativos no ensino da biologia em escolas municipais de Recife. Este projeto proporcionará o uso de ferramentas educacionais voltadas ao ensino-aprendizagem da biologia a crianças e adolescentes, permintido que os professores elaborem aulas mais dinâmicas e interativas. Além disso, esse projeto proporcionará a capacitação de professores por meio da implantação de cursos sobre a criação de jogos educativos no ensino da biologia. Desta forma, esta iniciativa buscar viabilizar o acesso aos recursos tecnológicos para os estudantes e professores da rede pública de ensino, atendendo um dos princípios orientadores da Extensão que é democratizar o conhecimento acadêmico, articulando o ensino com as demandas da sociedade..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / Fernando Antonio Aires Lins - Integrante / Natália Ferreira da Silva - Integrante / Priscila Marcionila Silva de lima - Integrante.
+2011 - 2011
+Informática, Inclusão e Cidadania
+Descrição: O projeto de inclusão digital proporcionará aos estudantes e professores das escolas públicas o acesso a tecnologias da informação, mas também promoverá a integração entre os alunos do curso de ciência da computação da UFRPE/UAG, os quais nomearemos de monitores, e professores do curso de ciência da computação, conhecidos como professores executores, com as escolas públicas de Garanhuns. Dessa forma, esse projeto proporcionará conhecimento aos estudantes e professores das escolas públicas de Garanhuns e aos graduandos no curso de ciência da computação da UFRPE/UAG..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / Bruno Costa e Silva Nogueira - Integrante / Juliana de Albuquerque Gonçalves Saraiva - Integrante / Maria Aparecida Amorim Sibaldo - Integrante / Mariel José Pimentel de Andrade - Integrante / Severino José da Costa Neto - Integrante.
+
+
+Outros Projetos
+2021 - Atual
+Modeling, Evaluation, and Fault Injection of Distributed Systems Group
+Situação: Em andamento; Natureza: Outra.
+Alunos envolvidos: Mestrado acadêmico: (4) .
+
+Integrantes: Erica Teixeira Gomes de Sousa - Coordenador / Fernando Antonio Aires Lins - Integrante / Robson Medeiros - Integrante / Almir Guimarães - Integrante / Kádna Maria Alves Camboim Vale - Integrante.
+
+
+Membro de corpo editorial
+2018 - Atual
+Periódico: Information and Computer Security
+2017 - Atual
+Periódico: Big Data and Cloud Innovation
+
+
+Revisor de periódico
+2024 - Atual
+Periódico: Journal of Supercomputing
+2024 - Atual
+Periódico: Journal of Reliable Intelligent Environments
+2024 - Atual
+Periódico: Journal of Cloud Computing
+2020 - Atual
+Periódico: Jordanian Journal of Computers and Information Technology
+2020 - Atual
+Periódico: Computers (ISSN 2073-431X)
+2018 - Atual
+Periódico: IEEE Access
+2016 - Atual
+Periódico: Journal of Network and Computer Applications
+2014 - Atual
+Periódico: Elsevier Editorial System - Computer Networks
+2013 - 2013
+Periódico: IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Hu
+
+
+Revisor de projeto de fomento
+2023 - Atual
+Agência de fomento: Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco
+2019 - Atual
+Agência de fomento: Fundação de Apoio à Pesquisa do Distrito Federal
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Avaliação de desempenho.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Avaliação de dependabilidade.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Avaliação de performabilidade.
+4.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Redes de computadores.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+
+
+Prêmios e títulos
+2021
+Prêmio de BEST PAPER, Workshop em Desempenho de Sistemas Computacionais e de Comunicação (WPerformance 2021), evento satél.
+2016
+Premiação de publicações do CIn 2016, Centro de Informática, Universidade Federal de Pernambuco..
+2016
+Highly Cited Research in Sustainable Computing: Informatics and Systems, Elsevier.
+2015
+Professora Homenageada - Bacharelado em Ciência da Computação Turma 404, Universidade Federal Rural de Pernambuco/Unidade Acadêmica de Garanhuns.
+2014
+Professora Homenageada - Bacharelado em Ciência da Computação Turma 2013.2, Universidade Federal Rural de Pernambuco/Unidade Acadêmica de Garanhuns.
+2014
+Professora Homenageada - Bacharelado em Ciência da Computação Turma 2014.1, Universidade Federal Rural de Pernambuco/Unidade Acadêmica de Garanhuns.
+2014
+Menção Honrosa, Universidade Federal Rural de Pernambuco.
+2011
+IEEE ISSST 2011 Student Paper Competitionis, IEEE Computer Society?s Technical Committee on Sustainable Systems and Technology.
+2010
+Aprovada no concurso para professor assistente da universidade federal rural de Pernambuco, Universidade Federal Rural de Pernambuco.
+
+
+Produções
+
+Produção bibliográfica
+Citações
+
+Outras
+Total de trabalhos: 1Total de citações: 3Data: 01/04/2019
+Erica Sousa
+
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+Cláudio Moura ; SOUSA, E. T. G. . Training Neural Networks in Cloud Environments: A Methodology and a Comparative Analysis. JOURNAL OF INTERNET SERVICES AND APPLICATIONS, v. 16, p. 1-8, 2025.
+
+2.
+José Carlos dos Santos ; BUARQUE, T. ; SOUSA, E. T. G. . Previsão de falhas em ambientes de nuvem: uma revisão sistemática de literatura. PRINCIPIA (JOÃO PESSOA), v. 1, p. 1-8, 2024.
+
+3.
+ROLIM FILHO, T. J. ; SOUSA, E. T. G. . Performance and Availability Evaluation of Big Data Environments in the Private Cloud. Journal of Computer and Communications,, v. 12, p. 266-288, 2024.
+
+4.
+Diogo Lages ; · Eric Borba ; TAVARES, Eduardo Antonio Guimaraes ; Andson Balieiro ; SOUSA, E. T. G. . A CPN-based model for assessing energy consumption of IoT networks. JOURNAL OF SUPERCOMPUTING, v. 1, p. 1-8, 2023. Citações:8|9
+
+5.
+ROLIM FILHO, T. J. ; SOUSA, E. T. G. ; Lins, Fernando . PERFORMANCE MODELING OF BIG DATA ENVIRONMENTS IN THE PRIVATE CLOUD. REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC, v. 13, p. 1-8, 2023.
+
+6.
+MELO, F. F. ; CALLOU, G. R. A. ; SOUSA, E. T. G. . Sensitivity Analysis of Data Center Electrical Infrastructures Considering Aspects of Dependability and Cost. IEEE Latin America Transactions, v. 100, p. 1-8, 2021.
+
+7.
+Anderson Elias Nascimento ; TAVARES, E. A. G. ; JÚNIOR, A. A. G. ; SOUSA, E. T. G. ; Nogueira, Bruno . Performability evaluation of transport modes for cloud-based inbound logistics: a study based on coffee industry. INTERNATIONAL JOURNAL OF MANUFACTURING TECHNOLOGY AND MANAGEMENT, v. 34, p. 1-8, 2020. Citações:3
+
+8.
+YADAV, R. R. ; CAMPOS, G. A. S. ; SOUSA, E. T. G. ; LINS, F. A. A. . A Strategy for Performance Evaluation and Modeling of Cloud Computing Services. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA, v. 26, p. 78, 2019.
+
+9.
+OLIVEIRA, F. ; TAVARES, Eduardo Antonio Guimaraes ; SOUSA, E. T. G. ; Nogueira, Bruno . Video Conferencing Evaluation Considering Scalable Video Coding and SDN Network. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA, v. 25, p. 1, 2018.
+
+10.
+LIRA, V. ; TAVARES, Eduardo Antonio Guimaraes ; Nogueira, Bruno ; Meuse Nogueira de Oliveira Junior ; SOUSA, E. T. G. . Virtual Network Mapping Considering Energy Consumption and Availability. COMPUTING, v. 1, p. 1-31, 2018. Citações:1|1
+
+11.
+YADAV, R. R. ; CALLOU, G. R. A. ; SOUSA, E. T. G. . Performance Comparison Between Virtual Machines and Docker Containers. IEEE Latin America Transactions, v. 1, p. 1-6, 2018. Citações:1
+
+12.
+SOUSA, E. T. G.; Lins, Fernando ; TAVARES, E. A. G. ; MACIEL, P. R. M. . Cloud infrastructure planning considering different redundancy mechanisms. COMPUTING, v. 1, p. 1-24, 2017. Citações:1|1
+
+13.
+Anderson Elias Nascimento ; TAVARES, E. A. G. ; JÚNIOR, A. A. G. ; SOUSA, E. T. G. ; Nogueira, Bruno . Performability Evaluation of Transport Modes for Cloud-based Inbound Logistics: A Study Based on Coffee Industry. International Journal of Manufacturing Technology and Management, v. 1, p. 1-12, 2017.
+
+14.
+Lins, Fernando ; ROSA, N. S. ; SOUSA, E. T. G. . A Survey on Automation of Security Requirements in Service-Based Business Processes. INTERNATIONAL JOURNAL OF WEB ENGINEERING AND TECHNOLOGY, v. 31, p. 1-1, 2017.
+
+15.
+SOUSA, E. T. G.; LINS, F. A. A. ; TAVARES, Eduardo Antonio Guimaraes ; MACIEL, P. R. M. . A Modeling Strategy for Cloud Infrastructure Planning Considering Performance and Cost Requirements. Services Transactions on Cloud Computing, v. 4, p. 32-45, 2016.
+
+16.
+SANTANA, N. A. ; SOUSA, E. T. G. ; LINS, F. A. A. . Performance Evaluation of Mobile Applications in Mobile Cloud Environments. Revista IEEE América Latina, v. 14, p. 4597-4602, 2016. Citações:4|5
+
+17.
+BESERRA, D. ; FERNANDES, F. ; FALCAO, F. ; LIMA, W. ; KARMAN, R. ; ENDO, P. T. ; BORBA, A. ; ARAUJO, J. ; SOUSA, E. T. G. . Como a Computação em Nuvem Pode Ajudar a Prover Infraestrutura para Aplicações de e­Science?. Revista RETEC, v. 1, p. 1-10, 2015.
+
+18.
+SILVA, M. ; Lins, Fernando ; SOUSA, E. T. G. . Towards a Methodology for Performance Measurement of Service-Based Systems. International Journal of Scientific and Engineering Research, v. 6, p. 2015-6, 2015.
+
+19.
+Lins, Fernando ; Damasceno, Júlio ; Medeiros, Robson ; ROSA, N. S. ; SOUSA, E. T. G. . Automation of Service-Based Security-Aware Business Processes in the Cloud Computing. Computing (Wien. Print), v. 1, p. 1, 2015. Citações:1|1
+
+20.
+MELO, A. ; TAVARES, E. A. G. ; SOUSA, E. T. G. ; Nogueira, Bruno . A Performability Approach for Evaluating Software Development Risks. International Journal of Software Engineering, Technology and Applications, v. 1, p. 1, 2015.
+
+21.
+MARQUES, A. ; TAVARES, E. A. G. ; SOUSA, E. T. G. ; MARINHO, M. ; Nogueira, Bruno . A Dependability Approach for Evaluating Software Development Risks. IET Software, v. 1, p. 1-8, 2014. Citações:4|12
+
+22.
+SOUSA, E. T. G.; Lins, Fernando ; TAVARES, E. A. G. ; Cunha, P. R. F. ; Paulo Maciel . A Modeling Approach for Cloud Infrastructure Planning Considering Dependability and Cost Requirements. IEEE Transactions on Systems, Man, and Cybernetics - Part A: Systems and Humans, v. 1, p. 1, 2014. Citações:30|31
+
+23.
+SILVA, B. ; CALLOU, G. ; TAVARES, E. ; MACIEL, P. ; FIGUEIREDO, J. ; SOUSA, E. T. G. ; ARAUJO, C. ; MAGNANI, F. ; Neves, Francisco A. S. . ASTRO: An integrated environment for dependability and sustainability evaluation. Sustainable Computing-Informatics & Systems, v. 3, p. 1-17, 2013. Citações:47|44
+
+24.
+SOUSA, E. T. G.; Paulo Maciel ; Lins, Fernando ; MARINHO, M. . Maintenance Policy and its Impact on the Performability Evaluation of EFT Systems. International Journal of Computer Science, Engineering and Applications, v. 2, p. 1-20, 2012.
+
+25.
+Lins, Fernando ; Damasceno, Júlio ; SILVA, B. ; Souza, André ; Medeiros, Robson ; ARAGAO, D. ; SOUSA, E. T. G. ; ROSA, N. S. . TOWARDS AUTOMATION OF SOA-BASED BUSINESS PROCESSES. International Journal of Computer Science, Engineering and Applications, v. 2, p. 1-17, 2012.
+
+26.
+Lins, Fernando ; Damasceno, Júlio ; SILVA, B. ; Souza, André ; Medeiros, Robson ; ARAGAO, D. ; SOUSA, E. T. G. ; ROSA, N. S. . Towards an Approach to Design and Enforce Security in Web Service Composition. International Journal of Web Engineering and Technology, v. 7, p. 323-357, 2012.
+
+27.
+SILVA, B. ; CALLOU, G. R. A. ; TAVARES, E. A. G. ; Figuerêdo, Jair ; SOUSA, E. T. G. ; ARAUJO, C. J. M. ; MAGNANI, F. S. ; Neves, Francisco . ASTRO: An Integrated Environment for Dependability and Sustainability Evaluation. Journal Sustainable Computing, Informatics and Systems., v. 1, p. 1-8, 2012.
+
+28.
+ARAUJO, C. ; MACIEL, P. R. M. ; Zimmermann, A. ; ANDRADE, E. ; SOUSA, E. T. G. ; CALLOU, G. R. A. ; Cunha, P. R. F. . Performability Modeling of Electronic Funds Transfer Systems. Computing (Wien. Print), v. 91, p. 1-17, 2010.
+
+29.
+MARWAH, M ; MACIEL, P. R. M. ; SHAH, A ; Sharma, R. K. ; Christian T. ; Almeida V. ; ARAUJO, C. ; SOUSA, E. T. G. ; CALLOU, G. R. A. ; SILVA, B. ; GALDINO, S. M. L. ; Pires, J. P. . Quantifying the sustainability impact of data center availability. Performance Evaluation Review, v. 37, p. 64-68, 2010.
+
+Livros publicados/organizados ou edições
+
+1.
+SILVA, J. S. ; Lins, Fernando ; SOUSA, E. T. G. . Metodologia para Avaliação do Consumo de Energia de Aplicações Móveis. 1. ed. Novas Edições Acadêmicas, 2018. v. 1. 96p .
+
+2.
+SOUSA, E. T. G.; Paulo Maciel ; Lins, Fernando . Avaliação de Desempenho, Dependabilidade e Custo de Nuvens Privadas. 1. ed. Novas Edições Acadêmicas, 2018. v. 1. 181p .
+
+Capítulos de livros publicados
+
+1.
+SOUSA, E. T. G.. Modeling Strategies to Improve the Dependability of Cloud Infrastructures. Dependability Engineering. 1ed.Recife: IntechOpen, 2018, v. 1, p. 1-20.
+
+2.
+MEDEIROS, R. A. ; MACIEL, A. F ; SOUSA, E. T. G. . Ambientes interativos de aprendizagem usando jogos colaborativos on-line.. In: Cláudia Puentes;Sônia Magali Souza. (Org.). Possibilidades:prática pedagógica no ensino superior. 1ed.Olinda: Baraúna, 2009, v. 1, p. 49-58.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+MELO, G. N. ; SOUSA, E. T. G. . Avaliação de Dependabilidade e Segurança em Arquiteturas Serverless-LLM através de Injeção Dinâmica de Falhas. In: 1º Simpósio de Infraestrutura Digital/Nuvem para Pesquisa, 2026, Gramado. 1º Simpósio de Infraestrutura Digital/Nuvem para Pesquisa, 2026. v. 1. p. 1-8.
+
+2.
+MELO, G. N. ; SOUSA, E. T. G. . Uma Análise Comparativa entre LLMs Proprietários e de Pesos Abertos na Injeção de Falhas de Nuvens Privadas. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2026, Praia do Forte. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2026. v. 1. p. 1-8.
+
+3.
+CARLOS MANOEL NUNES E SILVA ; SOUSA, E. T. G. . Técnica de Aprendizagem não Supervisionada para Detecção de Falhas em Computação em Nuvem. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2026, Praia do Forte. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2026. v. 1. p. 1-8.
+
+4.
+LIMA, P. R. ; SOUSA, E. T. G. ; Medeiros, Robson . Tomada de Decisão Multicritério em Nuvens Privadas para Aplicações, Considerando os Requisitos de Desempenho e Custo.. In: WPerformance - 25º Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2026, Gramado. WPerformance - 25º Workshop em Desempenho de Sistemas Computacionais e de Comunicação, 2026. v. 1. p. 1-12.
+
+5.
+Cláudio Moura ; SOUSA, E. T. G. . Uma metodologia para a avaliação de desempenho e custos do treinamento de redes neurais em ambientes de nuvem. In: WPERFORMANCE, 2024, Brasília/DF. WPERFORMANCE. Porto Alegre: Sociedade Brasileira de Computação, 2024. v. 1. p. 1-12.
+
+6.
+Alex Cunha ; CALLOU, G. R. A. ; TAVARES, Eduardo Antonio Guimaraes ; SOUSA, E. T. G. . Modelagem Hierárquica e Heterogênea para Avaliação de Disponibilidade de Aplicações Big Data na Nuvem Privada. In: 2021: ANAIS DO XX WORKSHOP EM DESEMPENHO DE SISTEMAS COMPUTACIONAIS E DE COMUNICAÇÃO, 2021, Online Event. CSBC 2021 ? Congress of the Brazilian Computer Society, 2021. v. 1. p. 1-8.
+
+7.
+LAGES, D. ; BORBA, E. ; ARAUJO, J. C. T. ; TAVARES, Eduardo Antonio Guimaraes ; SOUSA, E. T. G. . Energy Consumption Evaluation of LPWAN: A Stochastic Modeling Approach for IoT Systems. In: 2021 IEEE International Systems Conference (SysCon), 2021, Vancouver, BC, Canada. 2021 IEEE International Systems Conference (SysCon). Vancouver, BC, Canada: 2021 IEEE International Systems Conference (SysCon), 2021. v. 1. p. 1-8.
+
+8.
+VALE, K. ; SOUSA, E. T. G. ; GUIMARAES, A. ; ARAUJO, J. C. T. ; MACIEL, P. R. M. . Reliability-and-Availability Sensitivity Analysis on Convergent Network Infrastructures: Methodology and Case Study Considering Distinct Infrastrure Redundance Levels. In: IEEE SMC 2021, 2021, Melbourne. IEEE SMC 2021, 2021. v. 1. p. 1-8.
+
+9.
+SILVA, J. S. ; Lins, Fernando ; SOUSA, E. T. G. ; SUMMER, H. ; FERNANDES, C. M. . Invasive Technique for Measuring the Energy Consumption of Mobile Devices Applications in Mobile Cloud Environments. In: 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC2017), 2017, Banff. 2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC2017), 2017. v. 1. p. 1-6.
+
+10.
+GONCALVES, R. ; TAVARES, E. A. G. ; Anderson Elias Nascimento ; SOUSA, E. T. G. ; Lins, Fernando ; JÚNIOR, A. A. G. . Performability Assessment of a Government Process in the Cloud. In: 2015 IEEE International Conference on Systems, Man, and Cybernetics (SMC2015), 2015, Hong Kong. IEEE International Conference on Systems, Man, and Cybernetics. Hong Kong, 2015. v. 1. p. 1-6.
+
+11.
+SOUSA, E. T. G.; Lins, Fernando ; TAVARES, E. A. G. ; Paulo Maciel . Performance and Cost Modeling Strategy for Cloud Infrastructure Planning. In: IEEE CLOUD 2014, 2014, Alasca. IEEE Cloud. Alasca, 2014. v. 1. p. 1-8.
+
+12.
+SOUSA, E. T. G.; Edson Samuel ; Lins, Fernando ; TAVARES, E. A. G. ; MACIEL, P. R. M. . Dependability Evaluation of Virtual Learning Environments Hosted on Cloud Infrastructures. In: 2014 IEEE International Conference on Systems, Man, and Cybernetics, 2014, Califórnia. IEEE International Conference on Systems, Man, and Cybernetics. Califórnia, 2014. v. 1. p. 1-6.
+
+13.
+Anderson Elias Nascimento ; TAVARES, E. A. G. ; JÚNIOR, A. A. G. ; SOUSA, E. T. G. ; Nogueira, Bruno . Transport Mode Assessment for Inbound Logistics: A Study Based on Coffee Industry. In: 2014 IEEE International Conference on Systems, Man, and Cybernetics, 2014, Califórnia. IEEE International Conference on Systems, Man, and Cybernetics. Califórnia, 2014. v. 1. p. 1-6.
+
+14.
+BESERRA, D. ; FALCAO, F. ; Felipe Fernandes ; Alexandre Borba ; LIMA, W. ; SILVA, R. P. ; ARAUJO, J. C. T. ; SOUSA, E. T. G. . A Computação em Nuvem e os Desafios de Infraestrutura para e-Science. In: Escola Regional de Informática, SBC, 2014, Mato Grosso. Escola Regional de Informática, SBC, 2014. v. 1. p. 1-6.
+
+15.
+SOUSA, E. T. G.; MACIEL, P. R. M. ; MEDEIROS, L. ; Lins, Fernando ; TAVARES, E. A. G. ; MEDEIROS, E. . Stochastic Model Generation for Cloud Infrastructure Planning'. In: IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS, 2013, Manchester. SYSTEMS, MAN, AND CYBERNETICS, 2013. v. 1. p. 1-6.
+
+16.
+Lins, Fernando ; Medeiros, Robson ; Damasceno, Júlio ; SOUSA, E. T. G. ; ROSA, N. S. . Comparative Study of Service-based Security-aware Business Processes Automation Tools. In: IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS, 2013, Manchester. SYSTEMS, MAN, AND CYBERNETICS, 2013. v. 1. p. 1-6.
+
+17.
+BESERRA, D. ; FRANCA, M. ; MELO, C. ; SOUSA, Y. ; ROMEIRO, S. ; Andrade, Mariel ; ARAUJO, A. ; SOUSA, E. T. G. . Ambiente Virtualizado para Ensino de Programação Paralela e Computação em Cluster. In: XXXIII Congresso da Sociedade Brasileira de Computação, 2013, Alagoas. Sociedade Brasileira de Computação, 2013. v. 1. p. 1-10.
+
+18.
+MARQUES, A. ; MARINHO, M. ; SOUSA, E. T. G. ; Nogueira, Bruno ; TAVARES, E. A. G. . Development Risk Assessment in Software Projects using Dependability Models. In: The 13th IEEE International Conference on Computer and Information Technology, 2013, Sidney. CIT2013, 2013. v. 1. p. 1-8.
+
+19.
+SOUSA, E. T. G.; MACIEL, P. R. M. ; Erico Medeiros ; Débora Souza ; Lins, Fernando ; TAVARES, E. A. G. . Evaluating Eucalyptus Virtual Machine Instance Types: a Study Considering Distinct Workload Demand. In: The Third International Conference on Cloud Computing, GRIDs, and Virtualization, 2012, Nice, France. Iaria Journal, 2012. v. 1. p. 1-6.
+
+20.
+Erico Medeiros ; SOUSA, E. T. G. ; TAVARES, E. A. G. ; MACIEL, P. R. M. . Performance evaluation of file compression in the cloud: a study based on Eucalyptus platform. In: Congresso da Sociedade Brasileira de Computação, 2012, Curitiba. IEEE Systems, Man, and Cybernetics Society, 2012. v. 1. p. 1-8.
+
+21.
+SOUSA, E. T. G.; MACIEL, P. R. M. ; Débora Souza ; Erico Medeiros ; Lins, Fernando ; TAVARES, E. A. G. . Capacity Planning of EFT Service Hosted on Elastic IaaS. In: IEEE International Conference on Systems, Man, and Cybernetics, 2012, Seoul. IEEE International Conference on Systems, Man and Cybernetics, 2012. v. 1. p. 1-6.
+
+22.
+BARROS, L. ; MACIEL, P. R. M. ; SOUSA, E. T. G. ; MASSA, R. ; TAVARES, E. A. G. . A Performance Comparison of Public Cloud Storage Services. In: IEEE International Conference on Systems, Man, and Cybernetics, 2012, Seoul. IEEE International Conference on Systems, Man, and Cybernetics, 2012. v. 1. p. 1-6.
+
+23.
+TAVARES, E. A. G. ; MACIEL, P. R. M. ; SOUSA, E. T. G. ; BARROS, L. ; LIRA, V. . A Hierarchical Pre-runtime Scheduling for Hard Real-Time Systems Considering Fault-Tolerance. In: IEEE International Conference on Systems, Man, and Cybernetics, 2012, Seoul. IEEE International Conference on Systems, Man and Cybernetics, 2012. v. 1. p. 1-6.
+
+24.
+CALLOU, G. R. A. ; SOUSA, E. T. G. ; MACIEL, P. R. M. ; TAVARES, E. A. G. ; SILVA, B. ; Figuerêdo, Jair ; ARAUJO, C. J. M. ; MAGNANI, F. S. ; Neves, Francisco . A Formal Approach to the Quantiﬁcation of Sustainability and Dependability Metrics on Data Center Infrastructures. In: Symposium on Theory of Modeling and Simulation, 2011. Symposium on Theory of Modeling and Simulation, 2011, 2011. v. 1. p. 1-8.
+
+25.
+CALLOU, G. R. A. ; MACIEL, P. R. M. ; MAGNANI, F. S. ; Figuerêdo, Jair ; SOUSA, E. T. G. ; TAVARES, E. A. G. ; SILVA, B. ; Neves, Francisco ; ARAUJO, C. J. M. . Estimating sustainability impact, total cost of ownership and dependability metrics on data center infrastructures. In: IEEE International Symposium on Sustainable Systems and Technology, 2011. Proceedings of the 2011 IEEE International Symposium on Sustainable Systems and Technology, 2011. v. 1. p. 1-6.
+
+26.
+Figuerêdo, Jair ; MACIEL, P. R. M. ; CALLOU, G. R. A. ; TAVARES, E. A. G. ; SOUSA, E. T. G. ; SILVA, B. . Estimating Reliability Importance and Total Cost of Acquisition for Data Center Power Infrastructures. In: Systems, Man, and Cybernetics (SMC), 2011. IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2011. v. 1. p. 421-426.
+
+27.
+CALLOU, G. R. A. ; SOUSA, E. T. G. . Sustainability and Dependability Evaluation on Data Center Architectures.. In: International Conference on Systems, Man, and Cybernetics, 2011,, 2011. IEEE International Conference on Systems, Man, and Cybernetics, 2011, Anchorage., 2011. v. 1. p. 1-6.
+
+28.
+MARINHO, M. ; MACIEL, P. R. M. ; SOUSA, E. T. G. ; Maciel, T. ; ANDRADE, E. C. . Performance Evaluation Model For Test Process.. In: Latin-American Test Workshop, 2010, Punta del Este, Uruguay. IEEE Computer Society. Punta del Este, Uruguay: IEEE Computer Society, 2010. v. 1. p. 1-6.
+
+29.
+MARINHO, M. ; Paulo Maciel ; SOUSA, E. T. G. ; Maciel, T. ; ANDRADE, E. C. . Performance Evaluation of Test Process Based on Stochastic Models. In: The Symposium on Theory of Modeling and Simulation, 2010, Orlando, FL, USA. Symposium On Theory of Modeling and Simulation. San Diego, CA: The Society for Modeling and Simulation International, 2010. v. 1. p. 1-6.
+
+30.
+MARINHO, M. ; MACIEL, P. R. M. ; SOUSA, E. T. G. ; Maciel, T. . Stochastic Model for Performace Evaluation of Test Planning.. In: IEEE International Conference on Systems, Man, and Cybernetics, 2010, Turquia. IEEE Transactions on Systems, Man, and Cybernetics, 2010. v. 1. p. 1-8.
+
+31.
+CALLOU, G. R. A. ; SOUSA, E. T. G. ; MACIEL, P. R. M. ; TAVARES, E. A. G. ; ARAUJO, C. J. M. ; SILVA, B. ; ROSA, N. S. ; MAGNANI, F. S. ; MARWAH, M ; Sharma, R. K. ; SHAH, A ; Christian T. ; Pires, J. P. . Impact Analysis of Maintenance Policies on Data Center Power Infrastructure.. In: IEEE International Conference on Systems, Man, and Cybernetics, 2010, Istanbul,Turkey. IEEE Transactions on Systems, Man, and Cybernetics, 2010. v. 1. p. 1-8.
+
+32.
+SILVA, B. ; MACIEL, P. R. M. ; TAVARES, E. A. G. ; ARAUJO, C. J. M. ; CALLOU, G. R. A. ; SOUSA, E. T. G. ; MARWAH, M ; Sharma, R. K. ; Christian T. ; Pires, J. P. . ASTRO: A Tool for Dependability Evaluation of Data Center Infrastructures.. In: IEEE Conference on Systems, Man and Cybernetics, 2010, Istanbul,Turkey. IEEE Transactions on Systems, Man, and Cybernetics, 2010. v. 1. p. 1-8.
+
+33.
+ SOUSA, E. T. G.; MACIEL, P. R. M. ; ARAUJO, C. J. M. ; Chicout, F. C. M. . Performability evaluation of EFT systems for SLA assurance. In: IPDPS, 2009, Roma. Proceedings of the 2009 IEEE International Symposium on Parallel&Distributed Processing. Washington, DC, USA: IEEE Computer Society, 2009. p. 1-8.
+
+34.
+ ARAUJO, C. J. M. ; SOUSA, E. T. G. ; MACIEL, P. R. M. ; Chicout, F. C. M. ; ANDRADE, E. C. . Performance Modeling for Evaluation and Planning of Electronic Funds Transfer Systems with Bursty Arrival Traffic. In: 2009 First International Conference on Intensive Applications and Services, 2009, Valencia. 2009 First International Conference on Intensive Applications and Services. Los Alamitos, CA, USA: IEEE Computer Society, 2009. v. 0. p. 65-70.
+
+35.
+ SOUSA, E. T. G.; MACIEL, P. R. M. ; ARAUJO, C. J. M. ; JÚNIOR, A. A. G. ; Chicout, F. C. M. . Performance modeling for evaluation and planning of Electronic Funds Transfer Systems.. In: ISCC, 2009, Sousse, Tunisia. Proceedings of the 14th IEEE Symposium on Computers and Communications, 2009. v. 0. p. 73-76.
+
+36.
+ MARWAH, M ; MACIEL, P. R. M. ; SHAH, A ; Sharma, R. K. ; Christian T. ; Almeida V. ; ARAUJO, C. J. M. ; SOUSA, E. T. G. ; CALLOU, G. R. A. ; SILVA, B. ; GALDINO, S. M. L. ; Pires, J. P. . Quantifying the Sustainability Impact of Data Center Availability. In: SIGMETRICS/Performance 2009 - GreenMetrics 2009 Workshop, 2009, SEATTLE, WA. Performance Evaluation Review, 2009.
+
+37.
+ SOUSA, E. T. G.; MACIEL, P. R. M. ; ARAUJO, C. J. M. . Performability Evaluation of EFT Systems using Expolinomial Stochastic Models. In: 2009 IEEE International Conference on Systems, Man, and Cybernetics, 2009, San Antonio, Texas, USA. IEEE Transactions on Systems, Man, and Cybernetics, 2009.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+SILVA, L. M. P. ; AGUIAR, M. C. A. ; SOUSA, E. T. G. . DIAGNÓSTICO DO USO DE TABLETS POR ALUNOS DO ENSINO MÉDIO DE UMA ESCOLA ESTADUAL DA REGIÃO METROPOLITANA DO RECIFE, PE. In: XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013, Recife. XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013.
+
+2.
+EGYPTO, I. ; SOUSA, E. T. G. ; Lins, Fernando . Avaliação de Ambientes Virtuais de Aprendizagem na Nuvem. In: XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013, Recife. XIII Jornada de Ensino, Pesquisa e Extensão da UFRPE, 2013.
+
+3.
+SABOIA, I. ; SILVA, N. F. ; LIMA, P. M. S. ; SILVA, F. A. G. ; SOUSA, E. T. G. . UM RECURSO DIDÁTICO FACILATADOR PARA O ENSINO DE ANATOMIA NO ENSINO MÉDIO. In: http://www.eventosufrpe.com.br/2013/, 2013, Recife. http://www.eventosufrpe.com.br/2013/, 2013.
+
+4.
+ADONIAS, ; BESERRA, D. ; SOUTO, S. ; FALCAO, F. ; SOUSA, E. T. G. . INFRAESTRUTURA COMO UM SERVÇO PARA E-SCIENCE. In: JORNADA DE ENSINO, PESQUISA E EXTENSÃO, 2011, Garanhuns. XI JORNADA DE ENSINO, PESQUISA E EXTENSÃO ? JEPEX 2011, 2011. p. 1-3.
+
+5.
+SOUSA, Y. ; FRANCA, M. ; Silva, E. ; TENORIO, J. ; SILVA, C. ; SOUSA, E. T. G. . REDES MESH: CONCEITOS E APLICAÇÕES. In: JORNADA DE ENSINO, PESQUISA E EXTENSÃO, 2011, Garanhuns. XI JORNADA DE ENSINO, PESQUISA E EXTENSÃO ? JEPEX 2011, 2011. p. 1-3.
+
+6.
+SILVA, C. ; Vasconcelos, J. ; SOUSA, E. T. G. ; SOUSA, Y. ; FRANCA, M. . A COMPUTAÇÃO EM NUVEM E O PROVIMENTO DE SERVIÇO JUST-IN-TIME. In: JORNADA DE ENSINO, PESQUISA E EXTENSÃO, 2011, Garanhuns. XI JORNADA DE ENSINO, PESQUISA E EXTENSÃO ? JEPEX 2011, 2011. p. 1-3.
+
+Resumos publicados em anais de congressos
+
+1.
+Cláudio Moura ; SOUSA, E. T. G. . Injeção de Falhas para Geração de Dados para Previsão de Falhas em Ambientes de Nuvens. In: XXII Jornada de Ensino, Pesquisa, Extensão da UFRPE, 2023, Recife. XXII Jornada de Ensino, Pesquisa, Extensão da UFRPE, 2023. v. 1. p. 1-1.
+
+2.
+AMORIM, T. ; SOUSA, E. T. G. . PESQUISA E ANÁLISE DO NÍVEL DE SEGURANÇA UTILIZADO POR USUÁRIOS DE SMARTPHONE. In: Jornada de Ensino, Pesquisa e Extensão - JEPEX, 2018, Recife. Jornada de Ensino, Pesquisa e Extensão - JEPEX. Recife: UFRPE, 2018. v. 1. p. 1-1.
+
+3.
+SILVA, I. J. ; SOUSA, E. T. G. . Análise de Desempenho e Dependabilidade de Aplicações Big Data em Nuvem Computacional. In: Jepex 2017, 2017, Recife. Jepex 2017, 2017.
+
+4.
+guilherme silva ; SOUSA, E. T. G. . Avaliação de Desempenho de Aplicações Big Data em Infraestruturas de Nuvem. In: Jepex, 2016, Recife. Jepex, 2016.
+
+5.
+LIMA, J. F. P. ; SOUZA, T. V. M. ; INÊS ALVES LIMA DE OLIVEIRA, ; SANTANA, N. A. ; SOUSA, E. T. G. . AVALIAÇÃO DE DESEMPENHO DE INFRAESTRUTURAS DE NUVENS COMPUTACIONAIS. In: XIV Jornada de Ensino, Pesquisa e Extensão, 2014, Recife. XIV Jornada de Ensino, Pesquisa e Extensão, 2014.
+
+6.
+INÊS ALVES LIMA DE OLIVEIRA, ; SOUSA, E. T. G. ; Lins, Fernando . COMPUTAÇÃO EM NUVEM MÓVEL: CONCEITOS E TENDÊNCIAS. In: XIV Jornada de Ensino, Pesquisa e Extensão, 2014, Recife. XIV Jornada de Ensino, Pesquisa e Extensão, 2014.
+
+7.
+SILVA, N. F. ; LIMA, P. M. S. ; SOUSA, E. T. G. . UTILIZANDO PROGRAMAS COMPUTACIONAIS ASSOCIADOS AO ENSINO DA BIOLOGIA. In: XIV Jornada de Ensino, Pesquisa e Extensão, 2014, Recife. XIV Jornada de Ensino, Pesquisa e Extensão, 2014.
+
+8.
+EGYPTO, I. ; Lins, Fernando ; SOUSA, E. T. G. . ESTRATÉGIA PARA AVALIAÇÃO DE DESEMPENHO E DEPENDABILIDADE DA INFRAESTRUTURA DE COMPUTAÇÃO EM NUVEM NA GERAÇÃO AUTOMÁTICA DE MODELOS ESTOCÁSTICOS. In: XIV Jornada de Ensino, Pesquisa e Extensão, 2014, Recife. XIV Jornada de Ensino, Pesquisa e Extensão, 2014.
+
+9.
+MEDEIROS, E. ; TAVARES, E. A. G. ; SOUSA, E. T. G. . GERADOR DE CARGA SINTÉTICA PARA AVALIAÇÃO DE DESEMPENHOE DEPENDABILIDADEDA INFRAESTRUTURADA CLOUDCOMPUTING. In: XX Conic, 2012, Recife. XX Conic, 2012. v. 1. p. 1-1.
+
+Artigos aceitos para publicação
+
+1.
+Cláudio Moura ; SOUSA, E. T. G. . FIFC Uma Ferramenta de Injeção de Falhas em Ambientes de Nuvens. REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC, 2025.
+
+Apresentações de Trabalho
+
+1.
+SOUSA, E. T. G.. Cloud Computing. 2010. (Apresentação de Trabalho/Seminário).
+
+2.
+SOUSA, E. T. G.; MACIEL, P. R. M. ; ARAUJO, C. J. M. . Performability Evaluation of EFT Systems for SLA Assurance. 2009. (Apresentação de Trabalho/Simpósio).
+
+Demais tipos de produção técnica
+
+1.
+SOUSA, E. T. G.. Gestão de Tecnologia da Informação. 2011. (Curso de curta duração ministrado/Extensão).
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+DANTAS, J.; TAVARES, E. A. G.; SOUSA, E. T. G.. Participação em banca de Fillipe Celestino Dias Souza. Modelagem Estocástica para Estimativa de Consumo de Energia, Desempenho e Disponibilidade em Sistemas de Armazenamento Baseados em NoSQL. 2025. Dissertação (Mestrado em Bacharelado em Ciência da Computação) - Centro de Informática.
+
+2.
+CALLOU, G. R. A.; ARAUJO, C.; SOUSA, E. T. G.. Participação em banca de Wenderson de Souza Leonardo. Modelos para avaliação de desempenho e disponibilidade de serviços hospedados em nuvens privadas. 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+3.
+SOUSA, E. T. G.; TAVARES, Eduardo Antonio Guimaraes. Participação em banca de Fúlvio Mybbson Carneiro Falcão. ?CONSUMO DE ENERGIA E AVALIAÇÃO DE DESEMPENHO DE SGBDS NOSQL MULTIMODELOS. 2024. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da UFPE.
+
+4.
+SOUSA, E. T. G.; Lins, Fernando; GUIMARAES, A.. Participação em banca de Alex Cordeiro Cunha. AVALIAÇÃO DE DEPENDABILIDADE DE AMBIENTES DE NUVENS PRIVADAS BASEADA EM CLASSIFICAÇÃO DE BUGS E INJEÇÃO DE FALHAS. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+5.
+OLIVEIRA JUNIOR, C. F.; ROSA, N. S.; SOUSA, E. T. G.. Participação em banca de Leandro Costa da Silva. COSTA - Uma Solução Adaptativa Ciente de Custo para Migração de Aplicações entre Provedores de Nuvem. 2023 - Associação de Docentes da UFPEciação de Docentes da UFPE.
+
+6.
+Roberta Macedo Marques Gouveia; SOUSA, E. T. G.; JÚNIOR, A. A. G.. Participação em banca de JOSÉ DIOGO ANDRÉ DE SOUSA. MODELAGEM E SIMULAÇÃO DA PROGRESSÃO ESTUDANTIL NO ENSINO SUPERIOR UTILIZANDO SISTEMAS DE EVENTO DISCRETO PARA O PLANEJAMENTO DE CAPACIDADE. 2023 - Universidade Federal Rural de Pernambuco.
+
+7.
+VALE, K.; TAVARES, Eduardo Antonio Guimaraes; SOUSA, E. T. G.. Participação em banca de JOSÉ CARLOS DOS SANTOS. APRENDIZADO DE MÁQUINA APLICADO À PREDIÇÃO DE FALHAS DE SOFTWARE NA COMPUTAÇÃO EM NUVEM. 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+8.
+MACIEL, P. R. M.; Carlos Alexandre Silva de Melo; SOUSA, E. T. G.. Participação em banca de Danilo Augusto Menezes Clemente. Modelagem hierárquica da disponibilidade de serviços hospedados em Centro de Dados. 2022. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da UFPE.
+
+9.
+LINS, F. A. A.; Medeiros, Robson; DINIZ, J.; SOUSA, E. T. G.. Participação em banca de EDUARDO FERREIRA FELIX. AVALIAÇÃO DE CONFORMIDADE DE REQUISITOS DE SEGURANÇA CRIPTOGRÁFICA EM GATEWAYS IOT. 2022. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+10.
+SOUSA, E. T. G.; Lins, Fernando; Medeiros, Robson. Participação em banca de TARCÍSIO JOSÉ ROLIM FILHO. AVALIAÇÃO DE DESEMPENHO, DISPONIBILIDADE E PERFORMABILIDADE DE AMBIENTES BIG DATA NA NUVEM PRIVADA. 2022. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+11.
+CALLOU, G. R. A.; SOUSA, E. T. G.; ARAUJO, J. C. T.. Participação em banca de FELIPE FERNANDES DE LIMA MELO. ANÁLISE DE INFRAESTRUTURAS ELÉTRICAS DE DATA CENTERS: UMA ESTRATÉGIA BASEADA EM MODELOS, POLÍTICAS DE MANUTENÇÃO E PLANEJAMENTO DE EXPERIMENTOS. 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+12.
+SOUSA, E. T. G.; MACIEL, P. R. M.; Lins, Fernando; TAVARES, Eduardo Antonio Guimaraes. Participação em banca de Rajeev R. Yadav. MODELOS PARA AVALIAÇÃO DE DESEMPENHO E CUSTO DE AMBIENTES BIG DATA EM INFRAESTRUTURAS DE NUVENS PRIVADAS. 2019. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+13.
+José Augusto Suruagy Monteiro; LIMA, R. M. F.; SOUSA, E. T. G.. Participação em banca de Thays Melo de Moraes. Avaliação de Desempenho de Protocolos de Comunicação para Aplicações IoT. 2019. Dissertação (Mestrado em Bacharelado em Ciência da Computação) - Centro de Informática.
+
+14.
+CALLOU, G. R. A.; Sérgio Galdino; SOUSA, E. T. G.. Participação em banca de Márcio Sérgio Soares Austragésiolo. Uma Estratégia Baseada em Modelo e Algoritmo Genético para Otimizar Arquiteturas de Data Centers. 2018. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+15.
+MACIEL, P. R. M.; TAVARES, E. A. G.; SOUSA, E. T. G.. Participação em banca de Eric Rodrigues Borba. Modelagem de Desempenho e Disponibilidade para Sistemas de Armazenamento Híbridos. 2017. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da UFPE.
+
+16.
+Alexandre Cabral Mota; SOUSA, E. T. G.; TAVARES, E. A. G.. Participação em banca de Charles Bezerra Moreira. Avaliação de Qualidade de Experiência e Consumo de Energia em Transmissão Adaptativa de Vídeos em Dispositivos Móveis. 2016 - Centro de Informática da UFPE.
+
+17.
+Lins, Fernando; ROSA, N. S.; Ricardo Souza; SOUSA, E. T. G.. Participação em banca de Klever Regis Pires Cavalcanti. Uma Solução Integrada Para a Melhoria da Segurança de Dispositivos Móveis Baseada na Plataforma Android. 2016. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+18.
+DIAS, K. L.; SOUSA, E. T. G.; Paulo Maciel. Participação em banca de Eliomar Gomes Campos. Stochastic modeling of scalable composite web service on private cloud for supporting performance tuning. 2015. Dissertação (Mestrado em Ciência da Computação) - Centro de Informática da UFPE.
+
+Teses de doutorado
+
+1.
+ROSA, N. S.; Renato Mariz de Moraes; Luiz Affonso Henderson Guedes de Oliveira; André Brinkmann; SOUSA, E. T. G.. Participação em banca de Eric Rodrigues Borba. STOCHASTIC MODELING OF DATA STORAGE SYSTEMS FOR EVALUATING PERFORMANCE, DEPENDABILITY, AND ENERGY CONSUMPTION. 2023. Tese (Doutorado em Ciências da Computação) - Centro de Informática da UFPE.
+
+2.
+MACIEL, P. R. M.; Ricardo José Paiva de Brito Salgueiro; SOUSA, E. T. G.; Sérgio Murilo Maciel Fernandes. Participação em banca de Lubnnia Morais Florêncio de Souza. Avaliação de Atributos de Dependabilidade e Sustentabilidade em Sistemas de Refrigeração de Data Centers. 2023. Tese (Doutorado em Engenharia de Computação) - Universidade de Pernambuco.
+
+3.
+SANTOS, M.; KAMIENSKI, C. A.; SOUSA, E. T. G.; DOMINGUES, M. A. O.; LIMA, R. M. F.. Participação em banca de Rafael Roque de Souza. Um Framework Inteligente para Escalonamento de VNFs em Centro de Dados. 2020. Tese (Doutorado em Ciências da Computação) - Centro de Informática da UFPE.
+
+4.
+SOUSA, E. T. G.; Fernanda Maria Ribeiro de Alencar; RODRIGUES, M. A. B.; MELO, G. N.. Participação em banca de KÁDNA MARIA ALVES CAMBOIM VALE. Analysis of Dependability and Sustainability Requirements to Support the Deployment of Dense Data Center Architectures. 2020. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Pernambuco.
+
+5.
+Cunha, P. R. F.; SOUZA, J. N.; MACIEL, P. R. M.; ROSA, N. S.; SOUSA, E. T. G.. Participação em banca de Victor Antônio Ribeiro de Lira Cavalcanti. Uma Estratégia Integrada para Alocação de Redes Virtuais de Computadores Considerando Disponibilidade e Consumo de Energia. 2018. Tese (Doutorado em Bacharelado em Ciência da Computação) - Centro de Informática.
+
+6.
+LIMA, R. M. F.; SADOK, D. F. H.; LOUREIRO, A. A. F.; BARROSO, G. C.; SOUSA, E. T. G.. Participação em banca de Rosangela Maria de Melo. ANÁLISE DE SENSIBILIDADE APLICADAS À IDENTIFICAÇÃO DE PONTOS QUE REQUEREM MELHORIA NA DISPONIBILIDADE EM INFRAESTRURA DE CLOUD. 2017. Tese (Doutorado em Ciências da Computação) - Centro de Informática da UFPE.
+
+Qualificações de Doutorado
+
+1.
+Sergio Murilo; Fernanda Maria Ribeiro de Alencar; SOUSA, E. T. G.; Ricardo Salgueiro. Participação em banca de Lubnnia Morais Florêncio de Souza. Avaliação de Atributos de Dependabilidade e Sustentabilidade em Sistemas de Refrigeração de Data Centers. 2021. Exame de qualificação (Doutorando em Engenharia de Computação) - Universidade de Pernambuco.
+
+2.
+MACIEL, P. R. M.; ROSA, N. S.; SOUSA, E. T. G.. Participação em banca de Victor Antônio Ribeiro de Lira Cavalcanti. UMA ABORDAGEM ENERGETICAMENTE EFICIENTE PARA MAPEAMENTO DE REDES VIRTUAIS CONFIÁVEIS DE COMPUTADORES. 2017. Exame de qualificação (Doutorando em Ciências da Computação) - Centro de Informática da UFPE.
+
+3.
+DIAS, K. L.; DOMINGUES, M.; SOUSA, E. T. G.. Participação em banca de Rafael Roque de Souza. COMPUTAÇÃO EVOLUCIONÁRIA COM TOLERÂNCIA A FALHAs E EFICIÊNCIA ENERGÉTICA PARA NFV DATA CENTER. 2017 - Centro de Informática.
+
+Monografias de cursos de aperfeiçoamento/especialização
+
+1.
+Lins, Fernando; SOUSA, E. T. G.; Ferreira, Jeneffer. Participação em banca de Rosemary Arcanjo de Queiroz. Blog: um caminho pedagógico para o desenvolvimento de habilidades na produção escrita. 2011. Monografia (Aperfeiçoamento/Especialização em Formação continuada em mídias na educação) - Universidade Federal Rural de Pernambuco.
+
+2.
+Lins, Fernando; SOUSA, E. T. G.. Participação em banca de Lení de Souza Pessoa. AMBIENTES VIRTUAIS DE APRENDIZAGEM: CONCEITOS E. 2011. Monografia (Aperfeiçoamento/Especialização em Formação continuada em mídias na educação) - Universidade Federal Rural de Pernambuco.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+SOUSA, E. T. G.; Medeiros, Robson. Participação em banca de JOÃO VICTOR GALDINO FERREIRA SILVA.COMPARAÇÃO DE CUSTO E PERFORMANCE ENTRE POSTGRESQL COM RAILWAY, MONGODB ATLAS E MYSQL COM PLANETSCALE EM ARQUITETURAS SERVERLESS EM COLD START. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+2.
+SOUSA, E. T. G.; CALLOU, G. R. A.. Participação em banca de RODEMARCK MELO DOS SANTOS JÚNIOR.AVALIAÇÃO DA PERFORMABILIDADE DO SISTEMA FERROVIÁRIO DA REGIÃO DO RECIFE. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+3.
+Medeiros, Robson; SOUSA, E. T. G.. Participação em banca de Edilson Alves de Andrade Júnior.Uma Análise do Impacto das Linguagens de Programação nos Custos de Execução no AWS Lambda em Cenários de Cold Start e Warm Start. 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+4.
+SOUSA, E. T. G.; LINS, F. A. A.. Participação em banca de Emerson Ferreira.Uma Revisão Sistemática sobre Avaliação do Consumo de Energia em Nuvem das Coisas. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+5.
+ARAUJO, D.; ARAUJO, C.; SOUSA, E. T. G.. Participação em banca de Jorge Candeias do Nascimento.Projeto Integrado de Redes Ópticas de Longa Distância e Metropolitanas usando Algoritmos de Inteligência Computacional: um estudo de caso para o estado de Pernambuco. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+6.
+Lins, Fernando; NOBREGA, O.; SOUSA, E. T. G.. Participação em banca de Victor Alexandre de Oliveira Silva.Uma Metodologia para Modelagem de Ameaças de Segurança em Ambientes Baseados na Internet das Coisas. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+7.
+Andrino Coêlho; SOUSA, E. T. G.; Paulo Melo. Participação em banca de Jozenóbio de Melo Brasil.SPAM: Mensurando os prejuízos. 2010. Trabalho de Conclusão de Curso (Graduação em Ciências da Computação) - Faculdade dos Guararapes.
+
+8.
+Henrique Vila Nova Junior; Mário da Silva Gomes Junior; SOUSA, E. T. G.. Participação em banca de Diego Cordeiro Rocha.Uma proposta de política de segurança para as redes 802.11. 2010. Trabalho de Conclusão de Curso (Graduação em Ciências da Computação) - Faculdade dos Guararapes.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+SOUSA, E. T. G.; BARBOSA, F.; TAVARES, E. A. G.. Concurso para Professor Assistente I UFRPE/UAG. 2013. Universidade Federal Rural de Pernambuco.
+
+2.
+BUARQUE, T.; SOUSA, E. T. G.. Concurso para Professor Assistente I UFRPE/UAG. 2013. Universidade Federal Rural de Pernambuco.
+
+3.
+DINIZ, J.; SOUSA, E. T. G.; DOMINGUES, M.. Concurso para Professor Assistente I. 2013. Universidade Federal Rural de Pernambuco.
+
+4.
+ADELINA, M.; SOUSA, E. T. G.; Nogueira, Bruno. Concurso para Professor Assistente I /UPE Garanhuns. 2012. Universidade de Pernambuco.
+
+Outras participações
+
+1.
+SOUSA, E. T. G.. Technical Committee of 14th Latin-American Symposium on Dependable and Secure Computing. 2025.
+
+2.
+SOUSA, E. T. G.. Processo seletivo do edital nº 002/2023 do Programa Institucional de Bolsa de Extensão - PIBEX/UFAPE. 2024. Universidade Federal do Agreste de Pernambuco.
+
+3.
+SOUSA, E. T. G.. Comissão de Avaliação do PIBITI 2024/2025. 2024. Universidade Federal Rural de Pernambuco.
+
+4.
+SOUSA, E. T. G.. Technical Program Committee in 3rd International Conference on Computer Applications Technology (CCAT). 2024. 3rd International Conference on Computer Applications Technology (CCAT).
+
+5.
+SOUSA, E. T. G.. 2025 The 8th International Conference on Information and Computer Technologies ICICT 2025. 2024. 2025 The 8th International Conference on Information and Computer Technolo.
+
+6.
+SOUSA, E. T. G.. 2024 14th International Conference on Software Technology and Engineering. 2024. 14th International Conference on Software Technology and Engineering.
+
+7.
+SOUSA, E. T. G.. Comissão para Seleção 2025.1 de novos alunos do PPGIA .. 2024. Universidade Federal Rural de Pernambuco.
+
+8.
+SOUSA, E. T. G.. Comissão para Seleção 2024.1 de novos alunos do PPGIA. 2024. Universidade Federal Rural de Pernambuco.
+
+9.
+SOUSA, E. T. G.. Journal of Reliable Intelligent Environments. 2024. Springer.
+
+10.
+SOUSA, E. T. G.. Journal of Cloud Computing. 2024. Springer.
+
+11.
+SOUSA, E. T. G.. Comissão de Julgamento em Inovação nos projetos do Edital 10/2023 - Apoio à Popularização da Ciência na Semana Nacional de Ciência e Tecnologia. 2024. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+12.
+SOUSA, E. T. G.. PIBITI 2022/2023. 2023.
+
+13.
+SOUSA, E. T. G.. PIBIC 2022/2023. 2023. Universidade Federal Rural de Pernambuco.
+
+14.
+SOUSA, E. T. G.. Edital 10/2023 - Apoio à Popularização da Ciência na Semana Nacional de Ciência e Tecnologia. 2023. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+15.
+SOUSA, E. T. G.. 2023 13th International Conference on Software Technology and Engineering (ICSTE 2023). 2023. International Conference on Software Technology and Engineering.
+
+16.
+SOUSA, E. T. G.. Avaliador(a) dos Relatórios (Parciais) do Programa Institucional de Bolsas de Iniciação Científica (PIBIC 2023- 2024) e Programa de Iniciação Científica Voluntária (PIC 2023-2024) do(a) Departamento de Computação.. 2023. Universidade Federal Rural de Pernambuco.
+
+17.
+SOUSA, E. T. G.. Comissão de Seleção para a turma 2023.1. 2023. Universidade Federal Rural de Pernambuco.
+
+18.
+SOUSA, E. T. G.. Comissão de Avaliação do PIBITI 2023/2024. 2023. Universidade Federal Rural de Pernambuco.
+
+19.
+SOUSA, E. T. G.. Comissão de Julgamento em Inovação nos projetos do Edital 10/2023 - Apoio à Popularização da Ciência na Semana Nacional de Ciência e Tecnologia. 2023. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+20.
+SOUSA, E. T. G.. Avaliação de projetos Centelha/PE (Fase 1, 2 e 3). 2022. Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco.
+
+21.
+SOUSA, E. T. G.. Avaliador(a) dos Relatórios (Finais) do Programa Institucional de Bolsas de Iniciação Científica. 2022. Universidade Federal Rural de Pernambuco.
+
+22.
+SOUSA, E. T. G.. PIBIC 2021/2022. 2022. Universidade Federal Rural de Pernambuco.
+
+23.
+SOUSA, E. T. G.. Programa Institucional de Bolsas de Iniciação Científica (PIBIC 2022- 2023) e Programa de Iniciação Científica Voluntária (PIC 2022-2023) do(a) Departamento de Agronomia.. 2022. Universidade Federal Rural de Pernambuco.
+
+24.
+SOUSA, E. T. G.. Banca examinadora do processo de equivalência excepcional do aluno MARCUS VINÍCIUS FERREIRA TEIXEIRA do Curso de Bacharelado em Ciência da Computação da UFRPE ? Campus Recife. 2021. Universidade Federal Rural de Pernambuco.
+
+25.
+SOUSA, E. T. G.. Banca examinadora do processo de equivalência excepcional 23082.016570/2020-32 do aluno JOSÉ RAFAEL DE SANTANA do Curso de Bacharelado em Ciência da Computação da UFRPE ? Campus Recife. 2021. Universidade Federal Rural de Pernambuco.
+
+26.
+SOUSA, E. T. G.. PIBITI 2021/2022. 2021. Universidade Federal Rural de Pernambuco.
+
+27.
+SOUSA, E. T. G.. Avaliação de Projeto de Pesquisa. 2021. Instituto Federal Fluminense.
+
+28.
+SOUSA, E. T. G.. Planejamento de Infraestruturas de Computação em Nuvem Através de Técnicas de Avaliação de Desempenho e de Disponibilidade. 2020. Universidade Federal do Agreste de Pernambuco.
+
+29.
+SOUSA, E. T. G.. Parecerista ad hoc de Projeto de Pesquisa. 2020. Universidade Federal do Agreste de Pernambuco.
+
+30.
+SOUSA, E. T. G.. Avaliação de Projeto de Pesquisa. 2020. Instituto Federal Fluminense.
+
+31.
+SOUSA, E. T. G.. PIBITI 2020/2021. 2020. Universidade Federal Rural de Pernambuco.
+
+32.
+SOUSA, E. T. G.. ICICT 2021 (The 4th International Conference on Information and Computer Technologies | www.icict.org). 2020. The 4th International Conference on Information and Computer Technologies.
+
+33.
+SOUSA, E. T. G.. IEEE TCSVC Awards. 2020. Università degli Studi di Milano.
+
+34.
+SOUSA, E. T. G.. Avaliação de relatório parcial e apresentação oral do PIBIC/PIC 2018-2019. 2019. Universidade Federal Rural de Pernambuco.
+
+35.
+SOUSA, E. T. G.. Avaliador do ICCDA2020 &ICICT 2020. 2019.
+
+36.
+SOUSA, E. T. G.. Avaliador do IEEE International Conference on Systems, Man, and Cybernetics (SMC). 2019.
+
+37.
+SOUSA, E. T. G.. Processo de Seleção de Projetos de Pesquisa e Seleção de Estudantes bolsistas de Iniciação Científica e de Iniciação Tecnológica.. 2019. Instituto Federal de Educação, Ciência e Tecnologi.
+
+38.
+SOUSA, E. T. G.. Avaliador do Recent Patents on Computer Science. 2019.
+
+39.
+SOUSA, E. T. G.. Avaliador de artigos do CSBC 2018 - 17º WPerformance. 2018. Congresso da Sociedade Brasileira de Computação.
+
+40.
+SOUSA, E. T. G.. Comissão Julgadora de Concurso. 2018. Universidade Federal Rural de Pernambuco.
+
+41.
+SOUSA, E. T. G.. Avaliador de trabalhos. 2018.
+
+42.
+SOUSA, E. T. G.. ICCDA2019 &ICICT 2019-Technique committee. 2018.
+
+43.
+SOUSA, E. T. G.. Avaliador de artigos do Conference on Computer Science and Application Engineering (CSAE 2018). 2018.
+
+44.
+SOUSA, E. T. G.. International Conference of Computer Science and Technology (ICCST). 2018. International Conference of Computer Science and Technology.
+
+45.
+SOUSA, E. T. G.. Avaliação do relatório parcial e apresentação oral do PIBIC/PIC 2017-2018. 2018. Universidade Federal Rural de Pernambuco.
+
+46.
+SOUSA, E. T. G.. Avaliação do relatório final e apresentação oral do PIBIC/PIC 2017-2018. 2018.
+
+47.
+SOUSA, E. T. G.. Avaliação relatório e apresentação oral parcial do PIBIC/PIC 2016-2017. 2017. Universidade Federal Rural de Pernambuco.
+
+48.
+SOUSA, E. T. G.. Avaliação relatório e apresentação oral final do PIBIC/PIC 2016-2017. 2017. Universidade Federal Rural de Pernambuco.
+
+49.
+SOUSA, E. T. G.. 2nd International Conference on Compute and Data Analysis. 2017.
+
+50.
+SOUSA, E. T. G.. Comissão Julgadora de Concurso. 2017. Universidade Federal Rural de Pernambuco.
+
+51.
+SOUSA, E. T. G.. Avaliador de artigos do CBSoft 2016. 2016. VII Congresso Brasileiro de Software: Teoria e Prática -.
+
+52.
+SOUSA, E. T. G.. Comissão Julgadora de Concurso. 2016.
+
+53.
+SOUSA, E. T. G.. Avaliador de artigos do PRDC2017. 2016. IEEE.
+
+54.
+SOUSA, E. T. G.. Avaliador de Artigos do II Simpósio Brasileiro de Tecnologia da Informação (SBTI). 2014.
+
+55.
+SOUSA, E. T. G.. Comissão Julgadora de Concurso. 2014.
+
+56.
+SOUSA, E. T. G.. Avaliador de Artigos do II Simpósio Brasileiro de Tecnologia da Informação (SBTI). 2013.
+
+57.
+SOUSA, E. T. G.. Avaliador de Artigos da 3a Edição da Escola Regional de Informática de Pernambuco (ERIPE). 2013.
+
+58.
+SOUSA, E. T. G.. Avaliador de Artigos da X Encontro Anual de Computação. 2013.
+
+59.
+SOUSA, E. T. G.; Maria de Fátima Casa Nova; Victor Wanderley Costa. Processo seletivo para docente. 2010. Faculdade dos Guararapes.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+16th European Dependable Computing Conference. 2020. (Congresso).
+
+2.
+2020 IFIP INTERNET OF THINGS (IOT) VIRTUAL CONFERENCE. 2020. (Congresso).
+
+3.
+7th IEEE International Conference on Cloud Computing.Performance and Cost Modeling Strategy for Cloud Infrastructure Planning. 2014. (Outra).
+
+4.
+2013 IEEE International Conference on Systems, Man, and Cybernetics. Stochastic Model Generator for Cloud Infrastructure Planning. 2013. (Congresso).
+
+5.
+2012 IEEE International Conference on Systems, Man, and Cybernetics. Capacity Planning of EFT Service Hosted on Elastic IaaS. 2012. (Congresso).
+
+6.
+XXXII Congresso da Sociedade Brasileira de Computação. 2012. (Congresso).
+
+7.
+1° Colóquio de Ciência da Computação.Avaliação de Performabilidade na Infraestrutura de Cloud Computing. 2011. (Outra).
+
+8.
+International Parallel and Distributed Processing Symposium.Performability Evaluation of EFT Systems for SLA Assurance. 2009. (Simpósio).
+
+9.
+II Encontro de Software Livre no Cefet-PE.Ferramentas Disponíveis em Ambientes *NIX. 2008. (Encontro).
+
+
+Organização de eventos, congressos, exposições e feiras
+1.
+SOUSA, E. T. G.; VALE, K. ; Freitas, A. . 13th Latin-American Symposium on Dependable and Secure Computing, Recife - Brazil, Nov 26-29th. 2024. (Congresso).
+
+2.
+VALE, K. ; Freitas, A. ; SOUSA, E. T. G. . Latin-American Symposium on Dependable and Secure Computing (LADC). 2024. (Congresso).
+
+3.
+SOUSA, E. T. G.. Semana de Computação do Departamento de Computação da UFRPE, SECOMP. 2023. (Outro).
+
+4.
+SOUSA, E. T. G.. Semana de Computação do Departamento de Computação da UFRPE, SECOMP. 2022. (Outro).
+
+5.
+Normando, R. ; SOUSA, E. T. G. . Olimpiada Brasileira de Matemática das Escolas Públicas - OBMEP. 2011. (Outro).
+
+6.
+Normando, R. ; SOUSA, E. T. G. . Olimpiada Brasileira de Matemática das Escolas Públicas - OBMEP. 2010. (Outro).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+
+1.
+CARLOS MANOEL NUNES E SILVA. Detecção de erros em ambientes de nuvem. Início: 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+JOSE EDMILSON GOMES DA SILVA JUNIOR. Propagação de Erros em Ambientes de Nuvem. Início: 2024. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+Paulo Roberto Lima. Um framework para seleção de serviços de nuvens públicas considerando requisitos de desempenho, dependabilidade e custo. Início: 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+4.
+Gleybson Farias. Propagação de Erros em Ambientes de Nuvem. Início: 2020. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Sonael Neto. Injeção de Falhas em Ambientes de Nuvens. Início: 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+João Victor Silva de Amorim.. Detecção de Code Smell em Ambientes de Nuvens. Início: 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+Natália Assis. Detecção de erros em ambientes de nuvem. Início: 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Alagoas. (Orientador).
+
+4.
+Guilherme Duarte. .Injeção de Falhas em Ambientes de Nuvens. Início: 2024. Trabalho de Conclusão de Curso (Graduação em Licenciatura em Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+5.
+Cláurdio Márcio Filho. Uma metodologia para a avaliação de desempenho e custos do treinamento de redes neurais em ambientes de nuvem. Início: 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Iniciação científica
+
+1.
+Guilherme Duarte.. Injeção de Falhas em Ambientes de Nuvens. Início: 2024. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+Sonael Neto. . Injeção de Falhas em Ambientes de Nuvens. Início: 2024. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+João Victor Silva de Amorim. Detecção de Code Smell em Ambientes de Nuvens. Início: 2023. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+4.
+Guilherme Duarte. Injeção de Falhas em Ambientes de Nuvens. Início: 2023. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+5.
+Cláurdio Márcio Filho. Injeção de Falhas em Ambientes de Nuvens. Início: 2023. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+6.
+Cláurdio Márcio Filho. Injeção de Falhas em Ambientes de Nuvens. Início: 2022. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+José Carlos. APRENDIZADO DE MÁQUINA APLICADO À PREDIÇÃO DE FALHAS DE SOFTWARE NA COMPUTAÇÃO EM NUVEM. 2021. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Orientador: Erica Teixeira Gomes de Sousa.
+
+2.
+Alex Cordeiro Cunha. Avaliação de Disponibilidade de Aplicações Big Data em Nuvens Privadas. 2019. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Erica Teixeira Gomes de Sousa.
+
+3.
+Tarcísio Rolim. Avaliação de Performabilidade de Aplicações Big Data em Nuvens Privadas. 2018. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Erica Teixeira Gomes de Sousa.
+
+4.
+Rajeev R. Yadav. UMA ESTRATÉGIA PARA AVALIAÇÃO DE DESEMPENHO E CUSTO DE AMBIENTES BIG DATA EM INFRAESTRUTURAS DE NUVENS PRIVADAS. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: Erica Teixeira Gomes de Sousa.
+
+5.
+Vladimir Gualberto da Silva. PLANEJAMENTO DE CAPACIDADE EM NUVENS PRIVADAS EDUCACIONAIS CONSIDERANDO ASPECTOS DE DESEMPENHO E CUSTO. 2017. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Coorientador: Erica Teixeira Gomes de Sousa.
+
+6.
+Nielson Santana. Avaliação de Desempenho de Dispositivos Móveis. 2016. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Coorientador: Erica Teixeira Gomes de Sousa.
+
+7.
+Carlos Fernandes. Avaliação de Desempenho de Ambiente de Educação à Distância. 2016. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Coorientador: Erica Teixeira Gomes de Sousa.
+
+8.
+Josival dos santos silva. Avaliação do Consumo de Energia de Aplicativos em Dispositivos Móveis Baseados no Ambiente de Computação Móvel em Nuvem. 2016. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Coorientador: Erica Teixeira Gomes de Sousa.
+
+9.
+Marcelo Silva. Uma Abordagem para Avaliação de Desempenho de Serviços Web. 2015. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco, . Coorientador: Erica Teixeira Gomes de Sousa.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Cláudio Márcio Filho. Uma metodologia para a Avaliação de Desempenho e Custos do Treinamento de Redes Neurais em Ambientes de Nuvem. 2023. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Erica Teixeira Gomes de Sousa.
+
+2.
+Emerson Ferreira. Uma Revisão Sistemática sobre Avaliação do Consumo de Energia em Nuvem das Coisas. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Erica Teixeira Gomes de Sousa.
+
+3.
+Diego Cordeiro Rocha. Uma proposta de política de segurança para as redes 802.11. 2010. Trabalho de Conclusão de Curso. (Graduação em Ciências da Computação) - Faculdade dos Guararapes. Orientador: Erica Teixeira Gomes de Sousa.
+
+Iniciação científica
+
+1.
+Cláudio Márcio Filho. Injeção de Falhas para Geração de Dados para Previsão de Falhas em Ambientes de Nuvens. 2023. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Erica Teixeira Gomes de Sousa.
+
+2.
+Cláudio Márcio Filho. Injeção de Falhas para Geração de Dados para Previsão de Falhas em Ambientes de Nuvens. 2022. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Orientador: Erica Teixeira Gomes de Sousa.
+
+3.
+Isaque João da Silva. Avaliação de Desempenho e Dependabilidade de Aplicações de Big Data em Infraestruturas de Nuvens. 2017. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Erica Teixeira Gomes de Sousa.
+
+4.
+Guilherme Melo da Silva. Avaliação de Desempenho e Dependabilidade de Aplicações de Big Data em Infraestruturas de Nuvens. 2016. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Orientador: Erica Teixeira Gomes de Sousa.
+
+Orientações de outra natureza
+
+1.
+Thiago Henrique de Almeida Espinheira. Monitoria da disciplina Linguagem de programação. 2011. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Erica Teixeira Gomes de Sousa.
+
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 13:46:45
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo

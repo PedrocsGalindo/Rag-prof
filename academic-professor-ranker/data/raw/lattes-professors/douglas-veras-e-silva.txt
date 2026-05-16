@@ -1,0 +1,738 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+English
+Dados gerais Formação Atuação Projetos Produções Patentes e Registros Inovação Eventos Orientações Bancas +
+
+Douglas Véras e Silva
+Endereço para acessar este CV: http://lattes.cnpq.br/2969243668455081
+ID Lattes: 2969243668455081
+Última atualização do currículo em 17/04/2025
+
+Professor Doutor em Ciência da Computação na UFRPE, com experiência em coordenação de projetos de pesquisa científica e pesquisador na área de Inteligência Artificial, com ênfase em Sistemas de Recomendação (tema da tese de Doutorado na UFPE e publicações), também atuou como pesquisador bolsista CNPq/RHAE em parceria com a empresa Cognvox, na área de Tecnologia Assistiva. Além disso, já foi contemplado e coordenou projetos em concursos de inovação tecnológica como Inovapps (antigo Ministério das Comunicações), inclusive com desenvolvimento de soluções inovadoras, e aprovado em Editais de fomento ao empreendedorismo, como Centelha (FACEPE/FINEP) e Catalisa (SEBRAE), sendo fundador da startup FoodRec, na qual participou de programas de acerelação, como Fast Motion (SEBRAE) e Inovativa Brasil (graduada). (Texto informado pelo autor)
+
+
+Identificação
+Nome
+Douglas Véras e SilvaDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+Douglas Véras;SILVA, DOUGLAS VERAS DA;VÉRAS, DOUGLAS;VERAS, DOUGLAS;SILVA, DOUGLAS VÉRAS
+Lattes iD
+http://lattes.cnpq.br/2969243668455081
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco, Campus SEDE.
+Universidade Federal Rural de Pernambuco
+Dois Irmãos
+52171900 - Recife, PE - Brasil
+Telefone: (081) 33206491
+URL da Homepage: http://dc.ufrpe.br/
+
+
+Formação acadêmica/titulação
+2012 - 2016
+Doutorado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: CD-CARS: Cross-Domain Context-Aware Recommender Systems, Ano de obtenção: 2016.
+Orientador: Carlos Andre Guimarães Ferraz.
+Coorientador: Ricardo Bastos Cavalcante Prudêncio.
+Bolsista do(a): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco, FACEPE, Brasil.
+2010 - 2012
+Mestrado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: T-Bookmarks: Uma Solução para Aplicações Convergentes na Recupe-ração de Recursos Web em TVs Híbridas, Ano de Obtenção: 2012.
+Orientador: Carlos André Guimarães Ferraz.
+Bolsista do(a): Conselho Nacional de Desenvolvimento Científico e Tecnológico, CNPq, Brasil.
+Palavras-chave: TV Digital; TV Conectada; TV Híbrida; Sistemas Distribuídos.
+Grande área: Ciências Exatas e da Terra
+2006 - 2009
+Graduação em Ciencia da Computacao.
+Universidade Federal de Alagoas, UFAL, Brasil.
+Título: Fra-TV: Uma Aplicação em T-Learning integrada com um Framework Web.
+Orientador: Ig Ibert Bittencourt.
+
+
+
+
+Formação Complementar
+2023 - 2023
+Estratégia financeira para o crescimento. (Carga horária: 2h).
+Serviço de Apoio às Micro e Pequenas Empresas de Recife, SEBRAE/PE, Brasil.
+2023 - 2023
+PRINCIPAIS CONTRATOS DE UMA STARTUP. (Carga horária: 4h).
+Fundação CERTI, CERTI, Brasil.
+2023 - 2023
+Curso de Liderança Positiva. (Carga horária: 20h).
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+2023 - 2023
+Fast Motion. (Carga horária: 80h).
+Serviço de Apoio às Micro e Pequenas Empresas de Recife, SEBRAE/PE, Brasil.
+2023 - 2023
+Inovativa Brasil.
+Fundação CERTI, CERTI, Brasil.
+2022 - 2022
+Early Stage. (Carga horária: 32h).
+Serviço de Apoio às Micro e Pequenas Empresas de Recife, SEBRAE/PE, Brasil.
+2022 - 2022
+Software: como e por que registrar. (Carga horária: 8h).
+Instituto Nacional da Propriedade Industrial, INPI, Brasil.
+2021 - 2021
+Nivelamento em Propriedade Intelectual. (Carga horária: 20h).
+Instituto Nacional da Propriedade Industrial, INPI, Brasil.
+2021 - 2021
+Trilha - Catalisa ICT - Aprender e Estruturar. (Carga horária: 54h).
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas, SEBRAE, Brasil.
+2008 - 2008
+Linguagem de Consulta em Banco de Dados Relacional. (Carga horária: 2h).
+V Congresso Acadêmico da UFAL, UFAL, Brasil.
+2008 - 2008
+Computação Gráfica e Jogos: Rumo ao Hiperrealismo?. (Carga horária: 8h).
+VIII Escola Regional de Computação Bahia - Alagoas - Sergipe, ERBASE, Brasil.
+2008 - 2008
+Integração de Metadados e Ontologias. (Carga horária: 8h).
+VIII Escola Regional de Computação Bahia - Alagoas - Sergipe, ERBASE, Brasil.
+2008 - 2008
+Teste de Software. (Carga horária: 1h).
+V Congresso Acadêmico da UFAL, UFAL, Brasil.
+2008 - 2008
+Da Web Clássica à Web 2.0 e Web Semântica. (Carga horária: 1h).
+V Congresso Acadêmico da UFAL, UFAL, Brasil.
+2008 - 2008
+Processamento Automático de Conhecimento. (Carga horária: 1h).
+V Congresso Acadêmico da UFAL, UFAL, Brasil.
+2008 - 2008
+Desenvolvimento de Software Tolerantes a Falhas. (Carga horária: 1h).
+V Congresso Acadêmico da UFAL, UFAL, Brasil.
+2008 - 2008
+Python. (Carga horária: 14h).
+Instituto Nokia de Tecnologia, INDT, Brasil.
+2008 - 2008
+Maemo. (Carga horária: 14h).
+Instituto Nokia de Tecnologia, INDT, Brasil.
+2008 - 2008
+Robótica Livre. (Carga horária: 10h).
+VIII Escola Regional de Computação Bahia - Alagoas - Sergipe, ERBASE, Brasil.
+2007 - 2007
+Python. (Carga horária: 8h).
+Encontro Regional dos Estudantes de Computação., ERECOMP, Brasil.
+2006 - 2007
+Introdução à Orientação a Objetos - Linguagem Java. (Carga horária: 24h).
+Universidade Federal de Alagoas, UFAL, Brasil.
+
+
+Atuação Profissional
+
+Universidade de Pernambuco, UPE, Brasil.
+Vínculo institucional
+
+2013 - 2013
+Vínculo: , Enquadramento Funcional: Professor Assistente, Carga horária: 40
+
+
+Fundação de Apoio ao Desenvolvimento da Universidade Federal de Pernambuco, FADE/UFPE, Brasil.
+Vínculo institucional
+
+2011 - 2012
+Vínculo: Celetista formal, Enquadramento Funcional: Engenheiro de Software (Samsung/ TV Digital), Carga horária: 40
+
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2010 - 2012
+Vínculo: Bolsista, Enquadramento Funcional: Bolsista CNPq (Aluno de Mestrado), Carga horária: 40, Regime: Dedicação exclusiva.
+
+
+Carajás Materiais de Construção Ltda., CARAJÁS, Brasil.
+Vínculo institucional
+
+2010 - 2010
+Vínculo: Prestador de Serviços, Enquadramento Funcional: Desenvolveu um Data Warehouse para a empresa.
+
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Servidor Público, Enquadramento Funcional: Professor Associado, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Vínculo institucional
+
+2010 - 2010
+Vínculo: Tutor de Licenc. em Computação, Enquadramento Funcional: Tutor da disciplina Computador e Sociedade, Carga horária: 8
+
+Vínculo institucional
+
+2010 - 2010
+Vínculo: Tutor de Licenc. em Computação, Enquadramento Funcional: Tutor da disciplina Alg. e Estrutura de Dados, Carga horária: 8
+
+Atividades
+
+01/2024 - 12/2024
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+2023.1: INTRODUÇÃO À INFORMÁTICA, SISTEMAS OPERACIONAIS - BCC e SISTEMAS OPERACIONAIS - LC
+2024.1: SISTEMAS OPERACIONAIS - BCC e SISTEMAS OPERACIONAIS - LC
+2024.2: INTRODUÇÃO À INFORMÁTICA, SISTEMAS OPERACIONAIS - BCC e SISTEMAS OPERACIONAIS - LC
+01/2023 - 04/2024
+Direção e administração, Departamento de Computação.
+
+Cargo ou função
+Membro do CTA.
+01/2023 - 12/2023
+Ensino, Computação, Nível: Graduação
+
+Disciplinas ministradas
+2022.1: Sistemas Operacionais (BCC) e Sistemas Operacionais (LC)
+2022.2: Sistemas Operacionais (BCC) e Sistemas Operacionais (LC)
+2023.1: Sistemas Operacionais (BCC), Sistemas Operacionais (LC) e Introdução a Informática
+08/2013 - 12/2022
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Desenvolvimento de Aplicações para TV
+Introdução a Computação
+Introdução a Programação
+MÉTODOS DE EXPRESSÃO TÉCNICA E CIENTÍFICO
+Sistemas Operacionais
+Web Services
+
+Universidade Federal de Alagoas, UFAL, Brasil.
+Vínculo institucional
+
+2009 - 2009
+Vínculo: Bolsista, Enquadramento Funcional: Monitor de Engenharia de Software e BD1, Carga horária: 12
+
+
+COGNVOX TECNOLOGIA, MÉTODOS E SISTEMAS, COGNVOX, Brasil.
+Vínculo institucional
+
+2022 - 2023
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisador bolsista, Carga horária: 10
+Outras informações
+Bolsa conforme Edital CNPq/SEMPI/MCTI n 021/2021 - Programa RHAE - Linha 2 - Start-Ups.
+
+
+FoodRec, FOODREC, Brasil.
+Vínculo institucional
+
+2022 - Atual
+Vínculo: Sócio fundador, Enquadramento Funcional: Sócio fundador, Carga horária: 20
+
+
+
+Projetos de pesquisa
+2017 - 2021
+Aplicação de técnicas de sistemas de recomendação de domínio cruzado sensíveis a contexto em problemas do mundo real
+Descrição: Trabalhos realizados recentemente tem mostrado a integração de técnicas sensíveis a contexto e domínio cruzado, obtendo bons resultados em relação a precisão das recomendações no domínio alvo ao se utilizar informações de domínios fonte e informações contextuais. Entretanto, ainda existem lacunas que podem ser preenchidas nessa nova linha de pesquisa. A partir desse projeto, pretendemos alcançar: (i) a melhoria de um sistema de recomendação sensível a contexto de domínio cruzado (CD-CARS) e (ii) a criação de aplicações do mundo real utilizando suas técnicas, explorando mais informações contextuais (e.g. as condições de humor, saúde e financeiras dos usuários). Com isso, nosso objetivo principal é obter uma melhor qualidade e diversidade na recomendação de itens em um domínio alvo pertencente ao mundo real (úteis a população em geral, especialmente no estado de Pernambuco), como por exemplo, a recomendação de escolas, postos de saúde, lugares, profissionais, dentre outros..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (3) .
+
+Integrantes: Douglas Véras e Silva - Coordenador / Rafael Ferreira - Integrante.
+2015 - 2016
+Aplicação de mineração de dados educacionais para apoio a gestores e professores na identificação de perfis de escolas e alunos no Brasil
+
+Projeto certificado pelo(a) coordenador(a) Rafael Ferreira Leite de Mello em 15/04/2016.
+Descrição: Devido a grande procura por cursos a distância, a utilização de ambientes virtuais de aprendizagem tem aumentado consideravelmente a geração de dados que devem ser acompanhados pelos professores. Com isso, o acompanhamento individual dos alunos nesses ambientes é cada vez mais difícil, acarretando na falta de interesse o que implica piora do desempenho ou até mesmo a evasão do aluno. Diante disto, faz-se necessário a aplicação de técnicas computacionais para auxiliar professores nesse acompanhamento. Dentro deste contexto, desde a década passada vem se desenvolvendo técnicas de mineração de dados educacionais para extrair de forma automática informações de dados gerados em ambientes virtuais utilizados para o ensino. A proposta deste projeto de pesquisa é utilizar estas técnicas para auxiliar professores na condução de cursos a distância, reduzir o índice de evasão dos alunos e gerar perfis de estudantes e escolas a partir de dados abertos disponibilizados pelo governo federal brasileiro..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Douglas Véras e Silva - Integrante / Rafael Ferreira - Coordenador.
+2009 - 2009
+MASSAYO
+Descrição: Intelligent Tutoring Systems (ITS) are inherently complex, domain-oriented software systems which are frequently pointed out by researchers as suitable applications for the multi-agent approach. Developing and maintaining Multi-agent ITS are a hard task since it involves different stakeholders, with different expert and roles, such as developers, for developing new software features; domain experts, for managing ITS knowledge domain; authors, for customizing ITS execution for a given context; and users, which are not aware about ITS complexity and require a friendly user interface to interact with the system. Some works have been proposed to support the development of ITS, but they do not consider the stakeholders involved in the whole development and maintenance processes. In this project we present a software framework for designing, developing, and maintenance of Multi-agent ITS. This framework aims to be useful to ITS developers, domain experts, authors and users, providing a different view for each stakeholder, with different tools to support their activities. The focus here is more on developers and describe the framework architecture, design, and extension points, detailing how to customize them for specific domains..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (11) / Mestrado acadêmico: (2) / Doutorado: (2) .
+
+Integrantes: Douglas Véras e Silva - Integrante / Lucas Monteiro Braz - Integrante / Rafael Ferreira - Integrante / Diego Dermeval Medeiros - Integrante / Ig Ibert Bittencourt - Coordenador / Pedro Bispo - Integrante / Evandro Barros Costa - Integrante / Henrique Pacca - Integrante / Marlos Silva - Integrante / Heitor Barros - Integrante.
+2008 - 2008
+FORBILE
+Descrição: Intelligent Tutoring Systems (ITS) are inherently complex, domain-oriented software systems which are frequently pointed out by researchers as suitable applications for the multi-agent approach. Developing and maintaining Multi-agent ITS are a hard task since it involves different stakeholders, with different expert and roles, such as developers, for developing new software features; domain experts, for managing ITS knowledge domain; authors, for customizing ITS execution for a given context; and users, which are not aware about ITS complexity and require a friendly user interface to interact with the system. Some works have been proposed to support the development of ITS, but they do not consider the stakeholders involved in the whole development and maintenance processes. In this project we present a software framework for designing, developing, and maintenance of Multi-agent ITS. This framework aims to be useful to ITS developers, domain experts, authors and users, providing a different view for each stakeholder, with different tools to support their activities. The focus here is more on developers and describe the framework architecture, design, and extension points, detailing how to customize them for specific domains..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (8) / Doutorado: (2) .
+
+Integrantes: Douglas Véras e Silva - Integrante / Lucas Monteiro Braz - Integrante / Rafael Ferreira - Integrante / Diego Dermeval Medeiros - Integrante / Ig Ibert Bittencourt - Coordenador / Pedro Bispo - Integrante / Evandro Barros Costa - Integrante / Marlos Silva - Integrante / Heitor Barros - Integrante / Tarsis Toledo - Integrante.
+2007 - 2007
+ArCo
+Descrição: Trata-se de um arcabouço de software voltado para a construção de comunidades virtuais..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (6) / Doutorado: (1) .
+
+Integrantes: Douglas Véras e Silva - Integrante / Lucas Monteiro Braz - Integrante / Evandro Barros Costa - Coordenador / Alexsander Toledo - Integrante / Raphael Holanda - Integrante / Anderson Rocha - Integrante.
+
+
+Projetos de extensão
+2023 - 2024
+LabConEx + FoodRec: auxílio à validação de práticas de consumo e a pequenos estabelecimentos do setor de alimentos
+Situação: Concluído; Natureza: Extensão.
+
+Integrantes: Douglas Véras e Silva - Coordenador / Éder Lira de Souza Leão - Integrante.
+2016 - 2017
+Eleições 2016: Inclusão Digital a partir da TV Digital Interativa Utilizando Dados Abertos Eleitorais
+Descrição: O projeto proposto tem por objetivo principal engajar o cidadão brasileiro, eleitor e telespectador, à participação na política brasileira, no âmbito nacional e regional, através da análise e manipulação dos dados abertos e públicos sobre políticos e eleições, permitindo que o eleitor possa, a partir do desenvolvimento de uma aplicação para TV Digital: (i) acompanhar os mandatos dos políticos eleitos, através de informações tais como: gastos de diversas naturezas, frequência de participação em votações, projetos de lei propostos, notícias, entre outras; (ii) melhor escolher seus candidatos, fornecendo acesso à informações úteis na tomada de decisão antes das eleições, tais como: candidatura (nome, número, partido, coligação, idade, etc.), bens declarados, gasto e receita/financiamento de campanha, propostas, entre outras; (iii) acompanhar notícias e agenda oficiais do senado e da câmara dos deputados; e (iv) acessar diversos dados estatísticos, tais como: resultados de votações (inclusive em tempo real), pesquisas eleitorais, estatísticas de políticos, candidatos e perfil do eleitorado. Além da aplicação desenvolvida, outras aplicações relacionadas à política (disponíveis por terceiros) deverão ser incluídas no processo de inclusão social e digital difundida através de ações com comunidades da grande Recife, visando uma participação mais efetiva da sociedade nas Eleições de 2016. Assim, esperamos que o público-alvo recebe orientações relacionadas a tecnologias da informação e política, tendo como porta de entrada a TV Digital, que possui um meio mais simples e direto de interação..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) .
+
+Integrantes: Douglas Véras e Silva - Coordenador / Rafael Ferreira - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2015 - 2016
+A Olimpíada Brasileira de Informática na UFRPE ? OBI 2016
+
+Projeto certificado pelo(a) coordenador(a) Rafael Ferreira Leite de Mello em 15/04/2016.
+Descrição: A Sociedade Brasileira de Computação (SBC) realiza a XVIII Olimpíada Brasileira de Informática (OBI 2016). O objetivo da OBI é despertar nos alunos o interesse pela Ciência da Computação, que é fundamental na formação básica atual. A organização da OBI2016 está a cargo do Instituto de Computação da UNICAMP. O Departamento de Informática e Estatística (DEINFO) da UFRPE propõe a utilização da olimpíada para difundir os conceitos fundamentais de computação. Para isso DEINFO vai incentivar e apoiar a participação das escolas na OBI2016.O objetivo deste projeto é incentivar as escolas públicas e particulares para participar da OBI e prover recursos para treinamento dos alunos da escola pública..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (7) .
+
+Integrantes: Douglas Véras e Silva - Integrante / Rafael Ferreira - Coordenador / André Câmara Alves do Nascimento - Integrante / Péricles Barbosa Cunha de Miranda - Integrante / Valmir Macario Filho - Integrante.
+2015 - 2015
+Inclusão Digital a partir da TV Digital Interativa Utilizando Dados Abertos
+Descrição: Inicialmente, serão obtidas aplicações desenvolvidas por terceiros (estudantes/pesquisadores da UFRPE e demais instituições de ensino, além de aplicações disponíveis em portais de aplicativos para TVD: CPqD, ClubeNCL, etc.), voltadas para a inclusão digital, ou seja, aplicações simples e intuitivas que tragam serviços básicos à comunidade, como por exemplo: cursos (educação); marcação de consultas médicas (saúde); informações sobre benefícios do ?Bolsa Família? (social); informações sobre eventos e pontos turísticos (lazer); entre outras. Além disso, serão desenvolvidas aplicações voltadas para educação, pelo aluno bolsista e eventuais alunos voluntários, membros do projeto, conforme necessidade da comunidade. Após a obtenção dessas aplicações através de terceiros e desenvolvimento de aplicações (a cada 6 meses), serão realizadas chamadas, aberta a grupos comunitários de Recife, para realização da ação de inclusão digital, onde os instrutores irão dar guiar as pessoas da comunidade no uso das aplicações transmitidas para os aparelhos de TVDi. Esse treinamento iniciará pela abordagem de conceitos expostos em uma palestra geral para todos os participantes e continuará com a utilização (imersão) das aplicações pelos próprios participantes, em diferentes sessões..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Douglas Véras e Silva - Coordenador / Rafael Ferreira - Integrante / Kellyton dos Santos Brito - Integrante / João Paulo da Silva - Integrante / PROTA, THIAGO MONTEIRO - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2014 - 2014
+Inclusão Digital a partir da TV Digital Interativa Utilizando Dados Abertos
+Descrição: Inicialmente, serão obtidas aplicações desenvolvidas por terceiros (estudantes/pesquisadores da UFRPE e demais instituições de ensino, além de aplicações disponíveis no portal do CPqD), voltadas para a inclusão digital, ou seja, aplicações simples e intuitivas que tragam serviços básicos à comunidade, como por exemplo: transações bancárias; marcação de consultas médicas; informações sobre benefícios do ?Bolsa Família?; informações sobre o INSS; entre outras. Além disso, serão desenvolvidas aplicações por alunos voluntários, membros do projeto, conforme necessidade da comunidade. Após a obtenção dessas aplicações através de terceiros e desenvolvimento de aplicações, serão realizadas chamadas, aberta a comunidade pernambucana, para realização de ?cursos?, onde instrutores voluntários irão dar ?treinamento? no uso das aplicações transmitidas para os aparelhos de TVDi. Esse treinamento iniciará pela abordagem de conceitos expostos em uma palestra geral para todos os participantes e continuará com a utilização (hands on) das aplicações pelos próprios participantes, segmentados conforme faixa etária em diferentes sessões (onde cada sessão possuirá um instrutor)..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Douglas Véras e Silva - Coordenador / Rafael Ferreira - Integrante / Thiago Monteiro Prota - Integrante / Kellyton dos Santos Brito - Integrante / João Paulo da Silva - Integrante / Marco Antonio de Souza Segundo - Integrante.
+
+
+Projetos de desenvolvimento
+2024 - Atual
+FoodRec: fortalecendo restaurantes, sobretudo de mulheres, através de inteligência de dados e transformação digital
+Situação: Em andamento; Natureza: Desenvolvimento.
+
+Integrantes: Douglas Véras e Silva - Coordenador.
+2022 - 2023
+PLATAFORMA DE DESENVOLVIMENTO COGNITIVO PARA PESSOAS COM DEFICIÊNCIA INTELECTUAL
+
+Projeto certificado pela empresa COGNVOX TECNOLOGIA, MÉTODOS E SISTEMAS em 02/06/2022.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Douglas Véras e Silva - Integrante / Carlos Moreira - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2022 - Atual
+FoodRec Sistema de busca e recomendação de produtos do gênero alimentício
+Situação: Em andamento; Natureza: Desenvolvimento.
+
+Integrantes: Douglas Véras e Silva - Coordenador.
+
+
+Revisor de periódico
+2018 - 2022
+Periódico: INFORMATION SCIENCES
+2018 - 2022
+Periódico: Information Retrieval Journal
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Artificial.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas Distribuídos.
+
+
+Idiomas
+Português
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Inglês
+Compreende Pouco, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
+Espanhol
+Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco.
+
+
+Prêmios e títulos
+2022
+Selecionado no programa de Inovação - Centelha 2 de Pernambuco (14º lugar), FACEPE/FINEP/CNPq.
+2015
+Vencedor do Concurso de Seleção de Projetos de Aplicativos de Utilidade Pública - INOVApps,2015 (11ª lugar na categoria aplicações), Ministério das Comunicações.
+2013
+2 º lugar no concurso para professor assistente (área: sistemas distribuídos), Universidade Federal Rural de Pernambuco (Campus: Dois Irmãos, Recife).
+2012
+2 º lugar no concurso para professor assistente (área: arq. computadores, sist. operacionais, redes de computadores e sistemas distribuídos), Universidade de Pernambuco (Campus Garanhuns).
+2011
+Oracle Certified Professional, Java SE 6 Programmer, Oracle.
+2010
+1º Colocado no Concurso de Trabalho de Conclusão de Curso, XXI Simpósio Brasileiro de Informática na Educação (SBIE).
+
+
+Produções
+
+Produção bibliográfica
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+LIU, JEN HORNG ; SILVA, DOUGLAS VÉRAS ; PACÍFICO, LUCIANO DEMÉTRIO SANTOS . MELHORANDO RECOMENDACOES BASEADAS NO CONTEXTO COM CLASSIFICACAO DE TEXTO PARA SISTEMAS DE RECOMENDACAO DE DOMINIOS CRUZADOS. REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC, v. 13, p. 4-16, 2023.
+
+2.
+ VÉRAS, DOUGLAS; PRUDÊNCIO, RICARDO ; FERRAZ, CARLOS . CD-CARS: Cross-domain context-aware recommender systems. EXPERT SYSTEMS WITH APPLICATIONS, v. 135, p. 388-409, 2019. Citações:16|17
+
+3.
+ VÉRAS, DOUGLAS; PROTA, THIAGO ; BISPO, ALYSSON ; PRUDÊNCIO, RICARDO ; FERRAZ, CARLOS . A literature review of recommender systems in the television domain. Expert Systems with Applications, v. 42, p. 9046-9076, 2015. Citações:52|61
+
+4.
+Marlos Silva ; Endhe Elias ; COSTA, E. B. ; BITTENCOURT, I. I. ; Heitor Barros ; Dias, Leandro ; Douglas Véras ; Alan Silva . Combining METHONTOLOGY and a Model Driven Ontology Approach to Build an Educational Ontology. IEEE multidisciplinary engineering education magazine, v. 6, p. 11-18, 2012.
+
+5.
+Heitor Barros ; Marlos Silva ; BITTENCOURT, I. I. ; COSTA, E. B. ; Aydano Machado ; Douglas Véras . Providing reliable use of Semantic Web Services in Educational systems. IEEE multidisciplinary engineering education magazine, v. 6, p. 13-23, 2011.
+
+6.
+Douglas Véras; Bittencourt, Ig Ibert ; Costa, Evandro . Construindo Aplicações de T-Learning Integradas com uma Plataforma Web Educacional Semântica. Revista Brasileira de Informática na Educação, v. 19, p. 27-43, 2011.
+
+Capítulos de livros publicados
+
+1.
+VÉRAS, DOUGLAS; NASCIMENTO, A. C. A. ; CALLOU, G. R. A. . Towards Recommender Systems Integrating Contextual Information from Multiple Domains through Tensor Factorization. In: Abhishek Majumder; Joy Lal Sarkar; Arindam Majumder.. (Org.). Artificial Intelligence and Data Science for Recommendation Systems: Current Trends, Technologies and Applications. 1ed.: Bentham Books, 2023, v. , p. 1-.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+ASSIS, ANDRÉ ; VÉRAS, DOUGLAS ; ANDRADE, ERMESON . Explainable Artificial Intelligence - An Analysis of the Trade-offs Between Performance and Explainability. In: 2023 IEEE Latin American Conference on Computational Intelligence (LACCI), 2023, Recife-Pe. 2023 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2023. p. 1.
+
+2.
+BISPO, ALYSSON ; PRUDENCIO, RICARDO ; VERAS, DOUGLAS . Instance Selection and Class Balancing Techniques for Cross Project Defect Prediction. In: 2018 7th Brazilian Conference on Intelligent Systems (BRACIS), 2018, Sao Paulo. 2018 7th Brazilian Conference on Intelligent Systems (BRACIS), 2018. p. 552.
+
+3.
+PROTA, THIAGO MONTEIRO ; VÉRAS, DOUGLAS ; FERRAZ, CARLOS . Reliability Evaluation of Behavioral Representations from Multimedia Applications. In: the 22nd Brazilian Symposium, 2016, Teresina. Proceedings of the 22nd Brazilian Symposium on Multimedia and the Web - Webmedia '16, 2016. p. 223.
+
+4.
+FERRAZ, C. ; Douglas Véras ; SILVA, J. . A Collaborative TV-Internet Application Model to Enrich TV Viewing Experience in a Pervasive Way. In: The 6th Workshop on Pervasive Collaboration and Social Networking (PerCol), 2015, St. Louis, MO, USA. Proceedings of the 13th IEEE International Conference on Pervasive Computing and Communications - Workshops, 2015.
+
+5.
+ VERAS, DOUGLAS; PRUDENCIO, RICARDO ; FERRAZ, CARLOS ; BISPO, ALYSSON ; PROTA, THIAGO . Context-Aware Techniques for Cross-Domain Recommender Systems. In: 2015 Brazilian Conference on Intelligent Systems (BRACIS), 2015, Natal. 2015 Brazilian Conference on Intelligent Systems (BRACIS), 2015. p. 282.
+
+6.
+PROTA, THIAGO MONTEIRO ; SILVA, DOUGLAS VERAS DA ; SOUZA, FERNANDO DA FONSECA DE ; FERRAZ, CARLOS ANDRE GUIMARAES . MoonDo-Eclipse: An Integrated Development Environment for Ginga-NCL Applications. In: 2014 Brazilian Symposium on Software Engineering (SBES), 2014, Maceio. 2014 Brazilian Symposium on Software Engineering, 2014. p. 151-160.
+
+7.
+ Douglas Véras; PROTA, T. ; FERRAZ, C. . T-Bookmarks: Providing TV-related Web Resources at Anywhere. In: UBICOMM, 2013, Porto. UBICOMM 2013, The Seventh International Conference on Mobile Ubiquitous Computing, Systems, Services and Technologies, 2013. p. 43-49.
+
+8.
+Douglas Véras; BITTENCOURT, I. I. ; Heitor Barros ; Marlos Silva ; COSTA, E. B. . A solution for personalized t-learning applications integrated with a web educational platform. In: ACM Symposium on Applied Computing (SAC '11), 2011, TaiChung, Taiwan. Proceedings of the 2011 ACM Symposium on Applied Computing (SAC '11).. New York, NY, USA: ACM, 2011. p. 1187-1193.
+
+9.
+Douglas Véras; BITTENCOURT, I. I. ; COSTA, E. B. . Uma Solução para Aplicações em T-Learning Integradas com o Framework Web MASSAYO-F: Fra-TV, um Estudo de Caso no Domínio de Frações. In: InfoBrasil, 2010, Fortaleza-CE. III Congresso Tecnológico da InfoBrasil 2010, 2010.
+
+10.
+Douglas Véras; BITTENCOURT, I. I. ; COSTA, E. B. . Uma Solução para Aplicações em T-Learning Integradas com um Plataforma Educacional Web. In: Simpósio Brasileiro de Informática na Educação (SBIE), 2010, João Pessoa - PB. Anais do XXI Simpósio Brasileiro de Informática na Educação (SBIE 2010), 2010.
+
+11.
+Marlos Silva ; Endhe Elias ; BITTENCOURT, I. I. ; Heitor Barros ; Douglas Véras ; COSTA, E. B. ; Alan Silva . Using a Model Driven Approach for Specifying Educational Ontologies. In: Simpósio Brasileiro de Informática na Educação (SBIE), 2010, João Pessoa - PB. Anais do XXI Simpósio Brasileiro de Informática na Educação (SBIE 2010), 2010.
+
+12.
+Heitor Barros ; BITTENCOURT, I. I. ; COSTA, E. B. ; Marlos Silva ; Douglas Véras . A Fault Tolerance approach for SemanticWeb Services based Systems: A case study in E-Learning. In: Simpósio Brasileiro de Informática na Educação (SBIE), 2010, João Pessoa - PB. Anais do XXI Simpósio Brasileiro de Informática na Educação (SBIE 2010), 2010.
+
+13.
+Lucas M. Braz ; Rafael Ferreira ; Diego Dermeval ; Douglas Véras ; Marcilio Lima ; Willy Tiengo . Aplicando Mineração de Dados para Apoiar na Tomada de Decisão na Segurança Púbilca no Estado de Alagoas. In: I Workshop de Computação Aplicada em Governo Eletrônico, 2009, Bento Gonçalves - RS. XXX Congresso da Sociedade Brasileira de Computação, 2009. p. 1475-1488.
+
+14.
+BITTENCOURT, I. I. ; Pedro Bispo ; COSTA, E. B. ; PONTES, J. P. ; Douglas Véras ; Diego Dermeval ; Henrique Pacca . Modeling JADE Agents from GAIA Methodology under the Perspective of Semantic Web. In: 11th International Conference, ICEIS 2009, 2009, Milan - Italy. Enterprise Information Systems, 2009. v. 24. p. 780-789.
+
+15.
+Douglas Véras; Marlos Silva ; Pedro Bispo ; Lucas M. Braz ; BITTENCOURT, I. I. ; COSTA, E. B. . Uma Arquitetura para Integrar Ambientes Educacionais na Web com Sistemas em T-Learning. In: XX Simpósio Brasileiro de Informática na Educação, 2009, Florianópolis - SC. Anais do XX Simpósio Brasileiro de Informática na Educação, 2009.
+
+16.
+Marlos Silva ; Heitor Barros ; Douglas Véras ; Henrique Pacca ; BITTENCOURT, I. I. ; COSTA, E. B. ; Alan Silva . Modelando um Sistema Educacional de MMC sob a perspectiva da Web Semântica. In: XX Simpósio Brasileiro de Informática na Educação, 2009, Florianópolis - SC. Anais do XX Simpósio Brasileiro de Informática na Educação, 2009.
+
+17.
+Pedro Bispo ; SIBALDO, M. ; COSTA, E. B. ; BITTENCOURT, I. I. ; Douglas Véras ; Henrique Pacca ; Marcos Hilario C. L. Filho . Suporte Interacional Adaptativo na Web Focalizando Agentes Humanos e Artificiais em Situações de Resolução de Problemas: Um Estudo de Caso no Domínio de Fração. In: XX Simpósio Brasileiro de Informática na Educação, 2009, Florianópolis - SC. Anais do XX Simpósio Brasileiro de Informática na Educação, 2009.
+
+18.
+Lucas M. Braz ; Douglas Véras ; Diego Dermeval ; Rafael Ferreira ; BITTENCOURT, I. I. . Aplicação de Data Mining para Sugestão de Investimentos na Bolsa de Valores. In: IX Escola Regional de Computação Bahia Alagoas Sergipe, 2009, Ilhéus - BA. Anais do IX Escola Regional de Computação Bahia Alagoas Sergipe, 2009.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+Douglas Véras; Lucas M. Braz ; BITTENCOURT, I. I. ; TOLEDO, A. ; COSTA, E. B. . Modelando Ambientes Educacionais de Hipermídia Adaptativa através de Ontologias. In: XIX Simpósio Brasileiro de Informática na Educação, 2008, Fortaleza - CE. Anais do XIX Simpósio Brasileiro de Informática na Educação, 2008.
+
+Resumos publicados em anais de congressos
+
+1.
+PROTA, T. ; Douglas Véras ; FERRAZ, C. . Análise estrutural e comportamental de aplicações Ginga- NCL orientada a conformidade. In: XX Brazilian Symposium on Multimedia and the Web - Webmedia, 2014, João Pessoa, Paraíba, Brasil. IX Workshop on Ongoing Thesis and Dissertations(WTD), 2014.
+
+2.
+Douglas Véras; Lucas M. Braz ; BITTENCOURT, I. I. ; TOLEDO, A. ; COSTA, E. B. . Representando Ambientes Educacionais de Hipermídia Adaptativa através de Ontologias. In: XIV WIE - Workshop sobre Informática na Escola, 2008, Belém - PA. Anais do XXVIII Congresso da SBC, 2008. p. 442-445.
+
+Apresentações de Trabalho
+
+1.
+VÉRAS, DOUGLAS; PRUDENCIO, RICARDO ; FERRAZ, CARLOS ; BISPO, ALYSSON ; PROTA, THIAGO . Context-Aware Techniques for Cross-Domain Recommender Systems. 2015. (Apresentação de Trabalho/Conferência ou palestra).
+
+2.
+PROTA, THIAGO ; VÉRAS, DOUGLAS ; SOUZA, FERNANDO DA FONSECA DE ; FERRAZ, CARLOS . MoonDo-Eclipse: An Integrated Development Environment for Ginga-NCL Applications. 2014. (Apresentação de Trabalho/Simpósio).
+
+3.
+Douglas Véras; BITTENCOURT, I. I. ; COSTA, E. B. . Uma Solução para Aplicações em T-Learning Integradas com o Framework Web MASSAYO-F: Fra-TV, um Estudo de Caso no Domínio de Frações. 2010. (Apresentação de Trabalho/Congresso).
+
+4.
+ Douglas Véras; BITTENCOURT, I. I. ; COSTA, E. B. . Uma Solução para Aplicações em T-Learning Integradas com um Plataforma Educacional Web. 2010. (Apresentação de Trabalho/Simpósio).
+
+5.
+Douglas Véras; Diego Dermeval ; Lucas M. Braz ; Rafael Ferreira ; BITTENCOURT, I. I. ; COSTA, E. B. . Utilização de Mineração de Dados para Indicar Picos de Negociação na Bolsa de Valores. 2008. (Apresentação de Trabalho/Congresso).
+
+6.
+ROCHA, A. ; HOLANDA, R. ; Lucas M. Braz ; Douglas Véras ; BITTENCOURT, I. I. ; COSTA, E. B. . Implementação de Interfaces Adaptativas no Ambiente GraW (Graduação na Web). 2007. (Apresentação de Trabalho/Congresso).
+
+
+Produção técnica
+Programas de computador sem registro
+
+1.
+VÉRAS, DOUGLAS; PROTA, THIAGO . EuPolítico. 2016.
+
+2.
+VÉRAS, DOUGLAS; PROTA, THIAGO ; BRITO, K. S. . Educação Inteligente. 2015.
+
+Entrevistas, mesas redondas, programas e comentários na mídia
+
+1.
+Douglas Véras. Aplicações de IA com inovação social. 2024. (Programa de rádio ou TV/Mesa redonda).
+
+Demais tipos de produção técnica
+
+1.
+Douglas Véras. Algoritmos e Estrutura de Dados. 2013. .
+
+2.
+Douglas Véras; Lucas M. Braz . Introdução a Orientação a Objetos Utilizando a Linguagem JAVA. 2009. (Curso de curta duração ministrado/Extensão).
+
+
+
+Patentes e registros
+
+Programa de computador
+1.
+Douglas Véras. FOODREC - COMPARATIVO DE DELIVERY. 2023.
+Patente: Programa de Computador. Número do registro: BR512023004200-5, data de registro: 28/12/2023, título: "FOODREC - COMPARATIVO DE DELIVERY" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+2.
+Douglas Véras. Recbot: IA generativa para sugestões de pratos e restaurantes sobre múltiplas plataformas de delivery (FoodRec). 2024.
+Patente: Programa de Computador. Número do registro: BR512025000433-8, data de registro: 27/11/2024, título: "Recbot: IA generativa para sugestões de pratos e restaurantes sobre múltiplas plataformas de delivery (FoodRec)" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+Marca registrada
+1.
+Douglas Véras. FOODREC. 2023, Brasil.
+Patente: Marca Registrada de Produto. Número do registro: 931680980, título: "FOODREC" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+Douglas Véras. Participação em banca de Larissa Feliciana da Silva Britto. ?Identificação Automática de Restrições Alimentares em Receitas Culinárias Através de Técnicas de Aprendizagem de Máquina. 2023. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+Douglas Véras. Participação em banca de Melyssa Ingrid dos Santos.?RELAÇÕES DE CONSUMO COM AS TECNOLOGIAS DIGITAIS DE INFORMAÇÕES E COMUNICAÇÃO: O CASO DA NAT NATURA NO TWITTER. 2024.
+
+2.
+Douglas Véras. Participação em banca de WALLACE SANTANA DE LIMA.SISTEMA CHATBOT PARA RECOMENDAÇÃO DE REFEIÇÕES: UMA ABORDAGEM RETRIEVALAUGMENTED GENERATION. 2024.
+
+3.
+Douglas Véras. Participação em banca de André Carlos Santos de Assis.?Explainable Artificial Intelligence - Uma Análise dos trade-offs entre Desempenho e Explicabilidade. 2023. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco.
+
+
+
+Participação em bancas de comissões julgadoras
+Concurso público
+
+1.
+VÉRAS, DOUGLAS. Seleção Simplificada de Professor Substituto Edital 01-2018. 2018. Universidade Federal Rural de Pernambuco.
+
+2.
+VÉRAS, DOUGLAS. Professor Magistério Superior Edital 06/2017. 2017. Universidade Federal Rural de Pernambuco.
+
+Outras participações
+
+1.
+VÉRAS, DOUGLAS. Seminário avaliação PIBIC: Análise de Desempenho e Dependabilidade de Aplicações Big Data em Nuvem Computacional.. 2017. Universidade Federal Rural de Pernambuco.
+
+2.
+VÉRAS, DOUGLAS. Seminário avaliação PIBIC: Avaliação automática de postagens de fóruns educacionais. 2017. Universidade Federal Rural de Pernambuco.
+
+3.
+VÉRAS, DOUGLAS. Seminário avaliação PIBIC: Avaliação de Modelos Sintéticos Inspirados em Grafos de Gabriel para Planejamento de Redes Ópticas. 2017. Universidade Federal Rural de Pernambuco.
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+Campus Party 2024.stands. 2024. (Encontro).
+
+2.
+Conexões Inovadoras e Tendências em Consumo 2024.Oficina/Workshop - Oficina de Validação da plataforma comparadora de delivery FoodRec. 2024. (Oficina).
+
+3.
+NEON 2024. stands. 2024. (Exposição).
+
+4.
+Rec'n'play 2024.Ministrante. 2024. (Outra).
+
+5.
+Inovativa Experience.FoodRec. 2023. (Encontro).
+
+6.
+Startup Day 2023. FOODREC - COMPARATIVO DE DELIVERY. 2023. (Exposição).
+
+7.
+Startup Summit 2023. 2023. (Congresso).
+
+8.
+Semana Acadêmica de Computação - UFRPE.TV Digital x TV Conectada. 2014. (Outra).
+
+9.
+Desafios da Integração da TV Conectada no ambiente da TV Digital Brasileira (8 horas). 2012. (Seminário).
+
+10.
+III Congresso Tecnológico da InfoBrasil. Uma Solução para Aplicações em T-Learning Integradas com o Framework Web MASSAYO-F: Fra-TV, um Estudo de Caso no Domínio de Frações. 2010. (Congresso).
+
+11.
+SImpósio Brasileiro de Informática na Educação.Uma Solução para Aplicações em T-Learning Integradas com um Plataforma Educacional Web. 2010. (Simpósio).
+
+12.
+Transmidiação, as experiências no Brasil. 2010. (Seminário).
+
+13.
+XXIX Congresso da Sociedade Brasileira de Computação. 2009. (Congresso).
+
+14.
+V Congresso Acadêmico da UFAL. Utilização de Mineração de Dados para Indicar Picos de Negociação na Bolsa de Valores. 2008. (Congresso).
+
+15.
+VIII Escola Regional de Computação Bahia - Alagoas - Sergipe. 2008. (Encontro).
+
+16.
+I Encontro Regional dos Estudantes de Computação em Alagoas - ERECOMP/AL. 2007. (Encontro).
+
+17.
+Iniciativa Acadêmica da Sun. 2007. (Seminário).
+
+18.
+IV Congresso Acadêmico da UFAL. Implementação de Interfaces Adaptativas no Ambiente Graw. 2007. (Congresso).
+
+
+
+Orientações
+
+Orientações e supervisões concluídas
+Trabalho de conclusão de curso de graduação
+
+1.
+Caio Giovani Pereira Vasconcelos. Comparison of recommendation algorithms for user groups: a food-based case study. 2023. Trabalho de Conclusão de Curso. (Graduação em Computação) - Universidade Federal Rural de Pernambuco. Orientador: Douglas Véras e Silva.
+
+2.
+Carlos Olimpio Rodrigues de Melo Filho. Análise de um sistema de recomendação de restaurantes sensível ao contexto sobre o grau de satisfação dos usuários. 2023. Trabalho de Conclusão de Curso. (Graduação em Computação e Informática) - Universidade Federal Rural de Pernambuco. Orientador: Douglas Véras e Silva.
+
+3.
+Jen Horng Liu. Melhorando recomendações baseadas no contexto com classificação de texto para sistemas de recomendação de domínios cruzados. 2023. Trabalho de Conclusão de Curso. (Graduação em Computação e Informática) - Universidade Federal Rural de Pernambuco. Orientador: Douglas Véras e Silva.
+
+4.
+Guilherme Melo da Silva. Avaliação entre abordagens de filtragem colaborativa baseada em vizinhança e transferência de conhecimento para CD-CARS. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Douglas Véras e Silva.
+
+5.
+Douglas Henrique Santana da Silva. Um estudo comparativo de técnicas para a classificação contextual de companhia para sistemas de recomendação sensíveis a contexto. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Douglas Véras e Silva.
+
+6.
+RODRIGO JOSÉ GADELHA XAVIER MONTEIRO. AVALIAÇÃO DO SISTEMA CD-CARS COM EXPERIMENTOS FOCADOS EM USUÁRIOS. 2018. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Douglas Véras e Silva.
+
+7.
+Victor Sales de Brito. Estudo comparativo de técnicas de seleção de contextos em Sistemas de Recomendação de Domínio Cruzado Sensíveis ao Contexto. 2018. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: Douglas Véras e Silva.
+
+
+
+Inovação
+
+Programa de computador registrado
+1.
+Douglas Véras. FOODREC - COMPARATIVO DE DELIVERY. 2023.
+Patente: Programa de Computador. Número do registro: BR512023004200-5, data de registro: 28/12/2023, título: "FOODREC - COMPARATIVO DE DELIVERY" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+2.
+Douglas Véras. Recbot: IA generativa para sugestões de pratos e restaurantes sobre múltiplas plataformas de delivery (FoodRec). 2024.
+Patente: Programa de Computador. Número do registro: BR512025000433-8, data de registro: 27/11/2024, título: "Recbot: IA generativa para sugestões de pratos e restaurantes sobre múltiplas plataformas de delivery (FoodRec)" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+Marca registrada
+1.
+Douglas Véras. FOODREC. 2023, Brasil.
+Patente: Marca Registrada de Produto. Número do registro: 931680980, título: "FOODREC" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+Programa de computador sem registro
+1.
+VÉRAS, DOUGLAS; PROTA, THIAGO . EuPolítico. 2016.
+
+2.
+VÉRAS, DOUGLAS; PROTA, THIAGO ; BRITO, K. S. . Educação Inteligente. 2015.
+
+
+Projeto de desenvolvimento tecnológico
+2022 - 2023
+PLATAFORMA DE DESENVOLVIMENTO COGNITIVO PARA PESSOAS COM DEFICIÊNCIA INTELECTUAL
+
+Projeto certificado pela empresa COGNVOX TECNOLOGIA, MÉTODOS E SISTEMAS em 02/06/2022.
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: Douglas Véras e Silva - Integrante / Carlos Moreira - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+2022 - Atual
+FoodRec Sistema de busca e recomendação de produtos do gênero alimentício
+Situação: Em andamento; Natureza: Desenvolvimento.
+
+Integrantes: Douglas Véras e Silva - Coordenador.
+
+
+Projeto de extensão
+2016 - 2017
+Eleições 2016: Inclusão Digital a partir da TV Digital Interativa Utilizando Dados Abertos Eleitorais
+Descrição: O projeto proposto tem por objetivo principal engajar o cidadão brasileiro, eleitor e telespectador, à participação na política brasileira, no âmbito nacional e regional, através da análise e manipulação dos dados abertos e públicos sobre políticos e eleições, permitindo que o eleitor possa, a partir do desenvolvimento de uma aplicação para TV Digital: (i) acompanhar os mandatos dos políticos eleitos, através de informações tais como: gastos de diversas naturezas, frequência de participação em votações, projetos de lei propostos, notícias, entre outras; (ii) melhor escolher seus candidatos, fornecendo acesso à informações úteis na tomada de decisão antes das eleições, tais como: candidatura (nome, número, partido, coligação, idade, etc.), bens declarados, gasto e receita/financiamento de campanha, propostas, entre outras; (iii) acompanhar notícias e agenda oficiais do senado e da câmara dos deputados; e (iv) acessar diversos dados estatísticos, tais como: resultados de votações (inclusive em tempo real), pesquisas eleitorais, estatísticas de políticos, candidatos e perfil do eleitorado. Além da aplicação desenvolvida, outras aplicações relacionadas à política (disponíveis por terceiros) deverão ser incluídas no processo de inclusão social e digital difundida através de ações com comunidades da grande Recife, visando uma participação mais efetiva da sociedade nas Eleições de 2016. Assim, esperamos que o público-alvo recebe orientações relacionadas a tecnologias da informação e política, tendo como porta de entrada a TV Digital, que possui um meio mais simples e direto de interação..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) .
+
+Integrantes: Douglas Véras e Silva - Coordenador / Rafael Ferreira - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2015 - 2015
+Inclusão Digital a partir da TV Digital Interativa Utilizando Dados Abertos
+Descrição: Inicialmente, serão obtidas aplicações desenvolvidas por terceiros (estudantes/pesquisadores da UFRPE e demais instituições de ensino, além de aplicações disponíveis em portais de aplicativos para TVD: CPqD, ClubeNCL, etc.), voltadas para a inclusão digital, ou seja, aplicações simples e intuitivas que tragam serviços básicos à comunidade, como por exemplo: cursos (educação); marcação de consultas médicas (saúde); informações sobre benefícios do ?Bolsa Família? (social); informações sobre eventos e pontos turísticos (lazer); entre outras. Além disso, serão desenvolvidas aplicações voltadas para educação, pelo aluno bolsista e eventuais alunos voluntários, membros do projeto, conforme necessidade da comunidade. Após a obtenção dessas aplicações através de terceiros e desenvolvimento de aplicações (a cada 6 meses), serão realizadas chamadas, aberta a grupos comunitários de Recife, para realização da ação de inclusão digital, onde os instrutores irão dar guiar as pessoas da comunidade no uso das aplicações transmitidas para os aparelhos de TVDi. Esse treinamento iniciará pela abordagem de conceitos expostos em uma palestra geral para todos os participantes e continuará com a utilização (imersão) das aplicações pelos próprios participantes, em diferentes sessões..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: Douglas Véras e Silva - Coordenador / Rafael Ferreira - Integrante / Kellyton dos Santos Brito - Integrante / João Paulo da Silva - Integrante / PROTA, THIAGO MONTEIRO - Integrante.
+Financiador(es): Universidade Federal Rural de Pernambuco - Bolsa.
+2014 - 2014
+Inclusão Digital a partir da TV Digital Interativa Utilizando Dados Abertos
+Descrição: Inicialmente, serão obtidas aplicações desenvolvidas por terceiros (estudantes/pesquisadores da UFRPE e demais instituições de ensino, além de aplicações disponíveis no portal do CPqD), voltadas para a inclusão digital, ou seja, aplicações simples e intuitivas que tragam serviços básicos à comunidade, como por exemplo: transações bancárias; marcação de consultas médicas; informações sobre benefícios do ?Bolsa Família?; informações sobre o INSS; entre outras. Além disso, serão desenvolvidas aplicações por alunos voluntários, membros do projeto, conforme necessidade da comunidade. Após a obtenção dessas aplicações através de terceiros e desenvolvimento de aplicações, serão realizadas chamadas, aberta a comunidade pernambucana, para realização de ?cursos?, onde instrutores voluntários irão dar ?treinamento? no uso das aplicações transmitidas para os aparelhos de TVDi. Esse treinamento iniciará pela abordagem de conceitos expostos em uma palestra geral para todos os participantes e continuará com a utilização (hands on) das aplicações pelos próprios participantes, segmentados conforme faixa etária em diferentes sessões (onde cada sessão possuirá um instrutor)..
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: Douglas Véras e Silva - Coordenador / Rafael Ferreira - Integrante / Thiago Monteiro Prota - Integrante / Kellyton dos Santos Brito - Integrante / João Paulo da Silva - Integrante / Marco Antonio de Souza Segundo - Integrante.
+
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 13:46:10
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo

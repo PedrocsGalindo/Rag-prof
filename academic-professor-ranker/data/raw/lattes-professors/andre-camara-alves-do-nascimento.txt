@@ -1,0 +1,1158 @@
+Currículo Lattes - Busca Textual - Visualização do Currículo
+Currículo Lattes
+Dados gerais Formação Atuação Projetos Produções Patentes e Registros Inovação Eventos Orientações Bancas +
+
+André Câmara Alves do Nascimento
+Bolsista de Produtividade Desen. Tec. e Extensão Inovadora do CNPq - Nível 2
+Endereço para acessar este CV: http://lattes.cnpq.br/0622594061462533
+ID Lattes: 0622594061462533
+Última atualização do currículo em 08/03/2026
+
+Professor adjunto do Departamento de Computação (DC) da Universidade Rural Federal de Pernambuco desde 2013 e pesquisador do laboratório de inteligência artificial AiBox Lab. Realizou graduação em Engenharia da Computação pela Universidade de Pernambuco (2006), mestrado em Ciência da Computação pela Universidade Federal de Pernambuco (2009) e doutorado em Ciência da Computação pela Universidade Federal de Pernambuco (2015), com um período sanduíche na RWTH Aachen (Alemanha), financiado com recursos do Programa Probal/Capes. Em 2019, foi professor visitante no Intelligent Systems Laboratory (ISL) da Universidade de Bristol, Reino Unido, e em 2024 fez um pós-doutorado no Institut de Recherche en Informatique de Toulouse (IRIT), Universidade Paul Sabatier III. Tem experiência na área de Ciência da Computação, com ênfase em Inteligência Artificial e tópicos relacionados ao aprendizado de máquina, processamento de linguagem natural, aprendizado de máquina em gráficos e biologia computacional. (Texto informado pelo autor)
+
+
+Identificação
+Nome
+André Câmara Alves do NascimentoDados cadastrais validados junto a Receita Federal do Brasil
+Nome em citações bibliográficas
+NASCIMENTO, A. C. A.;NASCIMENTO, ANDRÉ C. A.;NASCIMENTO, ANDRÉ C.A.;ANDRÉ C. A. NASCIMENTO;Nascimento, André C. A.;NASCIMENTO, ANDRÉ;ANDRÉ C NASCIMENTO;NASCIMENTO, ANDRE C.;NASCIMENTO, ANDRE C.A.;NASCIMENTO, ANDRE;ANDRE CAMARA NASCIMENTO;NASCIMENTO, ANDRÉ CÂMARA;Camara, André;DO NASCIMENTO, ANDRÉ CÂMARA ALVES;Nascimento, André CA;ALVES DO NASCIMENTO, ANDRÉ CÂMARA;Nascimento, ACA
+Lattes iD
+http://lattes.cnpq.br/0622594061462533
+Orcid iD
+? https://orcid.org/0000-0002-9333-3212
+País de Nacionalidade
+Brasil
+
+Endereço
+Endereço Profissional
+Universidade Federal Rural de Pernambuco, Departamento de Computação.
+Universidade Federal Rural de Pernambuco
+Dois Irmãos
+52171900 - Recife, PE - Brasil
+Telefone: (81) 33206000
+URL da Homepage: www.ufrpe.br
+Redes Sociais
+Linkedin: null
+
+
+Formação acadêmica/titulação
+2011 - 2015
+Doutorado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+com período sanduíche em Helmholtz Institute for Biomedical Engineering, RWTH University Hospital (Orientador: Wolfgang Wagner).
+Título: Combinação de kernels para predição de interações em redes biológicas , Ano de obtenção: 2015.
+Orientador: Ricardo Bastos Cavalcante Prudêncio.
+Coorientador: Ivan Gesteira Costa Filho.
+2007 - 2009
+Mestrado em Ciências da Computação.
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Título: Mineração de regras para seleção de técnicas de agrupamento para dados de expressão gênica de câncer , Ano de Obtenção: 2009.
+Orientador: Ricardo Bastos Cavalcante Prudêncio.
+Palavras-chave: Meta-aprendizado; Técnicas de agrupamento; Expressão gênica.
+2001 - 2006
+Graduação em Engenharia da Computação.
+Universidade de Pernambuco, UPE, Brasil.
+Título: Integração da Ferramenta TimeNET ao Ambiente EZPetri.
+Orientador: Ricardo Massa Ferreira Lima.
+1996 - 2000
+Curso técnico/profissionalizante em Edificações.
+Instituto Federal de Pernambuco, IFPE, Brasil.
+
+
+Pós-doutorado
+2024
+Pós-Doutorado.
+Institut de Recherches en Informatique de Toulouse, IRIT, França.
+Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Artificial.
+Grande Área: Ciências Humanas / Área: Educação / Subárea: Ensino-Aprendizagem / Especialidade: Tecnologia Educacional.
+Grande Área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística / Subárea: Estatística / Especialidade: Análise de Dados.
+
+
+
+
+Atuação Profissional
+
+Centro de Tecnologia de Software para Exportação do Recife, SOFTEX/RECIFE, Brasil.
+Vínculo institucional
+
+2021 - Atual
+Vínculo: , Enquadramento Funcional:
+
+
+Universidade Federal Rural de Pernambuco, UFRPE, Brasil.
+Vínculo institucional
+
+2013 - Atual
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Atividades
+
+06/2013 - Atual
+Pesquisa e desenvolvimento, Departamento de Computação.
+
+Linhas de pesquisa
+Aprendizagem de máquina
+Processamento de Linguagem Natural
+06/2013 - Atual
+Ensino, Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Aspectos Filosóficos e Sociológicos da Informática
+Introdução a Biologia Computacional
+Matemática Discreta 2
+Prática de Ensino de Algoritmos
+Elementos de Informática
+Introdução a Inteligência Artificial
+
+Centro de Estudos e Sistemas Avançados do Recife, CESAR, Brasil.
+Vínculo institucional
+
+2021 - Atual
+Vínculo: Professor Visitante, Enquadramento Funcional: Colaborador Externo
+
+
+Universidade Federal de Alagoas, UFAL, Brasil.
+Vínculo institucional
+
+2021 - Atual
+Vínculo: , Enquadramento Funcional:
+
+
+University of Bristol, BRISTOL, Inglaterra.
+Vínculo institucional
+
+2019 - 2019
+Vínculo: Professor Visitante, Enquadramento Funcional: Professor, Carga horária: 40
+
+
+Helmholtz Institute for Biomedical Engineering, RWTH University Hospital, RWTH, Alemanha.
+Vínculo institucional
+
+2014 - 2015
+Vínculo: Pesquisador, Enquadramento Funcional: Assistente de pesquisa, Carga horária: 40
+
+
+Instituto Federal de Pernambuco, IFPE, Brasil.
+Vínculo institucional
+
+2010 - 2013
+Vínculo: Servidor público, Enquadramento Funcional: Professor, Carga horária: 40, Regime: Dedicação exclusiva.
+
+Atividades
+
+11/2011 - 06/2013
+Direção e administração, Instituto Federal de Pernambuco - Campus Ipojuca.
+
+Cargo ou função
+Coordenador de Desenvolvimento de Ensino.
+
+Meantime Desenvolvimento e Exportação de Software, MNTM, Brasil.
+Vínculo institucional
+
+2011 - 2012
+Vínculo: Bolsista, Enquadramento Funcional: Pesquisador
+
+
+Universidade Federal de Pernambuco, UFPE, Brasil.
+Vínculo institucional
+
+2011 - 2015
+Vínculo: Colaborador, Enquadramento Funcional: Doutorado
+
+
+Agência Estadual de Tecnologia da Informação, ATI, Brasil.
+Vínculo institucional
+
+2008 - 2010
+Vínculo: Servidor público, Enquadramento Funcional: Analista Consultor de TIC, Carga horária: 40
+
+
+Faculdade de Informática e Tecnologia de Pernambuco, FATEC, Brasil.
+Vínculo institucional
+
+2010 - 2010
+Vínculo: Colaborador, Enquadramento Funcional: Professor, Carga horária: 8
+
+Vínculo institucional
+
+2009 - 2009
+Vínculo: Colaborador, Enquadramento Funcional: Professor, Carga horária: 4
+
+Atividades
+
+02/2010 - 09/2010
+Ensino, Bacharelado em Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Álgebra aplicada à computação
+Introdução à inteligência artificial
+09/2009 - 12/2009
+Ensino, Bacharelado em Ciência da Computação, Nível: Graduação
+
+Disciplinas ministradas
+Álgebra aplicada à computação
+
+Pitang, PITANG, Brasil.
+Vínculo institucional
+
+2007 - 2008
+Vínculo: Celetista, Enquadramento Funcional: Engenheiro de Software, Carga horária: 30
+
+
+Apply Solutions, APPLY, Brasil.
+Vínculo institucional
+
+2006 - 2007
+Vínculo: Estágio, Enquadramento Funcional: Desenvolvedor J2EE, Carga horária: 20
+
+
+Empresa Brasileira de Infra-Estrutura Aeroportuária, INFRAERO, Brasil.
+Vínculo institucional
+
+2004 - 2005
+Vínculo: Celetista, Enquadramento Funcional: Técnico de Engenharia e Manutenção, Carga horária: 40
+
+
+Grupo Elógica, GRUPO ELÓGICA, Brasil.
+Vínculo institucional
+
+2004 - 2004
+Vínculo: Estágio, Enquadramento Funcional: Desenvolvedor Web, Carga horária: 20
+
+
+Radix.com, RADIX, Brasil.
+Vínculo institucional
+
+2001 - 2002
+Vínculo: Estagiário, Enquadramento Funcional: Webmaster, Carga horária: 20
+
+
+Companhia Hidro Elétrica do São Francisco, CHESF, Brasil.
+Vínculo institucional
+
+2000 - 2000
+Vínculo: Estágio, Enquadramento Funcional: Técnico em Edificações, Carga horária: 40
+
+
+
+Linhas de pesquisa
+1.
+Aprendizagem de máquina
+2.
+Processamento de Linguagem Natural
+
+
+Projetos de pesquisa
+2021 - 2023
+Aprendizagem de múltiplos kernels incompletos para predição de interações droga-proteína (APQ-0998-1.03/21)
+Descrição: Redes droga-proteína têm recebido bastante atenção nos últimos anos, dada sua relevância para a inovação farmacêutica e reposicionamento de fármacos. As abordagens baseadas em aprendizagem de máquina e métodos de kernel surgiram como ferramentas poderosas para resolver problemas desse tipo e, especialmente, a aprendizagem de múltiplos kernels (Multiple Kernel Learning - MKL). Tais métodos permitem integrar diversas fontes de informações heterogêneas, ao mesmo tempo aprendendo a importância de cada kernel para a tarefa de predição. Uma dificuldade na aplicação de tais métodos em redes biológicas se dá pelo fato de que muitos desses dados são incompletos, ou não existem em todas as suas formas. O objetivo deste projeto consiste em desenvolver métodos para tratamento de valores faltosos em matrizes de kernels incompletas para predição de interações em redes bipartidas..
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) .
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2019 - 2024
+Aplicação de algoritmos de inteligência computacional para resolução de problemas reais
+Descrição: Um grande impulso no desenvolvimento algorítmico é o design de modelos algorítmicos para resolver problemas cada vez mais complexos. Sucessos enormes foram alcançados através da modelagem de inteligência biológica e natural, resultando nos chamados ?sistemas inteligentes?. Esses algoritmos inteligentes incluem redes neurais artificiais, computação evolutiva, inteligência de enxames, sistemas imunológicos artificiais e sistemas difusos. Juntamente com a lógica, raciocínio dedutivo, sistemas especialistas, raciocínio baseado em casos e sistemas simbólicos de aprendizado de máquina, esses algoritmos inteligentes fazem parte do campo da Inteligência Artificial (IA). Olhando apenas para esta ampla variedade de técnicas de IA, a IA pode ser vista como uma combinação de várias disciplinas de pesquisa, por exemplo, ciência da computação, fisiologia, filosofia, sociologia e biologia. Diante deste cenário, esse projeto propõe a utilização de algoritmos de inteligência computacional para aplicações em diferentes áreas do conhecimento como dados educacionais, jurídicos e biológicos. Os resultados serão analisados com medidas e bases de dados tradicionais na literatura da área..
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador / Péricles Miranda - Integrante / Rafael Ferreira Leite de Mello - Integrante.
+2018 - 2021
+Utilização de mineração de texto e learning analytics para análise de dados educacionais
+
+Projeto certificado pelo(a) coordenador(a) Rafael Ferreira Leite de Mello em 06/09/2021.
+Descrição: Devido a grande procura por cursos a distância, a utilização de ambientes virtuais de aprendizagem tem aumentado consideravelmente a geração de dados que devem ser acompanhados pelos professores. Com isso, o acompanhamento individual dos alunos nesses ambientes é cada vez mais difícil, acarretando na falta de interesse, o que implica piora do desempenho ou até mesmo a evasão do aluno. Diante disto, faz-se necessário a aplicação de técnicas computacionais para auxiliar professores nesse acompanhamento. Dentro deste contexto, desde a década passada vem se desenvolvendo técnicas de learning analytics para extrair de forma automática informações de dados gerados em ambientes virtuais utilizados para o ensino. A proposta deste projeto de pesquisa é utilizar técnicas de mineração de texto para auxiliar o professor nas ferramentas relacionadas à produção de texto, como fórum e correção de redações e envio de feedback personalizado. Isto pode ajudar o professor na condução de cursos a distância, reduzir o índice de evasão dos alunos e dar uma resposta mais detalhada e efetiva na correção de redações.
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (2) / Doutorado: (4) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Péricles Miranda - Integrante / Rafael Ferreira Leite de Mello - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / FALCAO, TACIANA PONTUAL - Integrante.
+2016 - 2018
+Meta-Aprendizado para Construção Automática de Sistemas de Aprendizagem de Máquina
+Descrição: Esse projeto investiga técnicas de meta-aprendizado para seleção de algoritmos. Em especial, destacamos a investigação de meta-aprendizado em situações de mudanças contextuais, como exemplo, mudanças de distribuição dos dados. Outros aspectos relacionados a meta-aprendizado são investigados ainda, como a geração de bases de meta-exemplos.
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Luciano Souza - Integrante / João Emanoel Ambrósio Gomes - Integrante / Péricles Miranda - Integrante / Diana Cavalcanti - Integrante / Ricardo Bastos Cavalcante Prudencio - Coordenador / Alysson Bispo - Integrante / Danilo C. G. de Lucena - Integrante.
+2015 - 2018
+Monitoramento Automático de Banhistas na Faixa Segura da Praia
+
+Projeto certificado pelo(a) coordenador(a) Valmir Macario Filho em 29/10/2015.
+Descrição: O objetivo desse projeto é desenvolver um protótipo de um sistema para rastreamento automático de objetos a partir de imagens de câmeras com aplicação ao reconhecimento e rastreamento de banhistas nas praias da região metropolitana de Recife.
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Valmir Macário Filho - Coordenador / Rafael Ferreira Leite de Mello - Integrante / Filipe Rolim Cordeiro - Integrante / João Paulo Silva do Monte Lima - Integrante / Ricardo Luna da Silva - Integrante.
+2013 - 2016
+Meta-Aprendizado e Algoritmos de Otimização para Seleção de Parâmetros com Múltiplos Objetivos - Edital Universal Processo (470970/2013-8)
+Descrição: Esse projeto investiga a combinação de técnicas de recomendação de parâmetros baseadas em meta-aprendizado para inicialização de algoritmo de otimização. Experimentos serão realizados em estudos de casos considerando multiplos objetivos na otimização de parâmetros.
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) / Doutorado: (5) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Luciano Souza - Integrante / PRUDÊNCIO, RICARDO B.C. - Coordenador / João Gomes - Integrante / Péricles Miranda - Integrante / Diana Cavalcanti - Integrante / Carlos Mello - Integrante.
+2013 - 2016
+Técnicas de Meta-Aprendizado para Seleção de Algoritmos
+Descrição: O projeto investigas diferentes aspectos associados ao problema de seleção de algoritmos em diferentes domínios, com o foco no uso da abordagem de meta-aprendizado. São abordados no projeto os problemas de seleção e construção de meta-exemplos e técnicas para recomendação de algoritmos.
+Situação: Concluído; Natureza: Pesquisa.
+Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (4) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Luciano Souza - Integrante / PRUDÊNCIO, RICARDO B.C. - Coordenador / João Gomes - Integrante / Péricles Miranda - Integrante / Carlos Mello - Integrante.
+2011 - 2013
+Núcleo de Excelência em Aprendizado de Máquina
+Descrição: O Aprendizado de Máquina é uma subárea de pesquisa da Inteligência Computacional que estuda o desenvolvimento de métodos capazes de extrair conceitos (conhecimentos) a partir de conjuntos de dados. Duas das principais linhas de pesquisa em Aprendizado de Máquina são agrupamento de dados e a classificação de dados. Classificação de dados procura, dado um conjunto de exemplos de treinamento, encontrar uma função que associe cada exemplo em uma classe ou rótulo. Agrupamento de dados investiga técnicas capazes de organizar dados cuja classe é desconhecida em grupos de forma que dados pertencentes a um mesmo grupo sejam mais semelhantes do que dados pertencentes a grupos diferentes. Neste projeto o Núcleo de Excelência em Aprendizado de Máquina, formado por pesquisadores de várias instituições de Pernambuco (UFPE, UFRPE, IFPE) e do Brasil (USP, UFRJ) irá investigar técnicas de Aprendizado de Máquina aplicados a problemas de Bioinformática..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (13) / Mestrado acadêmico: (33) / Doutorado: (37) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Ricardo Bastos Cavalcante Prudêncio - Integrante / Marcílio C. P. de Souto - Integrante / Francisco de Assis Tenório de Carvalho - Integrante / Teresa B. Ludermir - Coordenador / André C. P. L. F. de Carvalho - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro / Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+2011 - 2013
+Sistemas Inteligentes Híbridos para Mineração de Textos (APQ-Edital FACEPE 09-2010)
+Descrição: O presente projeto se propõe a investigar o uso de sistemas inteligentes híbridos, mais especificamente o uso de métodos de combinação de algoritmos, em tarefas de mineração de texto. O uso de combinação de algoritmos tem se mostrado bem sucedido em problemas de mineração de dados tradicionais. No presente projeto, pretendemos investigar se o mesmo ganho de desempenho pode ser alcançado em tarefas de mineração de texto. Focaremos nossas implementações e experimentos em duas tarefas importantes nesse contexto: classificação de textos e agrupamento de textos, com resultados preliminares já alcançados pela equipe do projeto. Destacamos que o projeto é decorrente de pesquisas anteriores realizadas pela equipe do projeto em temas mais abrangentes de sistemas inteligentes híbridos e mineração de textos. O projeto será executado com o apoio de professores e alunos do Centro de Informática da UFPE..
+Situação: Em andamento; Natureza: Pesquisa.
+Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (2) / Doutorado: (2) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Flávia Almeida Barros - Integrante / Ricardo Bastos Cavalcante Prudêncio - Coordenador / Marcos Cardoso - Integrante / Marcelo Nunes Ribeiro - Integrante / Luciano Souza - Integrante / Hially Sá - Integrante / Hudson Felipe Peres da Silva - Integrante / Tiago Neves Bastos - Integrante / Thales Albuquerque - Integrante.
+Financiador(es): Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco - Auxílio financeiro.
+2007 - 2009
+Aprendizagem Ativa para Seleção de Exemplos de Treinamento em Meta-Aprendizado - Edital Universal 15/2007
+Descrição: Meta-Aprendizado é um arcabouço que tem como um dos objetivos a seleção automática de algoritmos de Aprendizado de Máquina. Nesse contexto, cada exemplo de treinamento (ou meta-exemplo) é relacionado a um problema de aprendizado resolvido no passado e armazena as características do problema e informações sobre o desempenho dos algoritmos quando aplicados ao problema. Nesse projeto, propomos investigar o uso de técnicas de Aprendizagem Ativa para auxiliar a geração de meta-exemplos. Aprendizagem Ativa tem como motivação principal reduzir o número de exemplos usados no treinamento, ao mesmo tempo mantendo a qualidade do processo de aprendizado. No presente projeto, o uso de Aprendizagem Ativa tem como objetivo diminuir o tamanho do conjunto de meta-exemplos, selecionando apenas os problemas considerados mais relevantes e, conseqüentemente, reduzindo o número de avaliações empíricas realizadas com os algoritmos candidatos. Destacamos a integração em Meta-Aprendizado e Aprendizagem Ativa é original na área de Aprendizado de Máquina e deverá originar diferentes trabalhos de pesquisa.
+Situação: Concluído; Natureza: Pesquisa.
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Ricardo Bastos Cavalcante Prudêncio - Coordenador / Francisco de Assis Tenório de Carvalho - Integrante / Teresa B. Ludermir - Integrante / Renata Maria Cardoso Rodrigues de Souza - Integrante.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Auxílio financeiro.
+
+
+Projetos de extensão
+2022 - 2022
+Programação Aplicada com Inteligência Artificial
+Descrição: Na extensão tecnológica estudantes são imersos nos problemas da empresa parceira (similar a um estágio), para tentar identificar possíveis soluções ou executar desafios propostos pela CESAR School. ● Dentre os desafios propostos pela parceira, estão: ○ Desenvolver um sistema de Análise de sentimentos em interações dos usuários da comunidade stackoverflow durante o período da pandemia COVID?19; ○ Desenvolver um sistema de recomendação baseado em uma rede neural e que é alimentada pelo dataset Vespa. ● Desafios foram solucionados no prazo da extensão tecnológica. ● Como resultado, a empresa percebeu a importância do programa como forma de aproximação entre empresa e academia, promovendo oportunidades e prática profissional para estudantes..
+Situação: Concluído; Natureza: Extensão.
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / MELLO, RAFAEL F.L. - Coordenador / Luciano de Souza Cabral - Integrante.
+2015 - 2016
+A Olimpíada Brasileira de Informática na UFRPE - OBI 2016
+
+Projeto certificado pelo(a) coordenador(a) Rafael Ferreira Leite de Mello em 10/07/2020.
+Descrição: A Sociedade Brasileira de Computação (SBC) realiza a XVIII Olimpíada Brasileira de Informática (OBI 2016). O objetivo da OBI é despertar nos alunos o interesse pela Ciência da Computação, que é fundamental na formação básica atual. A organização da OBI2016 está a cargo do Instituto de Computação da UNICAMP. O Departamento de Informática e Estatística (DEINFO) da UFRPE propõe a utilização da olimpíada para difundir os conceitos fundamentais de computação. Para isso DEINFO vai incentivar e apoiar a participação das escolas na OBI2016.O objetivo deste projeto é incentivar as escolas públicas e particulares para participar da OBI e prover recursos para treinamento dos alunos da escola pública.
+Situação: Concluído; Natureza: Extensão.
+Alunos envolvidos: Graduação: (8) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Valmir Macário Filho - Integrante / Péricles Miranda - Integrante / Rafael Ferreira Leite de Mello - Coordenador / Douglas Véras e Silva - Integrante.
+
+
+Projetos de ensino
+2020 - 2021
+Curso de Especialização em Inteligência Computacional Aplicada
+
+Projeto certificado pelo(a) coordenador(a) Péricles Barbosa Cunha de Miranda em 05/09/2021.
+Descrição: O Curso de Especialização em Inteligência Computacional Aplicada é um projeto de formação aprovado no Edital PITEC 13/2019 da FACEPE que tem o objetivo de formar profissionais na área de Inteligência Computacional. Através de uma metodologia de ensino baseada em problemas (PBL), os alunos interagem com a teoria e aplicam o conhecimento em projetos práticos do mundo real.
+Situação: Concluído; Natureza: Ensino.
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Valmir Macário Filho - Integrante / Péricles Miranda - Coordenador / Rafael Ferreira Leite de Mello - Integrante / Ana Paula Carvalho Cavalcanti Furtado - Integrante / George Gomes Cabral - Integrante / João Paulo Monte de Lima - Integrante / Rafael Dueire Lins - Integrante.
+2020 - Atual
+InternAbroad: University of South-Eastern Norway
+
+Projeto certificado pelo(a) coordenador(a) Rafael Ferreira Leite de Mello em 21/12/2021.
+Descrição: Projeto de intercâmbio entre a Universidade Federal Rural de Pernambuco e a University of South-Eastern Norway..
+Situação: Em andamento; Natureza: Ensino.
+Alunos envolvidos: Graduação: (9) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Rafael Ferreira Leite de Mello - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / MIRANDA, PERICLES B.C. - Integrante / Boban Vesin - Integrante / Siri Bjornstad - Integrante.
+Financiador(es): Norwegian Agency for International Cooperatio-DIKU - Cooperação.
+
+
+Projetos de desenvolvimento
+2025 - 2025
+Utilização de IA Generativa para comunicação alternativa
+Descrição: Este projeto de pesquisa e desenvolvimento visa explorar e aprimorar o uso de técnicas de Processamento de Linguagem Natural (PLN) para a geração automática de cartões de comunicação contextualizados, integrando soluções de Inteligência Artificial (IA) generativa e otimizações de experiência do usuário (UX). Esses cartões, compostos por pictogramas e texto, são amplamente utilizados em métodos de Comunicação Alternativa e Aumentativa (CAA) para facilitar a interação de pessoas com necessidades comunicativas complexas. A proposta busca não apenas desenvolver um sistema eficiente para a geração de conteúdos, mas também projetar interfaces intuitivas e acessíveis, que otimizem a interação do usuário com a ferramenta..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (3) / Especialização: (1) / Mestrado acadêmico: (1) / Mestrado profissional: (0) / Doutorado: (0) .
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador.
+2025 - Atual
+JandaIA Modelo de Linguagem para Comunicação Assistiva
+Descrição: Este projeto de pesquisa e desenvolvimento visa explorar e aprimorar o uso de técnicas de Processamento de Linguagem Natural (PLN) para a geração automática de cartões de comunicação contextualizados, integrando soluções de Inteligência Artificial (IA) generativa e otimizações de experiência do usuário (UX). Esses cartões, compostos por pictogramas e texto, são amplamente utilizados em métodos de Comunicação Alternativa e Aumentativa (CAA) para facilitar a interação de pessoas com necessidades comunicativas complexas.Para tanto, serão aplicadas técnicas de fine tuning de LLMs, para produção de modelos especializados ao contexto de comunicação alternativa..
+Situação: Em andamento; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (0) Graduação: (2) / Especialização: (0) / Mestrado acadêmico: (3) / Mestrado profissional: (0) / Doutorado: (1) .
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador.
+2023 - 2024
+VAI Ciencia de dados e IOT Agnostico
+Descrição: A demanda por soluções de segurança proativas e personalizadas para frotas de veículos de locadoras tem impulsionado a busca por tecnologias inovadoras. A adoção de ferramentas de monitoramento avançadas torna-se uma estratégia crucial para empresas que desejam se destacar no mercado e oferecer alternativas de gestão de frotas mais eficazes. Neste contexto, a pesquisa em telemetria e inteligência artificial (IA) apresenta grande relevância, pois essas tecnologias permitem coletar e processar dados de veículos em tempo real, identificando padrões e anomalias no comportamento de condução, essenciais para uma detecção imediata de incidentes..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (0) Graduação: (0) / Mestrado acadêmico: (1) / Doutorado: (2) .
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador / Frederico Duarte de Menezes - Integrante / Adriano Gomes - Integrante / Lucas Busata Galhardi - Integrante.
+2023 - 2024
+Utilizacao de tecnicas de IHC e IA no contexto de comunicacao assistiva
+Descrição: O projeto em foco tem como objetivo aprimorar a experiência do usuário (UX) e otimizar a interface de uma aplicação voltada para a Comunicação Alternativa e Aumentada (CAA). A CAA é essencial para facilitar a comunicação de indivíduos que enfrentam desafios na expressão oral, seja devido a condições como paralisia cerebral, esclerose lateral amiotrófica, síndrome de Down, autismo, entre outras. Um método amplamente utilizado nesse contexto é o Sistema de Comunicação por Troca de Figuras (PECS), que se baseia em pranchas físicas contendo representações visuais de conceitos a serem comunicados, como verbos (por exemplo, comer ou brincar), locais, alimentos, entre outros.O Livox é uma inovação tecnológica que se alinha a esse princípio, adotando o método PECS e disponibilizando as pranchas de comunicação em dispositivos móveis, como tablets. Isso proporciona personalização e agilidade na comunicação para os usuários da CAA. Além da comunicação, a comunidade de usuários do Livox começou a criar outros tipos de conteúdos, educacionais e lúdicos, o que despertou a ideia de expandir as funcionalidades da plataforma, visando estimular a criatividade e potencializar as capacidades das pessoas que enfrentam desafios na comunicação oral, ampliando assim a inclusão.Nesse contexto, o presente projeto se propõe a investigar aspectos de usabilidade e melhorias de interface, em especial, na criação de conteúdos dentro da plataforma. Serão avaliadas estratégias para acelerar e melhorar a experiência do usuário, utilizando técnicas de Interação Humano-Computador e Inteligência artificial..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (2) / Especialização: (1) / Mestrado acadêmico: (1) / Mestrado profissional: (0) / Doutorado: (3) .
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / Taciana Pontual da Rocha Falcão - Integrante / Renata De Andrade Bezerra Neiva Pagano - Integrante / Silas Augusto Ramos Dos Santos - Integrante.
+2023 - 2023
+Aprender Brincando: inclusão de pessoas neurodivergentes em atividades lúdicas
+Descrição: A comunicação alternativa e aumentada (CAA) é uma forma de viabilizar a comunicação de pessoas que, por diversos motivos, têm dificuldades de comunicação oral (devido a paralisia cerebral, esclerose lateral amiotrófica, síndrome de Down ou autismo, entre diversas outras possibilidades). Um método muito popular da CAA é o Picture Exchange Communication System (PECS), que consiste de pranchas de cartões físicos com representações pictóricas de ideias a serem comunicadas (por exemplo, verbos para indicar ações como comer ou brincar; lugares; comidas; etc.). Tecnologias de CAA em geral baseiam-se no método PECS, com pranchas de comunicação disponibilizadas em dispositivos móveis (Tablets), provendo personalização e reduzindo o atraso de comunicação quando uma das pessoas usa a CAA. Comumente, usuários vão além da comunicação, desenvolvendo novas funcionalidades que ampliam as possibilidades criativas das pessoas com dificuldade de comunicação oral. Daí nasceu o presente projeto, com a seguinte questão de pesquisa: como possibilitar a criação de jogos casuais por usuários finais, de maneira integrada à uma plataforma de CAA, no contexto da comunicação alternativa e aumentada?.
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (1) Graduação: (18) / Mestrado acadêmico: (1) / Mestrado profissional: (1) / Doutorado: (4) .
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante / Taciana Pontual da Rocha Falcão - Integrante / Marcelo Rodrigo Portela Ferreira - Integrante.
+2022 - 2023
+Aprendizagem de representações de produtos no contexto de e-commerce
+
+Projeto certificado pelo(a) coordenador(a) Rafael Ferreira Leite de Mello em 27/06/2022.
+Descrição: Para sites de e-commerce, sistemas de busca são ferramentas fundamentais para auxiliar clientes a encontrar produtos relevantes, e pode ser o diferencial a realização ou não uma transação. Contudo, os modelos de representação usados neste contexto são compostas de vetores densos de grandes dimensões, que estão associados a alto custo de memória em tempo de inferência. Neste projeto, serão propostos novos modelos de compressão de representações vetoriais para realização de buscas mais eficientes.
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (2) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Rafael Ferreira Leite de Mello - Coordenador / Thiago Veras - Integrante / Átila Bittencourt - Integrante / Rafael de Lima Pacheco Silva - Integrante.
+2021 - 2023
+UM FRAMEWORK PARA ENGENHARIA DE SOFTWARE APLICADA AO CONTEXTO DE INTELIGÊNCIA ARTIFICIAL
+Descrição: Este projeto tem como objetivo desenvolver pesquisas focadas em Engenharia de Software, incluindo testes, inteligência artificial, ciência de dados e analíticas de aprendizagem, buscando desenvolver soluções aplicadas ao contexto da prática profissional na indústria, seja em organizações nascentes ou maduras, orientadas à produção de software..
+Situação: Concluído; Natureza: Desenvolvimento.
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador / Ana Paula Carvalho Cavalcanti Furtado - Integrante.
+2021 - 2023
+Expeditus: Investigação e experimentação de estratégias de busca para a aumentar a eficiência dos resultados em sistemas de e-commerce.
+
+Projeto certificado pela empresa Centro de Estudos e Sistemas Avançados do Recife em 06/09/2022.
+Descrição: Dada uma consulta do usuário, a qualidade dos resultados da pesquisa é um fator importante que afeta a satisfação do usuário. Quando os sinais de qualidade são associados a padrões rotulados, seja implicitamente (por exemplo, por meio de dados comportamentais do usuário) ou explicitamente (por exemplo, por meio de anotações manuais) uma abordagem Learning-to-Rank (LTR) é normalmente usada para treinar um modelo de classificação sobre os resultados da pesquisa. O modelo classifica produtos no que diz respeito à consulta, com o objetivo de atingir o máximo de concordância geral com a classificação induzida pelos sinais de qualidade dados, onde a concordância é normalmente por métricas padrão da área de recuperação de informações, como precisão, revocação, NDCG ou MRR. Neste projeto, serão investigadas estratégias de definição de relevância e processamento de linguagem natural para tratamento de queries..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (1) / Doutorado: (2) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Átila Andrade Bittencourt Paula - Coordenador.
+2021 - 2022
+Plataforma +PNE e TC Educa: Integrando Dados Conectados, Inteligência Artificial e Análise de Dados
+
+Projeto certificado pelo(a) coordenador(a) Rafael Ferreira Leite de Mello em 21/12/2021.
+Descrição: Planejamento, concepção, implementação e avaliação dos processos que subsidiam a manutenção, atualização e integração dos processos e sistemas necessários para o ecossistema computacional dos escopos vinculados à Plataforma Nacional de Planos de Educação +PNE e TC Educa: (1) apoiar o processo de elaboração e adequação dos Planos Subnacionais de Educação, em nível municipal, estadual e federal.; (2) apoiar a avaliação contínua, por meio de utilização de dados, a fim de assegurar o suporte ao processo de tomada de decisão baseada em evidência dos stakeholders envolvidos no processo. Além destes objetivos, também haverá capacitação dos usuários, capacitação da equipe técnica para implantação dos sistemas desenvolvidos e disponibilização do código fonte e documentação dos sistemas desenvolvidos ao MEC..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (3) / Doutorado: (1) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Rafael Ferreira Leite de Mello - Coordenador / Ig Ibert - Integrante / Seiji Isotani - Integrante / Gabriel Alves - Integrante / Taciana Pontual da Rocha Falcão - Integrante / Péricles B. C. de Miranda - Integrante / Ibsen Mateus Bittencourt Santana Pinto - Integrante.
+Financiador(es): Ministério da Educação - Cooperação.
+2021 - 2022
+Utilização de Analíticas de Aprendizagem e gamificação para personalizar o ensino de alfabetização
+
+Projeto certificado pela empresa Agora Eu Consigo em 09/06/2023.
+Descrição: Segunda fase do projeto anterior. Desenvolvimento de plataforma educacional para compartilhamento e democratização de acesso a conteúdos para educação e alfabetização utilizando técnicas de gamificação e analíticas de aprendizagem..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (1) Graduação: (5) .
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador / Rafael Ferreira Leite de Mello - Integrante / Péricles B. C. de Miranda - Integrante.
+2020 - 2021
+Utilização de analíticas de aprendizagem e gamificação para personalizar o ensino de alfabetização
+
+Projeto certificado pela empresa Agora Eu Consigo em 07/06/2023.
+Descrição: Desenvolvimento de plataforma educacional para ensino de matemática básica e alfabetização utilizando técnicas de gamificação e analíticas de aprendizagem. Mais especificamente, vamos utilizar como base o aplicativo do livox, mas será desenvolvida uma nova plataforma que vai prover serviços educacionais para auxiliar professores e alunos no processo de ensino aprendizagem.
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (5) / Mestrado acadêmico: (1) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Péricles Miranda - Integrante / Rafael Ferreira Leite de Mello - Coordenador.
+2020 - 2021
+Extração de informação e classificação em textos jurídicos
+Descrição: A demanda por softwares capazes de aumentar a eficiência de operadores do direito, tais como escritórios de advocacia, tribunais, órgãos legislativos e administrativos, tem crescido vertiginosamente. O objetivo neste projeto consiste no desenvolvimento de uma plataforma online para processamento automático de textos de natureza jurídica, utilizando técnicas de processamento de textos e aprendizagem de máquina..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (4) .
+
+Integrantes: André Câmara Alves do Nascimento - Coordenador / Péricles Miranda - Integrante / Rafael Ferreira Leite de Mello - Integrante / Ana Paula Carvalho Cavalcanti Furtado - Integrante.
+Financiador(es): NESS Processos e Tecnologia LTDA - Cooperação.
+2019 - 2020
+Desevolvimento de serviços educacionais para auxílio a pessoas com dificuldades de comunicação
+Descrição: O objetivo deste projeto é desenvolver e implantar novas tecnologias ao sistema Livox visando estimular a conversação e interação entre professores e alunos com e sem deficiência. Serão utilizadas técnicas de processamento de linguagem natural para melhorar o sistema de recomendação de sentenças do aplicativo para geração de frases mais complexas atendendo assim às necessidades tanto dos alunos que estão nos últimos anos do ensino fundamental quanto de seus professores. Além disto, será incluído no sistema um novo módulo para geração automática de perguntas e respostas focado no conteúdo programático do 6º ao 9º ano que poderá ser usado por todos os alunos da escola.
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (0) Graduação: (5) / Especialização: (0) / Mestrado acadêmico: (1) / Mestrado profissional: (0) / Doutorado: (0) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Péricles Miranda - Integrante / Rafael Ferreira Leite de Mello - Coordenador.
+2009 - 2012
+OjE control panel - ferramentas de monitoramento e análise para as Olimpíadas de jogos digitais e educação
+Descrição: Este projeto teve como finalidade desenvolver uma plataforma analítica através do uso de ferramentas e técnicas de integração e análise de dados utilizando técnicas de mineração de dados..
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Graduação: (3) / Mestrado acadêmico: (3) / Doutorado: (1) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Isabella Rossiley Moreira dos Santos - Integrante / João Emanoel Ambrósio Gomes - Integrante / Ivan Patriota de Siqueira Júnior - Coordenador.
+Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa.
+
+
+Revisor de periódico
+2020 - Atual
+Periódico: EXPERT SYSTEMS WITH APPLICATIONS
+2020 - Atual
+Periódico: IEEE Transactions on Neural Networks and Learning Systems
+2018 - 2019
+Periódico: IEEE-ACM Transactions on Computational Biology and Bioinformatics
+2018 - Atual
+Periódico: Journal of Biomedical Informatics
+2017 - Atual
+Periódico: Evolutionary Bioinformatics
+2016 - 2016
+Periódico: Scientific Reports
+
+
+Áreas de atuação
+1.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação.
+2.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Artificial/Especialidade: Reconhecimento de padrões.
+3.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Artificial/Especialidade: Recuperação de Informação.
+4.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Inteligência Artificial/Especialidade: Classificação e clustering.
+5.
+Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Biologia Computacional.
+
+
+Idiomas
+Inglês
+Compreende Bem, Fala Bem, Lê Bem, Escreve Bem.
+Espanhol
+Compreende Pouco, Lê Pouco.
+
+
+Produções
+
+Produção bibliográfica
+Artigos completos publicados em periódicos
+
+
+Ordenar por
+Ordem Cronológica
+1.
+HIDA, GILBERTO SUSSUMU ; ALVES DO NASCIMENTO, ANDRÉ CÂMARA . Overview of machine learning in class imbalance scenarios: Trends, challenges, and approaches. EXPERT SYSTEMS WITH APPLICATIONS, v. 298, p. 129592, 2026. Citações:2
+
+2.
+ANDRADE, JOÃO PEDRO F. ; SI, TAPAS ; CAVALCANTI, ANA PAULA ; NASCIMENTO, ANDRÉ C.A. ; MIRANDA, PÉRICLES B.C. . SUSAN: A deep learning-based architecture for violence detection against women in surveillance videos. EXPERT SYSTEMS WITH APPLICATIONS, v. 1, p. 127337, 2025.
+
+3.
+Nogueira Barros, A. ; ALBUQUERQUE, A. F. ; ALENCAR, A. ; NASCIMENTO, A. C. A. ; Rafael Ferreira . Workflow for the acquisition, processing, and dissemination of Brazilian public data focused on education. Journal of Information and Data Management - JIDM, v. 15, p. 224-233, 2024.
+
+4.
+DE LIMA, TIAGO BARBOSA ; ROLIM, VITOR ; NASCIMENTO, ANDRÉ C.A. ; MIRANDA, PÉRICLES ; MÁCARIO, VALMIR ; RODRIGUES, LUIZ ; FREITAS, ELYDA ; GA?EVI', DRAGAN ; MELLO, RAFAEL FERREIRA . Towards explainable automatic punctuation restoration for Portuguese using transformers. EXPERT SYSTEMS WITH APPLICATIONS, v. 1, p. 125097, 2024. Citações:2
+
+5.
+VERSLYPE, NINA IRIS ; NASCIMENTO, A. C. A. ; DOS SANTOS MUSSER, ROSIMAR ; MARTINS, L. S. S. ; MONTARROYOS, A. V. V. ; PRUDENCIO, R. B. C. . Porta-enxertos de videira: mecanismos de adaptação frente às mudanças climáticas. ANAIS DA ACADEMIA PERNAMBUCANA DE CIÊNCIA AGRONÔMICA, v. 20, p. 1, 2024.
+
+6.
+VERSLYPE, NINA IRIS ; DO NASCIMENTO, ANDRÉ CÂMARA ALVES ; DOS SANTOS MUSSER, ROSIMAR ; DE SOUZA CALDAS, RAPHAEL MILLER ; MARTINS, LUIZA SUELY SEMEN ; DE SOUZA LEÃO, PATRÍCIA COELHO . Drought tolerance classification of grapevine rootstock by machine learning for the São Francisco Valley. Smart Agricultural Technology, v. 1, p. 100192, 2023. Citações:6|9
+
+7.
+ANDRE, MAVERICK ; FERREIRA MELLO, RAFAEL ; NASCIMENTO, ANDRE ; DUEIRE LINS, RAFAEL ; GASEVIC, DRAGAN . Toward Automatic Classification of Online Discussion Messages for Social Presence. IEEE Transactions on Learning Technologies, v. 1, p. 1-1, 2022. Citações:12|13
+
+8.
+DA SILVA, CLEBER A.C.F. ; ROSA, DANIEL CARNEIRO ; MIRANDA, PÉRICLES B.C. ; CORDEIRO, FILIPE R. ; SI, TAPAS ; NASCIMENTO, ANDRÉ C.A. ; MELLO, RAFAEL F.L. ; DE MATTOS NETO, PAULO S.G. . A novel multi-objective grammar-based framework for the generation of Convolutional Neural Networks. EXPERT SYSTEMS WITH APPLICATIONS, v. 1, p. 1, 2022. Citações:3|2
+
+9.
+SI, T. ; MIRANDA, P. ; GALDINO, J. V. ; NASCIMENTO, A. C. A. . Grammar-based Automatic Programming for Medical Data Classification: An Experimental Study. ARTIFICIAL INTELLIGENCE REVIEW, v. 54, p. -, 2021. Citações:12|12
+
+10.
+DIAS, LUCAS V. ; MIRANDA, PÉRICLES B.C. ; NASCIMENTO, ANDRÉ C.A. ; CORDEIRO, FILIPE R. ; MELLO, RAFAEL FERREIRA ; PRUDÊENCIO, RICARDO B.C . ImageDataset2Vec: An Image Dataset Embedding for Algorithm Selection. EXPERT SYSTEMS WITH APPLICATIONS, v. X, p. 115053, 2021. Citações:13|11
+
+11.
+MIRANDA, PÉRICLES B.C. ; MELLO, RAFAEL FERREIRA ; NASCIMENTO, ANDRÉ C.A. . A multi-objective optimization approach for the group formation problem. EXPERT SYSTEMS WITH APPLICATIONS, v. 162, p. 113828, 2020. Citações:13|13
+
+12.
+ GOMES, JOÃO E. A. ; PRUDENCIO, R. B. C. ; NASCIMENTO, A. C. A. . Centrality-Based Group Profiling: A Comparative Study in Co-authorship Networks. NEW GENERATION COMPUTING, v. --, p. --, 2017. Citações:1|2
+
+13.
+ Nascimento, André C. A.; PRUDÊNCIO, RICARDO B. C. ; Costa, Ivan G. . A multiple kernel learning algorithm for drug-target interaction prediction. BMC BIOINFORMATICS, v. 17, p. 46, 2016. Citações:169|188
+
+14.
+ BARROS, FLÁVIA A. ; SILVA, EDUARDO F. A. ; PRUDÊNCIO, RICARDO B. C. ; FILHO, VALMIR M. ; NASCIMENTO, A. C. A. . COMBINING TEXT CLASSIFIERS AND HIDDEN MARKOV MODELS FOR INFORMATION EXTRACTION. International Journal of Artificial Intelligence Tools, v. 18, p. 311-329, 2009. Citações:5|5
+
+Capítulos de livros publicados
+
+1.
+Alves, Alexandre ; MIRANDA, PÉRICLES ; MELLO, RAFAEL ; NASCIMENTO, ANDRÉ . Automatic Simplification of Legal Texts in Portuguese Using Machine Learning. Frontiers in Artificial Intelligence and Applications. 1ed.: IOS Press, 2023, v. 379, p. 281-286.
+
+2.
+Douglas Véras ; NASCIMENTO, A. C. A. ; CALLOU, G. . Towards Recommender Systems Integrating Contextual Information from Multiple Domains through Tensor Factorization. In: Abhishek Majumder; Joy Lal Sarkar; Arindam Majumder. (Org.). Artificial Intelligence and Data Science in Recommendation System: Current Trends, Technologies and Applications. 1ed.Sharjah: Bentham Science, 2023, v. 1, p. 72-109.
+
+3.
+NASCIMENTO, A. C. A.; COELHO, J. L. ; MELLO, R. F. L. ; MIRANDA, P. B. C. . Aplicação da Inteligência Computacional no Judiciário. In: FGV. (Org.). TECNOLOGIA APLICADA À GESTÃO DOS CONFLITOS NO ÂMBITO DO PODER JUDICIÁRIO BRASILEIRO. 1ed.Rio de Janeiro: FGV, 2022, v. 1, p. 26-37.
+
+4.
+Nascimento, André C. A.; PRUDÊNCIO, RICARDO B. C. ; Costa, Ivan G. . A Drug-Target Network-Based Supervised Machine Learning Repurposing Method Allowing the Use of Multiple Heterogeneous Information Sources. In: Quentin Vanhaelen. (Org.). Methods in Molecular Biology. 01ed.New York: Springer New York, 2019, v. 01, p. 281-289.
+
+5.
+Neamtu, Rodica ; Camara, André ; Pereira, Carlos ; Ferreira, Rafael . Using Artificial Intelligence for Augmentative Alternative Communication for Children with Disabilities. Lecture Notes in Computer Science. 1ed.: Springer International Publishing, 2019, v. 11746, p. 234-243.
+
+Trabalhos completos publicados em anais de congressos
+
+1.
+NASCIMENTO, A. C. A.; PEREZ-SANAGUSTIN, M. ; PARMENTIER, J. F. ; HILLIGER, I. ; FERRETTINI, G. ; MELLO, RAFAEL F. L. . Exploring the Impact of LLM-Based Scaffolding on Academic Performance and the Mediating Roles of AI Literacy and Prior Knowledge. In: European Conference on Technology Enhanced Learning, 2025, Durham. wo Decades of TEL. From Lessons Learnt to Challenges Ahead. EC-TEL 2025. Lecture Notes in Computer Science, 2025. v. 16063. p. 382-296.
+
+2.
+DE MELLO, RAFAEL ; RODRIGUES, L. ; SOUZA, E. ; BATISTA, H. ; LINS, M. ; NASCIMENTO, A. C. A. ; GASEVIC, DRAGAN . Automatic Detection of Narrative Rhetorical Categories and Elements on Middle School Written Essays. In: Artificial Intelligence in Education. AIED 2024, 2024, Recife. Lecture Notes in Computer Science, 2024. v. 14829. p. 295-308.
+
+3.
+MIRANDA, PÉRICLES B.C. ; MONTE, LEONARDO ; Nascimento, André C. A. ; BASGALUPP, MÁRCIO P. ; COELHO, JOSÉ LEOVIGILDO . Machine Learning and IoT for Predicting the Productivity of MRI Equipment. In: 2024 International Joint Conference on Neural Networks (IJCNN), 2024, Yokohama. 2024 International Joint Conference on Neural Networks (IJCNN), 2024. p. 1-8.
+
+4.
+FALCAO, T. P. R. ; MACHADO, K. ; PINTO NETO, Z. ; MIRANDA, A. ; FURTADO, A. P. C. C. ; RODRIGUES, P. ; PEREIRA, C. ; NASCIMENTO, A. C. A. . ?Should I use my imagination?? An attempt at co-designing a game editor within an app for alternative communication with children with autism. In: XXIII Brazilian Symposium on Human Factors in Computing Systems, 2024, Brasília. Proceedings of the XXIII Brazilian Symposium on Human Factors in Computing Systems, 2024.
+
+5.
+DUARTE, EMANUEL FELIPE ; TOLEDO PALOMINO, PAULA ; PONTUAL FALCÃO, TACIANA ; PORTO, GRACE LIS PROENÇA MEIRELES BARRETO ; PORTELA, CARLOS DOS SANTOS ; RIBEIRO, DOUGLAS FRANCISCO ; NASCIMENTO, ANDRÉ ; COSTA AGUIAR, YUSKA PAOLA ; SOUZA, MAURÍCIO ; MOUTIN SEGORIA GASPAROTTO, ANGELITA ; MACIEL TODA, ARMANDO . GranDIHC-BR 2025-2035 - GC6: Implications of Artificial Intelligence in HCI: A Discussion on Paradigms Ethics and Diversity Equity and Inclusion. In: IHC 2024: XXIII Brazilian Symposium on Human Factors in Computing Systems, 2024, Brasília - DF RJ Brazil. Proceedings of the XXIII Brazilian Symposium on Human Factors in Computing Systems, 2024. p. 1.
+
+6.
+SILVA, VICTOR E. DE S. ; LACERDA, T. B. ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; CHAGAS, A. R. C. ; FURTADO, A. P. C. C. . Federated Learning and Mel-Spectrograms for Physical Violence Detection in Audio. In: Brazilian Conference on Intelligent Systems, 2023, Belo Horizonte. Intelligent Systems. BRACIS 2023. Lecture Notes in Computer Science. Cham: Springer, 2023. v. 14197. p. 379-393.
+
+7.
+VIDAL, V. ; BASTOS, T. ; MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. . On the impact of missing value imputation methods for multiple kernel learning on bipartite graphs. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 2023, Belo Horizonte. ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC). Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 199-211.
+
+8.
+SILVA FILHO, M. ; NASCIMENTO, A. C. A. ; MIRANDA, P. B. C. ; RODRIGUES, L. ; CORDEIRO, T. ; ISOTANI, S. ; BITTENCOURT, I. I. ; MELLO, R. F. L. . Automated Formal Register Scoring of Student Narrative Essays Written in Portuguese. In: WORKSHOP DE APLICAÇÕES PRÁTICAS DE LEARNING ANALYTICS EM INSTITUIÇÕES DE ENSINO NO BRASIL (WAPLA), 2023, Passo Fundo. ANAIS DO WORKSHOP DE APLICAÇÕES PRÁTICAS DE LEARNING ANALYTICS EM INSTITUIÇÕES DE ENSINO NO BRASIL (WAPLA), 2023. p. 1-11.
+
+9.
+FALCÃO, TACIANA PONTUAL ; MACHADO, KARINA ; Pereira, Carlos ; RODRIGUES, PAULO ; Furtado, Ana Paula ; NASCIMENTO, ANDRÉ . Eu também quero brincar! IA gerativa integrada à comunicação alternativa para inclusão de crianças neurodivergentes em contextos lúdicos. In: Workshop em Culturas, Alteridades e Participações em IHC, 2023, Brasil. Anais do II Workshop em Culturas, Alteridades e Participações em IHC (CAPAIHC 2023), 2023. p. 32.
+
+10.
+FERREIRA, MÁVERICK ANDRÉ DIONÍSIO ; FERREIRA MELLO, RAFAEL ; KOVANOVIC, VITOMIR ; NASCIMENTO, ANDRÉ ; LINS, RAFAEL ; GASEVIC, DRAGAN . NASC: Network analytics to uncover socio-cognitive discourse of student roles. In: LAK22: 12th International Learning Analytics and Knowledge Conference, 2022, Online USA. LAK22: 12th International Learning Analytics and Knowledge Conference. New York: ACM. p. 415.
+
+11.
+MIRANDA, PERICLES B.C. ; MELLO, RAFAEL FERREIRA ; NASCIMENTO, ANDRE C.A. ; SI, TAPAS . Multi-Objective Optimization of Sampling Algorithms Pipeline for Unbalanced Problems. In: 2022 IEEE Congress on Evolutionary Computation (CEC), 2022, Padua. 2022 IEEE Congress on Evolutionary Computation (CEC), 2022. p. 1.
+
+12.
+SILVA, VICTOR E. DE S. ; LACERDA, TIAGO B. ; MIRANDA, PERICLES B.C. ; NASCIMENTO, ANDRE C.A. ; FURTADO, ANA PAULA C. . Federated Learning for Physical Violence Detection in Videos. In: 2022 International Joint Conference on Neural Networks (IJCNN), 2022, Padua. 2022 International Joint Conference on Neural Networks (IJCNN), 2022. p. 1.
+
+13.
+LIMA, T. B. ; BRITO, K. S. ; NASCIMENTO, A. C. A. ; VALENCA, G. ; PEDROSA, F. . Using Natural Language Processing to Improve Transparency by Enhancing the Understanding of Legal Decisions.. In: EGOV-CeDEM-ePart 2022, 2022, Linköping. Proceedings of Ongoing Research, Practitioners, Workshops, Posters, and Projects of the International Conference EGOV-CeDEM-ePart 2022, 2022. v. 1. p. 173-182.
+
+14.
+BARROS, ABÍLIO NOGUEIRA ; ALENCAR, ANDREZA ; NASCIMENTO, ANDRÉ ; ALBUQUERQUE, ALDÉRYCK FÉLIX DE ; MELLO, RAFAEL FERREIRA . Elaboração do conjunto de dados agregados do censo da educação básica. In: Dataset Showcase Workshop, 2022, Brasil. Anais do IV Dataset Showcase Workshop (DSW 2022), 2022. p. 35.
+
+15.
+ALBUQUERQUE, ALDÉRYCK FÉLIX DE ; BARROS, ABÍLIO NOGUEIRA ; ALENCAR, ANDREZA ; NASCIMENTO, ANDRÉ ; BITTENCOURT, IBSEN MATEUS ; MELLO, RAFAEL FERREIRA . Dataset de Estimativas populacionais desagregada por município e idade 2014-2020. In: Dataset Showcase Workshop, 2022, Brasil. Anais do IV Dataset Showcase Workshop (DSW 2022), 2022. p. 25.
+
+16.
+BATISTA, H. ; CAVALCANTI, A. P. ; MIRANDA, P. B. C. ; NASCIMENTO, A. C. A. ; MELLO, R. F. L. . Classificação Multi-classe para Análise de Qualidade de Feedback. In: XXXIII SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO, 2022, Manaus. Anais do XXXIII SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO, 2022. p. 1114-1125.
+
+17.
+SILVA, T. B. R. ; VERSLYPE, N. I. ; NASCIMENTO, A. C. A. ; PRUDENCIO, R. B. C. . Predicting Compatibility of Cultivars in Grafting Processes Using Kernel Methods and Collaborative Filtering. In: BRACIS, 2022, Campinas. Intelligent Systems. Cham: Springer International Publishing, 2022. p. 611-625.
+
+18.
+RODRIGUES NETO, J. ; MIRANDA, P. B. C. ; MELLO, R. F. L. ; NASCIMENTO, A. C. A. . Chatbot to Support Frequently Asked Questions from Students in Higher Education Institutions. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 2022, Campinas. ANAIS DO ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC). Porto Alegre: Sociedade Brasileira de Computação, 2022. p. 591-601.
+
+19.
+Fiorentino, Giuseppe ; MIRANDA, P. B. C. ; MELLO, R. F. L. ; NASCIMENTO, A. C. A. . A Novel One-to-Many Matching Method for the Assignment Problem: An ENEM Case Study. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 2022, Campinas. ANAIS DO ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC). Porto Alegre: Sociedade Brasileira de Computação, 2022. p. 164-173.
+
+20.
+UCHOA, JOAO P. C. ; FALCAO, TACIANA PONTUAL ; NASCIMENTO, ANDRE C. ; MIRANDA, PERICLES B.C. ; MELLO, RAFAEL FERREIRA . Fostering Autonomy through Augmentative and Alternative Communication. In: 2021 International Conference on Advanced Learning Technologies (ICALT), 2021, Tartu. 2021 International Conference on Advanced Learning Technologies (ICALT), 2021. p. 320.
+
+21.
+DA SILVA, CLEBER A.C.F. ; CARNEIRO ROSA, DANIEL ; MIRANDA, PERICLES B.C. ; CORDEIRO, FILIPE R. ; SI, TAPAS ; NASCIMENTO, ANDRE C.A. ; MELLO, RAFAEL F. L. ; DE MATTOS NETO, PAULO S. G. . A Multi-Objective Grammatical Evolution Framework to Generate Convolutional Neural Network Architectures. In: 2021 IEEE Congress on Evolutionary Computation (CEC), 2021, Kraków. 2021 IEEE Congress on Evolutionary Computation (CEC), 2021. p. 2187.
+
+22.
+ROLIM, VITOR ; MELLO, RAFAEL FERREIRA ; NASCIMENTO, ANDRE ; LINS, RAFAEL DUEIRE ; GASEVIC, DRAGAN . Reducing the size of training datasets in the classification of online discussions. In: 2021 International Conference on Advanced Learning Technologies (ICALT), 2021, Tartu. 2021 International Conference on Advanced Learning Technologies (ICALT), 2021. p. 179.
+
+23.
+BARROS, A. ; ALVES, E. ; CAVALCANTI, A. P. ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; MELLO, R. F. L. . Feedback Analyzer: Uma interface para análise de feedback. In: VI Congresso sobre Tecnologias na Educação, 2021, Online. VI Congresso sobre Tecnologias na Educação, 2021.
+
+24.
+ASSIS, F. ; FURTADO, A. P. C. C. ; NASCIMENTO, A. C. A. ; MIRANDA, P. ; MELLO, R. F. L. . Learning Analytics e Problem-Based Learning: Mapeamento Sistemático da Literatura. In: VI Congresso sobre Tecnologias na Educação, 2021, Online. VI Congresso sobre Tecnologias na Educação, 2021.
+
+25.
+CAVALCANTI, A. P. ; MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, ANDRE C.A. ; FREITAS, FRED . Utilização de Recursos Linguísticos para Classificação Automática de Mensagens de Feedback. In: SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO, 2021, Online. ANAIS DO SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO, 2021. p. 861-872.
+
+26.
+LIMA, T. B. ; NASCIMENTO, A. C. A. ; VALENCA, G. ; MIRANDA, P. ; MELLO, R. F. L. ; SI, T. . Portuguese Neural Text Simplification Using Machine Translation. In: Brazilian Conference on Intelligent Systems, 2021. Lecture Notes in Computer Science, 2021. v. 13074. p. 542-556.
+
+27.
+LACERDA, T. B. ; MIRANDA, PÉRICLES ; NASCIMENTO, A. C. A. ; FURTADO, A. P. C. C. . Deep Learning and Mel-spectrograms for Physica Violence Detection in Audio. In: ENCONTRO NACIONAL DE INTELIGÊNCIA ARTIFICIAL E COMPUTACIONAL (ENIAC), 2021, Online. Anais do 18º Encontro Nacional de Inteligência Artificial e Computacional (ENIAC). Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 268-279.
+
+28.
+SILVA FILHO, M. W. ; BARBOSA, G. A. ; MIRANDA, PÉRICLES ; NASCIMENTO, A. C. A. ; MELLO, R. F. L. . Zeroth Order Policy Search Methods for Global Optimization Problems: An Experimental Study. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2021, Online. Anais do 18º Encontro Nacional de Inteligência Artificial e Computacional (ENIAC). Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 209-220.
+
+29.
+MOTA, CAIO ; NASCIMENTO, A. C. A. ; MIRANDA, PÉRICLES ; MELLO, R. F. L. ; MALDONADO, I. W. S. ; COELHO, J. L. . Reconhecimento de entidades nomeadas em documentos jurídicos em português utilizando redes neurais. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2021, Online. Anais do 18º Encontro Nacional de Inteligência Artificial e Computacional (ENIAC). Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 130-140.
+
+30.
+LIMA, T. B. ; NASCIMENTO, A. C. A. ; MIRANDA, PÉRICLES ; MELLO, R. F. L. . Analysis of a Brazilian Indigenous corpus using machine learning methods. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2021, Online. Anais do 18º Encontro Nacional de Inteligência Artificial e Computacional (ENIAC). Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 118-129.
+
+31.
+SILVA, I. L. A. ; MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; MALDONADO, I. W. S. ; COELHO, J. L. . Assessment of text clustering approaches for legal documents. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2021, Online. Anais do 18º Encontro Nacional de Inteligência Artificial e Computacional (ENIAC). Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 37-48.
+
+32.
+BATISTA, H. ; NASCIMENTO, A. C. A. ; MIRANDA, P. ; MELLO, R. F. L. ; WANDERLEY, I. ; COELHO, J. L. . A comparative analysis of text embedding approach to extract named entities in Portuguese legal documents'. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2021, Online. Anais do 18º Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2021.
+
+33.
+CAVALCANTI, ANDERSON PINHEIRO ; DIEGO, ARTHUR ; MELLO, RAFAEL FERREIRA ; MANGAROSKA, KATERINA ; NASCIMENTO, ANDRÉ ; FREITAS, FRED ; GA?EVI', DRAGAN . How good is my feedback?. In: LAK '20: 10th International Conference on Learning Analytics and Knowledge, 2020, Frankfurt Germany. Proceedings of the Tenth International Conference on Learning Analytics & Knowledge, 2020. p. 428.
+
+34.
+DIAS, LUCAS ; MIRANDA, PÉRICLES ; NASCIMENTO, ANDRÉ ; CORDEIRO, FILIPE ; MELLO, RAFAEL ; PRUDÊNCIO, RICARDO ; OLIVEIRA, RICARDO . Extração de Meta-Características de Conjuntos de Dados de Imagens para Seleção de Redes Neurais Convolucionais. In: Encontro Nacional de Inteligência Artificial e Computacional, 2020, Brasil. Anais do Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2020), 2020. p. 13.
+
+35.
+FRANÇA, THIAGO ; MIRANDA, PÉRICLES ; PRUDÊNCIO, RICARDO ; NASCIMENTO, ANDRÉ . CbDGen: Uma ferramenta de geração de dados sintéticos baseada na complexidade. In: Encontro Nacional de Inteligência Artificial e Computacional, 2020, Brasil. Anais do Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2020), 2020. p. 128.
+
+36.
+MOTA, CAIO ; LIMA, ANDRESSA ; NASCIMENTO, ANDRÉ ; MIRANDA, PÉRICLES ; DE MELLO, RAFAEL . Classificação de Páginas de Petições iniciais Utilizando Redes Neurais Convolucionais Multimodais. In: Encontro Nacional de Inteligência Artificial e Computacional, 2020, Brasil. Anais do Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2020), 2020. p. 318.
+
+37.
+FRACA, THIAGO R. ; MIRANDA, PERICLES B.C. ; PRUDENCIO, RICARDO B.C. ; LORENAZ, ANA C. ; NASCIMENTO, ANDRE C.A. . A Many-Objective optimization Approach for Complexity-based Data set Generation. In: 2020 IEEE Congress on Evolutionary Computation (CEC), 2020, Glasgow. 2020 IEEE Congress on Evolutionary Computation (CEC), 2020. p. 1.
+
+38.
+TEIXEIRA, JEAN BARROS ; COSTA, EVANDRO DE BARROS ; DIONÍSIO, MÁVERICK ; NASCIMENTO, ANDRÉ CÂMARA ; MELLO, RAFAEL FERREIRA LEITE DE . Classificação Automática da Presença Social em Discussões Online Escritas em Português. In: Simpósio Brasileiro de Informática na Educação, 2020, Brasil. Anais do XXXI Simpósio Brasileiro de Informática na Educação (SBIE 2020), 2020. p. 942.
+
+39.
+GOMES, JOÃO E. A. ; NASCIMENTO, A. C. A. ; PRUDÊNCIO, RICARDO B. C. . CUR: Group Profiling with Community-based Users' Representation. In: Encontro Nacional de Inteligência Artificial e Computacional,, 2018, São Paulo. Anais do Encontro Nacional de Inteligência Artificial e Computacional,, 2018.
+
+40.
+Paulo Henrique Calado Aoun ; ANDRÉ C. A. NASCIMENTO ; Adenilton J. da Silva . Evaluation of Dimensionality Reduction and Truncation Techniques for Word Embeddings. In: Encontro Nacional de Inteligência Artificial e Computacional,, 2018, São Paulo. Anais do Encontro Nacional de Inteligência Artificial e Computacional,, 2018. p. 903-911.
+
+41.
+FERREIRA, M. A. D. ; ARAUJO, D. C. ; MELLO, R. F. L. ; NASCIMENTO, A. C. A. ; CAVALCANTI, A. P. ; SILVA, A. . Análise de Classificadores para Avaliação automática em Fóruns Educacionais. In: Encontro Nacional de Intelig?encia Artificial e Computacional, 2016, Recife. Anais do XIII Encontro Nacional de Intelig?encia Artificial e Computacional, 2016. p. 649-660.
+
+42.
+GOMES, J. E. A. ; PRUDÊNCIO, RICARDO B.C. ; NASCIMENTO, A. C. A. . A Comparative Study of Group Profiling Techniques in Co-Authorship Networks. In: 5th Brazilian Conference on Intelligent Systems, 2016, Recife. 5th Brazilian Conference on Intelligent Systems Proceedings, 2016. p. 373-378.
+
+43.
+GOMES, J. ; PRUDENCIO, R. B. C. ; MEIRA, L. ; AZEVEDO FILHO, A. ; NASCIMENTO, A. C. A. ; OLIVEIRA, H. . Group Profiling for Understanding Educational Social Networking. In: International Conference on Software Engineering and Knowledge Engineering, 2013, Boston. Proceedings of the International Conference on Software Engineering and Knowledge Engineering, 2013. p. 101-106.
+
+44.
+ Nascimento, André C. A.; PRUDENCIO, R. B. C. ; de Souto, Marcilio C. P. ; Costa, Ivan G. . Mining Rules for the Automatic Selection Process of Clustering Methods Applied to Cancer Gene Expression Data. In: International Conference on Artificial Neural Networks, 2009, Limassol, Cyprus. Proc. of the International Conference on Artificial Neural Networks. Berlin: Springer-Verlag, 2009.
+
+45.
+BARROS, FLAVIA A. ; SILVA, EDUARDO F.A. ; PRUDÊNCIO, RICARDO B.C. ; FILHO, VALMIR M. ; NASCIMENTO, ANDRÉ C.A. . Hidden Markov Models and Text Classifiers for Information Extraction on Semi-Structured Texts. In: 2008 8th International Conference on Hybrid Intelligent Systems (HIS), 2008, Barcelona. 2008 Eighth International Conference on Hybrid Intelligent Systems.
+
+46.
+MENEZES, Frederico Duarte de ; NASCIMENTO, A. C. A. ; ANDRADE, E. Z. ; OLIVEIRA, Adriano Lorena Inácio de . Utilização de redes neurais artificiais combinadas com algoritmos de extração de características como classificadores de famílias de proteínas. In: VIII Congresso Brasileiro de Redes Neurais (CBRN), 2007, Florianópolis. Anais do VIII Congresso Brasileiro de Redes Neurais (CBRN), 2007.
+
+Resumos expandidos publicados em anais de congressos
+
+1.
+FERRETTINI, G. ; NASCIMENTO, A. C. A. ; PEREZ-SANAGUSTIN, M. ; HILLIGER, I. . SIMBA: A Tool for Designing Generative AI Agents for Reflective Learning and Critical Thinking. In: European Conference on Technology Enhanced Learning, 2025, Durham. Two Decades of TEL. From Lessons Learnt to Challenges Ahead, 2025. v. 16064. p. 313-318.
+
+2.
+SILVA, M. ; FALCAO, T. P. R. ; RODRIGUES, P. ; PEREIRA, C. ; NASCIMENTO, A. C. A. . Investigação Exploratória de Interfaces de Comunicação Alternativa para Redução da Lacuna de Comunicação. In: SIMPÓSIO BRASILEIRO SOBRE FATORES HUMANOS EM SISTEMAS COMPUTACIONAIS (IHC), 2025, Belo Horizonte. PÔSTERES E DEMONSTRAÇÕES - SIMPÓSIO BRASILEIRO SOBRE FATORES HUMANOS EM SISTEMAS COMPUTACIONAIS (IHC), 2025. v. 1. p. 106-110.
+
+3.
+SENA, J. V. ; FALCAO, T. P. R. ; RODRIGUES, P. ; SILVA, M. ; NASCIMENTO, A. C. A. . Análise da Geração Automática de Cartões por Inteligência Artificial para Comunicação Alternativa. In: SIMPÓSIO BRASILEIRO SOBRE FATORES HUMANOS EM SISTEMAS COMPUTACIONAIS (IHC), 2025, Belo Horizonte. PÔSTERES E DEMONSTRAÇÕES - SIMPÓSIO BRASILEIRO SOBRE FATORES HUMANOS EM SISTEMAS COMPUTACIONAIS (IHC). Porto Alegre: Sociedade Brasileira de Computação, 2025. v. 1. p. 68-72.
+
+Resumos publicados em anais de congressos
+
+1.
+HILLIGER, I. ; GONZALEZ, C. ; PEREZ-SANAGUSTIN, M. ; FERRETTINI, G. ; VILLALOBOS, E. ; NASCIMENTO, A. C. A. ; CELIS, S. . From One-Way Text to Socratic Dialogue: Designing an Artificial Intelligence Chatbot to Support Student Learning in Higher Education. In: International Conference on Learning Analytics & Knowledge, 2025, Dublin. Companion Proceedings 15th International Conference on Learning Analytics & Knowledge (LAK25). New York: ACM, 2025. v. 1. p. 292-292.
+
+2.
+VERSLYPE, N. I. ; NASCIMENTO, A. C. A. ; PRUDENCIO, R. B. C. ; MARTINS, L. S. S. ; MONTARROYOS, A. V. V. ; CALDAS, R. M. S. ; FELINTO FILHO, E. F. ; GAMA, B. R. A. ; CUNHA, C. R. R. O. ; MUSSER, R. S. . DIVERGÊNCIA GENÉTICA DE PORTA-ENXERTOS ATRAVÉS DE SELF-ORGANIZING MAPS. In: VII Congresso Brasileiro de Recursos Genéticos, 2022, Online. VII Congresso Brasileiro de Recursos Genéticos, 2022.
+
+3.
+VERSLYPE, N. I. ; MENEZES, D. ; CARVALHO, I. D. E. ; SILVA, F. S. ; CALDAS, R. M. S. ; NASCIMENTO, A. C. A. ; PRUDENCIO, R. B. C. ; MARTINS, L. S. S. ; MONTARROYOS, A. V. V. . DESEMPENHO AGRONÔMICO DE GENÓTIPOS DE MINI ALFACE (Lactuca sativa L.) NA REGIÃO METROPOLITANA DO RECIFE'. In: VII Congresso Brasileiro de Recursos Genéticos,, 2022, Online. VII Congresso Brasileiro de Recursos Genéticos, 2022.
+
+4.
+Fiorentino, Giuseppe ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; FURTADO, A. P. C. C. ; BELLHAUSER, H. ; GASEVIC, DRAGAN ; MELLO, R. F. L. . Contrasting Automatic and Manual Group Formation: A Case Study in a Software Engineering Postgraduate Course. In: Artificial Intelligence in Education - AIED 2021, 2021, Utrecht. Lecture Notes in Computer Science, 2021. v. 12749. p. 168-172.
+
+5.
+VERSLYPE, N. I. ; CALDAS, R. M. S. ; NASCIMENTO, A. C. A. ; MUSSER, R. S. ; CHAVES, A. R. M. ; LEAO, P. C. S. . Classificação de porta-enxertos de videira tolerantes à seca usando aprendizagem de máquinas. In: VI Congresso Brasileiro de Recursos Genéticos, 2020, Brasília. Anais VI Congresso Brasileiro de Recursos Genéticos, 2020.
+
+6.
+NASCIMENTO, A. C. A.; SOUZA JUNIOR, G. A. . DTPredict: uma plataforma online de predição de interações droga-proteína a partir de informações heterogêneas. In: XXI Encontro de Genética do Nordeste, 2018, Natal. XXI Encontro de Genética do Nordeste, 2018.
+
+
+Produção técnica
+Programas de computador sem registro
+
+1.
+ NASCIMENTO, A. C. A.. Ambiente para modelagem e análise de redes de Petri estocásticas para a plataforma Eclipse. 2006.
+
+
+
+Patentes e registros
+
+Programa de computador
+1.
+MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. . Análise de indicadores textuais em inglês. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001676-9, data de registro: 19/07/2021, título: "Análise de indicadores textuais em inglês" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+2.
+MIRANDA, P. ; NASCIMENTO, A. C. A. ; MONTENEGRO, C. G. ; COSTA, F. C. ; SILVA, R. G. B. ; SANTOS JUNIOR, P. S. ; SILVA, E. M. E. . PLB Analytics. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001779-0, data de registro: 01/06/2021, título: "PLB Analytics" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+3.
+MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; CAMELO, R. . Processamento textual complexo para português.. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001665-3, data de registro: 02/02/2021, título: "Processamento textual complexo para português." , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+4.
+NASCIMENTO, A. C. A.. Kronecker Regularized Least Squares with multiple kernels. 2021.
+Patente: Programa de Computador. Número do registro: BR512021002078-2, data de registro: 26/08/2021, título: "Kronecker Regularized Least Squares with multiple kernels" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+5.
+MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; ALBUQUERQUE, A. F. ; COSTA, R. F. ; OUABDELKADER, V. N. M. ; OLIVEIRA, J. P. . PBL Teams. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001778-1, data de registro: 27/07/2021, título: "PBL Teams" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+
+Bancas
+
+Participação em bancas de trabalhos de conclusão
+Mestrado
+
+1.
+MOTA, A. C.; NASCIMENTO, A. C. A.; PRUDENCIO, R. B. C.. Participação em banca de Eric Anderson Ferreira dos Santos. Explicando um classificador de requisições de mudança com métodos de XAI. 2026. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+2.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.; MIRANDA, P. B. C.; PEREIRA JUNIOR, C. X.; RODRIGUES, A. N.. Participação em banca de Ari Palu Junior. SGA-PBL: uma solução para gestão das práticas avaliativas em PBL. 2025. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+3.
+BARBOSA, G. A.; QUEIROGA, E.; NASCIMENTO, A. C. A.. Participação em banca de Néfi de Medeiros Fernandes. SUPORTE À ELABORAÇÃO DE MATRIZES CURRICULARES E DISCIPLINAS USANDO INTELIGÊNCIA ARTIFICIAL GENERATIVA E GRAFOS. 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+4.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.; SILVA, M. C. T.. Participação em banca de FELIPE SIMÃO HENRIQUES DE ARAÚJO. IMPARCIALIDADE, EXPLICABILIDADE E AUTOMAÇÃO NA PREDIÇÃO DA EVASÃO ESCOLAR: COMPARAÇÃO ENTRE MÉTODOS TRADICIONAIS DE APRENDIZADO DE MÁQUINA E APRENDIZADO ATIVO.. 2025. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+5.
+MIRANDA, P. B. C.; FITTIPALDI, E.; NASCIMENTO, A. C. A.. Participação em banca de Ana Beatriz Reis Mota. Uso de Aprendizado de Máquina na Previsão de Carga para Apoio à Precificação em Comercializadoras de Energia. 2025. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+6.
+ALBUQUERQUE JUNIOR, G. A.; NASCIMENTO, A. C. A.; QUEIROGA, E.. Participação em banca de NEFI DE MEDEIROS FERNANDES. Suporte à Elaboração de Matrizes Curriculares e Disciplinas usando Inteligência Artificial Generativa e Grafos. 2025. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco.
+
+7.
+CAVALCANTI, G. D. C.; NASCIMENTO, A. C. A.; PRUDENCIO, R. B. C.. Participação em banca de Daniel Cabral da Costa,. Modelos assessores como opção de rejeição para predição de resultados de partidas de futebol. 2024. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+8.
+MOTA, A. C.; NASCIMENTO, A. C. A.; BARROS, F. A.. Participação em banca de Vinícius de Oliveira Andrade. Sistema de Recomendação de Desenvolvedores Especialistas para Projetos de Engenharia de Software: um Estudo de Caso. 2023. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+9.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.; OLIVEIRA, H. T. A.. Participação em banca de Danilo Ferian Antunes. Otimizando a pesquisa jurisprudencial baseada em documentos com LongChain e Large Language Model. 2023. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+10.
+FERRAZ, C. A. G.; NASCIMENTO, A. C. A.; BARROS, F. A.. Participação em banca de ALEXANDRE LUIS BÔA-VIAGEM DE FRANÇA. Uma Arquitetura Multinível para Fusão de Dados de monitoramento do consumo de energia elétrica a partir de Redes de sensores sem fio. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+11.
+CRUZ, R. M. O. E.; NASCIMENTO, A. C. A.; CAVALCANTI, G. D. C.. Participação em banca de Walber de Macedo Rodrigues. Dynamic Ensemble of Classifiers and Security Relevant Methods of Android?s API: An Empirical Study. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+12.
+PRUDENCIO, R. B. C.; NASCIMENTO, A. C. A.. Participação em banca de Paulo Henrique de Sousa. Desenvolvimento de Modelos de Aprendizado de Máquina para Quantificar Atores Presentes em Cenas Acústicas. 2022. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+13.
+Adenilton J. da Silva; CABRAL, G. G.; NASCIMENTO, ANDRÉ C.A.. Participação em banca de Karl Vandesman de Matos Sousa`. Desenvolvimento de base de dados e algoritmo de classificação antecipada de exames RT-qPCR para COVID-19. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+14.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.; CAVALCANTI, A. P.. Participação em banca de Denisson Paulo de Albuquerque. ANÁLISE COMPARATIVA DE CLASSIFICADORES DE INTENÇÕES PARA CHATBOT APLICADOS AO STACK OVERFLOW EM PORTUGUÊS. 2022. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+15.
+PRUDENCIO, R. B. C.; MOTA, A. C.; NASCIMENTO, A. C. A.. Participação em banca de Késsia Thais Cavalcanti Nepomuceno. A Machine Learning Approach to Escaped Defect Analysis. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+16.
+NASCIMENTO, ANDRÉ; FURTADO, A. P. C. C.; MIRANDA, P.. Participação em banca de Victor Eduardo de Sousa Silva. Aplicação de Aprendizagem Federada na Detecção de Violência Física em Imagens Extraídas de Áudio e Vídeo Por Meio de Arquiteturas CNNS?.. 2022. Dissertação (Mestrado em Programa de Mestrado Profissional em Engenharia de Solfware do CESAR) - Centro de estudos e sistemas avanÃ§ados do Recife.
+
+17.
+NASCIMENTO, ANDRÉ; MELLO, R. F. L.; SOUZA, L.. Participação em banca de Fabricio Carneiro Costa. Predição de desempenho de alunos de graduação em disciplinas de produção. 2022. Dissertação (Mestrado em Programa de Mestrado Profissional em Engenharia de Solfware do CESAR) - Centro de estudos e sistemas avanÃ§ados do Recife.
+
+18.
+NASCIMENTO, A. C. A.; FURTADO, A. P. C. C.; SIMOES, W. C. S. S.. Participação em banca de Antonio Moreira da Silva Filho. Utilização de Aprendizagem Profunda para Classificação de Acórdãos no Âmbito do Controle Externo. 2021. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+19.
+TEDESCO, P. C. A. R.; BARROS, F. A.; Nascimento, André C. A.. Participação em banca de José Correia Lins Neto. Audita-NFSE: Sistema Auxiliar de Auditoria em Notas Fiscais de Serviços Eletrônicas. 2021. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+20.
+FURTADO, A. P. C. C.; MELLO, R. F. L.; NASCIMENTO, ANDRÉ C. A.. Participação em banca de Silvandro Pereira Pedrozo. Identificação e Mitigação de Viés de Justiça para Sistemas que Utilizam Aprendizagem de Máquina Supervisionada para Tomada de Decisão. 2021. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+21.
+MATOS, D. D. M. C.; NASCIMENTO, A. C. A.. Participação em banca de Francisco de Assis Marinho Aguiar.. Classificação Automática de Feedback Usando Técnicas de Aprendizado de Máquina. 2021. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+22.
+FURTADO, A. P. C. C.; FERRAZ, F. S.; NASCIMENTO, A. C. A.. Participação em banca de Lincon Ademir Pereira da Silva. Classificação de tipos de violência doméstica a partir de machine learning. 2020. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+23.
+ALMEIDA, L. M.; NASCIMENTO, A. C. A.; PRUDENCIO, R. B. C.. Participação em banca de Hugo Neiva de Melo. Predição temporal de links baseada na evolução de tríades. 2016. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Teses de doutorado
+
+1.
+FURTADO, A. P. C. C.; NASCIMENTO, A. C. A.; PAIVA, R. O. A.; OLIVEIRA, H. T. A.; CABRAL, L. S.. Participação em banca de Erverson Bruno Gomes de Sousa. Predição das partes estruturantes do enredo em redações narrativas do ensino fundamental. 2024. Tese (Doutorado em Doutorado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+2.
+TEDESCO, P. C. A. R.; Adenilton J. da Silva; NASCIMENTO, A. C. A.; PEREIRA, F. D.; ARAUJO, R. D.. Participação em banca de Máverick André Dionísio Ferreira. NASC: Análise de rede para identificar o discurso sociocognitivo presente nos papéis desempenhados por estudantes em fóruns de discussão. 2023. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+3.
+ZANCHETTIN, C.; NASCIMENTO, A. C. A.; BERNARDINO JUNIOR, F. M.; BEZERRA, S. C.; LIMA, E. A. O.. Participação em banca de Sylvia Emmanuelle Castelo Branco de Holanda Victor. Otimização de Aspectos do Aprendizado para Lidar com Fluxo de Dados. 2022. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+4.
+OLIVEIRA, Adriano Lorena Inácio de; ALMEIDA, L. M.; OLIVEIRA, J. F. L.; NASCIMENTO, A. C. A.; SOUZA, F. C. M.. Participação em banca de Davi Hirafuji Neiva. DYNAMIC TRANSLATION BETWEEN SIGN LANGUAGES USING DEEP LEARNING. 2022. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+5.
+ZANCHETTIN, C.; PAULA NETO, F. M.; MENEZES, Frederico Duarte de; NASCIMENTO, A. C. A.; OLIVEIRA, J. F. L.. Participação em banca de Erika Carlos Medeiros. FreshnessScope: Uma Solução Automatizada para Classificar o Frescor da Carne de Peixes com Base em Visão Computacional e Machine Learning ́. 2021. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.
+
+Qualificações de Doutorado
+
+1.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.; CABRAL, G. G.; MIRANDA, P. B. C.. Participação em banca de DALVANIRA SANTOS SILVA. Desenvolver um chatbot para acompanhamento da saúde de pessoas idosas baseado no modelo GPT. 2023. Exame de qualificação (Doutorando em Doutorado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+Qualificações de Mestrado
+
+1.
+MIRANDA, P. B. C.; NASCIMENTO, A. C. A.. Participação em banca de Ana Beatriz Reis Mota. Uso de Aprendizado de Máquina na Previsão de Carga para Apoio à Precificação em Comercializadoras de Energia. 2025. Exame de qualificação (Mestrando em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife.
+
+Monografias de cursos de aperfeiçoamento/especialização
+
+1.
+MENEZES, Frederico Duarte de; ALENCAR, R. L. S.; NASCIMENTO, A. C. A.. Participação em banca de Juliano Mesquita dos Santos. Estudo Comparativo de Frameworks para Desenvolvimento em PHP: YII, Codeigniter e Zend.. 2013. Monografia (Aperfeiçoamento/Especialização em Aperfeiçoamento/Especialização em Pós-Graduação em Desenvolvimento de Softw) - Faculdades Integradas Barros Melo.
+
+2.
+MENEZES, Frederico Duarte de; ALENCAR, R. L. S.; NASCIMENTO, A. C. A.. Participação em banca de Cristiano Freire Torres. Um Estudo sobre Métodos para Modelagem de Data Warehouse. 2013. Monografia (Aperfeiçoamento/Especialização em Aperfeiçoamento/Especialização em Pós-Graduação em Desenvolvimento de Softw) - Faculdades Integradas Barros Melo.
+
+Trabalhos de conclusão de curso de graduação
+
+1.
+NASCIMENTO, A. C. A.; MELLO, R. F. L.. Participação em banca de Sabrina Gomes de Santana.Análise de Fairness em Classificadores de Evasão para a UFRPE. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+2.
+NASCIMENTO, A. C. A.; MELLO, R. F. L.. Participação em banca de RODOLFO ANDRÉ BARBOSA FERREIRA.ANÁLISE DA EVASÃO NO ENSINO SUPERIOR: PREDIÇÃO E PREVENÇÃO POR MEIO DA MINERAÇÃO DE DADOS EDUCACIONAIS. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+3.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.. Participação em banca de José Rodrigues de Lima Neto.Tutoria: Plataforma para suporte à correção de atividades e envio de feedback personalizado. 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+4.
+NASCIMENTO, A. C. A.; MELLO, R. F. L.. Participação em banca de Abílio Nogueira Barros.Elaboração do conjunto de dados agregados do censo da educação básica. 2022. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+5.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.. Participação em banca de Raissa Camelo Salhab.Coh-Metrix PT-BR: Uma API web de análise textual para a educação. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+6.
+Douglas Véras; NASCIMENTO, A. C. A.. Participação em banca de Guilherme Melo da Silva.Avaliação entre algoritmos de filtragem colaborativa baseada em vizinhança e transferência de conhecimento para CD-CARS. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+7.
+Douglas Véras; ARAUJO, C. J. M; NASCIMENTO, A. C. A.. Participação em banca de Rodrigo José Gadelha Xavier Monteiro.Avaliação do Sistema CD-CARS com Experimentos Focados em Usuários. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+8.
+MACARIO FILHO, V.; CORDEIRO, F. R.; NASCIMENTO, A. C. A.. Participação em banca de Francisco Carlos Lira.Aplicação de Agrupamento Semissupervisionado para Segmentação de Imagens Coloridas. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+9.
+Douglas Véras; ANDRÉ C. A. NASCIMENTO. Participação em banca de Victor Sales de Brito.Estudo comparativo de técnicas de seleção de contextos em Sistemas de Recomendação de Domínio Cruzado Sensíveis ao Contexto. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+10.
+MELLO, R. F. L.; NASCIMENTO, A. C. A.; CORDEIRO, F. R.. Participação em banca de Vitor Belarmino Rolim.Método supervisionado para identificação de dúvidas em postagens de fóruns educacionais. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco.
+
+11.
+GONCALVES, G. E.; MEDEIROS, V. W. C.; NASCIMENTO, A. C. A.. Participação em banca de Carlos César Bezerra Fonsêca.Avaliação de algoritmos para programação por demonstração de manipuladores robóticos. 2016. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal Rural de Pernambuco.
+
+
+
+
+Eventos
+
+Participação em eventos, congressos, exposições e feiras
+1.
+Artificial Intelligence in Education. AIED 2024. 2024. (Congresso).
+
+2.
+LAK 2023. 2023. (Congresso).
+
+
+
+Orientações
+
+Orientações e supervisões em andamento
+Dissertação de mestrado
+
+1.
+Ricardo Dantas de Oliveira. Aplicação de Graph Neural Networks para Nowcasting de Enchentes e Eventos Climáticos Extremos. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+2.
+SILAS AUGUSTO RAMOS DOS SANTOS. Latency-Aware Pictogram Retrieval for On-Device Augmentative and Alternative Communication. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+LENON ANTHONY DE SOUZA DA SILVA. Small Language Models for Augmentative and Alternative Communication. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+4.
+RAFAEL DE LIMA PACHECO SILVA. Foundation Models para Recomendação Contextual em Sistemas de Comunicação Assistiva.. Início: 2026. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+5.
+OTACILIO MAIA. Análise do uso de LLMs em ambientes educacionais. Início: 2024. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife. (Orientador).
+
+6.
+GEORGE JUSTINO DE QUEIROZ. Aplicação de redes neurais em grafos para predição de eventos climáticos. Início: 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+7.
+JOÃO VICTOR DA SILVA. Aprendizagem de representação de pictogramas. Início: 2023. Dissertação (Mestrado em Informática Aplicada) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+Iniciação científica
+
+1.
+PEDRO CESAR GALINDO DE SOUZA. AVALIAÇÃO DE TÉCNICAS DE ANÁLISE DE SEQUÊNCIA PARA DETECÇÃO DE VIOLÊNCIA EM FLUXOS DE ÁUDIO. Início: 2026. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. (Orientador).
+
+2.
+BEATRIZ PEREIRA DA SILVA. REINFORCEMENT LEARNING FROM HUMAN FEEDBACK APLICADOS À COMUNICAÇÃO ASSISTIVA COM PICTOGRAMAS. Início: 2026. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+3.
+LEONARDO DA SILVA VIANA FILHO. DISTILAÇÃO DE LLMS APLICADOS À COMUNICAÇÃO ASSISTIVA COM PICTOGRAMAS. Início: 2026. Iniciação científica (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. (Orientador).
+
+
+Orientações e supervisões concluídas
+Dissertação de mestrado
+
+1.
+LUCAS ANDRADE ABRÃO. AVALIAÇÃO DE MODELOS DE GERAÇÃO MUSICAL NO ESTILO FREVO POR REDES NEURAIS. 2024. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: André Câmara Alves do Nascimento.
+
+2.
+ALEXANDRE MARCOLINO ALVES. Simplificação automática de textos jurídicos. 2023. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: André Câmara Alves do Nascimento.
+
+3.
+AMILCAR DE ABREU NETTO. Aprendizagem de Máquina aplicada a detecção de lide simulada. 2023. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: André Câmara Alves do Nascimento.
+
+4.
+George de Vasconcelos Carvalho Neto. Descoberta de padrões discriminativos em dados de metilação. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: André Câmara Alves do Nascimento.
+
+5.
+Thiago Batista Rodrigues Silva. Sistemas de recomendação baseados em múltiplos kernels. 2022. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco, . Coorientador: André Câmara Alves do Nascimento.
+
+6.
+Marlon Anderson Cesar da Silva. Sistema de Análise Preditiva da Evasão Discente Utilizando Métodos de Machine Learning.. 2022. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: André Câmara Alves do Nascimento.
+
+7.
+Afonso Henrique Anastácio Calábria. Uma Proposta Automatizada para Aplicações de Comunicação Aumentativa e Alternativa. 2021. Dissertação (Mestrado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Coorientador: André Câmara Alves do Nascimento.
+
+8.
+Raphael Miller de Souza Caldas. Inteligência artificial aplicada ao estudo da diversidade genética do Banco de Germoplasma de Videira da Embrapa Semiárido. 2019. Dissertação (Mestrado em Agronomia ( Melhoramento Genético de Plantas)) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Coorientador: André Câmara Alves do Nascimento.
+
+9.
+Nina Iris Verslype. Classificação de porta-enxertos de videira tolerantes ao déficit hídrico através de aprendizado de máquina. 2019. Dissertação (Mestrado em Agronomia ( Melhoramento Genético de Plantas)) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Coorientador: André Câmara Alves do Nascimento.
+
+Tese de doutorado
+
+1.
+MARCUS VINICIUS PINTO DE ANDRADE. ENHANCED VALIDATION AND BENCHMARKING FRAMEWORK FOR VIDEO MOMENT RETRIEVAL MODELS. 2025. Tese (Doutorado em Doutorado em Engenharia de Software) - Centro de Estudos e Sistemas Avançados do Recife, . Orientador: André Câmara Alves do Nascimento.
+
+2.
+Nina Iris Verslype. Divergência genética e predição de classes de tolerância à salinidade, em cultivares de videiras (Vitis spp.), através de algoritmos de aprendizado de máquina. 2021. Tese (Doutorado em Agronomia ( Melhoramento Genético de Plantas)) - Universidade Federal Rural de Pernambuco, Conselho Nacional de Desenvolvimento Científico e Tecnológico. Coorientador: André Câmara Alves do Nascimento.
+
+Monografia de conclusão de curso de aperfeiçoamento/especialização
+
+1.
+Caio César Rolim Mota. Extração de informação em processos judiciais. 2021. Monografia. (Aperfeiçoamento/Especialização em Inteligência Computacional Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+2.
+Richardson Bruno da Silva Andrade. Segmentação de fluxos de páginas em documentos jurídicos. 2021. Monografia. (Aperfeiçoamento/Especialização em Inteligência Computacional Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+3.
+Paulo Roberto Pereira da Silva. Classificação de anexos em processos judiciais. 2021. Monografia. (Aperfeiçoamento/Especialização em Inteligência Computacional Aplicada) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+4.
+Theo Branco de Oliveira Wanderley. Utilização de análises de sobrevivência para predição de falhas em equipamentos médicos. 2021. Monografia. (Aperfeiçoamento/Especialização em Inteligência Computacional Aplicada) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+5.
+DIOGO CAETANO ALVES FIRMO. Classificação de anexos em processos judiciais. 2021. Monografia. (Aperfeiçoamento/Especialização em Inteligência Computacional Aplicada) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+Trabalho de conclusão de curso de graduação
+
+1.
+Gabriela Maia Rodrigues. Modelagem Computacional de Rotas de Deslocamento Pré-coloniais: Explorações a partir de Otimização por Enxame de Partículas. 2026. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+2.
+Silas Augusto Ramos. ReguLA: A Self-Regulated Learning Component for Online Learning Systems. 2026. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+3.
+Lenon Anthony de Souza da Silva. Small Language Models for Augmentative and Alternative Communication. 2026. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+4.
+FABIO AUGUSTO SOUZA DO NASCIMENTO. Modelos de recomendação sensível ao contexto em ambientes de comunicação aumentativa alternativa: naive bayes, redes neurais e aprendizagem federada. 2025. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+5.
+Lucas Fernandes Lins. Comparação de arquiteturas de redes neurais em NER para E-commerce brasileiro. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+6.
+Ulisses Chaves Silva. RECOMENDAÇÃO SENSÍVEL AO CONTEXTO PARA COMUNICAÇÃO AUMENTATIVA E ALTERNATIVA BASEADA EM APRENDIZAGEM DE MÁQUINA. 2024. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+7.
+Paulo Henrique Calado Aoun. Evaluation of Dimensionality Reduction and Truncation Techniques for Word Embeddings. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+8.
+Ítalo Vinícius do Rego Lemos. Prevendo a evasão escolar em uma Instituição de Ensino Técnico utilizando Mineração de Dados Educacionais. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+9.
+Tiago Barbosa de Lima. Portuguese Neural Text Simplification using Machine Translation. 2021. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+10.
+Tássia Laís Barros Bastos. Tratamento de kernels incompletos em predições de interações de redes bipartidas. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+11.
+Ismael Cesar da Silva Araújo. Aprendizagem de máquina quântica e comitê quântico de classificadores. 2019. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+Iniciação científica
+
+1.
+Lenon Anthony De Souza Da Silva. Aplicação de LLMs para comunicação alternativa. 2024. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+2.
+Silas Augusto Ramos Dos Santos. Aplicação de sistemas de recomendação sensível a contexto para comunicação alternativa. 2024. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+3.
+MARCOS PAULO DA SILVA SANTANA. Avaliação de métodos de kernel de pares para reposicionamento de fármacos para tratamento de leishmaniose.. 2022. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco, Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+4.
+George Justino de Queiroz. Aplicação de algoritmos de aprendizagem de máquina em documentos jurídicos. 2022. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+5.
+Hyan Hugo Noa Batista. Algoritmos de geração automática de feedback educacional. 2021. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+6.
+Victor Vidal dos Santos. Avaliação de métodos de tratamento de kernels incompletos para predição de interações biológicas. 2021. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+7.
+Steffano Xavier Pereira. Framework evolucionário escalável para geração de dados sintéticos baseada em complexidade. 2021. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+8.
+Hyan Hugo Noa Batista. Implementação de métodos de extração automática de relações entre plantas medicinais e doenças da literatura. 2020. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+9.
+Givanildo Alfeu de Souza Junior. Desenvolver módulo WEB da ferramenta de predição de interações droga-proteína a partir de combinação de informações heterogêneas. 2018. Iniciação Científica. (Graduando em Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+Orientações de outra natureza
+
+1.
+Jeremias Leite Silva. Estágio Supervisionado. 2019. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+2.
+Ana Carolina Santos Silva. Estágio Supervisionado. 2019. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+3.
+Lucas Francisco Pereira de Gois Correia. Monitoria: Introdução a Programação 2. 2018. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+4.
+Lucas Holanda Vieira Rocha. Estágio Supervisionado. 2018. Orientação de outra natureza. (Ciência da Computação) - Universidade Federal Rural de Pernambuco. Orientador: André Câmara Alves do Nascimento.
+
+
+
+Inovação
+
+Programa de computador registrado
+1.
+MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. . Análise de indicadores textuais em inglês. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001676-9, data de registro: 19/07/2021, título: "Análise de indicadores textuais em inglês" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+2.
+MIRANDA, P. ; NASCIMENTO, A. C. A. ; MONTENEGRO, C. G. ; COSTA, F. C. ; SILVA, R. G. B. ; SANTOS JUNIOR, P. S. ; SILVA, E. M. E. . PLB Analytics. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001779-0, data de registro: 01/06/2021, título: "PLB Analytics" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+3.
+MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; CAMELO, R. . Processamento textual complexo para português.. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001665-3, data de registro: 02/02/2021, título: "Processamento textual complexo para português." , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+4.
+MELLO, R. F. L. ; MIRANDA, P. ; NASCIMENTO, A. C. A. ; ALBUQUERQUE, A. F. ; COSTA, R. F. ; OUABDELKADER, V. N. M. ; OLIVEIRA, J. P. . PBL Teams. 2021.
+Patente: Programa de Computador. Número do registro: BR512021001778-1, data de registro: 27/07/2021, título: "PBL Teams" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial.
+
+
+Projeto de desenvolvimento tecnológico
+2019 - 2020
+Desevolvimento de serviços educacionais para auxílio a pessoas com dificuldades de comunicação
+Descrição: O objetivo deste projeto é desenvolver e implantar novas tecnologias ao sistema Livox visando estimular a conversação e interação entre professores e alunos com e sem deficiência. Serão utilizadas técnicas de processamento de linguagem natural para melhorar o sistema de recomendação de sentenças do aplicativo para geração de frases mais complexas atendendo assim às necessidades tanto dos alunos que estão nos últimos anos do ensino fundamental quanto de seus professores. Além disto, será incluído no sistema um novo módulo para geração automática de perguntas e respostas focado no conteúdo programático do 6º ao 9º ano que poderá ser usado por todos os alunos da escola.
+Situação: Concluído; Natureza: Desenvolvimento.
+Alunos envolvidos: Técnico de nível médio: (0) Graduação: (5) / Especialização: (0) / Mestrado acadêmico: (1) / Mestrado profissional: (0) / Doutorado: (0) .
+
+Integrantes: André Câmara Alves do Nascimento - Integrante / Péricles Miranda - Integrante / Rafael Ferreira Leite de Mello - Coordenador.
+
+
+
+Outras informações relevantes
+Monitor da disciplina de Semântica de Linguagens de Programação do Departamento de Sistemas Computacionais da Universidade de Pernambuco (DSC/UPE).
+
+Sun Certified Java Programmer for Java 2 Platform 1.4
+
+
+
+Página gerada pelo Sistema Currículo Lattes em 16/05/2026 às 13:43:35
+
+
+
+Somente os dados identificados como públicos pelo autor são apresentados na consulta do seu Currículo Lattes.
+Configuração de privacidade na Plataforma Lattes
+Imprimir Currículo
