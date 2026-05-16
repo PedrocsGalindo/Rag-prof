@@ -11,7 +11,7 @@ O projeto é simples por intenção: sem banco de dados, sem frontend, sem Docke
 1. Extrair professores da página do departamento.
 2. Enriquecer os professores com textos manuais do Lattes.
 3. Construir um perfil textual para ranking.
-4. Gerar embeddings dos perfis.
+4. Gerar chunks dos perfis e embeddings dos chunks.
 5. Ranquear professores por similaridade com a query do aluno.
 
 ## Instalação
@@ -66,6 +66,8 @@ python scripts/build_profiles.py
 python scripts/generate_embeddings.py
 ```
 
+Essa etapa cria chunks por professor, como perfil geral, resumo do Lattes, áreas de atuação, formação, projetos, publicações e texto do departamento.
+
 ### 5. Ranquear Professores
 
 ```bash
@@ -84,8 +86,9 @@ python scripts/rank_professors.py --query "Tenho interesse em inteligência arti
 - `data/raw/lattes-professors/`: textos manuais copiados do Lattes, um arquivo por professor.
 - `data/processed/professors_enriched.json`: professores com dados complementares do Lattes.
 - `data/processed/professor_profiles.json`: professores com `profile_text_for_ranking`.
-- `data/embeddings/professor_embeddings.npy`: matriz NumPy com embeddings dos perfis.
-- `data/embeddings/professor_embedding_index.json`: índice que liga cada embedding ao professor.
+- `data/processed/professor_chunks.json`: chunks textuais usados para embeddings.
+- `data/embeddings/professor_chunk_embeddings.npy`: matriz NumPy com embeddings dos chunks.
+- `data/embeddings/professor_chunk_embedding_index.json`: índice que liga cada embedding ao chunk e ao professor.
 
 ## Limitações
 

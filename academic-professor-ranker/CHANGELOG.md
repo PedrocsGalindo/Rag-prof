@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 2026-05-16 - Embeddings por chunks
+
+### Criado
+- data/processed/professor_chunks.json: arquivo gerado com chunks textuais por professor.
+- data/embeddings/professor_chunk_embeddings.npy: arquivo gerado com embeddings dos chunks.
+- data/embeddings/professor_chunk_embedding_index.json: arquivo gerado com índice dos embeddings dos chunks.
+
+### Alterado
+- scripts/generate_embeddings.py: passa a gerar chunks e embeddings por chunk.
+- README.md: documenta a geração de embeddings por chunks.
+
+## 2026-05-16 - Encoder local
+
+### Alterado
+- src/encoder.py: simplifica BaseEncoder, LocalEncoder e get_encoder para geração local de embeddings.
+- CHANGELOG.md: registra as mudanças desta tarefa.
+
 ## 2026-05-13 - Logs resumidos dos scripts
 
 ### Alterado
