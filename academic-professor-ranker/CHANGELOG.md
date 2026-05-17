@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## 2026-05-16 - Parser Lattes estruturado
+
+### Alterado
+- src/lattes_extractor.py: corrige parser do Lattes para extrair URL, resumo, formação, linhas de pesquisa, projetos e publicações em blocos estruturados.
+- scripts/enrich_with_lattes.py: adiciona contagens de dados extraídos ao resumo final e reduz logs por professor.
+- scripts/generate_embeddings.py: evita chunk geral com perfil completo, ignora placeholders do departamento e filtra chunks inválidos.
+- CHANGELOG.md: registra as mudanças desta tarefa.
+
 ## 2026-05-16 - Lattes estruturado
 
 ### Alterado

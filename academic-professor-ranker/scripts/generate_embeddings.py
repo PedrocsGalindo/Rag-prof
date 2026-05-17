@@ -26,6 +26,21 @@ from src.storage import load_json, save_json
 MIN_CHUNK_CHARS = 30
 MAX_ACADEMIC_BACKGROUND_CHUNKS = 30
 
+IGNORED_DEPARTMENT_TEXTS = [
+    "Formação não informada",
+    "Perfil pessoal não cadastrado",
+    "Formação acadêmica não cadastrada",
+]
+
+INVALID_CHUNK_TEXTS = [
+    "Ordenar por",
+    "Ordem Cronológica",
+    "Capítulos de livros publicados",
+    "Bancas",
+    "Eventos",
+    "Orientações",
+]
+
 
 # Gera embeddings para todos os chunks.
 def main() -> None:
@@ -204,7 +219,7 @@ def create_chunk(professor: Professor, section: str, title: str, text: str, coun
 # Adiciona um chunk ignorando texto vazio.
 def add_chunk(chunks: list[dict[str, str]], counts: dict[str, int], professor: Professor, section: str, title: str, text: str) -> None:
     clean_chunk_text = clean_text(text)
-    if len(clean_chunk_text) < MIN_CHUNK_CHARS:
+    if len(clean_chunk_text) < MIN_CHUNK_CHARS or is_invalid_chunk_text(clean_chunk_text):
         return
 
     counts[section] = counts.get(section, 0) + 1
@@ -266,21 +281,52 @@ def add_publication_chunks(chunks: list[dict[str, str]], counts: dict[str, int],
         )
 
 
+# Monta um perfil geral curto, sem colocar o Lattes inteiro no chunk.
+def build_general_profile_text(professor: Professor) -> str:
+    parts = [
+        f"Nome: {professor.full_name}",
+        f"Departamento: {professor.department_name}",
+        f"Instituição: {professor.institution_name}",
+    ]
+
+    if professor.lattes_summary:
+        parts.append(f"Resumo Lattes: {professor.lattes_summary}")
+
+    if professor.research_areas:
+        parts.append(f"Principais áreas: {'; '.join(professor.research_areas[:5])}")
+
+    if professor.research_lines:
+        parts.append(f"Principais linhas de pesquisa: {'; '.join(professor.research_lines[:5])}")
+
+    return "\n".join(part for part in parts if clean_text(part))
+
+
+# Evita chunks com placeholders ou textos de navegação.
+def is_invalid_chunk_text(text: str) -> bool:
+    normalized_text = clean_text(text).lower()
+
+    for invalid_text in INVALID_CHUNK_TEXTS:
+        if normalized_text == invalid_text.lower():
+            return True
+
+    return False
+
+
+# Ignora textos vazios ou placeholders do perfil do departamento.
+def should_skip_department_text(text: str) -> bool:
+    normalized_text = clean_text(text).lower()
+    return any(normalized_text == value.lower() for value in IGNORED_DEPARTMENT_TEXTS)
+
+
 # Cria os chunks de texto de um professor.
 def build_chunks_for_professor(professor: Professor) -> list[dict[str, str]]:
     chunks = []
     counts = {}
 
-    profile_text = "\n".join(
-        [
-            professor.full_name,
-            professor.department_name,
-            professor.institution_name,
-            professor.profile_text_for_ranking,
-        ]
-    )
+    profile_text = build_general_profile_text(professor)
     add_chunk(chunks, counts, professor, "professor_profile", "Perfil geral do professor", profile_text)
-    add_chunk(chunks, counts, professor, "department_text", "Texto do departamento", professor.department_text)
+    if not should_skip_department_text(professor.department_text):
+        add_chunk(chunks, counts, professor, "department_text", "Texto do departamento", professor.department_text)
     add_chunk(chunks, counts, professor, "lattes_summary", "Resumo do Lattes", professor.lattes_summary)
     add_value_chunks(chunks, counts, professor, "research_areas", "Áreas de atuação", professor.research_areas)
     add_research_line_chunks(chunks, counts, professor)

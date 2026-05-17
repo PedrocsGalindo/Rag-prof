@@ -29,6 +29,12 @@ def main() -> None:
     pending = [professor for professor in enriched_professors if professor.lattes_manual_needed]
     pending_with_lattes = [professor for professor in pending if professor.lattes_url]
     pending_without_lattes = [professor for professor in pending if not professor.lattes_url]
+    total_summaries = sum(1 for professor in enriched_professors if professor.lattes_summary)
+    total_background = sum(len(professor.academic_background) for professor in enriched_professors)
+    total_areas = sum(len(professor.research_areas) for professor in enriched_professors)
+    total_lines = sum(len(professor.research_lines) for professor in enriched_professors)
+    total_projects = sum(len(professor.current_projects) for professor in enriched_professors)
+    total_publications = sum(len(professor.publications) for professor in enriched_professors)
 
     save_json(args.output, enriched_professors)
 
@@ -39,19 +45,13 @@ def main() -> None:
     print(f"- Textos manuais pendentes: {len(pending)}")
     print(f"- Pendentes com link direto do Lattes: {len(pending_with_lattes)}")
     print(f"- Pendentes sem link direto do Lattes: {len(pending_without_lattes)}")
+    print(f"- Total com resumo Lattes extraído: {total_summaries}")
+    print(f"- Total de formações extraídas: {total_background}")
+    print(f"- Total de áreas de atuação extraídas: {total_areas}")
+    print(f"- Total de linhas de pesquisa extraídas: {total_lines}")
+    print(f"- Total de projetos extraídos: {total_projects}")
+    print(f"- Total de publicações extraídas: {total_publications}")
     print(f"- JSON salvo em: {args.output}")
-
-    print()
-    print("Professores com texto Lattes já disponível:")
-    print_professors_with_manual_text(with_manual_text)
-
-    print()
-    print("Professores pendentes COM link direto do Lattes:")
-    print_pending_with_lattes(pending_with_lattes)
-
-    print()
-    print("Professores pendentes SEM link direto do Lattes:")
-    print_pending_without_lattes(pending_without_lattes)
 
     print()
     print("Como preencher os arquivos pendentes:")
@@ -66,38 +66,6 @@ def main() -> None:
     print("7. Cole com Ctrl + V.")
     print("8. Salve o arquivo.")
     print("9. Rode scripts/enrich_with_lattes.py novamente.")
-
-
-def print_professors_with_manual_text(professors) -> None:
-    if not professors:
-        print("- Nenhum")
-        return
-
-    for professor in professors:
-        print(f"- {professor.full_name} | {professor.lattes_manual_file}")
-
-
-def print_pending_with_lattes(professors) -> None:
-    if not professors:
-        print("- Nenhum")
-        return
-
-    for professor in professors:
-        print(f"- {professor.full_name}")
-        print(f"  Link: {professor.lattes_url}")
-        print(f"  Arquivo: {professor.lattes_manual_file}")
-
-
-def print_pending_without_lattes(professors) -> None:
-    if not professors:
-        print("- Nenhum")
-        return
-
-    for professor in professors:
-        print(f"- {professor.full_name}")
-        print("  Buscar em: https://buscatextual.cnpq.br/buscatextual/busca.do")
-        print(f"  Nome para pesquisar: {professor.full_name}")
-        print(f"  Arquivo: {professor.lattes_manual_file}")
 
 
 if __name__ == "__main__":
