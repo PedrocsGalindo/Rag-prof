@@ -2,7 +2,12 @@ import re
 import unicodedata
 from pathlib import Path
 
-from .models import Professor
+from .models import (
+    Professor,
+    academic_background_from_dict,
+    publication_from_dict,
+    research_project_from_dict,
+)
 
 
 DEFAULT_MANUAL_DIR = Path("data/raw/lattes-professors")
@@ -42,10 +47,19 @@ def enrich_professor_with_lattes(
     professor.lattes_raw_text = raw_text
     professor.lattes_clean_text = extracted["lattes_clean_text"]
     professor.lattes_summary = extracted["lattes_summary"] or professor.lattes_summary
-    professor.academic_background = extracted["academic_background"] or professor.academic_background
+    professor.academic_background = [
+        academic_background_from_dict(item)
+        for item in extracted["academic_background"]
+    ] or professor.academic_background
     professor.research_areas = extracted["research_areas"] or professor.research_areas
-    professor.current_projects = extracted["current_projects"] or professor.current_projects
-    professor.publications = extracted["publications"] or professor.publications
+    professor.current_projects = [
+        research_project_from_dict(item)
+        for item in extracted["current_projects"]
+    ] or professor.current_projects
+    professor.publications = [
+        publication_from_dict(item)
+        for item in extracted["publications"]
+    ] or professor.publications
     professor.lattes_status = "manual_text"
     professor.lattes_manual_needed = False
     add_source(professor, "lattes_manual_file", manual_file.as_posix())

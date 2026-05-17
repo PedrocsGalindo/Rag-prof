@@ -10,8 +10,21 @@ import numpy as np
 ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT_DIR))
 
-from src.models import Professor
+from src.models import (
+    AcademicBackground,
+    Professor,
+    Publication,
+    ResearchProject,
+    academic_background_from_dict,
+    professor_from_dict,
+    publication_from_dict,
+    research_project_from_dict,
+)
 from src.storage import load_json, save_json
+
+
+MIN_CHUNK_CHARS = 30
+MAX_ACADEMIC_BACKGROUND_CHUNKS = 30
 
 
 # Gera embeddings para todos os chunks.
@@ -71,7 +84,7 @@ def main() -> None:
 # Carrega os perfis dos professores.
 def load_professor_profiles(path: str | Path) -> list[Professor]:
     data = load_json(path, default=[])
-    return [Professor(**item) for item in data]
+    return [professor_from_dict(item) for item in data]
 
 
 # Limpa espaços repetidos.
@@ -79,18 +92,95 @@ def clean_text(text: Any) -> str:
     return re.sub(r"\s+", " ", str(text or "")).strip()
 
 
-# Transforma strings, listas e dicionários em texto simples.
+# Transforma valores simples, listas e dicionários em texto.
 def text_from_value(value: Any) -> str:
     if isinstance(value, dict):
-        parts = [
-            value.get("title", ""),
-            value.get("year", ""),
-            value.get("type", ""),
-            value.get("description", ""),
-        ]
+        parts = [item for item in value.values() if item]
         return clean_text(" ".join(str(part) for part in parts if part))
 
     return clean_text(value)
+
+
+# Monta um rótulo simples para anos de início e fim.
+def years_text(start_year: str, end_year: str) -> str:
+    if start_year and end_year:
+        return f"{start_year} - {end_year}"
+
+    return start_year or end_year
+
+
+# Monta o texto de uma formação acadêmica.
+def academic_background_text(item: AcademicBackground | dict | str) -> str:
+    background = academic_background_from_dict(item)
+    if background.degree and background.course:
+        course_text = f"{background.degree} em {background.course}"
+    else:
+        course_text = background.degree or background.course
+
+    parts = [
+        years_text(background.start_year, background.end_year),
+        course_text,
+        background.institution,
+        background.description,
+    ]
+    return clean_text(" ".join(part for part in parts if part))
+
+
+# Define o título de uma formação acadêmica.
+def academic_background_title(item: AcademicBackground | dict | str) -> str:
+    background = academic_background_from_dict(item)
+
+    if background.degree and background.course:
+        return f"{background.degree} em {background.course}"
+
+    return background.degree or background.course or short_title(background.description) or "Formação acadêmica"
+
+
+# Monta o texto de um projeto de pesquisa.
+def research_project_text(item: ResearchProject | dict | str) -> str:
+    project = research_project_from_dict(item)
+    parts = [
+        years_text(project.start_year, project.end_year),
+        project.title,
+        project.status,
+        project.description,
+    ]
+    return clean_text(" ".join(part for part in parts if part))
+
+
+# Define o título de um projeto de pesquisa.
+def research_project_title(item: ResearchProject | dict | str) -> str:
+    project = research_project_from_dict(item)
+    return project.title or short_title(project.description) or "Projeto de pesquisa"
+
+
+# Monta o texto de uma publicação.
+def publication_text(item: Publication | dict | str) -> str:
+    publication = publication_from_dict(item)
+    parts = [
+        publication.year,
+        publication.title,
+        publication.authors,
+        publication.publication_type,
+        publication.description,
+    ]
+    return clean_text(" ".join(part for part in parts if part))
+
+
+# Define o título de uma publicação.
+def publication_title(item: Publication | dict | str) -> str:
+    publication = publication_from_dict(item)
+    return publication.title or short_title(publication.description) or "Publicação"
+
+
+# Encurta títulos grandes usados nos metadados dos chunks.
+def short_title(text: str, max_length: int = 80) -> str:
+    title = clean_text(text)
+
+    if len(title) <= max_length:
+        return title
+
+    return title[:max_length].rstrip() + "..."
 
 
 # Cria um chunk com metadados do professor.
@@ -114,7 +204,7 @@ def create_chunk(professor: Professor, section: str, title: str, text: str, coun
 # Adiciona um chunk ignorando texto vazio.
 def add_chunk(chunks: list[dict[str, str]], counts: dict[str, int], professor: Professor, section: str, title: str, text: str) -> None:
     clean_chunk_text = clean_text(text)
-    if not clean_chunk_text:
+    if len(clean_chunk_text) < MIN_CHUNK_CHARS:
         return
 
     counts[section] = counts.get(section, 0) + 1
@@ -129,6 +219,51 @@ def add_value_chunks(chunks: list[dict[str, str]], counts: dict[str, int], profe
         return
 
     add_chunk(chunks, counts, professor, section, title, text_from_value(value))
+
+
+# Adiciona chunks de formação acadêmica.
+def add_academic_background_chunks(chunks: list[dict[str, str]], counts: dict[str, int], professor: Professor) -> None:
+    for item in professor.academic_background[:MAX_ACADEMIC_BACKGROUND_CHUNKS]:
+        add_chunk(
+            chunks,
+            counts,
+            professor,
+            "academic_background",
+            academic_background_title(item),
+            academic_background_text(item),
+        )
+
+
+# Adiciona chunks de linhas de pesquisa.
+def add_research_line_chunks(chunks: list[dict[str, str]], counts: dict[str, int], professor: Professor) -> None:
+    for line in professor.research_lines:
+        add_chunk(chunks, counts, professor, "research_lines", "Linha de pesquisa", line)
+
+
+# Adiciona chunks de projetos.
+def add_project_chunks(chunks: list[dict[str, str]], counts: dict[str, int], professor: Professor) -> None:
+    for item in professor.current_projects:
+        add_chunk(
+            chunks,
+            counts,
+            professor,
+            "current_projects",
+            research_project_title(item),
+            research_project_text(item),
+        )
+
+
+# Adiciona chunks de publicações.
+def add_publication_chunks(chunks: list[dict[str, str]], counts: dict[str, int], professor: Professor) -> None:
+    for item in professor.publications:
+        add_chunk(
+            chunks,
+            counts,
+            professor,
+            "publications",
+            publication_title(item),
+            publication_text(item),
+        )
 
 
 # Cria os chunks de texto de um professor.
@@ -147,10 +282,11 @@ def build_chunks_for_professor(professor: Professor) -> list[dict[str, str]]:
     add_chunk(chunks, counts, professor, "professor_profile", "Perfil geral do professor", profile_text)
     add_chunk(chunks, counts, professor, "department_text", "Texto do departamento", professor.department_text)
     add_chunk(chunks, counts, professor, "lattes_summary", "Resumo do Lattes", professor.lattes_summary)
-    add_value_chunks(chunks, counts, professor, "academic_background", "Formação acadêmica", professor.academic_background)
     add_value_chunks(chunks, counts, professor, "research_areas", "Áreas de atuação", professor.research_areas)
-    add_value_chunks(chunks, counts, professor, "current_projects", "Projetos atuais", professor.current_projects)
-    add_value_chunks(chunks, counts, professor, "publications", "Publicações", professor.publications)
+    add_research_line_chunks(chunks, counts, professor)
+    add_academic_background_chunks(chunks, counts, professor)
+    add_project_chunks(chunks, counts, professor)
+    add_publication_chunks(chunks, counts, professor)
 
     return chunks
 

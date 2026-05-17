@@ -1,3 +1,6 @@
+from dataclasses import asdict, is_dataclass
+from typing import Any
+
 from .models import Professor
 
 
@@ -8,6 +11,7 @@ def build_profile_text(professor: Professor) -> str:
         format_section("Resumo do Lattes", professor.lattes_summary),
         format_section("Formação acadêmica", professor.academic_background),
         format_section("Áreas de atuação", professor.research_areas),
+        format_section("Linhas de pesquisa", professor.research_lines),
         format_section("Projetos atuais", professor.current_projects),
         format_section("Publicações", professor.publications),
         format_section("Texto do departamento", professor.department_text),
@@ -23,7 +27,7 @@ def build_profiles(professors: list[Professor]) -> list[Professor]:
     return professors
 
 
-def format_section(title: str, value: str | list[str]) -> str:
+def format_section(title: str, value: Any) -> str:
     text = format_value(value)
 
     if not text:
@@ -32,8 +36,16 @@ def format_section(title: str, value: str | list[str]) -> str:
     return f"{title}:\n{text}"
 
 
-def format_value(value: str | list[str]) -> str:
+def format_value(value: Any) -> str:
     if isinstance(value, list):
-        return "\n".join(f"- {item}" for item in value if item)
+        lines = [format_value(item) for item in value]
+        return "\n".join(f"- {line}" for line in lines if line)
 
-    return value.strip()
+    if is_dataclass(value):
+        value = asdict(value)
+
+    if isinstance(value, dict):
+        parts = [str(item).strip() for item in value.values() if str(item or "").strip()]
+        return " ".join(parts)
+
+    return str(value or "").strip()

@@ -6,7 +6,7 @@ ROOT_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT_DIR))
 
 from src.lattes_extractor import enrich_professors_with_lattes
-from src.models import Professor
+from src.models import professor_from_dict
 from src.storage import load_json, save_json
 
 
@@ -18,7 +18,7 @@ def main() -> None:
     args = parser.parse_args()
 
     data = load_json(args.input, default=[])
-    professors = [Professor(**item) for item in data]
+    professors = [professor_from_dict(item) for item in data]
 
     enriched_professors = enrich_professors_with_lattes(
         professors,

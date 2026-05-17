@@ -38,7 +38,10 @@ def group_chunk_results_by_professor(results: list[dict]) -> list[dict]:
     grouped = {}
 
     for result in results:
-        professor_id = result["professor_id"]
+        professor_id = result.get("professor_id")
+        if not professor_id:
+            continue
+
         if professor_id not in grouped:
             grouped[professor_id] = {
                 "professor": professor_from_chunk(result),
@@ -47,12 +50,13 @@ def group_chunk_results_by_professor(results: list[dict]) -> list[dict]:
             }
 
         grouped[professor_id]["score"] = max(grouped[professor_id]["score"], result["score"])
-        if len(grouped[professor_id]["evidences"]) < 3:
+        evidence_text = result.get("text", "")
+        if evidence_text and len(grouped[professor_id]["evidences"]) < 3:
             grouped[professor_id]["evidences"].append(
                 {
-                    "section": result["section"],
-                    "title": result["title"],
-                    "text": result["text"],
+                    "section": result.get("section", ""),
+                    "title": result.get("title", ""),
+                    "text": evidence_text,
                     "score": result["score"],
                 }
             )
@@ -76,7 +80,7 @@ def rank_professors(
     query_embedding = encoder.encode([query])
     scores = cosine_similarity(query_embedding, embeddings)
 
-    chunk_by_id = {chunk["chunk_id"]: chunk for chunk in chunks}
+    chunk_by_id = {chunk["chunk_id"]: chunk for chunk in chunks if chunk.get("chunk_id")}
     best_positions = np.argsort(scores)[::-1]
     chunk_results = []
 
@@ -86,8 +90,8 @@ def rank_professors(
             continue
 
         index_item = embedding_index[position]
-        chunk = chunk_by_id.get(index_item["chunk_id"])
-        if not chunk:
+        chunk = chunk_by_id.get(index_item.get("chunk_id"))
+        if not chunk or not chunk.get("text", ""):
             continue
 
         chunk_results.append({**chunk, "score": float(scores[position])})
@@ -107,8 +111,8 @@ def rank_professors(
 
 def professor_from_chunk(chunk: dict) -> Professor:
     return Professor(
-        id=chunk["professor_id"],
-        full_name=chunk["full_name"],
+        id=chunk.get("professor_id", ""),
+        full_name=chunk.get("full_name", ""),
         email=chunk.get("email", ""),
         lattes_url=chunk.get("lattes_url", ""),
         department_profile_url=chunk.get("department_profile_url", ""),

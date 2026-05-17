@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## 2026-05-16 - Lattes estruturado
+
+### Alterado
+- src/models.py: adiciona AcademicBackground, ResearchProject, Publication e conversores compatíveis com JSON antigo.
+- src/lattes_extractor.py: salva formação, projetos e publicações como itens estruturados simples.
+- src/profile_builder.py: formata campos estruturados no texto de ranking.
+- scripts/build_profiles.py: carrega professores usando conversor compatível com JSON antigo.
+- scripts/enrich_with_lattes.py: carrega professores usando conversor compatível com JSON antigo.
+- scripts/generate_embeddings.py: gera chunks a partir dos campos estruturados e ignora textos muito curtos.
+- src/ranker.py: ignora chunks antigos sem texto e evita erro com metadados ausentes.
+
 ## 2026-05-16 - Ranking por chunks
 
 ### Alterado
