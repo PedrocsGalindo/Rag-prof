@@ -30,3 +30,4 @@ class RankedProfessor:
     professor: Professor
     score: float
     reason: str = ""
+    evidences: list[dict[str, str | float]] = field(default_factory=list)

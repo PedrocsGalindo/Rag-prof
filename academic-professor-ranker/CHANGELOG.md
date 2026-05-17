@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## 2026-05-16 - Ranking por chunks
+
+### Alterado
+- src/ranker.py: passa a ranquear professores usando embeddings por chunk e evidências.
+- scripts/rank_professors.py: imprime total de chunks comparados e top professores com até 3 evidências.
+- src/models.py: adiciona evidências ao resultado do ranking.
+- src/encoder.py: adia import do sentence-transformers até a criação do LocalEncoder.
+- README.md: documenta o ranking baseado em chunks.
+
 ## 2026-05-16 - Embeddings por chunks
 
 ### Criado

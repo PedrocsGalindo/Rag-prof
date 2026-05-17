@@ -12,7 +12,7 @@ O projeto é simples por intenção: sem banco de dados, sem frontend, sem Docke
 2. Enriquecer os professores com textos manuais do Lattes.
 3. Construir um perfil textual para ranking.
 4. Gerar chunks dos perfis e embeddings dos chunks.
-5. Ranquear professores por similaridade com a query do aluno.
+5. Ranquear professores por similaridade entre a query do aluno e os chunks.
 
 ## Instalação
 
@@ -73,6 +73,8 @@ Essa etapa cria chunks por professor, como perfil geral, resumo do Lattes, área
 ```bash
 python scripts/rank_professors.py --query "texto do aluno"
 ```
+
+O ranking compara a query com todos os chunks e usa o melhor chunk de cada professor como score final. A saída mostra até 3 evidências por professor.
 
 Exemplo:
 
