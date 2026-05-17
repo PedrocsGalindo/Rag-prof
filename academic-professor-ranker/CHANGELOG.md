@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## 2026-05-17 - Documentação do fluxo atual
+
+### Alterado
+- README.md: melhora a explicação do fluxo atual, uso manual do Lattes, organização dos records, embeddings, ranking e evidências.
+- README.md: documenta a possibilidade futura de reranker sem implementar mudanças no ranking.
+- CHANGELOG.md: registra as mudanças desta tarefa.
+
+### Observação
+- Nenhuma mudança relevante na lógica dos scripts.
+
 ## 2026-05-17 - Vector store local
 
 ### Criado

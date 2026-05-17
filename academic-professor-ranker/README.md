@@ -1,37 +1,38 @@
 # academic-professor-ranker
 
-Projeto Python local para encontrar professores com perfis próximos ao interesse de um aluno.
+Sistema local em Python para recomendar professores de um departamento universitário com base na query ou no currículo de um aluno.
 
-A ideia é extrair professores de uma página pública de corpo docente, enriquecer dados com texto manual do Currículo Lattes, gerar embeddings locais e ranquear professores por similaridade textual.
+O projeto extrai professores de uma página pública do departamento, organiza informações do Lattes em arquivos locais, gera embeddings com um modelo local e retorna professores recomendados com evidências textuais.
 
-O projeto é simples por intenção: sem banco de dados, sem frontend, sem Docker e sem banco vetorial real.
+## Como o Fluxo Funciona
 
-## Pipeline
+1. O sistema extrai professores do site do departamento, como uma página pública do SIGAA.
+2. Os dados básicos dos professores são salvos em JSON.
+3. O sistema cria arquivos `.txt` manuais para cada professor em `data/raw/lattes-professors/`.
+4. O usuário abre o currículo Lattes no navegador, copia o conteúdo e cola no arquivo `.txt`.
+5. O sistema processa esse texto manual do Lattes.
+6. O sistema cria um catálogo de professores, perfis gerais e chunks por categoria.
+7. O sistema gera embeddings locais para perfis gerais e chunks.
+8. O sistema faz ranking semântico usando similaridade textual.
+9. O resultado mostra professores recomendados e evidências encontradas nos chunks.
 
-1. Extrair professores da página do departamento.
-2. Enriquecer os professores com textos manuais do Lattes.
-3. Construir um perfil textual para cada professor.
-4. Gerar uma estrutura local parecida com vector store:
-   - catálogo dos professores;
-   - records gerais dos professores;
-   - records de chunks específicos;
-   - embeddings gerais e embeddings dos chunks.
-5. Ranquear professores com ranking híbrido:
-   - primeiro compara a query com o perfil geral do professor;
-   - depois compara a query com chunks específicos como evidências.
+## Por Que o Lattes é Manual
+
+O Lattes pode ter captcha, verificação anti-bot ou bloqueios de acesso automatizado.
+
+Este projeto não tenta burlar captcha, anti-bot, bloqueio, proxy ou qualquer proteção do site. O fluxo principal é manual: o usuário copia o texto público do currículo no navegador e cola em um arquivo `.txt` local.
 
 ## Instalação
 
+Execute dentro da pasta do projeto:
+
 ```bash
-python -m venv .venv
-.venv\Scripts\activate
-cd academic-professor-ranker
+python -m venv venv
+venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Como Rodar
-
-Execute os comandos a partir da pasta `academic-professor-ranker`.
+## Pipeline
 
 ### 1. Extrair Professores
 
@@ -45,14 +46,35 @@ Exemplo:
 python scripts/ingest_department.py --url "https://sigs.ufrpe.br/sigaa/public/departamento/professores.jsf?id=530"
 ```
 
-### 2. Enriquecer Com Lattes
+Saída principal:
+
+- `data/raw/professors_from_department.json`
+
+### 2. Preparar e Ler Textos Manuais do Lattes
 
 ```bash
 python scripts/enrich_with_lattes.py
 ```
 
-Esse script usa arquivos `.txt` em `data/raw/lattes-professors/`.
-Se o arquivo de um professor ainda não existir, ele será criado vazio.
+Na primeira execução, o script cria arquivos vazios em:
+
+```text
+data/raw/lattes-professors/
+```
+
+Para cada professor pendente:
+
+1. Abra o currículo Lattes no navegador.
+2. Use `Ctrl + A` para selecionar o conteúdo da página.
+3. Use `Ctrl + C` para copiar.
+4. Abra o arquivo `.txt` indicado.
+5. Cole com `Ctrl + V`.
+6. Salve o arquivo.
+7. Rode `python scripts/enrich_with_lattes.py` novamente.
+
+Saída principal:
+
+- `data/processed/professors_enriched.json`
 
 ### 3. Construir Perfis Textuais
 
@@ -60,73 +82,170 @@ Se o arquivo de um professor ainda não existir, ele será criado vazio.
 python scripts/build_profiles.py
 ```
 
-### 4. Gerar Embeddings
+Saída principal:
+
+- `data/processed/professor_profiles.json`
+
+### 4. Gerar Records e Embeddings
 
 ```bash
 python scripts/generate_embeddings.py
 ```
 
-Essa etapa gera o catálogo, os records e os embeddings locais.
+Essa etapa monta uma estrutura local parecida com uma vector store simples, usando apenas JSON e NumPy.
+
+Saídas principais:
+
+- `data/processed/professor_catalog.json`
+- `data/processed/professor_profile_records.json`
+- `data/processed/professor_chunk_records.json`
+- `data/embeddings/professor_profile_embeddings.npy`
+- `data/embeddings/professor_chunk_embeddings.npy`
+- `data/embeddings/professor_profile_embedding_index.json`
+- `data/embeddings/professor_chunk_embedding_index.json`
 
 ### 5. Ranquear Professores
 
-Ranking híbrido, usando o perfil padrão do arquivo `config/ranking_profiles.json`:
-
 ```bash
-python scripts/rank_professors.py --query "texto do aluno"
+python scripts/rank_professors.py --query "Tenho interesse em inteligência artificial aplicada à saúde"
 ```
 
-Usando perfil focado em pesquisa:
-
-```bash
-python scripts/rank_professors.py --query "quero pesquisar aprendizado de máquina e publicar artigos" --ranking-profile research_focused
-```
-
-Usando perfil focado em projetos:
+Também é possível escolher um perfil de ranking:
 
 ```bash
 python scripts/rank_professors.py --query "quero participar de projetos aplicados" --ranking-profile project_focused
 ```
 
-Modo simples por chunks:
-
 ```bash
-python scripts/rank_professors.py --query "texto do aluno" --mode chunks
+python scripts/rank_professors.py --query "quero pesquisar aprendizado de máquina e publicar artigos" --ranking-profile research_focused
 ```
 
-## Arquivos Gerados
+## Organização dos Dados
 
-- `data/raw/professors_from_department.json`: professores extraídos do departamento.
-- `data/raw/lattes-professors/`: textos manuais copiados do Lattes.
-- `data/processed/professors_enriched.json`: professores com dados do Lattes.
-- `data/processed/professor_profiles.json`: professores com texto de perfil.
-- `data/processed/professor_catalog.json`: dados repetidos dos professores, como nome, e-mail, departamento e links.
-- `data/processed/professor_profile_records.json`: um record geral por professor.
-- `data/processed/professor_chunk_records.json`: records específicos por categoria, como formação, áreas, linhas, projetos e publicações.
-- `data/embeddings/professor_profile_embeddings.npy`: embeddings dos records gerais.
-- `data/embeddings/professor_profile_embedding_index.json`: índice dos embeddings gerais.
-- `data/embeddings/professor_chunk_embeddings.npy`: embeddings dos chunks.
-- `data/embeddings/professor_chunk_embedding_index.json`: índice dos embeddings dos chunks.
-- `config/ranking_profiles.json`: pesos do ranking híbrido.
+### Dados Fixos do Professor
 
-## Ranking Híbrido
+Arquivo:
 
-O ranking híbrido usa dois níveis:
+```text
+data/processed/professor_catalog.json
+```
 
-1. `professor_profile_records`: busca inicial por perfil geral do professor.
-2. `professor_chunk_records`: busca por evidências específicas nos professores selecionados.
+Guarda informações que não precisam ser repetidas em todos os chunks:
 
-O arquivo `config/ranking_profiles.json` define pesos para combinar:
+- nome;
+- e-mail;
+- departamento;
+- instituição;
+- link do Lattes;
+- link do perfil no departamento.
 
-- `profile_score`
-- `best_chunk_score`
-- `avg_top_3_chunk_score`
+### Perfil Geral do Professor
 
-Também define pesos por seção, como `current_projects`, `research_lines`, `publications` e `academic_background`.
+Arquivo:
+
+```text
+data/processed/professor_profile_records.json
+```
+
+Cada professor tem um record geral curto e representativo. Ele combina resumo do Lattes, áreas, linhas de pesquisa, projetos e publicações principais.
+
+Esse record é usado na primeira etapa do ranking híbrido.
+
+### Chunks Específicos
+
+Arquivo:
+
+```text
+data/processed/professor_chunk_records.json
+```
+
+Cada chunk representa uma evidência específica, por exemplo:
+
+- `lattes_summary`
+- `academic_background`
+- `research_areas`
+- `research_lines`
+- `current_projects`
+- `publications`
+- `department_text`
+
+Os chunks são usados na segunda etapa do ranking para encontrar evidências mais precisas.
+
+### Embeddings
+
+Arquivos:
+
+```text
+data/embeddings/professor_profile_embeddings.npy
+data/embeddings/professor_chunk_embeddings.npy
+```
+
+Os embeddings são vetores numéricos gerados localmente com `sentence-transformers`.
+
+Hoje o modelo local padrão é:
+
+```text
+paraphrase-multilingual-MiniLM-L12-v2
+```
+
+### Ranking
+
+O ranking padrão é híbrido:
+
+1. Compara a query com os perfis gerais dos professores.
+2. Seleciona os professores mais promissores.
+3. Compara a query com os chunks desses professores.
+4. Combina os scores usando pesos.
+5. Retorna os professores com evidências.
+
+Os pesos ficam em:
+
+```text
+config/ranking_profiles.json
+```
+
+Por enquanto, a forma mais simples de ajustar o ranking é editar esse arquivo.
+
+Perfis disponíveis:
+
+- `research_focused`: dá mais peso para linhas de pesquisa, áreas e publicações.
+- `project_focused`: dá mais peso para projetos atuais e evidências práticas.
+
+### Evidências
+
+As evidências são os chunks que mais se aproximaram da query.
+
+Na saída do ranking, cada professor pode aparecer com evidências como:
+
+- um projeto relevante;
+- uma linha de pesquisa;
+- uma área de atuação;
+- uma publicação;
+- um trecho do resumo do Lattes.
+
+## Reranker Futuro
+
+Hoje o sistema usa embeddings e similaridade semântica.
+
+No futuro, depois que o ranking selecionar os professores mais similares, um reranker poderia analisar os chunks desses professores para melhorar a ordenação final.
+
+Um formato simples para dados de treino ou avaliação poderia ser:
+
+```text
+query | professor_id | chunk_id | label
+```
+
+Exemplo:
+
+```text
+"quero trabalhar com IA aplicada à saúde" | prof_123 | prof_123_current_projects_001 | relevante
+```
+
+Isso não está implementado agora. A ideia está documentada apenas como caminho futuro.
 
 ## Limitações
 
-- A extração depende da estrutura HTML do site do departamento.
-- O enriquecimento do Lattes depende do texto manual copiado pelo usuário.
-- O ranking usa similaridade textual, não uma avaliação real da qualidade do professor.
-- Os resultados devem ser revisados manualmente.
+- A extração depende da estrutura do site do departamento.
+- O Lattes precisa ser preenchido manualmente em arquivos `.txt`.
+- O ranking mede similaridade textual
+- Os resultados devem ser revisados pelo usuário.
