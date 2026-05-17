@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## 2026-05-17 - Vector store local
+
+### Criado
+- config/ranking_profiles.json: adiciona perfis project_focused e research_focused.
+- src/ranking_config.py: carrega a configuração de perfis de ranking.
+- data/processed/professor_catalog.json: arquivo gerado com catálogo de professores.
+- data/processed/professor_profile_records.json: arquivo gerado com records gerais.
+- data/processed/professor_chunk_records.json: arquivo gerado com records de chunks.
+- data/embeddings/professor_profile_embeddings.npy: arquivo gerado com embeddings gerais.
+- data/embeddings/professor_profile_embedding_index.json: arquivo gerado com índice dos embeddings gerais.
+
+### Alterado
+- scripts/generate_embeddings.py: gera catálogo, records gerais, records de chunks e dois conjuntos de embeddings.
+- src/ranker.py: adiciona ranking híbrido configurável com primeira etapa por perfil geral e segunda por chunks.
+- scripts/rank_professors.py: adiciona --mode e --ranking-profile.
+- README.md: documenta catálogo, records, ranking híbrido e perfis de ponderação.
+
 ## 2026-05-16 - Parser Lattes estruturado
 
 ### Alterado

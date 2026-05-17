@@ -1,0 +1,41 @@
+{
+  "default": "research_focused",
+  "profiles": {
+    "project_focused": {
+      "description": "Dá mais peso para projetos atuais e evidências práticas de atuação.",
+      "final_score_weights": {
+        "profile_score": 0.25,
+        "best_chunk_score": 0.55,
+        "avg_top_3_chunk_score": 0.20
+      },
+      "section_weights": {
+        "research_lines": 1.15,
+        "current_projects": 1.45,
+        "lattes_summary": 1.10,
+        "research_areas": 1.00,
+        "publications": 0.85,
+        "academic_background": 0.75,
+        "professor_profile": 1.00,
+        "department_text": 0.30
+      }
+    },
+    "research_focused": {
+      "description": "Dá mais peso para linhas de pesquisa, publicações e áreas de atuação.",
+      "final_score_weights": {
+        "profile_score": 0.30,
+        "best_chunk_score": 0.45,
+        "avg_top_3_chunk_score": 0.25
+      },
+      "section_weights": {
+        "research_lines": 1.40,
+        "current_projects": 1.10,
+        "lattes_summary": 1.15,
+        "research_areas": 1.20,
+        "publications": 1.25,
+        "academic_background": 0.95,
+        "professor_profile": 1.00,
+        "department_text": 0.30
+      }
+    }
+  }
+}

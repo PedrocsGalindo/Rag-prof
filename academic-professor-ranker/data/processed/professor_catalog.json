@@ -1,0 +1,434 @@
+[
+  {
+    "professor_id": "8576d1a5-4918-5bb1-89f3-51119d4e9ba7",
+    "full_name": "ABNER CORREA BARROS",
+    "email": "abner.barros@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/3825998752196688",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1757174",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "ec70b71d-bf76-5b46-9ae9-607a9da1d301",
+    "full_name": "ALBERTO CESAR CAVALCANTI FRANCA",
+    "email": "franssa@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2240427",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "4900d98d-bdfe-5355-bc91-95819f1cf784",
+    "full_name": "ANA PAULA CARVALHO CAVALCANTI FURTADO",
+    "email": "anapaula.cavalcanti@gmail.com",
+    "lattes_url": "http://lattes.cnpq.br/5862330768739698",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2031698",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "d1ffe4a7-f5e8-55e4-ad43-749fa7bb9f7e",
+    "full_name": "ANDRE CAMARA ALVES DO NASCIMENTO",
+    "email": "andrecamara@gmail.com",
+    "lattes_url": "http://lattes.cnpq.br/0622594061462533",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1811190",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "bd0accd4-8d1c-5956-a9aa-0afb58bda8db",
+    "full_name": "ANDREZA LEITE DE ALENCAR",
+    "email": "andreza.leite@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/6060587704569605",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2888499",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "4a572b3d-9bf5-54b5-ae99-02dd6c66be6a",
+    "full_name": "DANILO RICARDO BARBOSA DE ARAUJO",
+    "email": "danilo.araujo@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/2708354422178489",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2032024",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "a4ce6d20-0773-568b-b104-c7f32e774f38",
+    "full_name": "DOUGLAS VERAS E SILVA",
+    "email": "douglas.veras@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/2969243668455081",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2055565",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "7d3a698e-7a98-5593-ab3e-48bdb8195408",
+    "full_name": "ERICA TEIXEIRA GOMES DE SOUSA",
+    "email": "erica.sousa@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/9899077867723655",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1803410",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "d4d78cf7-fbb7-5b1b-af0b-227d129a7269",
+    "full_name": "ERMESON CARNEIRO DE ANDRADE",
+    "email": "ermeson@gmail.com",
+    "lattes_url": "http://lattes.cnpq.br/2466077615273972",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2034333",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "daa26821-dbe1-50bc-af00-4cbcc9dbd736",
+    "full_name": "FERNANDO ANTONIO AIRES LINS",
+    "email": "faires@gmail.com",
+    "lattes_url": "http://lattes.cnpq.br/2475965771605110",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=3481579",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "0b3590cb-d2f9-5e46-8e10-f63a6a3795d2",
+    "full_name": "FILIPE ROLIM CORDEIRO",
+    "email": "filipe.rolim@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/4807739914511076",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2889356",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "71645921-96bf-51ec-8c92-9045d49d57d6",
+    "full_name": "FRANCIELLE SILVA DOS SANTOS",
+    "email": "franciellesantos@gmail.com",
+    "lattes_url": "http://lattes.cnpq.br/9280415538128787",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1777715",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "a86c6a97-845d-569a-ac91-caeaa69882ee",
+    "full_name": "GEORGE AUGUSTO VALENCA SANTOS",
+    "email": "george.valenca@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/8525564952779211",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1818097",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "eb8f76ab-11b2-5f0a-859b-c046daadbd4a",
+    "full_name": "GEORGE GOMES CABRAL",
+    "email": "george.gcabral@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2724100",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "14198c74-5e5b-59c2-9a3c-19863dbc0200",
+    "full_name": "GLAUCE DA SILVA GUERRA",
+    "email": "",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1951724",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "e6b4cde3-3bf5-5fbf-921b-f3bdf502e28b",
+    "full_name": "GUSTAVO RAU DE ALMEIDA CALLOU",
+    "email": "",
+    "lattes_url": "http://lattes.cnpq.br/3146558967986940",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2521757",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "6588caba-ac81-5220-9bcd-37c8543b4aa2",
+    "full_name": "JEANE CECILIA BEZERRA DE MELO",
+    "email": "JEANE.UFRPE@GMAIL.COM",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1226153",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "9ebb0936-03bb-5905-86fa-ee0f210e92fa",
+    "full_name": "JEISA PEREIRA DE OLIVEIRA DOMINGUES",
+    "email": "jeisa.domingues@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1842214",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "86ee0c2a-32a6-5963-ade9-0f68d476f45d",
+    "full_name": "JENEFFER CRISTINE FERREIRA",
+    "email": "jeneffer.ferreira@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2583428",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "a5f10cfe-87eb-5859-b06d-206b0e049a82",
+    "full_name": "JOAO PAULO SILVA DO MONTE LIMA",
+    "email": "joao.mlima@gmail.com",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1818167",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "c132e3df-0616-5552-9395-473ff0c26575",
+    "full_name": "KELLYTON DOS SANTOS BRITO",
+    "email": "",
+    "lattes_url": "http://lattes.cnpq.br/8750956715158540",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1753179",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "f7eb1c7e-1bc7-5f93-aa9a-ca8577fad222",
+    "full_name": "LEANDRO MARQUES DO NASCIMENTO",
+    "email": "",
+    "lattes_url": "http://lattes.cnpq.br/9163931285515006",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1818172",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "ba687f3d-6895-5593-9192-c03ec0f3f8c1",
+    "full_name": "LUCAS ALBERTINS DE LIMA",
+    "email": "lucas.albertins@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1660376",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "7b97bbfe-6641-56fd-b844-092faf3f8244",
+    "full_name": "LUCAS SILVA FIGUEIREDO",
+    "email": "lucas.sfigueiredo@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=3250295",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "b39614de-f8e7-55bd-86f5-8d268c71d74a",
+    "full_name": "LUCIANO DEMETRIO SANTOS PACIFICO",
+    "email": "luciano.pacifico@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2080257",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "c0341e79-73fa-5f8a-a2c6-978c53868e9e",
+    "full_name": "MAIGAN STEFANNE DA SILVA ALCANTARA",
+    "email": "maigan.salcantara@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/3004794564893495",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2372792",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "ec60c040-fd8e-53bb-b7a3-b854152ff463",
+    "full_name": "MARCELO LUIZ MONTEIRO MARINHO",
+    "email": "marcelo.marinho@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/3362360567612060",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2944028",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "840b92f1-a446-56aa-bf5f-39fcef693a48",
+    "full_name": "MARCOS JOSE DE MENEZES CARDOSO JUNIOR",
+    "email": "marcos.cardoso@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1812585",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "6fe8f18d-5b0e-5418-afd0-cad850329c6f",
+    "full_name": "MILLENA DE ANDRADE ALMEIDA GOMES CAVALCANTI",
+    "email": "millena.cavalcanti@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1876739",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "f31fe557-3be0-585e-87de-5de885dfbb68",
+    "full_name": "PABLO AZEVEDO SAMPAIO",
+    "email": "pablo.sampaio@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2734783",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "c2441a9b-ed71-5b20-825d-81269608d7a7",
+    "full_name": "PAULO ANSELMO DA MOTA SILVEIRA NETO",
+    "email": "paulo.motant@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1953859",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "d37a11e8-9dfd-5897-85fa-81260e72522a",
+    "full_name": "PERICLES BARBOSA CUNHA DE MIRANDA",
+    "email": "pericles.miranda@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1039192",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "aca680e1-4005-51bc-be95-13ebdf29cf76",
+    "full_name": "RAFAEL DUEIRE LINS",
+    "email": "rdl@cin.ufpe.br",
+    "lattes_url": "http://lattes.cnpq.br/7601016626256808",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1133636",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "7167b032-def2-51f0-83fd-16ec92dd2518",
+    "full_name": "RAFAEL FERREIRA LEITE DE MELLO",
+    "email": "rafaelflmello@gmail.com",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2034579",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "6ff9c807-e81c-5e01-8bb4-747a4e6c00f1",
+    "full_name": "RAFAEL PERAZZO BARBOSA MOTA",
+    "email": "rafael.perazzo@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/3078288668202994",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1570709",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "af44fda6-e08f-5591-ad48-283f1b165d43",
+    "full_name": "RICARDO ANDRE CAVALCANTE DE SOUZA",
+    "email": "ricardo.cavalcante@gmail.com",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1701748",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "f885f1cc-1d3f-5ece-b28e-682b09d745b7",
+    "full_name": "RINALDO JOSE DE LIMA",
+    "email": "rjlima01@gmail.com",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2240442",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "cff17987-6ac4-54f0-ad3a-695acb36628f",
+    "full_name": "ROBSON WAGNER ALBUQUERQUE DE MEDEIROS",
+    "email": "robson.medeiros@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/3169193612606500",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1871315",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "aaaa94b9-f350-5eb0-80cf-1d19a2942503",
+    "full_name": "RODRIGO NONAMOR PEREIRA MARIANO DE SOUZA",
+    "email": "rodrigo.npmsouza@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2698977",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "44e803a9-4afa-5f41-a91a-f014fb6465a7",
+    "full_name": "RUAN VASCONCELOS BEZERRA CARVALHO",
+    "email": "ruan.carvalho@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/4294919792163013",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2081191",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "47164e05-6886-5907-90ba-1409f513f74a",
+    "full_name": "SIDNEY DE CARVALHO NOGUEIRA",
+    "email": "sidney.nogueira@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/9171224058305522",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1823826",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "2a64226b-131a-5e86-913e-8753cd8d256d",
+    "full_name": "SUZANA CANDIDO DE BARROS SAMPAIO",
+    "email": "suzana.sampaio@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2035067",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "878b5ad1-f496-58fa-8a74-477c41dd4cc2",
+    "full_name": "TACIANA PONTUAL DA ROCHA FALCAO",
+    "email": "taciana.pontual@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2031858",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "da525cbe-c18b-5a82-9589-d20caf7796b2",
+    "full_name": "VALMIR MACARIO FILHO",
+    "email": "valmir.macario@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=2032423",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "746775fa-9c16-5520-8c87-ee6b7875ef3e",
+    "full_name": "VANILSON ANDRE DE ARRUDA BUREGIO",
+    "email": "vanilson.buregio@ufrpe.br",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1818177",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "4e7e1194-a942-501b-87f2-25ff226dbfed",
+    "full_name": "VITOR DE ANDRADE COUTINHO",
+    "email": "VITOR.ANDRADE.COUTINHO@GMAIL.COM",
+    "lattes_url": "http://lattes.cnpq.br/4043274857891989",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=3294586",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "e48dc5ef-ffde-572b-ad3b-e10ef0e9337c",
+    "full_name": "OBIONOR DE OLIVEIRA NOBREGA",
+    "email": "obionor.nobrega@ufrpe.br",
+    "lattes_url": "http://lattes.cnpq.br/8576087238071129",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1740370",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  },
+  {
+    "professor_id": "203d168e-b752-5d0a-ae5a-c4880727bbe0",
+    "full_name": "SHEYLA NATALIA DE MEDEIROS",
+    "email": "sheylanata@gmail.com",
+    "lattes_url": "",
+    "department_profile_url": "https://sigs.ufrpe.br/sigaa/public/docente/portal.jsf?siape=1418816",
+    "department_name": "DEPARTAMENTO DE COMPUTAÇÃO-DC",
+    "institution_name": "UNIVERSIDADE FEDERAL RURAL DE PERNAMBUCO"
+  }
+]
