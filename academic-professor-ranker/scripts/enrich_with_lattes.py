@@ -53,6 +53,11 @@ def main() -> None:
     print(f"- Total de publicações extraídas: {total_publications}")
     print(f"- JSON salvo em: {args.output}")
 
+    if (len(pending)) > 1:
+        print("\nProfessores pendentes:")
+        for p in pending:
+            print(" - " + p.full_name)
+
     print()
     print("Como preencher os arquivos pendentes:")
     print("1. Se o professor tiver link direto do Lattes, abra o link.")
